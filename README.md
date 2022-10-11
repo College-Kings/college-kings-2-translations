@@ -1,4 +1,4 @@
-# College Kings Translation Files
+# College Kings 2 Translation Files
 
 ## Tutorials
 
