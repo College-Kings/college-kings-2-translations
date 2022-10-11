@@ -1,550 +1,550 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v3/scene1.rpy:446
+# game/v3/scene1.rpy:485
 translate francais v3s1_lose_0b36731b:
 
     # ri "Oh, my God, [name]! Are you okay?"
-    ri ""
+    ri "Oh, my God, [name]! Are you okay?"
 
-# game/v3/scene1.rpy:451
+# game/v3/scene1.rpy:490
 translate francais v3s1_lose_f1513bef:
 
     # u "*Grunts* I've felt better."
-    u ""
+    u "*Grunts* I've felt better."
 
-# game/v3/scene1.rpy:463
+# game/v3/scene1.rpy:502
 translate francais v3s1_lose_c7f1b28c:
 
     # ri "Seriously, [name], are you okay?"
-    ri ""
+    ri "Seriously, [name], are you okay?"
 
-# game/v3/scene1.rpy:470
+# game/v3/scene1.rpy:511
 translate francais v3s1_lose_e044d8f9:
 
     # u "Yeah, I'm fine."
-    u ""
+    u "Yeah, I'm fine."
 
-# game/v3/scene1.rpy:472
+# game/v3/scene1.rpy:513
 translate francais v3s1_lose_9d7f2dca:
 
     # u "He just got a few lucky hits, that's all."
-    u ""
+    u "He just got a few lucky hits, that's all."
 
-# game/v3/scene1.rpy:477
+# game/v3/scene1.rpy:518
 translate francais v3s1_lose_979ff76c:
 
     # ri "Right..."
-    ri ""
+    ri "Right..."
 
-# game/v3/scene1.rpy:483
+# game/v3/scene1.rpy:526
 translate francais v3s1_lose_85f2ef48:
 
     # u "Honestly, no. It hurts like hell."
-    u ""
+    u "Honestly, no. It hurts like hell."
 
-# game/v3/scene1.rpy:488
+# game/v3/scene1.rpy:531
 translate francais v3s1_lose_0612fd2d:
 
     # ri "I can't even imagine. *Sighs*"
-    ri ""
+    ri "I can't even imagine. *Sighs*"
 
-# game/v3/scene1.rpy:493
+# game/v3/scene1.rpy:536
 translate francais v3s1_lose_f3cd7199:
 
     # u "I don't think I've ever been hit that hard before."
-    u ""
+    u "I don't think I've ever been hit that hard before."
 
-# game/v3/scene1.rpy:498
+# game/v3/scene1.rpy:541
 translate francais v3s1_lose_ef5ba2bf:
 
     # ri "Where does it hurt most?"
-    ri ""
+    ri "Where does it hurt most?"
 
-# game/v3/scene1.rpy:503
+# game/v3/scene1.rpy:546
 translate francais v3s1_lose_8ccc27c2:
 
     # u "Is everywhere an option?"
-    u ""
+    u "Is everywhere an option?"
 
-# game/v3/scene1.rpy:508
+# game/v3/scene1.rpy:551
 translate francais v3s1_lose_cd8a736e:
 
     # ri "Tom is crazy! He just came out of nowhere and started demanding things about Charli and-"
-    ri ""
+    ri "Tom is crazy! He just came out of nowhere and started demanding things about Charli and-"
 
-# game/v3/scene1.rpy:513
+# game/v3/scene1.rpy:556
 translate francais v3s1_lose_8041bf95:
 
     # u "I know, I heard."
-    u ""
+    u "I know, I heard."
 
-# game/v3/scene1.rpy:518
+# game/v3/scene1.rpy:561
 translate francais v3s1_lose_5fa66e18:
 
     # ri "*Sighs* Okay, let's just head out before he decides to come back."
-    ri ""
+    ri "*Sighs* Okay, let's just head out before he decides to come back."
 
-# game/v3/scene1.rpy:523
+# game/v3/scene1.rpy:566
 translate francais v3s1_lose_c0810884:
 
     # ri "You can walk, right?"
-    ri ""
+    ri "You can walk, right?"
 
-# game/v3/scene1.rpy:528
+# game/v3/scene1.rpy:571
 translate francais v3s1_lose_7da27121:
 
     # u "Yeah. *Grunts* I'm just tired as fuck, and everything hurts. I'm so ready to go home."
-    u ""
+    u "Yeah. *Grunts* I'm just tired as fuck, and everything hurts. I'm so ready to go home."
 
-# game/v3/scene1.rpy:533
+# game/v3/scene1.rpy:576
 translate francais v3s1_lose_ce336452:
 
     # ri "I'm sure you are, but you're not going home."
-    ri ""
+    ri "I'm sure you are, but you're not going home."
 
-# game/v3/scene1.rpy:538
+# game/v3/scene1.rpy:581
 translate francais v3s1_lose_51011304:
 
     # u "Wha-"
-    u ""
+    u "Wha-"
 
-# game/v3/scene1.rpy:543
+# game/v3/scene1.rpy:586
 translate francais v3s1_lose_dbcc7f13:
 
     # ri "You're coming home with me. I need to keep an eye on you."
-    ri ""
+    ri "You're coming home with me. I need to keep an eye on you."
 
-# game/v3/scene1.rpy:548
+# game/v3/scene1.rpy:591
 translate francais v3s1_lose_e52cd607:
 
     # u "I'm just going to sleep. You're not planning on watching me sleep, are you?"
-    u ""
+    u "I'm just going to sleep. You're not planning on watching me sleep, are you?"
 
-# game/v3/scene1.rpy:553
+# game/v3/scene1.rpy:596
 translate francais v3s1_lose_fa305021:
 
     # ri "I need to look for signs of a concussion, make sure you wake up in the morning, things like that."
-    ri ""
+    ri "I need to look for signs of a concussion, make sure you wake up in the morning, things like that."
 
-# game/v3/scene1.rpy:558
+# game/v3/scene1.rpy:601
 translate francais v3s1_lose_be2cab58:
 
     # u "Ugh, Riley..."
-    u ""
+    u "Ugh, Riley..."
 
-# game/v3/scene1.rpy:563
+# game/v3/scene1.rpy:606
 translate francais v3s1_lose_3581b918:
 
     # ri "[name]... Who knows what injuries you have?!"
-    ri ""
+    ri "[name]... Who knows what injuries you have?!"
 
-# game/v3/scene1.rpy:569
+# game/v3/scene1.rpy:612
 translate francais v3s1_lose_2afb40cb:
 
     # ri "Especially since this isn't the first time you've been knocked on that big head of yours."
-    ri ""
+    ri "Especially since this isn't the first time you've been knocked on that big head of yours."
 
-# game/v3/scene1.rpy:574
+# game/v3/scene1.rpy:617
 translate francais v3s1_lose_f74f342f:
 
     # u "Hey, my head is not that big!"
-    u ""
+    u "Hey, my head is not that big!"
 
-# game/v3/scene1.rpy:579
+# game/v3/scene1.rpy:622
 translate francais v3s1_lose_ec46e145:
 
     # ri "*Giggles* Whatever. You know what I mean."
-    ri ""
+    ri "*Giggles* Whatever. You know what I mean."
 
-# game/v3/scene1.rpy:584
+# game/v3/scene1.rpy:627
 translate francais v3s1_lose_43399c6f:
 
     # ri "It could be nothing, it could be something. Just let me take care of you."
-    ri ""
+    ri "It could be nothing, it could be something. Just let me take care of you."
 
-# game/v3/scene1.rpy:589
+# game/v3/scene1.rpy:632
 translate francais v3s1_lose_9448d8c3:
 
     # u "(Hmm... I wouldn't mind a tiny bit of attention. But then again, I'm not sure I'm in the mood for anything besides my pillow and a blanket.)"
-    u ""
+    u "(Hmm... I wouldn't mind a tiny bit of attention. But then again, I'm not sure I'm in the mood for anything besides my pillow and a blanket.)"
 
-# game/v3/scene1.rpy:594
+# game/v3/scene1.rpy:637
 translate francais v3s1_lose_c5da343c:
 
     # ri "Please?"
-    ri ""
+    ri "Please?"
 
-# game/v3/scene1.rpy:601
+# game/v3/scene1.rpy:645
 translate francais v3s1_lose_a72135ca:
 
     # u "Honestly, I just want to go home and crash in my own bed. I'm exhausted."
-    u ""
+    u "Honestly, I just want to go home and crash in my own bed. I'm exhausted."
 
-# game/v3/scene1.rpy:606
+# game/v3/scene1.rpy:650
 translate francais v3s1_lose_bc851948:
 
     # ri "*Sigh* Are you sure? I can make you a cup of tea and find a nice frozen pack of peas."
-    ri ""
+    ri "*Sigh* Are you sure? I can make you a cup of tea and find a nice frozen pack of peas."
 
-# game/v3/scene1.rpy:611
+# game/v3/scene1.rpy:655
 translate francais v3s1_lose_e2e0223a:
 
     # u "Haha, thanks for the offer, but no. Sorry."
-    u ""
+    u "Haha, thanks for the offer, but no. Sorry."
 
-# game/v3/scene1.rpy:616
+# game/v3/scene1.rpy:660
 translate francais v3s1_lose_498aface:
 
     # ri "It's fiiiine..."
-    ri ""
+    ri "It's fiiiine..."
 
-# game/v3/scene1.rpy:621
+# game/v3/scene1.rpy:665
 translate francais v3s1_lose_0697d369:
 
     # ri "Well, make sure you get lots of rest, and send me an update when you're feeling better, okay?"
-    ri ""
+    ri "Well, make sure you get lots of rest, and send me an update when you're feeling better, okay?"
 
-# game/v3/scene1.rpy:626
+# game/v3/scene1.rpy:670
 translate francais v3s1_lose_6b707209:
 
     # u "Okay, I will. Thank-"
-    u ""
+    u "Okay, I will. Thank-"
 
-# game/v3/scene1.rpy:631
+# game/v3/scene1.rpy:675
 translate francais v3s1_lose_499a4e13:
 
     # ri "Stop thanking people when you're the hero."
-    ri ""
+    ri "Stop thanking people when you're the hero."
 
-# game/v3/scene1.rpy:637
+# game/v3/scene1.rpy:681
 translate francais v3s1_lose_feeda707:
 
     # u "Ow!"
-    u ""
+    u "Ow!"
 
-# game/v3/scene1.rpy:642
+# game/v3/scene1.rpy:686
 translate francais v3s1_lose_935db854:
 
     # ri "Oh! Sorry, I-"
-    ri ""
+    ri "Oh! Sorry, I-"
 
-# game/v3/scene1.rpy:647
+# game/v3/scene1.rpy:691
 translate francais v3s1_lose_967fea7e:
 
     # u "*Chuckles* Kidding."
-    u ""
+    u "*Chuckles* Kidding."
 
-# game/v3/scene1.rpy:652
+# game/v3/scene1.rpy:696
 translate francais v3s1_lose_9166cec6:
 
     # ri "Ugh! Get out of here before I punch you a few times myself."
-    ri ""
+    ri "Ugh! Get out of here before I punch you a few times myself."
 
-# game/v3/scene1.rpy:657
+# game/v3/scene1.rpy:701
 translate francais v3s1_lose_bb98754d:
 
     # u "Hah, okay. See you later."
-    u ""
+    u "Hah, okay. See you later."
 
-# game/v3/scene1.rpy:663
+# game/v3/scene1.rpy:707
 translate francais v3s1_lose_bb843223:
 
     # u "Hah, okay. I'll try. See you later."
-    u ""
+    u "Hah, okay. I'll try. See you later."
 
-# game/v3/scene1.rpy:668
+# game/v3/scene1.rpy:712
 translate francais v3s1_lose_31e59b19:
 
     # ri "I hope!"
-    ri ""
+    ri "I hope!"
 
-# game/v3/scene1.rpy:678
+# game/v3/scene1.rpy:723
 translate francais v3s1_lose_7b1c1392:
 
     # u "..."
-    u ""
+    u "..."
 
-# game/v3/scene1.rpy:683
+# game/v3/scene1.rpy:728
 translate francais v3s1_lose_ac03f3e5:
 
     # u "Can I have ice cream?"
-    u ""
+    u "Can I have ice cream?"
 
-# game/v3/scene1.rpy:688
-translate francais v3s1_lose_ec8ae616:
+# game/v3/scene1.rpy:733
+translate francais v3s1_lose_403e810f:
 
-    # ri "Haha... Yeah, you can have ice cream."
-    ri ""
+    # ri "Ha... Yeah, you can have ice cream."
+    ri "Ha... Yeah, you can have ice cream."
 
-# game/v3/scene1.rpy:693
+# game/v3/scene1.rpy:738
 translate francais v3s1_lose_940a4a04:
 
     # u "And you're going to bandage me up, right?"
-    u ""
+    u "And you're going to bandage me up, right?"
 
-# game/v3/scene1.rpy:698
+# game/v3/scene1.rpy:743
 translate francais v3s1_lose_52cabd07:
 
     # ri "Mmhmm. Maybe I can even find you a pink band-aid. Would you like that, princess?"
-    ri ""
+    ri "Mmhmm. Maybe I can even find you a pink band-aid. Would you like that, princess?"
 
-# game/v3/scene1.rpy:703
+# game/v3/scene1.rpy:748
 translate francais v3s1_lose_e1451d83:
 
     # u "Well-"
-    u ""
+    u "Well-"
 
-# game/v3/scene1.rpy:708
-translate francais v3s1_lose_21e820ac:
+# game/v3/scene1.rpy:753
+translate francais v3s1_lose_8dc33d6f:
 
-    # ri "*Laughs* Okay, come on. Let's get out of here."
-    ri ""
+    # ri "Okay, come on. Let's get out of here."
+    ri "Okay, come on. Let's get out of here."
 
-# game/v3/scene1.rpy:713
+# game/v3/scene1.rpy:758
 translate francais v3s1_lose_7758c069:
 
     # u "But the pink band-aid..."
-    u ""
+    u "But the pink band-aid..."
 
-# game/v3/scene1.rpy:718
-translate francais v3s1_lose_9cb1a8b3:
+# game/v3/scene1.rpy:763
+translate francais v3s1_lose_b7c95fe3:
 
-    # ri "Shh... There, there..."
-    ri ""
+    # ri "Shh... there, there..."
+    ri "Shh... there, there..."
 
-# game/v3/scene1.rpy:737
+# game/v3/scene1.rpy:782
 translate francais v3s1_win_22b6f6e9:
 
     # ri "[name], holy shit! You kicked his ass!"
-    ri ""
+    ri "[name], holy shit! You kicked his ass!"
 
-# game/v3/scene1.rpy:742
+# game/v3/scene1.rpy:787
 translate francais v3s1_win_a3d7d695:
 
     # u "You sound surprised."
-    u ""
+    u "You sound surprised."
 
-# game/v3/scene1.rpy:749
+# game/v3/scene1.rpy:794
 translate francais v3s1_win_86e27e4f:
 
     # ri "No, no, it's not that... It's just-"
-    ri ""
+    ri "No, no, it's not that... It's just-"
 
-# game/v3/scene1.rpy:754
+# game/v3/scene1.rpy:799
 translate francais v3s1_win_7aeee03b:
 
     # ri "I was worried about you, for a second. Obviously, I don't need to be, though."
-    ri ""
+    ri "I was worried about you, for a second. Obviously, I don't need to be, though."
 
-# game/v3/scene1.rpy:759
+# game/v3/scene1.rpy:804
 translate francais v3s1_win_e1b7324b:
 
     # u "I'm just glad you aren't hurt. You aren't, right?"
-    u ""
+    u "I'm just glad you aren't hurt. You aren't, right?"
 
-# game/v3/scene1.rpy:764
+# game/v3/scene1.rpy:809
 translate francais v3s1_win_3c812a19:
 
     # ri "Yeah, no, I'm fine. Thanks for dealing with that... psycho."
-    ri ""
+    ri "Yeah, no, I'm fine. Thanks for dealing with that... psycho."
 
-# game/v3/scene1.rpy:769
+# game/v3/scene1.rpy:814
 translate francais v3s1_win_31b174f9:
 
     # u "Of course, are you kidding?"
-    u ""
+    u "Of course, are you kidding?"
 
-# game/v3/scene1.rpy:774
+# game/v3/scene1.rpy:819
 translate francais v3s1_win_3b01a219:
 
     # ri "I don't know what would've happened to me if you hadn't shown up like that."
-    ri ""
+    ri "I don't know what would've happened to me if you hadn't shown up like that."
 
-# game/v3/scene1.rpy:784
+# game/v3/scene1.rpy:831
 translate francais v3s1_win_e96966a3:
 
     # u "Yeah, we got lucky. I was just in the right place at the right time."
-    u ""
+    u "Yeah, we got lucky. I was just in the right place at the right time."
 
-# game/v3/scene1.rpy:789
+# game/v3/scene1.rpy:836
 translate francais v3s1_win_6ca5d0ca:
 
     # ri "I know..."
-    ri ""
+    ri "I know..."
 
-# game/v3/scene1.rpy:794
+# game/v3/scene1.rpy:841
 translate francais v3s1_win_c63f6c42:
 
     # u "I heard the shouting, and I wasn't about to let that asshole lay a finger on you."
-    u ""
+    u "I heard the shouting, and I wasn't about to let that asshole lay a finger on you."
 
-# game/v3/scene1.rpy:797
+# game/v3/scene1.rpy:845
 translate francais v3s1_win_7dd02875:
 
     # u "You can always count on me, Riley."
-    u ""
+    u "You can always count on me, Riley."
 
-# game/v3/scene1.rpy:802
+# game/v3/scene1.rpy:850
 translate francais v3s1_win_8fbe47d3:
 
     # ri "Thanks."
-    ri ""
+    ri "Thanks."
 
-# game/v3/scene1.rpy:807
+# game/v3/scene1.rpy:855
 translate francais v3s1_win_25064fb6:
 
     # u "He won't bother you again, but if he tries, you let me know, yeah?"
-    u ""
+    u "He won't bother you again, but if he tries, you let me know, yeah?"
 
-# game/v3/scene1.rpy:812
+# game/v3/scene1.rpy:860
 translate francais v3s1_win_8e1db608:
 
     # ri "Of course."
-    ri ""
+    ri "Of course."
 
-# game/v3/scene1.rpy:817
+# game/v3/scene1.rpy:865
 translate francais v3s1_win_a4c83b99:
 
     # ri "I'm still shaking."
-    ri ""
+    ri "I'm still shaking."
 
-# game/v3/scene1.rpy:822
+# game/v3/scene1.rpy:870
 translate francais v3s1_win_a45d7576:
 
     # u "You're safe now, he's gone."
-    u ""
+    u "You're safe now, he's gone."
 
-# game/v3/scene1.rpy:827
+# game/v3/scene1.rpy:875
 translate francais v3s1_win_55c6ff61:
 
     # ri "Yeah, I know. It's just that I've never been threatened like that before, you know?"
-    ri ""
+    ri "Yeah, I know. It's just that I've never been threatened like that before, you know?"
 
-# game/v3/scene1.rpy:829
+# game/v3/scene1.rpy:877
 translate francais v3s1_win_9505f2c4:
 
     # ri "I just don't feel safe going home alone right now."
-    ri ""
+    ri "I just don't feel safe going home alone right now."
 
-# game/v3/scene1.rpy:834
+# game/v3/scene1.rpy:882
 translate francais v3s1_win_6382f624:
 
     # u "(Hmm, should I offer to stay with Riley, or just enjoy a peaceful night at home?)"
-    u ""
+    u "(Hmm, should I offer to stay with Riley, or just enjoy a peaceful night at home?)"
 
-# game/v3/scene1.rpy:838
+# game/v3/scene1.rpy:888
 translate francais v3s1_win_9c1d8b21:
 
     # u "You'll be okay, I promise. Just order a cab."
-    u ""
+    u "You'll be okay, I promise. Just order a cab."
 
-# game/v3/scene1.rpy:843
+# game/v3/scene1.rpy:893
 translate francais v3s1_win_67cb92d9:
 
     # ri "I guess so... You wouldn't wanna come over, would you?"
-    ri ""
+    ri "I guess so... You wouldn't wanna come over, would you?"
 
-# game/v3/scene1.rpy:848
+# game/v3/scene1.rpy:898
 translate francais v3s1_win_0f19362a:
 
     # u "Not tonight, Riley. I'm sorry. Especially after all of that, this day has been the longest of my life, haha."
-    u ""
+    u "Not tonight, Riley. I'm sorry. Especially after all of that, this day has been the longest of my life, haha."
 
-# game/v3/scene1.rpy:853
+# game/v3/scene1.rpy:903
 translate francais v3s1_win_b455f472:
 
     # ri "Yeah, I bet you're exhausted. I get it."
-    ri ""
+    ri "Yeah, I bet you're exhausted. I get it."
 
-# game/v3/scene1.rpy:858
+# game/v3/scene1.rpy:908
 translate francais v3s1_win_aad06903:
 
     # u "Yeah, I'm just going to crash, I think."
-    u ""
+    u "Yeah, I'm just going to crash, I think."
 
-# game/v3/scene1.rpy:863
-translate francais v3s1_win_26140926:
+# game/v3/scene1.rpy:913
+translate francais v3s1_win_bc3000eb:
 
-    # ri "Okay, well... Thanks again."
-    ri ""
+    # ri "Okay, well... thanks again."
+    ri "Okay, well... thanks again."
 
-# game/v3/scene1.rpy:874
+# game/v3/scene1.rpy:924
 translate francais v3s1_win_1b28a406:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
-# game/v3/scene1.rpy:880
+# game/v3/scene1.rpy:930
 translate francais v3s1_win_9b0d9d3a:
 
     # u "Anytime, Riley. Goodnight."
-    u ""
+    u "Anytime, Riley. Goodnight."
 
-# game/v3/scene1.rpy:885
+# game/v3/scene1.rpy:935
 translate francais v3s1_win_b84501eb:
 
     # ri "Night."
-    ri ""
+    ri "Night."
 
-# game/v3/scene1.rpy:898
+# game/v3/scene1.rpy:949
 translate francais v3s1_win_b988ee43:
 
     # u "How about I come with you?"
-    u ""
+    u "How about I come with you?"
 
-# game/v3/scene1.rpy:903
+# game/v3/scene1.rpy:954
 translate francais v3s1_win_35160c80:
 
     # ri "Really?!"
-    ri ""
+    ri "Really?!"
 
-# game/v3/scene1.rpy:908
+# game/v3/scene1.rpy:959
 translate francais v3s1_win_7f2a7632:
 
     # u "Of course. I can't let you walk home alone in the dark, especially if you're not feeling safe."
-    u ""
+    u "Of course. I can't let you walk home alone in the dark, especially if you're not feeling safe."
 
-# game/v3/scene1.rpy:913
+# game/v3/scene1.rpy:964
 translate francais v3s1_win_6f3c8c89:
 
     # ri "Thanks, [name]. You don't know how much this means to me. I'll make it up to you, I swear!"
-    ri ""
+    ri "Thanks, [name]. You don't know how much this means to me. I'll make it up to you, I swear!"
 
-# game/v3/scene1.rpy:918
+# game/v3/scene1.rpy:969
 translate francais v3s1_win_5bbe4e42:
 
     # u "Don't worry, I'm sure we'll have fun."
-    u ""
+    u "Don't worry, I'm sure we'll have fun."
 
-# game/v3/scene1.rpy:923
-translate francais v3s1_win_4c98ac93:
+# game/v3/scene1.rpy:974
+translate francais v3s1_win_59586a53:
 
-    # ri "Oh, we will... *Chuckles*"
-    ri ""
+    # ri "Oh, we will."
+    ri "Oh, we will."
 
 translate francais strings:
 
-    # game/v3/scene1.rpy:468
+    # game/v3/scene1.rpy:507
     old "I'm fine"
-    new ""
+    new "I'm fine"
 
-    # game/v3/scene1.rpy:468
+    # game/v3/scene1.rpy:507
     old "It hurts like hell"
-    new ""
+    new "It hurts like hell"
 
-    # game/v3/scene1.rpy:599
+    # game/v3/scene1.rpy:642
     old "Go home alone"
-    new ""
+    new "Go home alone"
 
-    # game/v3/scene1.rpy:599
+    # game/v3/scene1.rpy:642
     old "Go home with Riley"
-    new ""
+    new "Go home with Riley"
 
-    # game/v3/scene1.rpy:779
+    # game/v3/scene1.rpy:824
     old "We got lucky"
-    new ""
+    new "We got lucky"
 
-    # game/v3/scene1.rpy:779
+    # game/v3/scene1.rpy:824
     old "Always count on me"
-    new ""
+    new "Always count on me"
 

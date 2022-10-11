@@ -1,1584 +1,1580 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene24.rpy:17
-translate francais v2s24_50ef5bd5:
+translate francais v2s24_50ef5bd5_1:
 
     # u "(Where's Lindsey? She said she would be here.)"
-    u ""
+    u "(Where's Lindsey? She said she would be here.)"
 
 # game/v2/scene24.rpy:19
-translate francais v2s24_365ec152:
+translate francais v2s24_365ec152_1:
 
     # li "Pssst! *Whispers* Hey, [name]."
-    li ""
+    li "Pssst! *Whispers* Hey, [name]."
 
 # game/v2/scene24.rpy:34
-translate francais v2s24_91597fd0:
+translate francais v2s24_91597fd0_1:
 
     # u "Lindsey, what are you doing back there?"
-    u ""
+    u "Lindsey, what are you doing back there?"
 
 # game/v2/scene24.rpy:39
-translate francais v2s24_191a9887:
+translate francais v2s24_191a9887_1:
 
     # li "I'm hiding! We're underage, remember?"
-    li ""
+    li "I'm hiding! We're underage, remember?"
 
 # game/v2/scene24.rpy:41
-translate francais v2s24_b7e49d46:
+translate francais v2s24_b7e49d46_1:
 
     # li "You can't be seen with me before you go in."
-    li ""
+    li "You can't be seen with me before you go in."
 
 # game/v2/scene24.rpy:46
-translate francais v2s24_1ed698bc:
+translate francais v2s24_e58374aa_1:
 
-    # u "Right... *Chuckles* So what's the plan?"
-    u ""
+    # u "Right. So... what's the plan?"
+    u "Right. So... what's the plan?"
 
 # game/v2/scene24.rpy:51
-translate francais v2s24_67dcbceb:
+translate francais v2s24_67dcbceb_1:
 
     # li "Fake IDs."
-    li ""
+    li "Fake IDs."
 
 # game/v2/scene24.rpy:67
-translate francais v2s24_43fd889c:
+translate francais v2s24_89f6ba09_1:
 
-    # u "Nice! My last one from Josh expired like a day after I got it, haha."
-    u ""
+    # u "Nice! My last one from Josh expired like a day after I got it."
+    u "Nice! My last one from Josh expired like a day after I got it."
 
 # game/v2/scene24.rpy:69
-translate francais v2s24_29a4de42:
+translate francais v2s24_c4bacd23_1:
 
-    # u "(Speaking of Josh... Where the hell is he?)"
-    u ""
+    # u "(Speaking of Josh, where the hell is he?)"
+    u "(Speaking of Josh, where the hell is he?)"
 
 # game/v2/scene24.rpy:74
-translate francais v2s24_bc0e63ff:
+translate francais v2s24_bc0e63ff_1:
 
     # li "Well, you have two to choose from."
-    li ""
+    li "Well, you have two to choose from."
 
 # game/v2/scene24.rpy:76
-translate francais v2s24_23a2cb2b:
+translate francais v2s24_23a2cb2b_1:
 
     # li "I didn't know which one was best, so I grabbed both."
-    li ""
+    li "I didn't know which one was best, so I grabbed both."
 
 # game/v2/scene24.rpy:81
-translate francais v2s24_781c4422:
+translate francais v2s24_781c4422_1:
 
     # u "Okay, let's see..."
-    u ""
+    u "Okay, let's see..."
 
 # game/v2/scene24.rpy:96
-translate francais v2s24_b1685a17:
+translate francais v2s24_b1685a17_1:
 
     # u "The age is right on this one, but..."
-    u ""
+    u "The age is right on this one, but..."
 
 # game/v2/scene24.rpy:98
-translate francais v2s24_df85a579:
+translate francais v2s24_df85a579_1:
 
     # u "Nancy Dick? Really?"
-    u ""
+    u "Nancy Dick? Really?"
 
 # game/v2/scene24.rpy:103
-translate francais v2s24_2b351cb8:
+translate francais v2s24_2b351cb8_1:
 
     # li "Oh, come on. Nancy can be a boy's name."
-    li ""
+    li "Oh, come on. Nancy can be a boy's name."
 
 # game/v2/scene24.rpy:108
-translate francais v2s24_000bb9a3:
+translate francais v2s24_bf6c5d09_1:
 
-    # u "In what country? *Laughs*"
-    u ""
+    # u "In what country?"
+    u "In what country?"
 
 # game/v2/scene24.rpy:113
-translate francais v2s24_1d70f108:
+translate francais v2s24_b7fd21dc_1:
 
-    # li "Erm, somewhere in Europe? *Giggles*"
-    li ""
+    # li "Erm, somewhere in Europe?"
+    li "Erm, somewhere in Europe?"
 
 # game/v2/scene24.rpy:118
-translate francais v2s24_40879cb5:
+translate francais v2s24_40879cb5_1:
 
     # u "And the surname... Dick?"
-    u ""
+    u "And the surname... Dick?"
 
 # game/v2/scene24.rpy:123
-translate francais v2s24_8b7e3665:
+translate francais v2s24_df3b42b5_1:
 
-    # u "Who made these ID's?"
-    u ""
+    # u "Who made these IDs?"
+    u "Who made these IDs?"
 
 # game/v2/scene24.rpy:128
-translate francais v2s24_f3a05a1e:
+translate francais v2s24_961e19fe_1:
 
-    # li "*Laughs* Trust me, these were the two best options."
-    li ""
+    # li "Trust me, these were the two best options."
+    li "Trust me, these were the two best options."
 
 # game/v2/scene24.rpy:133
-translate francais v2s24_d3847e6b:
+translate francais v2s24_d3847e6b_1:
 
     # u "Well, age is most important, surely."
-    u ""
+    u "Well, age is most important, surely."
 
 # game/v2/scene24.rpy:135
-translate francais v2s24_3258028b:
+translate francais v2s24_3258028b_1:
 
     # u "I don't know if I could pass as a twenty-nine-year-old named Andrew."
-    u ""
+    u "I don't know if I could pass as a twenty-nine-year-old named Andrew."
 
 # game/v2/scene24.rpy:140
-translate francais v2s24_4446d450:
+translate francais v2s24_4446d450_1:
 
     # li "Wise decision, Nancy."
-    li ""
+    li "Wise decision, Nancy."
 
 # game/v2/scene24.rpy:145
-translate francais v2s24_998afdec:
+translate francais v2s24_998afdec_1:
 
     # u "*Sighs* Thanks..."
-    u ""
+    u "*Sighs* Thanks..."
 
 # game/v2/scene24.rpy:153
-translate francais v2s24_10eac8e4:
+translate francais v2s24_10eac8e4_1:
 
     # u "Andrew King..."
-    u ""
+    u "Andrew King..."
 
 # game/v2/scene24.rpy:155
-translate francais v2s24_13409d8d:
+translate francais v2s24_13409d8d_1:
 
     # u "At least that sounds like an actual person."
-    u ""
+    u "At least that sounds like an actual person."
 
 # game/v2/scene24.rpy:160
-translate francais v2s24_1cd015ac:
+translate francais v2s24_a50701c6_1:
 
-    # li "Haha, what's wrong with Nancy?"
-    li ""
+    # li "What's wrong with Nancy?"
+    li "What's wrong with Nancy?"
 
 # game/v2/scene24.rpy:165
-translate francais v2s24_7b1c1392:
+translate francais v2s24_7b1c1392_1:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v2/scene24.rpy:180
-translate francais v2s24_a2bbc741:
+translate francais v2s24_9d25e527_1:
 
-    # u "Twenty-nine though? I still get ID'd for candy... I'm not sure if I can pass as almost 30 years old."
-    u ""
+    # u "Twenty-nine, though? I still get ID'd for candy... I'm not sure if I can pass as almost 30 years old."
+    u "Twenty-nine, though? I still get ID'd for candy... I'm not sure if I can pass as almost 30 years old."
 
 # game/v2/scene24.rpy:185
-translate francais v2s24_556f5395:
+translate francais v2s24_139711ca_1:
 
-    # li "*Laughs* I could draw a beard on you, maybe."
-    li ""
+    # li "I could draw a beard on you, maybe."
+    li "I could draw a beard on you, maybe."
 
 # game/v2/scene24.rpy:190
-translate francais v2s24_3480a90e:
+translate francais v2s24_6524282c_1:
 
-    # u "Hmm, you're right... Has that ever worked?"
-    u ""
+    # u "Has that ever worked?"
+    u "Has that ever worked?"
 
 # game/v2/scene24.rpy:195
-translate francais v2s24_c96ab197:
+translate francais v2s24_c96ab197_1:
 
     # li "Meh, not in the movies, no."
-    li ""
+    li "Meh, not in the movies, no."
 
 # game/v2/scene24.rpy:205
-translate francais v2s24_601921b3:
+translate francais v2s24_601921b3_1:
 
     # li "It's all in the mindset, right?"
-    li ""
+    li "It's all in the mindset, right?"
 
 # game/v2/scene24.rpy:207
-translate francais v2s24_10b4a3ea:
+translate francais v2s24_10b4a3ea_1:
 
     # li "Just carry yourself like a full-grown, responsible adult, and you'll ace it."
-    li ""
+    li "Just carry yourself like a full-grown, responsible adult, and you'll ace it."
 
 # game/v2/scene24.rpy:212
-translate francais v2s24_e8c29c6d:
+translate francais v2s24_bf36f16d_1:
 
-    # u "Well, I may not be as full grown as a thirty-year-old, but I guess I can at least act responsible...? *Chuckles*"
-    u ""
+    # u "Well, I may not be as fully grown as a thirty-year-old guy, but I guess I can at least act responsible...?"
+    u "Well, I may not be as fully grown as a thirty-year-old guy, but I guess I can at least act responsible...?"
 
 # game/v2/scene24.rpy:217
-translate francais v2s24_d2ad5a7b:
+translate francais v2s24_d2ad5a7b_1:
 
     # li "That's the attitude, yes!"
-    li ""
+    li "That's the attitude, yes!"
 
 # game/v2/scene24.rpy:222
-translate francais v2s24_a955ea75:
+translate francais v2s24_e601124d_1:
 
-    # li "Here some cash too."
-    li ""
+    # li "Here's some cash, too."
+    li "Here's some cash, too."
 
 # game/v2/scene24.rpy:228
-translate francais v2s24_e87c246e:
+translate francais v2s24_e87c246e_1:
 
     # u "Oooh, I could get used to this..."
-    u ""
+    u "Oooh, I could get used to this..."
 
 # game/v2/scene24.rpy:250
-translate francais v2s24_7ce6c362:
+translate francais v2s24_938cb495_1:
 
-    # li "Do well in there, and you just might have to. *Giggles*"
-    li ""
+    # li "Do well in there, and you just might have to."
+    li "Do well in there, and you just might have to."
 
 # game/v2/scene24.rpy:256
-translate francais v2s24_4bffbac4:
+translate francais v2s24_4bffbac4_1:
 
     # u "Isn't it supposed to be sugar daddy? Not-"
-    u ""
+    u "Isn't it supposed to be sugar daddy? Not-"
 
 # game/v2/scene24.rpy:261
-translate francais v2s24_0cf6a538:
+translate francais v2s24_0cf6a538_1:
 
     # li "Sugar mommy? Ha..."
-    li ""
+    li "Sugar mommy? Ha..."
 
 # game/v2/scene24.rpy:271
-translate francais v2s24_288c89fa:
+translate francais v2s24_288c89fa_1:
 
     # li "What's wrong with a sugar mommy, huh?"
-    li ""
+    li "What's wrong with a sugar mommy, huh?"
 
 # game/v2/scene24.rpy:276
-translate francais v2s24_36380360:
+translate francais v2s24_fee5a0b3_1:
 
-    # u "Nothing... Let's, uh..."
-    u ""
+    # u "Uh, nothing. Nothing at all. Let's, uh..."
+    u "Uh, nothing. Nothing at all. Let's, uh..."
 
 # game/v2/scene24.rpy:281
-translate francais v2s24_8ba0c098:
+translate francais v2s24_8ba0c098_1:
 
     # li "Hehe."
-    li ""
+    li "Hehe."
 
 # game/v2/scene24.rpy:291
-translate francais v2s24_263b7e69:
+translate francais v2s24_b3a9c4cf_1:
 
-    # li "Alright, you're all set. Go get 'em tiger!"
-    li ""
+    # li "All right, you're all set. Go get 'em, tiger!"
+    li "All right, you're all set. Go get 'em, tiger!"
 
 # game/v2/scene24.rpy:296
-translate francais v2s24_6fecebe5:
+translate francais v2s24_7867663f_1:
 
-    # u "Thanks. I shall return victorious! *Laughs*"
-    u ""
+    # u "Thanks. I shall return victorious!"
+    u "Thanks. I shall return victorious!"
 
 # game/v2/scene24.rpy:301
-translate francais v2s24_9980cfef:
+translate francais v2s24_bb65b1cc_1:
 
-    # li "Please do... Honestly, haha. Good luck!"
-    li ""
+    # li "Please do. Good luck!"
+    li "Please do. Good luck!"
 
 # game/v2/scene24.rpy:306
-translate francais v2s24_dc062cc4:
+translate francais v2s24_dc062cc4_1:
 
     # u "(No pressure...)"
-    u ""
+    u "(No pressure...)"
 
 # game/v2/scene24.rpy:339
-translate francais v2s24_bec74deb:
+translate francais v2s24_bec74deb_1:
 
     # u "(Hmm, Condy's vodka candies? These look interesting...)"
-    u ""
+    u "(Hmm, Condy's vodka candies? These look interesting...)"
 
 # game/v2/scene24.rpy:341
-translate francais v2s24_5cea5dd0:
+translate francais v2s24_5cea5dd0_1:
 
     # u "(Candy that gets you drunk, ha! We're definitely getting some of these.)"
-    u ""
+    u "(Candy that gets you drunk, ha! We're definitely getting some of these.)"
 
 # game/v2/scene24.rpy:356
-translate francais v2s24_3f8a393d:
+translate francais v2s24_f2814027_1:
 
-    # cashier "Hey, man... Did you find everything you wanted?"
-    cashier ""
+    # cashier "Hey, man. Did you find everything you wanted?"
+    cashier "Hey, man. Did you find everything you wanted?"
 
 # game/v2/scene24.rpy:361
-translate francais v2s24_b538923d:
+translate francais v2s24_b538923d_1:
 
     # u "Uh, yeah. Thanks."
-    u ""
+    u "Uh, yeah. Thanks."
 
 # game/v2/scene24.rpy:366
-translate francais v2s24_9c983a63:
+translate francais v2s24_9c983a63_1:
 
     # cashier "Cool. I'm going to need to see your ID, please."
-    cashier ""
+    cashier "Cool. I'm going to need to see your ID, please."
 
 # game/v2/scene24.rpy:371
-translate francais v2s24_86ece32b:
+translate francais v2s24_86ece32b_1:
 
     # u "Oh, of course."
-    u ""
+    u "Oh, of course."
 
 # game/v2/scene24.rpy:373
-translate francais v2s24_e4628d8c:
+translate francais v2s24_8df02f9d_1:
 
-    # u "I'm used to not getting carded, haha."
-    u ""
+    # u "I'm used to not getting carded."
+    u "I'm used to not getting carded."
 
 # game/v2/scene24.rpy:378
-translate francais v2s24_388b0595:
+translate francais v2s24_388b0595_1:
 
     # cashier "Yeah, I get it. But... I gotta check."
-    cashier ""
+    cashier "Yeah, I get it. But... I gotta check."
 
 # game/v2/scene24.rpy:389
-translate francais v2s24_667b612e:
+translate francais v2s24_1c3a0a5e_1:
 
-    # cashier "*Laughs* Oh my God... Are you serious?"
-    cashier ""
+    # cashier "Oh my God... are you serious?"
+    cashier "Oh my God... are you serious?"
 
 # game/v2/scene24.rpy:394
-translate francais v2s24_ef2f1671:
+translate francais v2s24_ef2f1671_1:
 
     # u "What?"
-    u ""
+    u "What?"
 
 # game/v2/scene24.rpy:404
-translate francais v2s24_37017b2b:
+translate francais v2s24_37017b2b_1:
 
     # cashier "Nancy?"
-    cashier ""
+    cashier "Nancy?"
 
 # game/v2/scene24.rpy:409
-translate francais v2s24_e0c51f39:
+translate francais v2s24_a21993a9_1:
 
-    # u "Yes, that's my name... Why are you laughing?"
-    u ""
+    # u "Yes, that's my name. Why are you laughing?"
+    u "Yes, that's my name. Why are you laughing?"
 
 # game/v2/scene24.rpy:414
-translate francais v2s24_3c20355d:
+translate francais v2s24_60882d9e_1:
 
-    # cashier "Nancy Dick?! *Laughs*"
-    cashier ""
+    # cashier "Nancy Dick?!"
+    cashier "Nancy Dick?!"
 
 # game/v2/scene24.rpy:419
-translate francais v2s24_8641883a:
+translate francais v2s24_8641883a_1:
 
     # u "Ahem..."
-    u ""
+    u "Ahem..."
 
 # game/v2/scene24.rpy:424
-translate francais v2s24_c3c5177c:
+translate francais v2s24_c3c5177c_1:
 
     # cashier "What's your middle name, Nancy?"
-    cashier ""
+    cashier "What's your middle name, Nancy?"
 
 # game/v2/scene24.rpy:429
-translate francais v2s24_6809b71d:
+translate francais v2s24_6809b71d_1:
 
     # u "Why does that-"
-    u ""
+    u "Why does that-"
 
 # game/v2/scene24.rpy:434
-translate francais v2s24_69e164b5:
+translate francais v2s24_d396b968_1:
 
-    # cashier "Eats?! Haha!"
-    cashier ""
+    # cashier "Eats?! Ha!"
+    cashier "Eats?! Ha!"
 
 # game/v2/scene24.rpy:439
-translate francais v2s24_450aafee:
+translate francais v2s24_450aafee_1:
 
     # u "Nancy Eats Dick, wow. Funny!"
-    u ""
+    u "Nancy Eats Dick, wow. Funny!"
 
 # game/v2/scene24.rpy:449
-translate francais v2s24_65b2888a:
+translate francais v2s24_1479506e_1:
 
-    # u "I've heard that one actually."
-    u ""
+    # u "I've heard that one, actually."
+    u "I've heard that one, actually."
 
 # game/v2/scene24.rpy:454
-translate francais v2s24_d19086c1:
+translate francais v2s24_c903694f_1:
 
-    # cashier "Ha... Oh, man. You're killing me..."
-    cashier ""
+    # cashier "Ha... oh, man. You're killing me..."
+    cashier "Ha... oh, man. You're killing me..."
 
 # game/v2/scene24.rpy:456
-translate francais v2s24_76e4a818:
+translate francais v2s24_2056c9f6_1:
 
-    # cashier "*Chuckles* Phew..."
-    cashier ""
+    # cashier "Phew..."
+    cashier "Phew..."
 
 # game/v2/scene24.rpy:461
-translate francais v2s24_4139243b:
+translate francais v2s24_4139243b_1:
 
     # u "Done yet?"
-    u ""
+    u "Done yet?"
 
 # game/v2/scene24.rpy:466
-translate francais v2s24_4e1a5376:
+translate francais v2s24_4e1a5376_1:
 
     # cashier "Worst fake ID ever, pal."
-    cashier ""
+    cashier "Worst fake ID ever, pal."
 
 # game/v2/scene24.rpy:471
-translate francais v2s24_d7ad3a0a:
+translate francais v2s24_d7ad3a0a_1:
 
     # u "Excuse me?"
-    u ""
+    u "Excuse me?"
 
 # game/v2/scene24.rpy:476
-translate francais v2s24_0bfcf5a7:
+translate francais v2s24_0bfcf5a7_1:
 
     # cashier "There's no fucking way this is your real name, man. Explain it."
-    cashier ""
+    cashier "There's no fucking way this is your real name, man. Explain it."
 
 # game/v2/scene24.rpy:481
-translate francais v2s24_1d1ef782:
+translate francais v2s24_1d1ef782_1:
 
     # u "My parents gave it to me, jackass. Want me to call them real quick and find out the origin for you?"
-    u ""
+    u "My parents gave it to me, jackass. Want me to call them real quick and find out the origin for you?"
 
 # game/v2/scene24.rpy:486
-translate francais v2s24_621914a9:
+translate francais v2s24_914b0d5d_1:
 
-    # cashier "Pfft, whatever man..."
-    cashier ""
+    # cashier "Pfft, whatever, man..."
+    cashier "Pfft, whatever, man..."
 
 # game/v2/scene24.rpy:488
-translate francais v2s24_2e51ba86:
+translate francais v2s24_71802eb5_1:
 
-    # cashier "Nancy is a name for females and... Well, you're clearly a dude."
-    cashier ""
+    # cashier "Nancy is a name for females and, well, you're clearly a dude."
+    cashier "Nancy is a name for females and, well, you're clearly a dude."
 
 # game/v2/scene24.rpy:493
-translate francais v2s24_e2129f0c:
+translate francais v2s24_e2129f0c_1:
 
     # u "Who are you to decide what name belongs to which gender?"
-    u ""
+    u "Who are you to decide what name belongs to which gender?"
 
 # game/v2/scene24.rpy:498
-translate francais v2s24_3fff3c22:
+translate francais v2s24_36e2fb5f_1:
 
-    # cashier "Listen kid, even if your name is Nancy, and you're a fucking loser... *Laughs*"
-    cashier ""
+    # cashier "Listen kid, even if your name is Nancy, and you're a fucking loser..."
+    cashier "Listen kid, even if your name is Nancy, and you're a fucking loser..."
 
 # game/v2/scene24.rpy:500
-translate francais v2s24_3f0899d2:
+translate francais v2s24_3f0899d2_1:
 
     # cashier "There's no way your last name is actually Dick."
-    cashier ""
+    cashier "There's no way your last name is actually Dick."
 
 # game/v2/scene24.rpy:502
-translate francais v2s24_b0d28c03:
+translate francais v2s24_b0d28c03_1:
 
     # cashier "You're not fooling me with this shit. Not today!"
-    cashier ""
+    cashier "You're not fooling me with this shit. Not today!"
 
 # game/v2/scene24.rpy:507
-translate francais v2s24_5767df26:
+translate francais v2s24_7000e799_1:
 
-    # u "(Fuck this guy... Should I stick with the fake story or just come clean at this point?)"
-    u ""
+    # u "(Fuck this guy. Should I stick with the fake story or just come clean at this point?)"
+    u "(Fuck this guy. Should I stick with the fake story or just come clean at this point?)"
 
 # game/v2/scene24.rpy:517
-translate francais v2s24_1823092f:
+translate francais v2s24_1823092f_1:
 
     # u "How dare you?!"
-    u ""
+    u "How dare you?!"
 
 # game/v2/scene24.rpy:523
-translate francais v2s24_0b3395a6:
+translate francais v2s24_0b3395a6_1:
 
     # u "Where is your manager?!"
-    u ""
+    u "Where is your manager?!"
 
 # game/v2/scene24.rpy:528
-translate francais v2s24_b43449ee:
+translate francais v2s24_b43449ee_1:
 
     # cashier "I, uh... I..."
-    cashier ""
+    cashier "I, uh... I..."
 
 # game/v2/scene24.rpy:533
-translate francais v2s24_88d485f6:
+translate francais v2s24_8cbdc8d6_1:
 
-    # u "You do know that type of behavior isn't acceptable in modern society, correct?"
-    u ""
+    # u "You know this type of behavior isn't acceptable in modern, progressive, polite society, correct?"
+    u "You know this type of behavior isn't acceptable in modern, progressive, polite society, correct?"
 
 # game/v2/scene24.rpy:535
-translate francais v2s24_595e1ca0:
+translate francais v2s24_950f6a62_1:
 
-    # u "What are you, a Neanderthal?"
-    u ""
+    # u "Are you a bigoted Neanderthal? Because you're coming off like one."
+    u "Are you a bigoted Neanderthal? Because you're coming off like one."
 
 # game/v2/scene24.rpy:540
-translate francais v2s24_a9e2babc:
+translate francais v2s24_f9831951_1:
 
-    # cashier "I'm not a- Wait, what did you call me...?"
-    cashier ""
+    # cashier "I'm not a... wait, what did you call me...?"
+    cashier "I'm not a... wait, what did you call me...?"
 
 # game/v2/scene24.rpy:545
-translate francais v2s24_b8d5260e:
+translate francais v2s24_b8d5260e_1:
 
     # u "This is borderline discrimination! Give me one good reason why I shouldn't have you fired?!"
-    u ""
+    u "This is borderline discrimination! Give me one good reason why I shouldn't have you fired?!"
 
 # game/v2/scene24.rpy:550
-translate francais v2s24_079df62b:
+translate francais v2s24_19e6a89d_1:
 
-    # cashier "No, no, no... Please, don't..."
-    cashier ""
+    # cashier "No, no, no... please, don't..."
+    cashier "No, no, no... please, don't..."
 
 # game/v2/scene24.rpy:555
-translate francais v2s24_028c40d7:
+translate francais v2s24_028c40d7_1:
 
     # u "You just made a big mistake..."
-    u ""
+    u "You just made a big mistake..."
 
 # game/v2/scene24.rpy:557
-translate francais v2s24_8e78fd83:
+translate francais v2s24_69cac6a2_1:
 
-    # u "(Huge. *Giggles*)"
-    u ""
+    # u "(Huge, even. Don't make Dick angry!)"
+    u "(Huge, even. Don't make Dick angry!)"
 
 # game/v2/scene24.rpy:562
-translate francais v2s24_3f43140f:
+translate francais v2s24_3f43140f_1:
 
     # cashier "I didn't mean to offend you! I'm so sorry, sir..."
-    cashier ""
+    cashier "I didn't mean to offend you! I'm so sorry, sir..."
 
 # game/v2/scene24.rpy:564
-translate francais v2s24_512c9980:
+translate francais v2s24_512c9980_1:
 
     # cashier "I'll ring you up right now."
-    cashier ""
+    cashier "I'll ring you up right now."
 
 # game/v2/scene24.rpy:569
-translate francais v2s24_8a0d9688:
+translate francais v2s24_8a0d9688_1:
 
     # u "(Yes!)"
-    u ""
+    u "(Yes!)"
 
 # game/v2/scene24.rpy:574
-translate francais v2s24_7a668d6d:
+translate francais v2s24_c6c7178e_1:
 
-    # u "You're lucky I'm in a rush... *Scoffs*"
-    u ""
+    # u "You're lucky I'm in a rush."
+    u "You're lucky I'm in a rush."
 
 # game/v2/scene24.rpy:579
-translate francais v2s24_6ebd2975:
+translate francais v2s24_6ebd2975_1:
 
     # cashier "Your total is forty-"
-    cashier ""
+    cashier "Your total is forty-"
 
 # game/v2/scene24.rpy:589
-translate francais v2s24_8e60d2e3:
+translate francais v2s24_8e60d2e3_1:
 
     # u "Just take my damn money so I can get on with my day, would you?"
-    u ""
+    u "Just take my damn money so I can get on with my day, would you?"
 
 # game/v2/scene24.rpy:594
-translate francais v2s24_e5e01632:
+translate francais v2s24_a6bf72bb_1:
 
-    # cashier "Yes... O-of course. I'm... I'm so sorry."
-    cashier ""
+    # cashier "Yes... understood. I'm... I'm so sorry."
+    cashier "Yes... understood. I'm... I'm so sorry."
 
 # game/v2/scene24.rpy:604
-translate francais v2s24_723a7734:
+translate francais v2s24_723a7734_2:
 
     # u "Keep it."
-    u ""
+    u "Keep it."
 
 # game/v2/scene24.rpy:609
-translate francais v2s24_7fee616b:
+translate francais v2s24_7fee616b_1:
 
     # cashier "Yes. Of course..."
-    cashier ""
+    cashier "Yes. Of course..."
 
 # game/v2/scene24.rpy:614
-translate francais v2s24_32cc17af:
+translate francais v2s24_32cc17af_1:
 
     # u "If I ever come back in here, I expect better service... and a lifetime discount!"
-    u ""
+    u "If I ever come back in here, I expect better service... and a lifetime discount!"
 
 # game/v2/scene24.rpy:619
-translate francais v2s24_930a3715:
+translate francais v2s24_930a3715_1:
 
     # cashier "Anything, Mr. Dick! Anything we can do for you, we will."
-    cashier ""
+    cashier "Anything, Mr. Dick! Anything we can do for you, we will."
 
 # game/v2/scene24.rpy:629
-translate francais v2s24_638fc07b:
+translate francais v2s24_638fc07b_1:
 
     # u "(Ha, perfect.)"
-    u ""
+    u "(Ha, perfect.)"
 
 # game/v2/scene24.rpy:637
-translate francais v2s24_9d73ea27:
+translate francais v2s24_9d73ea27_1:
 
     # u "(Fuck...)"
-    u ""
+    u "(Fuck...)"
 
 # game/v2/scene24.rpy:639
-translate francais v2s24_f6bd920c:
+translate francais v2s24_f6bd920c_1:
 
     # u "*Sighs* Okay. Busted."
-    u ""
+    u "*Sighs* Okay. Busted."
 
 # game/v2/scene24.rpy:644
-translate francais v2s24_70c764fb:
+translate francais v2s24_b0f27973_1:
 
-    # cashier "Yeah, no shit. *Scoffs*"
-    cashier ""
+    # cashier "Yeah, no shit."
+    cashier "Yeah, no shit."
 
 # game/v2/scene24.rpy:649
-translate francais v2s24_cffd4021:
+translate francais v2s24_7f9d75e3_1:
 
-    # u "But please... Can you just let it slide this one time? I swear to you, nobody will ever find out about this."
-    u ""
+    # u "But, please... can you just let it slide this one time? I swear to you, nobody will ever find out about this."
+    u "But, please... can you just let it slide this one time? I swear to you, nobody will ever find out about this."
 
 # game/v2/scene24.rpy:654
-translate francais v2s24_70ac3cf4:
+translate francais v2s24_70ac3cf4_1:
 
     # cashier "Hell no, kid! I'd lose my job."
-    cashier ""
+    cashier "Hell no, kid! I'd lose my job."
 
 # game/v2/scene24.rpy:659
-translate francais v2s24_73d8ca43:
+translate francais v2s24_73d8ca43_1:
 
     # u "I won't tell anyone, though! I promise."
-    u ""
+    u "I won't tell anyone, though! I promise."
 
 # game/v2/scene24.rpy:664
-translate francais v2s24_3560d9c2:
+translate francais v2s24_3560d9c2_1:
 
     # cashier "Ha! Yeah right!"
-    cashier ""
+    cashier "Ha! Yeah right!"
 
 # game/v2/scene24.rpy:666
-translate francais v2s24_e99f585e:
+translate francais v2s24_64bb6c64_1:
 
-    # cashier "All of your high school friends will be soon trying to empty the shelves."
-    cashier ""
+    # cashier "All of your high school friends will copycat you and try to empty the shelves."
+    cashier "All of your high school friends will copycat you and try to empty the shelves."
 
 # game/v2/scene24.rpy:667
-translate francais v2s24_b13ddebe:
+translate francais v2s24_d9e30dd0_1:
 
-    # cashier "If you stick around you can probably get a ride home from them. *Laughs*"
-    cashier ""
+    # cashier "If you stick around you can probably get a ride home from them."
+    cashier "If you stick around you can probably get a ride home from them."
 
 # game/v2/scene24.rpy:672
-translate francais v2s24_78d2158a:
+translate francais v2s24_78d2158a_1:
 
     # u "Do I look like I'm in high school?"
-    u ""
+    u "Do I look like I'm in high school?"
 
 # game/v2/scene24.rpy:677
-translate francais v2s24_efc8c032:
+translate francais v2s24_911c640a_1:
 
-    # cashier "Yeah, dude. 18 at most."
-    cashier ""
+    # cashier "Yeah, dude. Eighteen at most."
+    cashier "Yeah, dude. Eighteen at most."
 
 # game/v2/scene24.rpy:682
-translate francais v2s24_d1f02403:
+translate francais v2s24_d1f02403_1:
 
     # u "I'm in college, bro!"
-    u ""
+    u "I'm in college, bro!"
 
 # game/v2/scene24.rpy:687
-translate francais v2s24_72ec0121:
+translate francais v2s24_cc349b82_1:
 
-    # cashier "Tell that to your non-existent facial hair."
-    cashier ""
+    # cashier "Tell that to your nonexistent facial hair."
+    cashier "Tell that to your nonexistent facial hair."
 
 # game/v2/scene24.rpy:692
-translate francais v2s24_5e384a81:
+translate francais v2s24_5e384a81_1:
 
     # u "(This motherfucker...)"
-    u ""
+    u "(This motherfucker...)"
 
 # game/v2/scene24.rpy:694
-translate francais v2s24_7e7bd526:
+translate francais v2s24_d1663b0f_1:
 
-    # u "How about I, you know... Give you a tip?"
-    u ""
-
-# game/v2/scene24.rpy:702
-translate francais v2s24_c628a0e0:
-
-    # cashier "I'm not selling you alcohol, kid."
-    cashier ""
-
-# game/v2/scene24.rpy:704
-translate francais v2s24_2c1a52d0:
-
-    # cashier "You can argue and bribe all you want, but it won't work. It never has, and it never will."
-    cashier ""
+    # u "How about I, you know... give you a tip?"
+    u "How about I, you know... give you a tip?"
 
 # game/v2/scene24.rpy:706
-translate francais v2s24_4ed95a72:
-
-    # cashier "It's best if you just leave."
-    cashier ""
-
-# game/v2/scene24.rpy:711
-translate francais v2s24_57ae9944:
-
-    # u "*Sighs*"
-    u ""
-
-# game/v2/scene24.rpy:713
-translate francais v2s24_3b198bc8:
-
-    # u "(I fucked that up...)"
-    u ""
-
-# game/v2/scene24.rpy:715
-translate francais v2s24_c633deaa:
-
-    # u "Okay, sure. Sorry."
-    u ""
-
-# game/v2/scene24.rpy:729
-translate francais v2s24_f3afe421:
+translate francais v2s24_f3afe421_1:
 
     # cashier "Wait."
-    cashier ""
+    cashier "Wait."
 
-# game/v2/scene24.rpy:734
-translate francais v2s24_6bcd435f:
+# game/v2/scene24.rpy:711
+translate francais v2s24_6bcd435f_1:
 
     # u "Yeah?"
-    u ""
+    u "Yeah?"
 
-# game/v2/scene24.rpy:749
-translate francais v2s24_f62e7b07:
+# game/v2/scene24.rpy:726
+translate francais v2s24_f62e7b07_1:
 
     # cashier "On second thought..."
-    cashier ""
+    cashier "On second thought..."
 
-# game/v2/scene24.rpy:751
-translate francais v2s24_c49f5ac8:
+# game/v2/scene24.rpy:728
+translate francais v2s24_c49f5ac8_1:
 
     # cashier "*Whispers* Fifty bucks and you're free to go."
-    cashier ""
+    cashier "*Whispers* Fifty bucks and you're free to go."
 
-# game/v2/scene24.rpy:756
-translate francais v2s24_a5c5a22d:
+# game/v2/scene24.rpy:733
+translate francais v2s24_a5c5a22d_1:
 
     # u "(Ha!) Deal!"
-    u ""
+    u "(Ha!) Deal!"
 
-# game/v2/scene24.rpy:781
-translate francais v2s24_e573f9dc:
+# game/v2/scene24.rpy:758
+translate francais v2s24_e573f9dc_1:
 
     # u "Thanks for your help. This is amazing."
-    u ""
+    u "Thanks for your help. This is amazing."
+
+# game/v2/scene24.rpy:763
+translate francais v2s24_2609eb58_1:
+
+    # cashier "Drink responsibly, Miss Dick!"
+    cashier "Drink responsibly, Miss Dick!"
+
+# game/v2/scene24.rpy:768
+translate francais v2s24_5d02055e_1:
+
+    # u "Will do."
+    u "Will do."
+
+# game/v2/scene24.rpy:773
+translate francais v2s24_c628a0e0_1:
+
+    # cashier "I'm not selling you alcohol, kid."
+    cashier "I'm not selling you alcohol, kid."
+
+# game/v2/scene24.rpy:775
+translate francais v2s24_2c1a52d0_1:
+
+    # cashier "You can argue and bribe all you want, but it won't work. It never has, and it never will."
+    cashier "You can argue and bribe all you want, but it won't work. It never has, and it never will."
+
+# game/v2/scene24.rpy:777
+translate francais v2s24_4ed95a72_1:
+
+    # cashier "It's best if you just leave."
+    cashier "It's best if you just leave."
+
+# game/v2/scene24.rpy:782
+translate francais v2s24_57ae9944_1:
+
+    # u "*Sighs*"
+    u "*Sighs*"
+
+# game/v2/scene24.rpy:784
+translate francais v2s24_3b198bc8_1:
+
+    # u "(I fucked that up...)"
+    u "(I fucked that up...)"
 
 # game/v2/scene24.rpy:786
-translate francais v2s24_3e3b4883:
+translate francais v2s24_c633deaa_1:
 
-    # cashier "Drink responsibly, Miss Dick! *Laughs*"
-    cashier ""
-
-# game/v2/scene24.rpy:791
-translate francais v2s24_8569c4fa:
-
-    # u "*Chuckles*"
-    u ""
+    # u "Okay, sure. Sorry."
+    u "Okay, sure. Sorry."
 
 # game/v2/scene24.rpy:797
-translate francais v2s24_43b9b939:
+translate francais v2s24_43b9b939_1:
 
     # cashier "Andrew King, is it?"
-    cashier ""
+    cashier "Andrew King, is it?"
 
 # game/v2/scene24.rpy:802
-translate francais v2s24_da7f31c0:
+translate francais v2s24_da7f31c0_1:
 
     # u "That's me, yeah."
-    u ""
+    u "That's me, yeah."
 
 # game/v2/scene24.rpy:807
-translate francais v2s24_442801d0:
+translate francais v2s24_442801d0_1:
 
     # cashier "Hmm, that's weird..."
-    cashier ""
+    cashier "Hmm, that's weird..."
 
 # game/v2/scene24.rpy:812
-translate francais v2s24_538b62a3:
+translate francais v2s24_538b62a3_1:
 
     # u "(Shit.)"
-    u ""
+    u "(Shit.)"
 
 # game/v2/scene24.rpy:817
-translate francais v2s24_3d38e4a9:
+translate francais v2s24_3d38e4a9_1:
 
     # cashier "I had a buddy in high school named Andrew King."
-    cashier ""
+    cashier "I had a buddy in high school named Andrew King."
 
 # game/v2/scene24.rpy:822
-translate francais v2s24_3a123e8b:
+translate francais v2s24_5daf6428_1:
 
-    # u "Oh, ha... Wow, what a coincidence. *Nervous chuckle*"
-    u ""
+    # u "Oh, ha. What a coincidence..."
+    u "Oh, ha. What a coincidence..."
 
 # game/v2/scene24.rpy:827
-translate francais v2s24_5d6644e3:
+translate francais v2s24_5d6644e3_1:
 
     # cashier "So, twenty-nine?"
-    cashier ""
+    cashier "So, twenty-nine?"
 
 # game/v2/scene24.rpy:832
-translate francais v2s24_8dade742:
+translate francais v2s24_64e25cd6_1:
 
-    # u "Yep... Almost the big 30! Ha... *Clears throat*"
-    u ""
+    # u "Yep. Almost the big 30! Ha... *Clears throat*"
+    u "Yep. Almost the big 30! Ha... *Clears throat*"
 
 # game/v2/scene24.rpy:837
-translate francais v2s24_9c789a5f:
+translate francais v2s24_9c789a5f_1:
 
     # cashier "Ha."
-    cashier ""
+    cashier "Ha."
 
 # game/v2/scene24.rpy:847
-translate francais v2s24_d1b1487e:
+translate francais v2s24_d1b1487e_1:
 
     # cashier "I think you should leave, pal."
-    cashier ""
+    cashier "I think you should leave, pal."
 
 # game/v2/scene24.rpy:852
-translate francais v2s24_509d10f1:
+translate francais v2s24_509d10f1_1:
 
     # u "Wait, what?! Why? I-"
-    u ""
+    u "Wait, what?! Why? I-"
 
 # game/v2/scene24.rpy:857
-translate francais v2s24_33659b4b:
+translate francais v2s24_86e4a456_1:
 
-    # cashier "There's no way in hell that you're almost thirty, my guy. Have you looked in the mirror lately? *Scoffs*"
-    cashier ""
+    # cashier "There's no way in hell that you're almost thirty, my guy. Have you looked in the mirror lately?"
+    cashier "There's no way in hell that you're almost thirty, my guy. Have you looked in the mirror lately?"
 
 # game/v2/scene24.rpy:862
-translate francais v2s24_92f7d59d:
+translate francais v2s24_92f7d59d_1:
 
     # u "(Okay, asshole.)"
-    u ""
+    u "(Okay, asshole.)"
 
 # game/v2/scene24.rpy:867
-translate francais v2s24_444fd028:
+translate francais v2s24_444fd028_1:
 
     # cashier "Go on, kid. Scram."
-    cashier ""
+    cashier "Go on, kid. Scram."
 
 # game/v2/scene24.rpy:872
-translate francais v2s24_e5f4cfb4:
+translate francais v2s24_e5f4cfb4_1:
 
     # u "I'll have you know that I have a medical conditi-"
-    u ""
+    u "I'll have you know that I have a medical conditi-"
 
 # game/v2/scene24.rpy:877
-translate francais v2s24_cbe3dbd6:
+translate francais v2s24_cbe3dbd6_1:
 
     # cashier "Really? You're gonna play that card?"
-    cashier ""
+    cashier "Really? You're gonna play that card?"
 
 # game/v2/scene24.rpy:882
-translate francais v2s24_0ebd2b02:
+translate francais v2s24_0ebd2b02_1:
 
     # u "I do!"
-    u ""
+    u "I do!"
 
 # game/v2/scene24.rpy:887
-translate francais v2s24_d92e8121:
+translate francais v2s24_aa389711_1:
 
-    # cashier "*Chuckles* Yeah, okay. You have a medical condition that makes you look fifteen years old, and I have a bullshit detector. Take a hike!"
-    cashier ""
+    # cashier "Yeah, okay. You have a medical condition that makes you look fifteen years old, and I have a bullshit detector. Take a hike!"
+    cashier "Yeah, okay. You have a medical condition that makes you look fifteen years old, and I have a bullshit detector. Take a hike!"
 
 # game/v2/scene24.rpy:892
-translate francais v2s24_0ba9818d:
+translate francais v2s24_0ba9818d_1:
 
     # u "You're making a big mistake."
-    u ""
+    u "You're making a big mistake."
 
 # game/v2/scene24.rpy:894
-translate francais v2s24_793e6f87:
+translate francais v2s24_793e6f87_1:
 
     # u "(Huge... *Giggles*)"
-    u ""
+    u "(Huge... *Giggles*)"
 
 # game/v2/scene24.rpy:899
-translate francais v2s24_bd7f0bce:
+translate francais v2s24_bd7f0bce_1:
 
     # cashier "Okay, fake Andrew. What do you do for a living? Huh?"
-    cashier ""
+    cashier "Okay, fake Andrew. What do you do for a living? Huh?"
 
 # game/v2/scene24.rpy:904
-translate francais v2s24_601ee6cc:
+translate francais v2s24_601ee6cc_1:
 
     # u "Well, not that it's any of your business..."
-    u ""
+    u "Well, not that it's any of your business..."
 
 # game/v2/scene24.rpy:906
-translate francais v2s24_44d4efb7:
+translate francais v2s24_bc173105_1:
 
-    # u "(Smart job, smart, smart job... What's a smart job?!)"
-    u ""
+    # u "(Smart job, smart, smart job. What's a smart job?! C'mon!!)"
+    u "(Smart job, smart, smart job. What's a smart job?! C'mon!!)"
 
 # game/v2/scene24.rpy:911
-translate francais v2s24_48de0b0b:
+translate francais v2s24_8b9f3fa5_1:
 
-    # cashier "Yeah? Did you forget? *Laughs*"
-    cashier ""
+    # cashier "Yeah? Did you forget?"
+    cashier "Yeah? Did you forget?"
 
 # game/v2/scene24.rpy:916
-translate francais v2s24_375c5a92:
+translate francais v2s24_375c5a92_1:
 
     # u "No, I'm..."
-    u ""
+    u "No, I'm..."
 
-# game/v2/scene24.rpy:924
-translate francais v2s24_2719b29d:
+# game/v2/scene24.rpy:923
+translate francais v2s24_2719b29d_1:
 
     # u "A lawyer."
-    u ""
+    u "A lawyer."
 
-# game/v2/scene24.rpy:929
-translate francais v2s24_7b16ba50:
+# game/v2/scene24.rpy:928
+translate francais v2s24_7b16ba50_1:
 
     # cashier "Ha! A lawyer?"
-    cashier ""
+    cashier "Ha! A lawyer?"
 
-# game/v2/scene24.rpy:931
-translate francais v2s24_b4439566:
+# game/v2/scene24.rpy:930
+translate francais v2s24_b4439566_1:
 
     # cashier "You're gonna walk around dressed like that, and expect people to believe that you're a lawyer?"
-    cashier ""
+    cashier "You're gonna walk around dressed like that, and expect people to believe that you're a lawyer?"
 
-# game/v2/scene24.rpy:937
-translate francais v2s24_eb099d70:
+# game/v2/scene24.rpy:936
+translate francais v2s24_eb099d70_1:
 
     # u "An astronaut."
-    u ""
+    u "An astronaut."
 
-# game/v2/scene24.rpy:942
-translate francais v2s24_62e00cde:
+# game/v2/scene24.rpy:941
+translate francais v2s24_ad774518_1:
 
-    # cashier "*Scoffs* An astronaut? Are you kidding me???"
-    cashier ""
+    # cashier "An astronaut? Are you kidding me???"
+    cashier "An astronaut? Are you kidding me???"
 
-# game/v2/scene24.rpy:944
-translate francais v2s24_ac585912:
+# game/v2/scene24.rpy:943
+translate francais v2s24_ac585912_1:
 
     # cashier "You're so full of shit."
-    cashier ""
+    cashier "You're so full of shit."
 
-# game/v2/scene24.rpy:949
-translate francais v2s24_7cb8e850:
+# game/v2/scene24.rpy:948
+translate francais v2s24_7cb8e850_1:
 
     # u "You better sell me some alcohol or I'm calling NASA."
-    u ""
+    u "You better sell me some alcohol or I'm calling NASA."
 
-# game/v2/scene24.rpy:954
-translate francais v2s24_0946f2cd:
+# game/v2/scene24.rpy:953
+translate francais v2s24_bb361f80_1:
 
-    # cashier "*Laughs* You're one of the funniest scumbags I've met in this place."
-    cashier ""
+    # cashier "You're one of the funniest scumbags I've met in this place."
+    cashier "You're one of the funniest scumbags I've met in this place."
 
-# game/v2/scene24.rpy:959
-translate francais v2s24_cd853514:
+# game/v2/scene24.rpy:958
+translate francais v2s24_96fc26a4_1:
 
-    # u "(Fuck's sake... How do I get out of this?)"
-    u ""
+    # u "(Fuck's sake, how do I get out of this?)"
+    u "(Fuck's sake, how do I get out of this?)"
 
-# game/v2/scene24.rpy:969
-translate francais v2s24_30203b3d:
+# game/v2/scene24.rpy:968
+translate francais v2s24_30203b3d_1:
 
     # u "You're going to be sorry you ever said that."
-    u ""
+    u "You're going to be sorry you ever said that."
 
-# game/v2/scene24.rpy:974
-translate francais v2s24_e60d0317:
+# game/v2/scene24.rpy:973
+translate francais v2s24_e60d0317_1:
 
     # cashier "Huh?"
-    cashier ""
+    cashier "Huh?"
 
-# game/v2/scene24.rpy:979
-translate francais v2s24_05a87103:
+# game/v2/scene24.rpy:978
+translate francais v2s24_05a87103_1:
 
     # cashier "Wait, what are you doing?"
-    cashier ""
+    cashier "Wait, what are you doing?"
 
-# game/v2/scene24.rpy:984
-translate francais v2s24_212c3899:
+# game/v2/scene24.rpy:983
+translate francais v2s24_212c3899_1:
 
     # u "Yes, hello! I'd like to report a hate crime, please."
-    u ""
+    u "Yes, hello! I'd like to report a hate crime, please."
 
-# game/v2/scene24.rpy:989
-translate francais v2s24_f5eec463:
+# game/v2/scene24.rpy:988
+translate francais v2s24_aa86ec0a_1:
 
-    # cashier "What?! What the fuck- Who are you even talking to?"
-    cashier ""
+    # cashier "What?! What the fuck? Who are you even talking to?"
+    cashier "What?! What the fuck? Who are you even talking to?"
 
-# game/v2/scene24.rpy:994
-translate francais v2s24_20e94360:
+# game/v2/scene24.rpy:993
+translate francais v2s24_20e94360_1:
 
     # u "The police, sir."
-    u ""
+    u "The police, sir."
 
-# game/v2/scene24.rpy:999
-translate francais v2s24_2ce74dee:
+# game/v2/scene24.rpy:998
+translate francais v2s24_2ce74dee_1:
 
     # cashier "The police?! Stop! What are you-"
-    cashier ""
+    cashier "The police?! Stop! What are you-"
 
-# game/v2/scene24.rpy:1004
-translate francais v2s24_16fd1fb4:
+# game/v2/scene24.rpy:1003
+translate francais v2s24_16fd1fb4_1:
 
     # cashier "Holy fuck, you psycho!"
-    cashier ""
+    cashier "Holy fuck, you psycho!"
 
-# game/v2/scene24.rpy:1009
-translate francais v2s24_a2832085:
+# game/v2/scene24.rpy:1008
+translate francais v2s24_d3a57d0c_1:
 
-    # u "They're connecting me to the department for hate crimes right now, we're on hold."
-    u ""
+    # u "They're connecting me to the department for hate crimes right now. We're on hold."
+    u "They're connecting me to the department for hate crimes right now. We're on hold."
 
-# game/v2/scene24.rpy:1014
-translate francais v2s24_19f3dd24:
+# game/v2/scene24.rpy:1013
+translate francais v2s24_7659caa7_1:
 
-    # cashier "No, listen- You have to stop... Please, hang up!"
-    cashier ""
+    # cashier "No, listen, you have to stop. Please, hang up!"
+    cashier "No, listen, you have to stop. Please, hang up!"
 
-# game/v2/scene24.rpy:1016
-translate francais v2s24_7ed25ca8:
+# game/v2/scene24.rpy:1015
+translate francais v2s24_7ed25ca8_1:
 
     # cashier "It's okay. I-I, I believe you!"
-    cashier ""
+    cashier "It's okay. I-I, I believe you!"
 
-# game/v2/scene24.rpy:1021
-translate francais v2s24_40ce041a:
+# game/v2/scene24.rpy:1020
+translate francais v2s24_40ce041a_1:
 
     # u "You're going to stop discriminating against people?"
-    u ""
+    u "You're going to stop discriminating against people?"
 
-# game/v2/scene24.rpy:1026
-translate francais v2s24_dd28f9f9:
+# game/v2/scene24.rpy:1025
+translate francais v2s24_cb8b059b_1:
 
-    # cashier "Yes... Yes. I'll do whatever, just..."
-    cashier ""
+    # cashier "Yes... yes. I'll do whatever, just..."
+    cashier "Yes... yes. I'll do whatever, just..."
 
-# game/v2/scene24.rpy:1031
-translate francais v2s24_ebdfc90c:
+# game/v2/scene24.rpy:1030
+translate francais v2s24_ebdfc90c_1:
 
     # u "(Damn, this guy is really afraid of the police. Lucky for me, ha!)"
-    u ""
+    u "(Damn, this guy is really afraid of the police. Lucky for me, ha!)"
 
-# game/v2/scene24.rpy:1036
-translate francais v2s24_cc60e411:
+# game/v2/scene24.rpy:1035
+translate francais v2s24_cc60e411_1:
 
     # cashier "Please hang up."
-    cashier ""
+    cashier "Please hang up."
 
-# game/v2/scene24.rpy:1041
-translate francais v2s24_ae10b6d0:
+# game/v2/scene24.rpy:1040
+translate francais v2s24_ae10b6d0_1:
 
     # u "Fine."
-    u ""
+    u "Fine."
 
-# game/v2/scene24.rpy:1051
-translate francais v2s24_a5a2ad14:
+# game/v2/scene24.rpy:1050
+translate francais v2s24_a5a2ad14_1:
 
     # u "Well, what are you waiting for?"
-    u ""
+    u "Well, what are you waiting for?"
 
-# game/v2/scene24.rpy:1056
-translate francais v2s24_565d577a:
+# game/v2/scene24.rpy:1055
+translate francais v2s24_407a25ad_1:
 
-    # cashier "Oh- Of course! Sorry..."
-    cashier ""
+    # cashier "Oh, uh, of course! Sorry..."
+    cashier "Oh, uh, of course! Sorry..."
 
-# game/v2/scene24.rpy:1081
-translate francais v2s24_723a7734_1:
+# game/v2/scene24.rpy:1080
+translate francais v2s24_723a7734_3:
 
     # u "Keep it."
-    u ""
+    u "Keep it."
 
-# game/v2/scene24.rpy:1086
-translate francais v2s24_d5823568:
+# game/v2/scene24.rpy:1085
+translate francais v2s24_d5823568_1:
 
     # u "I expect you'll be more considerate of people with disabilities in the future."
-    u ""
+    u "I expect you'll be more considerate of people with disabilities in the future."
 
-# game/v2/scene24.rpy:1091
-translate francais v2s24_8cb6492d:
+# game/v2/scene24.rpy:1090
+translate francais v2s24_8cb6492d_1:
 
     # cashier "I, uh... I will."
-    cashier ""
+    cashier "I, uh... I will."
 
-# game/v2/scene24.rpy:1093
-translate francais v2s24_14e8257d:
+# game/v2/scene24.rpy:1092
+translate francais v2s24_14e8257d_1:
 
     # cashier "I'm so sorry for my behavior."
-    cashier ""
+    cashier "I'm so sorry for my behavior."
 
-# game/v2/scene24.rpy:1098
-translate francais v2s24_d8e9d942:
+# game/v2/scene24.rpy:1097
+translate francais v2s24_d8e9d942_1:
 
     # u "You should be."
-    u ""
+    u "You should be."
 
-# game/v2/scene24.rpy:1106
-translate francais v2s24_c9d040cd:
+# game/v2/scene24.rpy:1105
+translate francais v2s24_c9d040cd_1:
 
     # u "*Sighs* Okay. You caught me."
-    u ""
+    u "*Sighs* Okay. You caught me."
 
-# game/v2/scene24.rpy:1111
-translate francais v2s24_bd37e5d5:
+# game/v2/scene24.rpy:1110
+translate francais v2s24_81d16606_1:
 
-    # cashier "Ha, wait- You're admitting it?"
-    cashier ""
+    # cashier "Ha, wait, you're admitting it?"
+    cashier "Ha, wait, you're admitting it?"
 
-# game/v2/scene24.rpy:1116
-translate francais v2s24_9eab11ec:
+# game/v2/scene24.rpy:1115
+translate francais v2s24_9eab11ec_1:
 
     # u "Yeah, I am. Happy?"
-    u ""
+    u "Yeah, I am. Happy?"
 
-# game/v2/scene24.rpy:1121
-translate francais v2s24_ffb0b640:
+# game/v2/scene24.rpy:1120
+translate francais v2s24_ffb0b640_1:
 
     # cashier "Eh, more surprised than anything."
-    cashier ""
+    cashier "Eh, more surprised than anything."
 
-# game/v2/scene24.rpy:1126
-translate francais v2s24_461b2daf:
+# game/v2/scene24.rpy:1125
+translate francais v2s24_461b2daf_1:
 
     # u "Look, can we please just..."
-    u ""
+    u "Look, can we please just..."
 
-# game/v2/scene24.rpy:1128
-translate francais v2s24_68d3101e:
+# game/v2/scene24.rpy:1127
+translate francais v2s24_68d3101e_1:
 
     # u "Work out some sort of a deal? I really need this alcohol, man."
-    u ""
+    u "Work out some sort of a deal? I really need this alcohol, man."
 
-# game/v2/scene24.rpy:1133
-translate francais v2s24_a2a948aa:
+# game/v2/scene24.rpy:1132
+translate francais v2s24_84eb9fba_1:
 
-    # cashier "*Scoffs* Nobody needs alcohol, kid. The human body can survive just fine without it."
-    cashier ""
+    # cashier "Nobody needs alcohol, kid. The human body can survive just fine without it."
+    cashier "Nobody needs alcohol, kid. The human body can survive just fine without it."
 
-# game/v2/scene24.rpy:1138
-translate francais v2s24_98d4103c:
+# game/v2/scene24.rpy:1137
+translate francais v2s24_98d4103c_1:
 
     # u "You know what I mean, bro. It's college."
-    u ""
+    u "You know what I mean, bro. It's college."
 
-# game/v2/scene24.rpy:1140
-translate francais v2s24_22bf7668:
+# game/v2/scene24.rpy:1139
+translate francais v2s24_22bf7668_1:
 
     # u "Please?"
-    u ""
+    u "Please?"
 
-# game/v2/scene24.rpy:1145
-translate francais v2s24_dd5671b5:
+# game/v2/scene24.rpy:1144
+translate francais v2s24_dd5671b5_1:
 
     # cashier "No."
-    cashier ""
+    cashier "No."
 
-# game/v2/scene24.rpy:1150
-translate francais v2s24_472ced99:
+# game/v2/scene24.rpy:1149
+translate francais v2s24_472ced99_1:
 
     # u "What about an extra ten bucks?"
-    u ""
+    u "What about an extra ten bucks?"
 
-# game/v2/scene24.rpy:1158
-translate francais v2s24_5ffef589:
-
-    # cashier "I wouldn't even wipe my ass with your ten extra bucks."
-    cashier ""
-
-# game/v2/scene24.rpy:1160
-translate francais v2s24_9a651ac3:
-
-    # cashier "You think I want to risk my job and sell to an underage kid? Ha..."
-    cashier ""
-
-# game/v2/scene24.rpy:1162
-translate francais v2s24_5dae472e:
-
-    # cashier "I'd be done for, and you're not worth it. Get out."
-    cashier ""
-
-# game/v2/scene24.rpy:1167
-translate francais v2s24_e54435b2:
-
-    # u "*Sighs* Right... Sorry."
-    u ""
-
-# game/v2/scene24.rpy:1181
-translate francais v2s24_d9c9dd0f:
+# game/v2/scene24.rpy:1161
+translate francais v2s24_d9c9dd0f_1:
 
     # cashier "Ugh, wait..."
-    cashier ""
+    cashier "Ugh, wait..."
 
-# game/v2/scene24.rpy:1186
-translate francais v2s24_8b258704:
+# game/v2/scene24.rpy:1166
+translate francais v2s24_8b258704_1:
 
     # u "Huh?"
-    u ""
+    u "Huh?"
 
-# game/v2/scene24.rpy:1191
-translate francais v2s24_d08722af:
+# game/v2/scene24.rpy:1171
+translate francais v2s24_d08722af_1:
 
     # cashier "Maybe I spoke too soon."
-    cashier ""
+    cashier "Maybe I spoke too soon."
 
-# game/v2/scene24.rpy:1196
-translate francais v2s24_09332657:
+# game/v2/scene24.rpy:1176
+translate francais v2s24_09332657_1:
 
     # u "What do you mean?"
-    u ""
+    u "What do you mean?"
 
-# game/v2/scene24.rpy:1201
-translate francais v2s24_d130ca5a:
+# game/v2/scene24.rpy:1181
+translate francais v2s24_d130ca5a_1:
 
     # cashier "Make it thirty extra and we've got a deal."
-    cashier ""
+    cashier "Make it thirty extra and we've got a deal."
 
-# game/v2/scene24.rpy:1206
-translate francais v2s24_c91a7a42:
+# game/v2/scene24.rpy:1186
+translate francais v2s24_c91a7a42_1:
 
     # u "Ha. Really?"
-    u ""
+    u "Ha. Really?"
 
-# game/v2/scene24.rpy:1211
-translate francais v2s24_f71dd2cb:
+# game/v2/scene24.rpy:1191
+translate francais v2s24_f71dd2cb_1:
 
     # cashier "Just don't send any of your acne-infested friends in here thinking they'll get the same treatment, got it?"
-    cashier ""
+    cashier "Just don't send any of your acne-infested friends in here thinking they'll get the same treatment, got it?"
 
-# game/v2/scene24.rpy:1216
-translate francais v2s24_dc38f830:
+# game/v2/scene24.rpy:1196
+translate francais v2s24_dc38f830_1:
 
     # u "Yeah, of course. Whatever you say!"
-    u ""
+    u "Yeah, of course. Whatever you say!"
 
-# game/v2/scene24.rpy:1241
-translate francais v2s24_9a6938bd:
+# game/v2/scene24.rpy:1221
+translate francais v2s24_abb0330f_1:
 
-    # u "Thank you so much... This is great."
-    u ""
+    # u "Thank you so much. This is great."
+    u "Thank you so much. This is great."
 
-# game/v2/scene24.rpy:1246
-translate francais v2s24_5668c54a:
+# game/v2/scene24.rpy:1226
+translate francais v2s24_5668c54a_1:
 
     # cashier "Yeah. Good luck growing in that beard, Andrew."
-    cashier ""
+    cashier "Yeah. Good luck growing in that beard, Andrew."
 
-# game/v2/scene24.rpy:1251
-translate francais v2s24_c7f950bf:
+# game/v2/scene24.rpy:1231
+translate francais v2s24_ee01f9b9_1:
 
-    # u "*Chuckles* Thanks."
-    u ""
+    # u "Thanks."
+    u "Thanks."
 
-# game/v2/scene24.rpy:1268
-translate francais v2s24_729b16d2:
+# game/v2/scene24.rpy:1236
+translate francais v2s24_5ffef589_1:
+
+    # cashier "I wouldn't even wipe my ass with your ten extra bucks."
+    cashier "I wouldn't even wipe my ass with your ten extra bucks."
+
+# game/v2/scene24.rpy:1238
+translate francais v2s24_9a651ac3_1:
+
+    # cashier "You think I want to risk my job and sell to an underage kid? Ha..."
+    cashier "You think I want to risk my job and sell to an underage kid? Ha..."
+
+# game/v2/scene24.rpy:1240
+translate francais v2s24_5dae472e_1:
+
+    # cashier "I'd be done for, and you're not worth it. Get out."
+    cashier "I'd be done for, and you're not worth it. Get out."
+
+# game/v2/scene24.rpy:1245
+translate francais v2s24_e54435b2_1:
+
+    # u "*Sighs* Right... Sorry."
+    u "*Sighs* Right... Sorry."
+
+# game/v2/scene24.rpy:1265
+translate francais v2s24_729b16d2_1:
 
     # u "One bag of alcohol for the pretty lady."
-    u ""
+    u "One bag of alcohol for the pretty lady."
 
-# game/v2/scene24.rpy:1278
-translate francais v2s24_27de9e1e:
+# game/v2/scene24.rpy:1275
+translate francais v2s24_1c2949b7_1:
 
-    # li "Oh my god, it worked! You did it!"
-    li ""
+    # li "Oh my God, it worked! You did it!"
+    li "Oh my God, it worked! You did it!"
 
-# game/v2/scene24.rpy:1302
-translate francais v2s24_ec117705:
+# game/v2/scene24.rpy:1299
+translate francais v2s24_efb19bbc_1:
 
-    # u "I did. Barely. *Laughs*"
-    u ""
+    # u "I did. Barely."
+    u "I did. Barely."
 
-# game/v2/scene24.rpy:1307
-translate francais v2s24_e0308db4:
+# game/v2/scene24.rpy:1304
+translate francais v2s24_e0308db4_1:
 
     # li "You're amazing."
-    li ""
+    li "You're amazing."
 
-# game/v2/scene24.rpy:1312
-translate francais v2s24_02ec925f:
+# game/v2/scene24.rpy:1309
+translate francais v2s24_02ec925f_1:
 
     # u "You only just realized that?"
-    u ""
+    u "You only just realized that?"
 
-# game/v2/scene24.rpy:1322
-translate francais v2s24_f7eb2372:
+# game/v2/scene24.rpy:1319
+translate francais v2s24_f7eb2372_1:
 
     # li "This is so perfect. I can't wait to make some killer cocktails for everyone!"
-    li ""
+    li "This is so perfect. I can't wait to make some killer cocktails for everyone!"
 
-# game/v2/scene24.rpy:1327
-translate francais v2s24_30a00c12:
+# game/v2/scene24.rpy:1324
+translate francais v2s24_30a00c12_1:
 
     # u "We've also got some new candy."
-    u ""
+    u "We've also got some new candy."
 
-# game/v2/scene24.rpy:1332
-translate francais v2s24_03957522:
+# game/v2/scene24.rpy:1329
+translate francais v2s24_03957522_1:
 
     # li "Wait, Condy's?"
-    li ""
+    li "Wait, Condy's?"
 
-# game/v2/scene24.rpy:1337
-translate francais v2s24_5e3052ea:
+# game/v2/scene24.rpy:1334
+translate francais v2s24_5e3052ea_1:
 
     # u "Yeah, that's what they are. Have you tried them?"
-    u ""
+    u "Yeah, that's what they are. Have you tried them?"
 
-# game/v2/scene24.rpy:1342
-translate francais v2s24_f5392ef9:
+# game/v2/scene24.rpy:1339
+translate francais v2s24_1b4db6ef_1:
 
-    # li "*Chuckles* No, not yet..."
-    li ""
+    # li "No, not yet..."
+    li "No, not yet..."
 
-# game/v2/scene24.rpy:1344
-translate francais v2s24_761c503b:
+# game/v2/scene24.rpy:1341
+translate francais v2s24_ca68f144_1:
 
-    # li "I've heard they can really fuck you up though. They make you feel twenty different emotions all at once."
-    li ""
+    # li "I've heard they can really fuck you up, though. They make you feel twenty different emotions all at once."
+    li "I've heard they can really fuck you up, though. They make you feel twenty different emotions all at once."
 
-# game/v2/scene24.rpy:1351
-translate francais v2s24_dd1b368a:
+# game/v2/scene24.rpy:1348
+translate francais v2s24_dd1b368a_1:
 
     # u "That sounds amazing...?"
-    u ""
+    u "That sounds amazing...?"
 
-# game/v2/scene24.rpy:1356
-translate francais v2s24_fd7f9df0:
+# game/v2/scene24.rpy:1353
+translate francais v2s24_ac609a07_1:
 
-    # li "And also kind of terrifying... Haha."
-    li ""
+    # li "And also kind of terrifying..."
+    li "And also kind of terrifying..."
 
-# game/v2/scene24.rpy:1358
-translate francais v2s24_f9db55fa:
+# game/v2/scene24.rpy:1355
+translate francais v2s24_f8185348_2:
 
-    # li "Can't wait. *Laughs*"
-    li ""
+    # li "Can't wait."
+    li "Can't wait."
 
-# game/v2/scene24.rpy:1364
-translate francais v2s24_eac550ee:
+# game/v2/scene24.rpy:1361
+translate francais v2s24_eac550ee_1:
 
     # u "Is that a good thing?"
-    u ""
+    u "Is that a good thing?"
 
-# game/v2/scene24.rpy:1369
-translate francais v2s24_babeb87b:
+# game/v2/scene24.rpy:1366
+translate francais v2s24_babeb87b_1:
 
     # li "Are you kidding me? Of course it is!"
-    li ""
+    li "Are you kidding me? Of course it is!"
 
-# game/v2/scene24.rpy:1371
-translate francais v2s24_f9db55fa_1:
+# game/v2/scene24.rpy:1368
+translate francais v2s24_f8185348_3:
 
-    # li "Can't wait. *Laughs*"
-    li ""
+    # li "Can't wait."
+    li "Can't wait."
 
-# game/v2/scene24.rpy:1388
-translate francais v2s24_bf7f6b61:
+# game/v2/scene24.rpy:1383
+translate francais v2s24_bf7f6b61_1:
 
     # u "I'm sorry, Linds... *Sighs*"
-    u ""
+    u "I'm sorry, Linds... *Sighs*"
 
-# game/v2/scene24.rpy:1393
-translate francais v2s24_bdf1cca1:
+# game/v2/scene24.rpy:1388
+translate francais v2s24_bdf1cca1_1:
 
     # li "Oh no! What happened?"
-    li ""
+    li "Oh no! What happened?"
 
-# game/v2/scene24.rpy:1398
-translate francais v2s24_dd50ff4b:
+# game/v2/scene24.rpy:1393
+translate francais v2s24_dd50ff4b_1:
 
     # u "That guy is like a brick wall. He wouldn't listen to me, no matter what I said."
-    u ""
+    u "That guy is like a brick wall. He wouldn't listen to me, no matter what I said."
 
-# game/v2/scene24.rpy:1403
-translate francais v2s24_31c39197:
+# game/v2/scene24.rpy:1398
+translate francais v2s24_4633788a_1:
 
-    # li "Really? Ugh... This sucks."
-    li ""
+    # li "Really? Ugh. This sucks."
+    li "Really? Ugh. This sucks."
 
-# game/v2/scene24.rpy:1405
-translate francais v2s24_262eb29b:
+# game/v2/scene24.rpy:1400
+translate francais v2s24_262eb29b_1:
 
     # li "Well, I guess we'll be having mocktails instead."
-    li ""
+    li "Well, I guess we'll be having mocktails instead."
 
-# game/v2/scene24.rpy:1410
-translate francais v2s24_5b402c64:
+# game/v2/scene24.rpy:1405
+translate francais v2s24_5b402c64_1:
 
     # u "Mocktails?"
-    u ""
+    u "Mocktails?"
+
+# game/v2/scene24.rpy:1410
+translate francais v2s24_c44d369e_1:
+
+    # li "Cocktails without alcohol. Still fun, I guess, but no buzz."
+    li "Cocktails without alcohol. Still fun, I guess, but no buzz."
 
 # game/v2/scene24.rpy:1415
-translate francais v2s24_07a664ee:
+translate francais v2s24_88aec919_1:
 
-    # li "Cocktails without alcohol, haha. Still fun I guess, but no buzz."
-    li ""
+    # u "Damn. I'm sorry I let you down."
+    u "Damn. I'm sorry I let you down."
 
 # game/v2/scene24.rpy:1420
-translate francais v2s24_047a5682:
-
-    # u "Damn, I'm sorry I let you down."
-    u ""
-
-# game/v2/scene24.rpy:1425
-translate francais v2s24_44d2392d:
+translate francais v2s24_44d2392d_1:
 
     # li "Oh, don't worry about it. I'm sure you did your best."
-    li ""
+    li "Oh, don't worry about it. I'm sure you did your best."
 
-# game/v2/scene24.rpy:1427
-translate francais v2s24_047c4d0e:
+# game/v2/scene24.rpy:1422
+translate francais v2s24_047c4d0e_1:
 
     # li "Besides, those IDs were pretty shit, which didn't help us."
-    li ""
+    li "Besides, those IDs were pretty shit, which didn't help us."
 
-# game/v2/scene24.rpy:1432
-translate francais v2s24_49071d16:
+# game/v2/scene24.rpy:1427
+translate francais v2s24_49071d16_1:
 
     # u "Ha, very true. Thanks for not being upset."
-    u ""
+    u "Ha, very true. Thanks for not being upset."
+
+# game/v2/scene24.rpy:1432
+translate francais v2s24_3fa3efd4_1:
+
+    # li "You're taking time out of your day to help me. I couldn't be upset that you tried."
+    li "You're taking time out of your day to help me. I couldn't be upset that you tried."
 
 # game/v2/scene24.rpy:1437
-translate francais v2s24_339114ab:
-
-    # li "You're taking time out of your day to help me, I couldn't be upset that you tried."
-    li ""
-
-# game/v2/scene24.rpy:1442
-translate francais v2s24_320458d9:
+translate francais v2s24_320458d9_1:
 
     # u "You're amazing."
-    u ""
+    u "You're amazing."
 
-# game/v2/scene24.rpy:1447
-translate francais v2s24_09add6b5:
+# game/v2/scene24.rpy:1442
+translate francais v2s24_09add6b5_1:
 
     # li "Yes. Yes, I am. *Giggles*"
-    li ""
+    li "Yes. Yes, I am. *Giggles*"
 
-# game/v2/scene24.rpy:1474
-translate francais v2s24_PhoneContinue_3be60011:
+# game/v2/scene24.rpy:1469
+translate francais v2s24_PhoneContinue_3be60011_1:
 
     # u "(I should reply to Aubrey)"
-    u ""
+    u "(I should reply to Aubrey)"
 
-# game/v2/scene24.rpy:1480
-translate francais v2s24_PhoneContinue_f7b95f15:
+# game/v2/scene24.rpy:1475
+translate francais v2s24_PhoneContinue_f7b95f15_1:
 
     # u "(I wonder what the surprise could be... Only one way to find out!)"
-    u ""
+    u "(I wonder what the surprise could be... Only one way to find out!)"
+
+# game/v2/scene24.rpy:1480
+translate francais v2s24_PhoneContinue_172fbb04_1:
+
+    # li "Are you being summoned?"
+    li "Are you being summoned?"
 
 # game/v2/scene24.rpy:1485
-translate francais v2s24_PhoneContinue_8756355d:
-
-    # li "Are you being summoned? Haha."
-    li ""
-
-# game/v2/scene24.rpy:1490
-translate francais v2s24_PhoneContinue_841bab75:
+translate francais v2s24_PhoneContinue_841bab75_1:
 
     # u "Yeah, looks like I'm needed elsewhere."
-    u ""
+    u "Yeah, looks like I'm needed elsewhere."
 
-# game/v2/scene24.rpy:1495
-translate francais v2s24_PhoneContinue_7ddc360d:
+# game/v2/scene24.rpy:1490
+translate francais v2s24_PhoneContinue_7ddc360d_1:
 
     # li "You're just a helpful kind of guy, huh?"
-    li ""
+    li "You're just a helpful kind of guy, huh?"
 
-# game/v2/scene24.rpy:1500
-translate francais v2s24_PhoneContinue_cbe5fa98:
+# game/v2/scene24.rpy:1495
+translate francais v2s24_PhoneContinue_cbe5fa98_1:
 
     # u "Mmm, yeah. That's me."
-    u ""
+    u "Mmm, yeah. That's me."
 
-# game/v2/scene24.rpy:1507
-translate francais v2s24_PhoneContinue_971abb3f:
+# game/v2/scene24.rpy:1502
+translate francais v2s24_PhoneContinue_971abb3f_1:
 
     # li "Okay, have fun. I'll see you soon, yeah? Thanks again."
-    li ""
+    li "Okay, have fun. I'll see you soon, yeah? Thanks again."
 
-# game/v2/scene24.rpy:1512
-translate francais v2s24_PhoneContinue_d7e91d7e:
+# game/v2/scene24.rpy:1507
+translate francais v2s24_PhoneContinue_d7e91d7e_1:
 
     # u "Yeah, no problem! See you later."
-    u ""
+    u "Yeah, no problem! See you later."
 
-# game/v2/scene24.rpy:1523
-translate francais v2s24_PhoneContinue_44060914:
+# game/v2/scene24.rpy:1518
+translate francais v2s24_PhoneContinue_44060914_1:
 
     # li "Well, good luck with whatever it is."
-    li ""
+    li "Well, good luck with whatever it is."
 
-# game/v2/scene24.rpy:1525
-translate francais v2s24_PhoneContinue_e14a7338:
+# game/v2/scene24.rpy:1520
+translate francais v2s24_PhoneContinue_e14a7338_1:
 
     # li "I need to go practice making mocktails, ha. Thanks again for trying, [name]."
-    li ""
+    li "I need to go practice making mocktails, ha. Thanks again for trying, [name]."
 
-# game/v2/scene24.rpy:1526
-translate francais v2s24_PhoneContinue_25d22c76:
+# game/v2/scene24.rpy:1521
+translate francais v2s24_PhoneContinue_25d22c76_1:
 
     # li "At least we saved some money."
-    li ""
+    li "At least we saved some money."
 
-# game/v2/scene24.rpy:1531
-translate francais v2s24_PhoneContinue_6c71f304:
+# game/v2/scene24.rpy:1526
+translate francais v2s24_PhoneContinue_6c71f304_1:
 
     # u "Of course. I'll see you later, Linds."
-    u ""
+    u "Of course. I'll see you later, Linds."
 
 translate francais strings:
 
     # game/v2/scene24.rpy:88
     old "Nancy Dick"
-    new ""
+    new "Nancy Dick"
 
     # game/v2/scene24.rpy:88
     old "Andrew King"
-    new ""
+    new "Andrew King"
 
     # game/v2/scene24.rpy:509
     old "Act offended"
-    new ""
-
-    # game/v2/scene24.rpy:509
-    old "Come clean"
-    new ""
+    new "Act offended"
 
     # game/v2/scene24.rpy:918
     old "Lawyer"
-    new ""
+    new "Lawyer"
 
     # game/v2/scene24.rpy:918
     old "Astronaut"
-    new ""
+    new "Astronaut"
 
-    # game/v2/scene24.rpy:1349
+    # game/v2/scene24.rpy:1346
     old "That sounds amazing"
-    new ""
+    new "That sounds amazing"
 
-    # game/v2/scene24.rpy:1349
+    # game/v2/scene24.rpy:1346
     old "Is that a good thing?"
-    new ""
+    new "Is that a good thing?"
 

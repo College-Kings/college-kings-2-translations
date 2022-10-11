@@ -1,780 +1,780 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene18e.rpy:55
-translate francais v2s18e_sg_03f17450:
+translate francais v2s18e_sg_bb320c69_1:
 
-    # u "(Hmm... Where should I start?)"
-    u ""
+    # u "(Hmm... where should I start?)"
+    u "(Hmm... where should I start?)"
+
+# game/v2/scene18e.rpy:71
+translate francais v2s18e_neck_6e0fcec5_1:
+
+    # la "Ooh... that feels nice."
+    la "Ooh... that feels nice."
 
 # game/v2/scene18e.rpy:73
-translate francais v2s18e_neck_09b0cc15:
-
-    # la "Ooh... That feels nice, hehe."
-    la ""
-
-# game/v2/scene18e.rpy:75
-translate francais v2s18e_neck_3a71af85:
+translate francais v2s18e_neck_3a71af85_1:
 
     # la "*Moans* I like it when you kiss me there."
-    la ""
+    la "*Moans* I like it when you kiss me there."
 
-# game/v2/scene18e.rpy:80
-translate francais v2s18e_neck_be8f093b:
+# game/v2/scene18e.rpy:78
+translate francais v2s18e_neck_be8f093b_1:
 
     # u "Well, I definitely like kissing you there..."
-    u ""
+    u "Well, I definitely like kissing you there..."
 
-# game/v2/scene18e.rpy:82
-translate francais v2s18e_neck_141f0207:
+# game/v2/scene18e.rpy:80
+translate francais v2s18e_neck_141f0207_1:
 
     # u "And here..."
-    u ""
+    u "And here..."
+
+# game/v2/scene18e.rpy:87
+translate francais v2s18e_neck_4f7a3ae5_1:
+
+    # la "Sorry, it kinda tickles, but..."
+    la "Sorry, it kinda tickles, but..."
 
 # game/v2/scene18e.rpy:89
-translate francais v2s18e_neck_160c2d3b:
+translate francais v2s18e_neck_f5514948_1:
 
-    # la "*Giggles* Sorry, it kinda tickles, but..."
-    la ""
+    # la "It's turning me on."
+    la "It's turning me on."
 
-# game/v2/scene18e.rpy:91
-translate francais v2s18e_neck_6f5d8c33:
-
-    # la "Mainly, it's turning me on, haha."
-    la ""
-
-# game/v2/scene18e.rpy:96
-translate francais v2s18e_neck_b3584199:
+# game/v2/scene18e.rpy:94
+translate francais v2s18e_neck_b3584199_1:
 
     # u "Ha, good."
-    u ""
+    u "Ha, good."
 
-# game/v2/scene18e.rpy:103
-translate francais v2s18e_neck_4dd8de53:
+# game/v2/scene18e.rpy:100
+translate francais v2s18e_neck_4dd8de53_1:
 
     # la "Oh-"
-    la ""
+    la "Oh-"
 
-# game/v2/scene18e.rpy:115
-translate francais v2s18e_neck_893d24f1:
+# game/v2/scene18e.rpy:112
+translate francais v2s18e_neck_893d24f1_1:
 
     # la "Wow, I..."
-    la ""
+    la "Wow, I..."
 
-# game/v2/scene18e.rpy:120
-translate francais v2s18e_neck_f3eb64ca:
+# game/v2/scene18e.rpy:117
+translate francais v2s18e_neck_f3eb64ca_1:
 
     # u "Is this okay?"
-    u ""
+    u "Is this okay?"
 
-# game/v2/scene18e.rpy:125
-translate francais v2s18e_neck_2867ae40:
+# game/v2/scene18e.rpy:122
+translate francais v2s18e_neck_b0b60c3c_1:
 
-    # la "Yeah, yeah... I just wasn't expecting it. *Chuckles*"
-    la ""
+    # la "Yeah... I just wasn't expecting it."
+    la "Yeah... I just wasn't expecting it."
 
-# game/v2/scene18e.rpy:145
-translate francais v2s18e_neck_d1dfad75:
+# game/v2/scene18e.rpy:142
+translate francais v2s18e_neck_45abbc46_1:
 
-    # la "Holy shit..."
-    la ""
+    # la "Oh, wow..."
+    la "Oh, wow..."
 
-# game/v2/scene18e.rpy:147
-translate francais v2s18e_neck_faae1d27:
+# game/v2/scene18e.rpy:144
+translate francais v2s18e_neck_faae1d27_1:
 
     # la "I always wondered what that felt like."
-    la ""
+    la "I always wondered what that felt like."
 
-# game/v2/scene18e.rpy:149
-translate francais v2s18e_neck_e70793a3:
+# game/v2/scene18e.rpy:146
+translate francais v2s18e_neck_e70793a3_1:
 
     # la "I didn't know if I'd like it."
-    la ""
+    la "I didn't know if I'd like it."
 
-# game/v2/scene18e.rpy:154
-translate francais v2s18e_neck_4af2c3a1:
+# game/v2/scene18e.rpy:151
+translate francais v2s18e_neck_6f4be0af_1:
 
-    # u "Well... Do you?"
-    u ""
+    # u "Well... do you?"
+    u "Well... do you?"
 
-# game/v2/scene18e.rpy:159
-translate francais v2s18e_neck_cbc0ddab:
+# game/v2/scene18e.rpy:156
+translate francais v2s18e_neck_cbc0ddab_1:
 
     # la "I..."
-    la ""
+    la "I..."
 
-# game/v2/scene18e.rpy:161
-translate francais v2s18e_neck_bb79a3df:
+# game/v2/scene18e.rpy:158
+translate francais v2s18e_neck_bb79a3df_1:
 
     # la "Yes. I do."
-    la ""
+    la "Yes. I do."
 
-# game/v2/scene18e.rpy:166
-translate francais v2s18e_neck_df6363e6:
+# game/v2/scene18e.rpy:163
+translate francais v2s18e_neck_145180e5_1:
 
-    # u "Ha, me too."
-    u ""
+    # u "Me too."
+    u "Me too."
 
-# game/v2/scene18e.rpy:181
-translate francais v2s18e_boobs_b9ef6f81:
+# game/v2/scene18e.rpy:177
+translate francais v2s18e_boobs_b9ef6f81_1:
 
     # la "Mmm..."
-    la ""
+    la "Mmm..."
 
-# game/v2/scene18e.rpy:186
-translate francais v2s18e_boobs_ce615001:
+# game/v2/scene18e.rpy:182
+translate francais v2s18e_boobs_d7cdb875_1:
 
-    # u "You have the most amazing tits, Lauren."
-    u ""
+    # u "You have the most amazing body, Lauren."
+    u "You have the most amazing body, Lauren."
 
-# game/v2/scene18e.rpy:191
-translate francais v2s18e_boobs_edfa0dc2:
+# game/v2/scene18e.rpy:187
+translate francais v2s18e_boobs_7fd1dbf0_1:
 
-    # la "Haha, thank you... *Moans*"
-    la ""
+    # la "T-thank you... *Moans*"
+    la "T-thank you... *Moans*"
 
-# game/v2/scene18e.rpy:196
-translate francais v2s18e_boobs_37fd9cd0:
+# game/v2/scene18e.rpy:192
+translate francais v2s18e_boobs_ecff91b9_1:
 
-    # u "They're so fucking big."
-    u ""
+    # u "You're incredible."
+    u "You're incredible."
 
-# game/v2/scene18e.rpy:201
-translate francais v2s18e_boobs_d2a4f2a1:
+# game/v2/scene18e.rpy:197
+translate francais v2s18e_boobs_0ff91788_1:
 
-    # la "Mmm, your hands feel good on them too."
-    la ""
+    # la "Your hands feel so good on me."
+    la "Your hands feel so good on me."
 
-# game/v2/scene18e.rpy:206
-translate francais v2s18e_boobs_3a47bc32:
+# game/v2/scene18e.rpy:202
+translate francais v2s18e_boobs_3a47bc32_1:
 
     # u "I could do this for hours."
-    u ""
+    u "I could do this for hours."
 
-# game/v2/scene18e.rpy:211
-translate francais v2s18e_boobs_be08630c:
+# game/v2/scene18e.rpy:207
+translate francais v2s18e_boobs_47a093a3_1:
 
-    # la "Ha... I wouldn't have a problem with that at all."
-    la ""
+    # la "I wouldn't have a problem with that."
+    la "I wouldn't have a problem with that."
 
-# game/v2/scene18e.rpy:216
-translate francais v2s18e_boobs_f828972d:
+# game/v2/scene18e.rpy:212
+translate francais v2s18e_boobs_f828972d_1:
 
     # u "(I bet you wouldn't... Hehe.)"
-    u ""
+    u "(I bet you wouldn't... Hehe.)"
 
-# game/v2/scene18e.rpy:223
-translate francais v2s18e_boobs_5e5709d0:
+# game/v2/scene18e.rpy:218
+translate francais v2s18e_boobs_488195e4_1:
 
-    # la "Oh, fuck..."
-    la ""
+    # la "Holy-"
+    la "Holy-"
 
-# game/v2/scene18e.rpy:225
-translate francais v2s18e_boobs_310c7ef8:
+# game/v2/scene18e.rpy:220
+translate francais v2s18e_boobs_310c7ef8_1:
 
     # la "*Moans* Yes, [name]..."
-    la ""
+    la "*Moans* Yes, [name]..."
 
-# game/v2/scene18e.rpy:227
-translate francais v2s18e_boobs_3be38de9:
+# game/v2/scene18e.rpy:222
+translate francais v2s18e_boobs_3be38de9_1:
 
     # la "I love that..."
-    la ""
+    la "I love that..."
 
-# game/v2/scene18e.rpy:233
-translate francais v2s18e_boobs_20e6c213:
+# game/v2/scene18e.rpy:228
+translate francais v2s18e_boobs_20e6c213_1:
 
     # u "I love you..."
-    u ""
+    u "I love you..."
 
-# game/v2/scene18e.rpy:238
-translate francais v2s18e_boobs_b8ab7f4d:
+# game/v2/scene18e.rpy:233
+translate francais v2s18e_boobs_b8ab7f4d_1:
 
     # la "Mmm, I love you too."
-    la ""
+    la "Mmm, I love you too."
 
-# game/v2/scene18e.rpy:243
-translate francais v2s18e_boobs_b56b03dd:
+# game/v2/scene18e.rpy:238
+translate francais v2s18e_boobs_b56b03dd_1:
 
     # u "They're so soft..."
-    u ""
+    u "They're so soft..."
 
-# game/v2/scene18e.rpy:248
-translate francais v2s18e_boobs_179e2782:
+# game/v2/scene18e.rpy:243
+translate francais v2s18e_boobs_179e2782_1:
 
     # la "Ha."
-    la ""
+    la "Ha."
 
-# game/v2/scene18e.rpy:258
-translate francais v2s18e_boobs_5e37cc14:
+# game/v2/scene18e.rpy:253
+translate francais v2s18e_boobs_5e37cc14_1:
 
     # la "Please..."
-    la ""
+    la "Please..."
 
-# game/v2/scene18e.rpy:260
-translate francais v2s18e_boobs_b9107e41:
+# game/v2/scene18e.rpy:255
+translate francais v2s18e_boobs_b9107e41_1:
 
     # la "Do something else to me."
-    la ""
+    la "Do something else to me."
 
-# game/v2/scene18e.rpy:265
-translate francais v2s18e_boobs_dcedc1ed:
+# game/v2/scene18e.rpy:260
+translate francais v2s18e_boobs_dcedc1ed_1:
 
     # u "Yes ma'am."
-    u ""
+    u "Yes ma'am."
 
-# game/v2/scene18e.rpy:280
-translate francais v2s18e_feet_44856a50:
+# game/v2/scene18e.rpy:274
+translate francais v2s18e_feet_5adc38a2_1:
 
-    # la "Oooh... Okay... *Chuckles*"
-    la ""
+    # la "Oooh... okay..."
+    la "Oooh... okay..."
 
-# game/v2/scene18e.rpy:285
-translate francais v2s18e_feet_bb7969cc:
+# game/v2/scene18e.rpy:279
+translate francais v2s18e_feet_bb7969cc_1:
 
     # u "How does this feel?"
-    u ""
+    u "How does this feel?"
 
-# game/v2/scene18e.rpy:290
-translate francais v2s18e_feet_6e6a4f18:
+# game/v2/scene18e.rpy:284
+translate francais v2s18e_feet_6e6a4f18_1:
 
     # la "I've never had a foot massage before."
-    la ""
+    la "I've never had a foot massage before."
 
-# game/v2/scene18e.rpy:292
-translate francais v2s18e_feet_51aedb53:
+# game/v2/scene18e.rpy:286
+translate francais v2s18e_feet_9e41f65d_1:
 
-    # la "But... Is it supposed to make me horny? *Laughs*"
-    la ""
+    # la "But... is it supposed to be arousing?"
+    la "But... is it supposed to be arousing?"
 
-# game/v2/scene18e.rpy:297
-translate francais v2s18e_feet_e087ea49:
+# game/v2/scene18e.rpy:291
+translate francais v2s18e_feet_ea2e285e_1:
 
-    # u "Haha... You like some foot attention, huh?"
-    u ""
+    # u "You like some foot attention, huh?"
+    u "You like some foot attention, huh?"
 
-# game/v2/scene18e.rpy:302
-translate francais v2s18e_feet_216d1041:
+# game/v2/scene18e.rpy:296
+translate francais v2s18e_feet_216d1041_1:
 
     # la "I think so, yeah..."
-    la ""
+    la "I think so, yeah..."
 
-# game/v2/scene18e.rpy:304
-translate francais v2s18e_feet_b444adb9:
+# game/v2/scene18e.rpy:298
+translate francais v2s18e_feet_399eb531_1:
 
-    # la "Wherever you touch me, though. It's just making me hornier..."
-    la ""
+    # la "Wherever you touch me... it's just... magical..."
+    la "Wherever you touch me... it's just... magical..."
 
-# game/v2/scene18e.rpy:309
-translate francais v2s18e_feet_d7098c9a:
+# game/v2/scene18e.rpy:303
+translate francais v2s18e_feet_2ca9fab5_1:
 
-    # u "Ha. Perfect."
-    u ""
+    # u "Perfect."
+    u "Perfect."
 
-# game/v2/scene18e.rpy:314
-translate francais v2s18e_feet_49a2ed61:
+# game/v2/scene18e.rpy:308
+translate francais v2s18e_feet_49a2ed61_2:
 
     # la "*Moans*"
-    la ""
+    la "*Moans*"
 
-# game/v2/scene18e.rpy:319
-translate francais v2s18e_feet_eb0f7ff7:
+# game/v2/scene18e.rpy:313
+translate francais v2s18e_feet_eb0f7ff7_1:
 
     # u "(Let's give her something else to moan about...)"
-    u ""
+    u "(Let's give her something else to moan about...)"
 
-# game/v2/scene18e.rpy:329
-translate francais v2s18e_feet_5ff79720:
+# game/v2/scene18e.rpy:321
+translate francais v2s18e_feet_ee5fc758_1:
 
-    # la "Ah! What are you- Oh...?"
-    la ""
+    # la "Ah! What are you-"
+    la "Ah! What are you-"
 
-# game/v2/scene18e.rpy:336
-translate francais v2s18e_feet_3b94cf7e:
+# game/v2/scene18e.rpy:328
+translate francais v2s18e_feet_26d2b484_1:
 
-    # la "Haha, wow..."
-    la ""
+    # la "Wow..."
+    la "Wow..."
 
-# game/v2/scene18e.rpy:338
-translate francais v2s18e_feet_0a260615:
+# game/v2/scene18e.rpy:330
+translate francais v2s18e_feet_bd86f31d_1:
 
-    # la "Now that was a nice surprise, hehe."
-    la ""
+    # la "That was a nice surprise."
+    la "That was a nice surprise."
 
-# game/v2/scene18e.rpy:343
-translate francais v2s18e_feet_34283c76:
+# game/v2/scene18e.rpy:335
+translate francais v2s18e_feet_34283c76_1:
 
     # u "Was it?"
-    u ""
+    u "Was it?"
 
-# game/v2/scene18e.rpy:348
-translate francais v2s18e_feet_8fac02ee:
+# game/v2/scene18e.rpy:340
+translate francais v2s18e_feet_8fac02ee_1:
 
     # la "You're really spoiling me, handsome..."
-    la ""
+    la "You're really spoiling me, handsome..."
 
-# game/v2/scene18e.rpy:353
-translate francais v2s18e_feet_39bccb91:
+# game/v2/scene18e.rpy:345
+translate francais v2s18e_feet_39bccb91_1:
 
     # u "It is your birthday, after all."
-    u ""
+    u "It is your birthday, after all."
 
-# game/v2/scene18e.rpy:358
-translate francais v2s18e_feet_49a2ed61_1:
+# game/v2/scene18e.rpy:350
+translate francais v2s18e_feet_49a2ed61_3:
 
     # la "*Moans*"
-    la ""
+    la "*Moans*"
 
-# game/v2/scene18e.rpy:360
-translate francais v2s18e_feet_d3ff0750:
+# game/v2/scene18e.rpy:352
+translate francais v2s18e_feet_dd9f991a_1:
 
-    # la "Haha, sorry... It-"
-    la ""
+    # la "Ha, sorry... it-"
+    la "Ha, sorry... it-"
 
-# game/v2/scene18e.rpy:365
-translate francais v2s18e_feet_21655ce9:
+# game/v2/scene18e.rpy:357
+translate francais v2s18e_feet_b0626861_1:
 
-    # u "Tickles? *Laughs*"
-    u ""
+    # u "Tickles?"
+    u "Tickles?"
 
-# game/v2/scene18e.rpy:370
-translate francais v2s18e_feet_002113c5:
+# game/v2/scene18e.rpy:362
+translate francais v2s18e_feet_002113c5_1:
 
     # la "A little..."
-    la ""
+    la "A little..."
 
-# game/v2/scene18e.rpy:375
-translate francais v2s18e_feet_fbb47231:
+# game/v2/scene18e.rpy:367
+translate francais v2s18e_feet_fbb47231_1:
 
     # u "We can move on then."
-    u ""
+    u "We can move on then."
 
-# game/v2/scene18e.rpy:384
-translate francais v2s18e_vagina_8fef71e1:
+# game/v2/scene18e.rpy:376
+translate francais v2s18e_vagina_d582ba9c_1:
 
-    # u "(Now for the finale... Haha.)"
-    u ""
+    # u "(The best for last.)"
+    u "(The best for last.)"
 
-# game/v2/scene18e.rpy:395
-translate francais v2s18e_end_2e25276b:
+# game/v2/scene18e.rpy:387
+translate francais v2s18e_end_776dbe72_1:
 
-    # u "You just back and relax, birthday girl."
-    u ""
+    # u "Just kick back and relax, birthday girl."
+    u "Just kick back and relax, birthday girl."
 
-# game/v2/scene18e.rpy:401
-translate francais v2s18e_end_b4b5c97f:
+# game/v2/scene18e.rpy:393
+translate francais v2s18e_end_b4b5c97f_1:
 
     # la "*Giggles* Okay."
-    la ""
+    la "*Giggles* Okay."
 
-# game/v2/scene18e.rpy:414
-translate francais v2s18e_end_79989736:
+# game/v2/scene18e.rpy:402
+translate francais v2s18e_end_073722ad_1:
 
-    # la "*Whispers* Fuck..."
-    la ""
+    # la "*Whispers* Oh..."
+    la "*Whispers* Oh..."
 
-# game/v2/scene18e.rpy:416
-translate francais v2s18e_end_3d8ebb0b:
+# game/v2/scene18e.rpy:404
+translate francais v2s18e_end_3d8ebb0b_1:
 
     # la "*Gasps* My God, [name]..."
-    la ""
+    la "*Gasps* My God, [name]..."
 
-# game/v2/scene18e.rpy:423
-translate francais v2s18e_end_49a2ed61:
+# game/v2/scene18e.rpy:411
+translate francais v2s18e_end_49a2ed61_3:
 
     # la "*Moans*"
-    la ""
+    la "*Moans*"
 
-# game/v2/scene18e.rpy:426
-translate francais v2s18e_end_e17db81c:
+# game/v2/scene18e.rpy:414
+translate francais v2s18e_end_84ca8271_1:
 
-    # la "This is... This feels..."
-    la ""
+    # la "This is... this feels..."
+    la "This is... this feels..."
 
-# game/v2/scene18e.rpy:428
-translate francais v2s18e_end_9eb90585:
+# game/v2/scene18e.rpy:416
+translate francais v2s18e_end_9eb90585_1:
 
     # la "It's even more amazing than our first time..."
-    la ""
+    la "It's even more amazing than our first time..."
 
-# game/v2/scene18e.rpy:430
-translate francais v2s18e_end_28ef932a:
+# game/v2/scene18e.rpy:418
+translate francais v2s18e_end_8f29462d_1:
 
-    # la "*Panting* Mmm, fuuuuck..."
-    la ""
+    # la "*Panting* Mmm..."
+    la "*Panting* Mmm..."
 
-# game/v2/scene18e.rpy:432
-translate francais v2s18e_end_facd09fd:
+# game/v2/scene18e.rpy:420
+translate francais v2s18e_end_facd09fd_1:
 
     # la "*Moans* Stop."
-    la ""
+    la "*Moans* Stop."
 
-# game/v2/scene18e.rpy:439
-translate francais v2s18e_end_ef2f1671:
+# game/v2/scene18e.rpy:427
+translate francais v2s18e_end_ef2f1671_2:
 
     # u "What?"
-    u ""
+    u "What?"
 
-# game/v2/scene18e.rpy:444
-translate francais v2s18e_end_43320f3d:
+# game/v2/scene18e.rpy:432
+translate francais v2s18e_end_43320f3d_1:
 
     # la "Stand up."
-    la ""
+    la "Stand up."
 
-# game/v2/scene18e.rpy:454
-translate francais v2s18e_end_815fc0d8:
+# game/v2/scene18e.rpy:442
+translate francais v2s18e_end_815fc0d8_1:
 
     # la "Let me taste you now. Please?"
-    la ""
+    la "Let me taste you now. Please?"
 
-# game/v2/scene18e.rpy:469
-translate francais v2s18e_end_0bf990a7:
+# game/v2/scene18e.rpy:453
+translate francais v2s18e_end_0bf990a7_1:
 
     # la "*Gagging*"
-    la ""
+    la "*Gagging*"
 
-# game/v2/scene18e.rpy:471
-translate francais v2s18e_end_c5f69962:
+# game/v2/scene18e.rpy:455
+translate francais v2s18e_end_daaba5f0_1:
 
-    # u "*Moans* Oh, fuck! (She took it so deep straight away...)"
-    u ""
+    # u "*Moans* Whoa! (She took it so deep straight away...)"
+    u "*Moans* Whoa! (She took it so deep straight away...)"
 
-# game/v2/scene18e.rpy:478
-translate francais v2s18e_end_4e263bf9:
+# game/v2/scene18e.rpy:462
+translate francais v2s18e_end_4e263bf9_1:
 
     # la "Mhmm..."
-    la ""
+    la "Mhmm..."
 
-# game/v2/scene18e.rpy:480
-translate francais v2s18e_end_0433e828:
+# game/v2/scene18e.rpy:464
+translate francais v2s18e_end_0433e828_1:
 
     # u "You like that?"
-    u ""
+    u "You like that?"
 
-# game/v2/scene18e.rpy:490
-translate francais v2s18e_end_bb6ebe06:
+# game/v2/scene18e.rpy:470
+translate francais v2s18e_end_bb6ebe06_1:
 
     # la "*Gagging* Mhmm!"
-    la ""
+    la "*Gagging* Mhmm!"
 
-# game/v2/scene18e.rpy:492
-translate francais v2s18e_end_f7f95d40:
+# game/v2/scene18e.rpy:472
+translate francais v2s18e_end_f7f95d40_1:
 
     # u "Ahh, shit..."
-    u ""
+    u "Ahh, shit..."
 
-# game/v2/scene18e.rpy:499
-translate francais v2s18e_end_d46f99bd:
+# game/v2/scene18e.rpy:479
+translate francais v2s18e_end_fb6874ee_1:
 
-    # u "Fuck Lauren... *Moans*"
-    u ""
+    # u "Lauren... *Moans*"
+    u "Lauren... *Moans*"
 
-# game/v2/scene18e.rpy:501
-translate francais v2s18e_end_b8a4a21d:
+# game/v2/scene18e.rpy:481
+translate francais v2s18e_end_77c06e23_1:
 
-    # u "You... You're going to make me-"
-    u ""
+    # u "You... you're going to make me-"
+    u "You... you're going to make me-"
 
-# game/v2/scene18e.rpy:508
-translate francais v2s18e_end_eb1be9a3:
+# game/v2/scene18e.rpy:488
+translate francais v2s18e_end_eb1be9a3_1:
 
     # u "Lauren... Lauren!"
-    u ""
+    u "Lauren... Lauren!"
 
-# game/v2/scene18e.rpy:513
-translate francais v2s18e_end_6e57b3e9:
+# game/v2/scene18e.rpy:493
+translate francais v2s18e_end_6e57b3e9_1:
 
     # la "Hmm? What?"
-    la ""
+    la "Hmm? What?"
 
-# game/v2/scene18e.rpy:518
-translate francais v2s18e_end_a4de9381:
+# game/v2/scene18e.rpy:498
+translate francais v2s18e_end_f32d3887_1:
 
-    # u "You're gonna make me cum, haha."
-    u ""
+    # u "You're gonna make me cum."
+    u "You're gonna make me cum."
 
-# game/v2/scene18e.rpy:523
-translate francais v2s18e_end_ef7c2507:
+# game/v2/scene18e.rpy:503
+translate francais v2s18e_end_3ae7c7c4_1:
 
-    # la "Oh... Well then, get in me already, would you?"
-    la ""
+    # la "Oh... well, then, get in me already, would you?"
+    la "Oh... well, then, get in me already, would you?"
 
-# game/v2/scene18e.rpy:538
-translate francais v2s18e_end_4df5faff:
+# game/v2/scene18e.rpy:514
+translate francais v2s18e_end_4df5faff_1:
 
     # la "I... *Moans* I love this position."
-    la ""
+    la "I... *Moans* I love this position."
 
-# game/v2/scene18e.rpy:540
-translate francais v2s18e_end_9b73173f:
+# game/v2/scene18e.rpy:516
+translate francais v2s18e_end_9b73173f_1:
 
     # u "*Panting* Yeah?"
-    u ""
+    u "*Panting* Yeah?"
 
-# game/v2/scene18e.rpy:547
-translate francais v2s18e_end_49a2ed61_1:
-
-    # la "*Moans*"
-    la ""
-
-# game/v2/scene18e.rpy:549
-translate francais v2s18e_end_e66ec308:
-
-    # la "You're so... fucking deep inside of me..."
-    la ""
-
-# game/v2/scene18e.rpy:559
-translate francais v2s18e_end_29c23e34:
-
-    # la "*Whispers* Oh, fuck..."
-    la ""
-
-# game/v2/scene18e.rpy:561
-translate francais v2s18e_end_622dd07a:
-
-    # u "You're so fucking wet, ha..."
-    u ""
-
-# game/v2/scene18e.rpy:568
-translate francais v2s18e_end_49a2ed61_2:
+# game/v2/scene18e.rpy:523
+translate francais v2s18e_end_49a2ed61_4:
 
     # la "*Moans*"
-    la ""
+    la "*Moans*"
 
-# game/v2/scene18e.rpy:570
-translate francais v2s18e_end_8f13a6a2:
+# game/v2/scene18e.rpy:525
+translate francais v2s18e_end_321f57fd_1:
+
+    # la "You're so... deep inside of me..."
+    la "You're so... deep inside of me..."
+
+# game/v2/scene18e.rpy:531
+translate francais v2s18e_end_6cdc621a_1:
+
+    # la "*Whispers* I can barely take it..."
+    la "*Whispers* I can barely take it..."
+
+# game/v2/scene18e.rpy:533
+translate francais v2s18e_end_a9d7e8d2_1:
+
+    # u "You're so wet, you're doing great..."
+    u "You're so wet, you're doing great..."
+
+# game/v2/scene18e.rpy:540
+translate francais v2s18e_end_49a2ed61_5:
+
+    # la "*Moans*"
+    la "*Moans*"
+
+# game/v2/scene18e.rpy:542
+translate francais v2s18e_end_8f13a6a2_1:
 
     # la "Grab all of me..."
-    la ""
+    la "Grab all of me..."
 
-# game/v2/scene18e.rpy:575
-translate francais v2s18e_end_cc7c7f45:
+# game/v2/scene18e.rpy:547
+translate francais v2s18e_end_cc7c7f45_1:
 
     # u "They're almost too big..."
-    u ""
+    u "They're almost too big..."
 
-# game/v2/scene18e.rpy:580
-translate francais v2s18e_end_319dd015:
+# game/v2/scene18e.rpy:552
+translate francais v2s18e_end_319dd015_1:
 
     # la "They fit perfectly in your hands-"
-    la ""
+    la "They fit perfectly in your hands-"
 
-# game/v2/scene18e.rpy:582
-translate francais v2s18e_end_d930b72d:
+# game/v2/scene18e.rpy:554
+translate francais v2s18e_end_d930b72d_1:
 
     # la "Oh! *Moans*"
-    la ""
+    la "Oh! *Moans*"
 
-# game/v2/scene18e.rpy:587
-translate francais v2s18e_end_821aa421:
+# game/v2/scene18e.rpy:559
+translate francais v2s18e_end_821aa421_1:
 
     # u "Everything about you fits perfectly in my hands..."
-    u ""
+    u "Everything about you fits perfectly in my hands..."
 
-# game/v2/scene18e.rpy:592
-translate francais v2s18e_end_f82c184b:
+# game/v2/scene18e.rpy:564
+translate francais v2s18e_end_3f2bff1c_1:
 
-    # la "Ha... Mmm..."
-    la ""
+    # la "Ha... mmm..."
+    la "Ha... mmm..."
 
-# game/v2/scene18e.rpy:597
-translate francais v2s18e_end_11ffce7b:
+# game/v2/scene18e.rpy:569
+translate francais v2s18e_end_11ffce7b_1:
 
     # u "You're absolutely stunning..."
-    u ""
+    u "You're absolutely stunning..."
 
-# game/v2/scene18e.rpy:607
-translate francais v2s18e_end_82720830:
+# game/v2/scene18e.rpy:575
+translate francais v2s18e_end_82720830_1:
 
     # la "Yes... I'm gonna-"
-    la ""
+    la "Yes... I'm gonna-"
 
-# game/v2/scene18e.rpy:609
-translate francais v2s18e_end_955303a1:
+# game/v2/scene18e.rpy:577
+translate francais v2s18e_end_955303a1_1:
 
     # la "I'm about to... *Moans*"
-    la ""
+    la "I'm about to... *Moans*"
 
-# game/v2/scene18e.rpy:616
-translate francais v2s18e_end_12ca84c2:
+# game/v2/scene18e.rpy:584
+translate francais v2s18e_end_12ca84c2_1:
 
     # u "(Not yet you aren't.)"
-    u ""
+    u "(Not yet you aren't.)"
 
-# game/v2/scene18e.rpy:618
-translate francais v2s18e_end_7f7c019d:
+# game/v2/scene18e.rpy:586
+translate francais v2s18e_end_7f7c019d_1:
 
     # la "Hmm?"
-    la ""
+    la "Hmm?"
 
-# game/v2/scene18e.rpy:633
-translate francais v2s18e_end_5e5709d0:
+# game/v2/scene18e.rpy:597
+translate francais v2s18e_end_6f2571e4_1:
 
-    # la "Oh, fuck..."
-    la ""
+    # la "[name]..."
+    la "[name]..."
 
-# game/v2/scene18e.rpy:635
-translate francais v2s18e_end_f3eb64ca:
+# game/v2/scene18e.rpy:599
+translate francais v2s18e_end_f3eb64ca_1:
 
     # u "Is this okay?"
-    u ""
+    u "Is this okay?"
 
-# game/v2/scene18e.rpy:642
-translate francais v2s18e_end_49deecff:
+# game/v2/scene18e.rpy:606
+translate francais v2s18e_end_bd815925_1:
 
-    # la "It's- *Moans*"
-    la ""
+    # la "It's-"
+    la "It's-"
 
-# game/v2/scene18e.rpy:644
-translate francais v2s18e_end_16fc26b6:
+# game/v2/scene18e.rpy:608
+translate francais v2s18e_end_7072b15d_1:
 
-    # u "(Fuck, she's so tight...)"
-    u ""
+    # u "(She's so tight, it's insane...)"
+    u "(She's so tight, it's insane...)"
 
-# game/v2/scene18e.rpy:654
-translate francais v2s18e_end_7adb25ba:
+# game/v2/scene18e.rpy:614
+translate francais v2s18e_end_7adb25ba_1:
 
     # la "You feel so good, [name]."
-    la ""
+    la "You feel so good, [name]."
 
-# game/v2/scene18e.rpy:656
-translate francais v2s18e_end_d37cfc1d:
+# game/v2/scene18e.rpy:616
+translate francais v2s18e_end_e992f977_1:
 
-    # la "Fuck me! *Moans* Please, [name]!"
-    la ""
+    # la "Keep going! Please, please don't stop!"
+    la "Keep going! Please, please don't stop!"
 
-# game/v2/scene18e.rpy:663
-translate francais v2s18e_end_064ea0da:
+# game/v2/scene18e.rpy:623
+translate francais v2s18e_end_064ea0da_1:
 
     # u "I'm gonna cum..."
-    u ""
+    u "I'm gonna cum..."
 
-# game/v2/scene18e.rpy:665
-translate francais v2s18e_end_8d6caedd:
+# game/v2/scene18e.rpy:625
+translate francais v2s18e_end_8d6caedd_1:
 
     # la "Cum inside of me."
-    la ""
+    la "Cum inside of me."
 
-# game/v2/scene18e.rpy:672
-translate francais v2s18e_end_ef2f1671_1:
+# game/v2/scene18e.rpy:632
+translate francais v2s18e_end_ef2f1671_3:
 
     # u "What?"
-    u ""
+    u "What?"
 
-# game/v2/scene18e.rpy:677
-translate francais v2s18e_end_19ac98aa:
+# game/v2/scene18e.rpy:637
+translate francais v2s18e_end_19ac98aa_1:
 
     # la "I want to feel it..."
-    la ""
+    la "I want to feel it..."
 
-# game/v2/scene18e.rpy:679
-translate francais v2s18e_end_dc599aac:
+# game/v2/scene18e.rpy:639
+translate francais v2s18e_end_dc599aac_1:
 
     # la "Please, [name]."
-    la ""
+    la "Please, [name]."
 
-# game/v2/scene18e.rpy:684
-translate francais v2s18e_end_762bb9a3:
+# game/v2/scene18e.rpy:644
+translate francais v2s18e_end_762bb9a3_1:
 
     # u "Shiittt... *Moans*"
-    u ""
+    u "Shiittt... *Moans*"
 
-# game/v2/scene18e.rpy:686
-translate francais v2s18e_end_a7ef659c:
+# game/v2/scene18e.rpy:646
+translate francais v2s18e_end_a7ef659c_1:
 
     # u "(Should I give her what she wants?)"
-    u ""
+    u "(Should I give her what she wants?)"
 
-# game/v2/scene18e.rpy:697
-translate francais v2s18e_end_47ee8761:
+# game/v2/scene18e.rpy:657
+translate francais v2s18e_end_47ee8761_1:
 
     # u "(As you wish.)"
-    u ""
+    u "(As you wish.)"
 
-# game/v2/scene18e.rpy:702
-translate francais v2s18e_end_80d6b9e5:
+# game/v2/scene18e.rpy:662
+translate francais v2s18e_end_80d6b9e5_1:
 
     # u "Oh, Laur-"
-    u ""
+    u "Oh, Laur-"
 
-# game/v2/scene18e.rpy:707
-translate francais v2s18e_end_1895e6bd:
+# game/v2/scene18e.rpy:667
+translate francais v2s18e_end_e4e567a2_1:
 
-    # la "*Gasps* Yes, [name]... Yes! *Moans*"
-    la ""
+    # la "*Gasps* Yes, [name]... yes! *Moans*"
+    la "*Gasps* Yes, [name]... yes! *Moans*"
 
-# game/v2/scene18e.rpy:714
-translate francais v2s18e_end_f3e511e4:
+# game/v2/scene18e.rpy:674
+translate francais v2s18e_end_f3e511e4_1:
 
     # u "(Not taking any chances tonight... Sorry, Lauren.)"
-    u ""
+    u "(Not taking any chances tonight... Sorry, Lauren.)"
 
-# game/v2/scene18e.rpy:724
-translate francais v2s18e_end_80acc26b:
+# game/v2/scene18e.rpy:684
+translate francais v2s18e_end_80acc26b_1:
 
     # u "*Panting* Ssshhhit..."
-    u ""
+    u "*Panting* Ssshhhit..."
 
-# game/v2/scene18e.rpy:729
-translate francais v2s18e_end_1f3b9bda:
+# game/v2/scene18e.rpy:689
+translate francais v2s18e_end_5100e324_1:
 
-    # la "Haha... Oh my-"
-    la ""
+    # la "Oh my-"
+    la "Oh my-"
 
-# game/v2/scene18e.rpy:734
-translate francais v2s18e_end_2d098978:
+# game/v2/scene18e.rpy:694
+translate francais v2s18e_end_8c5c8d09_1:
 
-    # u "Fuck."
-    u ""
+    # u "Whew."
+    u "Whew."
 
-# game/v2/scene18e.rpy:739
-translate francais v2s18e_end_d80b57c3:
+# game/v2/scene18e.rpy:699
+translate francais v2s18e_end_d80b57c3_1:
 
     # la "That was the perfect way to end my birthday..."
-    la ""
+    la "That was the perfect way to end my birthday..."
 
-# game/v2/scene18e.rpy:744
-translate francais v2s18e_end_fc87958b:
+# game/v2/scene18e.rpy:704
+translate francais v2s18e_end_489878ad_1:
 
-    # u "Haha, agreed."
-    u ""
+    # u "Agreed."
+    u "Agreed."
 
-# game/v2/scene18e.rpy:749
-translate francais v2s18e_end_0c6dea79:
+# game/v2/scene18e.rpy:709
+translate francais v2s18e_end_93090859_1:
 
-    # la "I'm gonna go clean up, I'll meet you under the sheets?"
-    la ""
+    # la "I'm gonna go clean up. I'll meet you under the sheets?"
+    la "I'm gonna go clean up. I'll meet you under the sheets?"
 
-# game/v2/scene18e.rpy:754
-translate francais v2s18e_end_6e7a4c4b:
+# game/v2/scene18e.rpy:714
+translate francais v2s18e_end_6e7a4c4b_1:
 
     # u "Sounds great."
-    u ""
+    u "Sounds great."
 
-# game/v2/scene18e.rpy:778
-translate francais v2s18e_end_abc5a6a4:
+# game/v2/scene18e.rpy:740
+translate francais v2s18e_nsfwSkipLabel1_22691a11_1:
 
-    # u "(What a fucking party...) *Laughs*"
-    u ""
+    # u "(What a fucking party...)"
+    u "(What a fucking party...)"
 
 translate francais strings:
 
     # game/v2/scene18e.rpy:64
     old "Kiss"
-    new ""
+    new "Kiss"
 
     # game/v2/scene18e.rpy:64
     old "Choke"
-    new ""
+    new "Choke"
 
-    # game/v2/scene18e.rpy:175
+    # game/v2/scene18e.rpy:172
     old "Massage"
-    new ""
+    new "Massage"
 
-    # game/v2/scene18e.rpy:175
+    # game/v2/scene18e.rpy:172
     old "Suck"
-    new ""
+    new "Suck"
 
-    # game/v2/scene18e.rpy:688
+    # game/v2/scene18e.rpy:648
     old "Cum inside her"
-    new ""
+    new "Cum inside her"
 

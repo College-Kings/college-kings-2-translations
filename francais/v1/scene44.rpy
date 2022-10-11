@@ -1,382 +1,382 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene44.rpy:32
-translate francais v1s44_990bd683:
+translate francais v1s44_990bd683_1:
 
     # u "So you're supporting Chloe???"
-    u ""
+    u "So you're supporting Chloe???"
 
 # game/v1/scene44.rpy:47
-translate francais v1s44_f957467d:
+translate francais v1s44_f957467d_1:
 
     # el "Yes. She's the logical choice."
-    el ""
+    el "Yes. She's the logical choice."
 
 # game/v1/scene44.rpy:52
-translate francais v1s44_b8fbb209:
+translate francais v1s44_b8fbb209_1:
 
     # u "What makes you say that?"
-    u ""
+    u "What makes you say that?"
 
 # game/v1/scene44.rpy:57
-translate francais v1s44_ce3dcacb:
+translate francais v1s44_ce3dcacb_1:
 
     # el "She's already President, so she's experienced. Again, logical choice."
-    el ""
+    el "She's already President, so she's experienced. Again, logical choice."
 
 # game/v1/scene44.rpy:62
-translate francais v1s44_5cc79439:
+translate francais v1s44_860579d7_1:
 
-    # u "Is logic the only reason why you vote for things? *Chuckles*"
-    u ""
+    # u "Is logic the only reason why you vote for things?"
+    u "Is logic the only reason why you vote for things?"
 
 # game/v1/scene44.rpy:67
-translate francais v1s44_d2a1b2f9:
+translate francais v1s44_d2a1b2f9_1:
 
     # el "Why should we vote any differently? If the choice doesn't make logical sense, then why would I choose it?"
-    el ""
+    el "Why should we vote any differently? If the choice doesn't make logical sense, then why would I choose it?"
 
 # game/v1/scene44.rpy:72
-translate francais v1s44_101c876c:
+translate francais v1s44_3662f636_1:
 
-    # u "New opportunities... Personal feelings... Etc?"
-    u ""
+    # u "New opportunities... personal feelings... other stuff, you know?"
+    u "New opportunities... personal feelings... other stuff, you know?"
 
 # game/v1/scene44.rpy:77
-translate francais v1s44_ce893dff:
+translate francais v1s44_ce893dff_1:
 
     # el "Nah, I'm sticking with Chloe. I trust tested waters over new boots."
-    el ""
+    el "Nah, I'm sticking with Chloe. I trust tested waters over new boots."
 
 # game/v1/scene44.rpy:82
-translate francais v1s44_fcc18885:
+translate francais v1s44_437382fd_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "Ha, okay, sure."
+    u "Ha, okay, sure."
 
 # game/v1/scene44.rpy:87
-translate francais v1s44_dd6b8acd:
+translate francais v1s44_dd6b8acd_1:
 
     # el "What?"
-    el ""
+    el "What?"
 
 # game/v1/scene44.rpy:92
-translate francais v1s44_07d4206a:
+translate francais v1s44_07d4206a_1:
 
     # u "Just the way you said that, it was funny."
-    u ""
+    u "Just the way you said that, it was funny."
 
 # game/v1/scene44.rpy:97
-translate francais v1s44_10ef6153:
+translate francais v1s44_10ef6153_1:
 
     # el "*Scoffs* Anyway... Who are you supporting?"
-    el ""
+    el "*Scoffs* Anyway... Who are you supporting?"
 
 # game/v1/scene44.rpy:109
-translate francais v1s44_d0141848:
+translate francais v1s44_d0141848_1:
 
     # u "I'm also supporting Chloe."
-    u ""
+    u "I'm also supporting Chloe."
 
 # game/v1/scene44.rpy:115
-translate francais v1s44_703460ca:
+translate francais v1s44_703460ca_1:
 
     # el "See? Good, logical choice."
-    el ""
+    el "See? Good, logical choice."
 
 # game/v1/scene44.rpy:120
-translate francais v1s44_e3767532:
+translate francais v1s44_e3767532_1:
 
     # u "Ha. Yeah."
-    u ""
+    u "Ha. Yeah."
 
 # game/v1/scene44.rpy:130
-translate francais v1s44_6d7995b4:
+translate francais v1s44_6d7995b4_1:
 
     # u "I'm gonna see what Lindsey has to offer."
-    u ""
+    u "I'm gonna see what Lindsey has to offer."
 
 # game/v1/scene44.rpy:135
-translate francais v1s44_5f3a155f:
+translate francais v1s44_5f3a155f_1:
 
     # el "*Scoffs* Good luck with that."
-    el ""
+    el "*Scoffs* Good luck with that."
 
 # game/v1/scene44.rpy:140
-translate francais v1s44_101a0289:
+translate francais v1s44_101a0289_1:
 
     # u "What do you have against her?"
-    u ""
+    u "What do you have against her?"
 
 # game/v1/scene44.rpy:145
-translate francais v1s44_1d2c61df:
+translate francais v1s44_1d2c61df_1:
 
     # el "It's not that I have anything against her, dude."
-    el ""
+    el "It's not that I have anything against her, dude."
 
 # game/v1/scene44.rpy:147
-translate francais v1s44_baa9a6da:
+translate francais v1s44_baa9a6da_1:
 
     # el "I'm used to Chloe being President, you know?"
-    el ""
+    el "I'm used to Chloe being President, you know?"
 
 # game/v1/scene44.rpy:152
-translate francais v1s44_68e51484:
+translate francais v1s44_933d66dd_1:
 
-    # u "Yeah, I think everyone is. That's why most people are voting for Lindsey, ha."
-    u ""
+    # u "Yeah, I think everyone is. That's why most people are voting for Lindsey."
+    u "Yeah, I think everyone is. That's why most people are voting for Lindsey."
 
-# game/v1/scene44.rpy:158
-translate francais v1s44_b6304111:
+# game/v1/scene44.rpy:155
+translate francais v1s44_b6304111_1:
 
     # el "Hmm..."
-    el ""
+    el "Hmm..."
 
-# game/v1/scene44.rpy:175
-translate francais v1s44_6a1de0e6:
+# game/v1/scene44.rpy:172
+translate francais v1s44_6a1de0e6_1:
 
     # elm "Elijah, are you coming? I've been waiting over there for-"
-    elm ""
+    elm "Elijah, are you coming? I've been waiting over there for-"
 
-# game/v1/scene44.rpy:180
-translate francais v1s44_7df87120:
+# game/v1/scene44.rpy:177
+translate francais v1s44_7df87120_1:
 
     # el "Yes mom, I'm coming. I was just talking to-"
-    el ""
+    el "Yes mom, I'm coming. I was just talking to-"
 
-# game/v1/scene44.rpy:185
-translate francais v1s44_55f8999e:
+# game/v1/scene44.rpy:182
+translate francais v1s44_55f8999e_1:
 
     # elm "Wait a minute..."
-    elm ""
+    elm "Wait a minute..."
 
-# game/v1/scene44.rpy:195
-translate francais v1s44_055a46f7:
+# game/v1/scene44.rpy:192
+translate francais v1s44_055a46f7_1:
 
     # elm "You didn't tell me you had a friend with you?!"
-    elm ""
+    elm "You didn't tell me you had a friend with you?!"
 
-# game/v1/scene44.rpy:200
-translate francais v1s44_420d299b:
+# game/v1/scene44.rpy:197
+translate francais v1s44_420d299b_1:
 
     # el "I don't..."
-    el ""
+    el "I don't..."
 
-# game/v1/scene44.rpy:205
-translate francais v1s44_7daa96fd:
+# game/v1/scene44.rpy:202
+translate francais v1s44_7daa96fd_1:
 
     # elm "Well, for fuck's sake Eli. It wouldn't kill you to try and make one."
-    elm ""
+    elm "Well, for fuck's sake Eli. It wouldn't kill you to try and make one."
 
-# game/v1/scene44.rpy:210
-translate francais v1s44_b84514a9:
+# game/v1/scene44.rpy:207
+translate francais v1s44_b84514a9_1:
 
     # el "*Sighs* Can we just go? Come on. Get back in the car before more people see you..."
-    el ""
+    el "*Sighs* Can we just go? Come on. Get back in the car before more people see you..."
 
-# game/v1/scene44.rpy:215
-translate francais v1s44_df04c0e6:
+# game/v1/scene44.rpy:212
+translate francais v1s44_df04c0e6_1:
 
     # elm "I apologize for my son, he can be rude from time to time. It was nice meeting you..."
-    elm ""
+    elm "I apologize for my son, he can be rude from time to time. It was nice meeting you..."
 
-# game/v1/scene44.rpy:223
-translate francais v1s44_906208de:
+# game/v1/scene44.rpy:219
+translate francais v1s44_906208de_1:
 
     # u "[name]."
-    u ""
+    u "[name]."
 
-# game/v1/scene44.rpy:228
-translate francais v1s44_b5e335cf:
+# game/v1/scene44.rpy:224
+translate francais v1s44_b5e335cf_1:
 
     # elm "[name], very good."
-    elm ""
+    elm "[name], very good."
 
-# game/v1/scene44.rpy:233
-translate francais v1s44_3c7a9c9f:
+# game/v1/scene44.rpy:229
+translate francais v1s44_3c7a9c9f_1:
 
     # el "*Sighs*"
-    el ""
+    el "*Sighs*"
 
-# game/v1/scene44.rpy:255
-translate francais v1s44_15931e4f:
+# game/v1/scene44.rpy:251
+translate francais v1s44_15931e4f_1:
 
     # u "[name]. Eli's friend."
-    u ""
+    u "[name]. Eli's friend."
 
-# game/v1/scene44.rpy:280
-translate francais v1s44_dfbae6a0:
+# game/v1/scene44.rpy:276
+translate francais v1s44_dfbae6a0_1:
 
     # elm "[name]. I'll remember that."
-    elm ""
+    elm "[name]. I'll remember that."
 
-# game/v1/scene44.rpy:285
-translate francais v1s44_892c559d:
+# game/v1/scene44.rpy:281
+translate francais v1s44_892c559d_1:
 
     # u "I hope so."
-    u ""
+    u "I hope so."
 
-# game/v1/scene44.rpy:305
-translate francais v1s44_8d37e3a3:
+# game/v1/scene44.rpy:301
+translate francais v1s44_3054bacc_1:
 
-    # elm "Alright, we're leaving. Bye, [name]!"
-    elm ""
+    # elm "All right, we're leaving. Bye, [name]!"
+    elm "All right, we're leaving. Bye, [name]!"
 
-# game/v1/scene44.rpy:319
-translate francais v1s44_9f4e5ec5:
+# game/v1/scene44.rpy:315
+translate francais v1s44_9f4e5ec5_1:
 
     # u "(I did not expect Elijah's mom to look like that. Damn...)"
-    u ""
+    u "(I did not expect Elijah's mom to look like that. Damn...)"
 
-# game/v1/scene44.rpy:344
-translate francais v1s44_8c047491:
+# game/v1/scene44.rpy:340
+translate francais v1s44_8c047491_1:
 
     # u "WHAT THE FUCK?! Imre!"
-    u ""
+    u "WHAT THE FUCK?! Imre!"
 
-# game/v1/scene44.rpy:346
-translate francais v1s44_ceacdc9f:
+# game/v1/scene44.rpy:342
+translate francais v1s44_ceacdc9f_1:
 
     # u "Why the fuck are you running up on me like that?!"
-    u ""
+    u "Why the fuck are you running up on me like that?!"
 
-# game/v1/scene44.rpy:351
-translate francais v1s44_a125cd67:
+# game/v1/scene44.rpy:347
+translate francais v1s44_15ef5a49_1:
 
-    # imre "*Laughs* Sorry, bro! My bad, my bad..."
-    imre ""
+    # imre "Sorry, bro! My bad, my bad..."
+    imre "Sorry, bro! My bad, my bad..."
 
-# game/v1/scene44.rpy:353
-translate francais v1s44_8f7c0e4e:
+# game/v1/scene44.rpy:349
+translate francais v1s44_8f7c0e4e_1:
 
     # imre "Now, who the FUCK was that with Elijah? His sister?"
-    imre ""
+    imre "Now, who the FUCK was that with Elijah? His sister?"
 
-# game/v1/scene44.rpy:358
-translate francais v1s44_04a2245a:
+# game/v1/scene44.rpy:354
+translate francais v1s44_a4e326b7_1:
 
-    # u "*Chuckles* Nah, dude. Try his Mom."
-    u ""
+    # u "Nah, dude. Try his mom."
+    u "Nah, dude. Try his mom."
 
-# game/v1/scene44.rpy:363
-translate francais v1s44_33211fab:
+# game/v1/scene44.rpy:359
+translate francais v1s44_ffc6c189_1:
 
-    # imre "His Mom?! You're fucking kidding-"
-    imre ""
+    # imre "His mom?! You're fucking kidding-"
+    imre "His mom?! You're fucking kidding-"
 
-# game/v1/scene44.rpy:365
-translate francais v1s44_e8cd660b:
+# game/v1/scene44.rpy:361
+translate francais v1s44_e8cd660b_1:
 
     # imre "Her? The one that just got in the car?"
-    imre ""
+    imre "Her? The one that just got in the car?"
 
-# game/v1/scene44.rpy:370
-translate francais v1s44_52bdc68c:
+# game/v1/scene44.rpy:366
+translate francais v1s44_7b41eee7_1:
 
-    # u "Haha, yes. Her."
-    u ""
+    # u "Ohhhh yeah. Her."
+    u "Ohhhh yeah. Her."
 
-# game/v1/scene44.rpy:375
-translate francais v1s44_e5d759dd:
+# game/v1/scene44.rpy:371
+translate francais v1s44_e5d759dd_1:
 
     # imre "That's the finest mom I've ever seen, [name]."
-    imre ""
+    imre "That's the finest mom I've ever seen, [name]."
 
-# game/v1/scene44.rpy:384
-translate francais v1s44_8395e69d:
+# game/v1/scene44.rpy:380
+translate francais v1s44_9fa86d66_1:
 
-    # u "She was pretty fucking hot. *Laughs*"
-    u ""
+    # u "She was pretty fucking hot."
+    u "She was pretty fucking hot."
 
-# game/v1/scene44.rpy:395
-translate francais v1s44_0880f098:
+# game/v1/scene44.rpy:391
+translate francais v1s44_0880f098_1:
 
     # u "Meh, she's not really my type."
-    u ""
+    u "Meh, she's not really my type."
 
-# game/v1/scene44.rpy:400
-translate francais v1s44_7fbf823b:
+# game/v1/scene44.rpy:396
+translate francais v1s44_7fbf823b_1:
 
     # imre "Are you kidding me???"
-    imre ""
+    imre "Are you kidding me???"
 
-# game/v1/scene44.rpy:402
-translate francais v1s44_964e3586:
+# game/v1/scene44.rpy:398
+translate francais v1s44_964e3586_1:
 
     # imre "I'm gonna have to apologize to my mom..."
-    imre ""
+    imre "I'm gonna have to apologize to my mom..."
 
-# game/v1/scene44.rpy:407
-translate francais v1s44_22f9cf2c:
+# game/v1/scene44.rpy:403
+translate francais v1s44_48c99239_1:
 
-    # u "Why? *Chuckles*"
-    u ""
+    # u "Why?"
+    u "Why?"
 
-# game/v1/scene44.rpy:412
-translate francais v1s44_6a8dbb7f:
+# game/v1/scene44.rpy:408
+translate francais v1s44_f497ac11_1:
 
-    # imre "'Cause I'm gonna have a new mommy here soon. Haha!"
-    imre ""
+    # imre "'Cause I'm gonna have a new mommy here soon."
+    imre "'Cause I'm gonna have a new mommy here soon."
 
-# game/v1/scene44.rpy:417
-translate francais v1s44_6f826349:
+# game/v1/scene44.rpy:413
+translate francais v1s44_7abf0c12_1:
 
-    # u "Oh my god, no. *Laughs* Imre."
-    u ""
+    # u "Ha! Oh my God, no. Imre. You're killing me."
+    u "Ha! Oh my God, no. Imre. You're killing me."
 
-# game/v1/scene44.rpy:419
-translate francais v1s44_3b83cba4:
+# game/v1/scene44.rpy:415
+translate francais v1s44_3b83cba4_1:
 
     # u "Don't say it like that. Ever again."
-    u ""
+    u "Don't say it like that. Ever again."
 
-# game/v1/scene44.rpy:424
-translate francais v1s44_7dca4922:
+# game/v1/scene44.rpy:420
+translate francais v1s44_9b2bc0c3_1:
 
-    # imre "It's the truth, bro."
-    imre ""
+    # imre "Mommy milkers or bust, bro. In fact, make that \"AND bust.\" I'm not ashamed, it's the truth."
+    imre "Mommy milkers or bust, bro. In fact, make that \"AND bust.\" I'm not ashamed, it's the truth."
 
-# game/v1/scene44.rpy:429
-translate francais v1s44_34ec2b8b:
+# game/v1/scene44.rpy:425
+translate francais v1s44_b62243d0_1:
 
-    # u "*Laughs* Okay. Then tell me another truth, what did you send-"
-    u ""
+    # u "Okay, bud. Then tell me another truth, what did you send-"
+    u "Okay, bud. Then tell me another truth, what did you send-"
 
-# game/v1/scene44.rpy:434
-translate francais v1s44_8869efff:
+# game/v1/scene44.rpy:430
+translate francais v1s44_8869efff_1:
 
     # imre "Sorry, [name]! I'll catch you later. I've got something fun planned and I'm about to be late."
-    imre ""
+    imre "Sorry, [name]! I'll catch you later. I've got something fun planned and I'm about to be late."
 
-# game/v1/scene44.rpy:439
-translate francais v1s44_6ef758af:
+# game/v1/scene44.rpy:435
+translate francais v1s44_6ef758af_1:
 
     # u "(Forgot all about the Riley thing, I guess? Either that or he's avoiding the hell out of it, ha.)"
-    u ""
+    u "(Forgot all about the Riley thing, I guess? Either that or he's avoiding the hell out of it, ha.)"
 
 translate francais strings:
 
     # game/v1/scene44.rpy:99
     old "Chloe"
-    new ""
+    new "Chloe"
 
     # game/v1/scene44.rpy:99
     old "Lindsey"
-    new ""
+    new "Lindsey"
 
-    # game/v1/scene44.rpy:217
+    # game/v1/scene44.rpy:214
     old "Introduce yourself"
-    new ""
+    new "Introduce yourself"
 
-    # game/v1/scene44.rpy:217
+    # game/v1/scene44.rpy:214
     old "I'm Eli's friend"
-    new ""
+    new "I'm Eli's friend"
 
-    # game/v1/scene44.rpy:380
+    # game/v1/scene44.rpy:376
     old "She was pretty hot"
-    new ""
+    new "She was pretty hot"
 
-    # game/v1/scene44.rpy:380
+    # game/v1/scene44.rpy:376
     old "Meh, not my type"
-    new ""
+    new "Meh, not my type"
 

@@ -1,0 +1,176 @@
+﻿# TODO: Translation updated at 2022-10-11 06:35
+
+# game/v1/scene41.rpy:11
+translate chinese v1s41_8d28b6b6_1:
+
+    # u "(Finally, time for some sleep.)"
+    u "(Finally, time for some sleep.)"
+
+# game/v1/scene41.rpy:20
+translate chinese v1s41_57ae9944_1:
+
+    # u "*Sighs*"
+    u "*Sighs*"
+
+# game/v1/scene41.rpy:25
+translate chinese v1s41_fcfea652_1:
+
+    # u "Hello?"
+    u "Hello?"
+
+# game/v1/scene41.rpy:30
+translate chinese v1s41_10197f9c_1:
+
+    # la "Sorry, babe... I'm sure I woke you but, I just had the most amazing experience!"
+    la "Sorry, babe... I'm sure I woke you but, I just had the most amazing experience!"
+
+# game/v1/scene41.rpy:35
+translate chinese v1s41_b898a6eb_1:
+
+    # u "What happened?"
+    u "What happened?"
+
+# game/v1/scene41.rpy:40
+translate chinese v1s41_804d26fd_1:
+
+    # la "Don't laugh, but..."
+    la "Don't laugh, but..."
+
+# game/v1/scene41.rpy:48
+translate chinese v1s41_c7eda0d5_1:
+
+    # la "I just masturbated for the first time and... it felt amazing."
+    la "I just masturbated for the first time and... it felt amazing."
+
+# game/v1/scene41.rpy:53
+translate chinese v1s41_67f14363_1:
+
+    # la "Honestly, I... I just want to keep going."
+    la "Honestly, I... I just want to keep going."
+
+# game/v1/scene41.rpy:58
+translate chinese v1s41_5d61fd8f_1:
+
+    # u "Wow. Well, I'm happy for you. You survived all that porn without going for it even sooner?"
+    u "Wow. Well, I'm happy for you. You survived all that porn without going for it even sooner?"
+
+# game/v1/scene41.rpy:63
+translate chinese v1s41_c354dace_1:
+
+    # la "Believe it or not, yes. This was my first time."
+    la "Believe it or not, yes. This was my first time."
+
+# game/v1/scene41.rpy:68
+translate chinese v1s41_67a205f0_1:
+
+    # u "Well, there certainly is a first time for everything."
+    u "Well, there certainly is a first time for everything."
+
+# game/v1/scene41.rpy:70
+translate chinese v1s41_d8cd7bed_1:
+
+    # u "(\"There's a first time for everything?\" The fuck am I on about? I need sleep...)"
+    u "(\"There's a first time for everything?\" The fuck am I on about? I need sleep...)"
+
+# game/v1/scene41.rpy:75
+translate chinese v1s41_29d47e08_1:
+
+    # la "Yeah, I guess there is..."
+    la "Yeah, I guess there is..."
+
+# game/v1/scene41.rpy:80
+translate chinese v1s41_053c1813_1:
+
+    # la "Are you tired or something? You don't sound like yourself..."
+    la "Are you tired or something? You don't sound like yourself..."
+
+# game/v1/scene41.rpy:89
+translate chinese v1s41_636780c4_1:
+
+    # u "What'd I say again? I don't even remember..."
+    u "What'd I say again? I don't even remember..."
+
+# game/v1/scene41.rpy:94
+translate chinese v1s41_139d1c63_1:
+
+    # la "Ha, go to sleep. I'll talk to you tomorrow, handsome."
+    la "Ha, go to sleep. I'll talk to you tomorrow, handsome."
+
+# game/v1/scene41.rpy:99
+translate chinese v1s41_d5f300b1_1:
+
+    # u "I'm sorry, we'll talk soon."
+    u "I'm sorry, we'll talk soon."
+
+# game/v1/scene41.rpy:104
+translate chinese v1s41_57623e41_1:
+
+    # la "Yup! Goodnight. I'll keep my late night adventures to myself for now."
+    la "Yup! Goodnight. I'll keep my late night adventures to myself for now."
+
+# game/v1/scene41.rpy:112
+translate chinese v1s41_09f13cc9_1:
+
+    # u "Honestly, yeah. I'm just so tired. Sorry if what I said sounded weird, ignore my stupid talk. *Chuckles*"
+    u "Honestly, yeah. I'm just so tired. Sorry if what I said sounded weird, ignore my stupid talk. *Chuckles*"
+
+# game/v1/scene41.rpy:114
+translate chinese v1s41_ad7ee4cb_1:
+
+    # u "So... did you watch porn while you touched yourself?"
+    u "So... did you watch porn while you touched yourself?"
+
+# game/v1/scene41.rpy:119
+translate chinese v1s41_4cecdff9_1:
+
+    # la "At first I didn't, but then after a few times on my own I gave it a try."
+    la "At first I didn't, but then after a few times on my own I gave it a try."
+
+# game/v1/scene41.rpy:124
+translate chinese v1s41_b592843e_1:
+
+    # u "And?"
+    u "And?"
+
+# game/v1/scene41.rpy:129
+translate chinese v1s41_d5a5e2d6_1:
+
+    # la "I liked it, a lot."
+    la "I liked it, a lot."
+
+# game/v1/scene41.rpy:134
+translate chinese v1s41_c21263a4_1:
+
+    # u "Good to hear. Most importantly, what did you wanna call and tell me?"
+    u "Good to hear. Most importantly, what did you wanna call and tell me?"
+
+# game/v1/scene41.rpy:139
+translate chinese v1s41_ed83c5a9_1:
+
+    # la "I don't know, really. I just wanted you to be thinking about me, I guess."
+    la "I don't know, really. I just wanted you to be thinking about me, I guess."
+
+# game/v1/scene41.rpy:144
+translate chinese v1s41_6f9b0f23_1:
+
+    # u "I'm always thinking about you."
+    u "I'm always thinking about you."
+
+# game/v1/scene41.rpy:149
+translate chinese v1s41_29c4ee2d_1:
+
+    # la "Hehe... Goodnight, sweet [name]. I want to see you soon, okay?"
+    la "Hehe... Goodnight, sweet [name]. I want to see you soon, okay?"
+
+# game/v1/scene41.rpy:154
+translate chinese v1s41_d610591b_1:
+
+    # u "You will. Goodnight, babe."
+    u "You will. Goodnight, babe."
+
+# game/v1/scene41.rpy:159
+translate chinese v1s41_e753f65c_1:
+
+    # u "(Finally...)"
+    u "(Finally...)"
+

@@ -1,708 +1,708 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene46a.rpy:16
-translate francais v1s46a_d6debb9f:
+translate francais v1s46a_a61be53f:
 
-    # la "Hi."
-    la ""
+    # la "Hi!"
+    la "Hi!"
 
 # game/v1/scene46a.rpy:21
-translate francais v1s46a_3937b3c7:
+translate francais v1s46a_e40e3215:
 
-    # u "Hello, Dr. Lauren. I'm here for my hypnosis appointment."
-    u ""
+    # u "Hello, Dr. Lauren. I'm here for my impromptu hypnosis appointment."
+    u "Hello, Dr. Lauren. I'm here for my impromptu hypnosis appointment."
 
 # game/v1/scene46a.rpy:26
-translate francais v1s46a_e97457ae:
+translate francais v1s46a_19e7e59e:
 
-    # la "*Laughs* Come on in, silly."
-    la ""
+    # la "Come on in, silly."
+    la "Come on in, silly."
 
 # game/v1/scene46a.rpy:41
 translate francais v1s46a_0c9af005:
 
     # la "Go ahead and lie down on the bed."
-    la ""
+    la "Go ahead and lie down on the bed."
 
 # game/v1/scene46a.rpy:47
-translate francais v1s46a_d9c883d8:
+translate francais v1s46a_235637f2:
 
-    # u "Damn, okay. I like where this is going already."
-    u ""
+    # u "I like where this is going already. Is this an elaborate ruse to get some you-know-what going?"
+    u "I like where this is going already. Is this an elaborate ruse to get some you-know-what going?"
 
 # game/v1/scene46a.rpy:52
-translate francais v1s46a_ed7b3da7:
+translate francais v1s46a_991d1d7c:
 
-    # la "*Chuckles* Stop it. You have to focus."
-    la ""
+    # la "Cute, but stop it. You have to focus."
+    la "Cute, but stop it. You have to focus."
 
 # game/v1/scene46a.rpy:58
 translate francais v1s46a_9add6d20:
 
     # u "Okay sure, but I can't promise you that I'll be able to stay awake."
-    u ""
+    u "Okay sure, but I can't promise you that I'll be able to stay awake."
 
 # game/v1/scene46a.rpy:63
 translate francais v1s46a_17dab57a:
 
     # la "We'll see about that..."
-    la ""
+    la "We'll see about that..."
 
 # game/v1/scene46a.rpy:68
-translate francais v1s46a_4c5047d3:
+translate francais v1s46a_4f88e75a:
 
-    # u "Haha, okay. So, we're just going straight into it? No chit-chat?"
-    u ""
+    # u "Okay, so, we're just going straight into it? No chit-chat?"
+    u "Okay, so, we're just going straight into it? No chit-chat?"
 
 # game/v1/scene46a.rpy:73
-translate francais v1s46a_3b65e04f:
+translate francais v1s46a_1f17a174:
 
-    # la "Oh, right. I'm sorry, [name]. I'm just super excited to try this, haha."
-    la ""
+    # la "Oh, right. I'm sorry, [name]. I'm just super excited to try this. You know how I get about psych theory."
+    la "Oh, right. I'm sorry, [name]. I'm just super excited to try this. You know how I get about psych theory."
 
 # game/v1/scene46a.rpy:78
 translate francais v1s46a_ca5f21e1:
 
     # u "It's fine, I'm just teasing."
-    u ""
+    u "It's fine, I'm just teasing."
 
 # game/v1/scene46a.rpy:101
-translate francais v1s46a_sgb_d30ec7aa:
+translate francais v1s46a_sgb_a6d7ff1f:
 
-    # la "Okay... Now close your eyes."
-    la ""
+    # la "Okay... now, close your eyes."
+    la "Okay... now, close your eyes."
 
 # game/v1/scene46a.rpy:106
 translate francais v1s46a_sgb_f5b50837:
 
     # la "*Softly* Let's start by getting nice and relaxed with some breathing exercises."
-    la ""
+    la "*Softly* Let's start by getting nice and relaxed with some breathing exercises."
 
 # game/v1/scene46a.rpy:111
-translate francais v1s46a_sgb_80a8320a:
+translate francais v1s46a_sgb_ab741256:
 
-    # la "Breathe in slowly for 5 seconds... *Inhales*"
-    la ""
+    # la "Breathe in slowly for five seconds... *Inhales*"
+    la "Breathe in slowly for five seconds... *Inhales*"
 
 # game/v1/scene46a.rpy:116
 translate francais v1s46a_sgb_fc8947b8:
 
     # u "*Inhales*"
-    u ""
+    u "*Inhales*"
 
 # game/v1/scene46a.rpy:121
-translate francais v1s46a_sgb_aff86b91:
+translate francais v1s46a_sgb_6f29996c:
 
-    # la "*Softly* Hold it for 2 seconds..."
-    la ""
+    # la "*Softly* Hold it for two seconds..."
+    la "*Softly* Hold it for two seconds..."
 
 # game/v1/scene46a.rpy:126
 translate francais v1s46a_sgb_7b1c1392:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v1/scene46a.rpy:132
-translate francais v1s46a_sgb_36fe4c26:
+translate francais v1s46a_sgb_2fbbdfac:
 
-    # u "*Coughs* Fuck, haha. Sorry. *Inhales*"
-    u ""
+    # u "*Coughs* Ah, fuck. Sorry. *Inhales*"
+    u "*Coughs* Ah, fuck. Sorry. *Inhales*"
 
 # game/v1/scene46a.rpy:137
-translate francais v1s46a_sgb_e08394c0:
+translate francais v1s46a_sgb_048e09fa:
 
-    # la "*Chuckles* Stoner much?"
-    la ""
+    # la "Stoner much?"
+    la "Stoner much?"
 
 # game/v1/scene46a.rpy:147
 translate francais v1s46a_sgb_cebfd9c8:
 
     # la "Now breathe out... *Exhales* All the way..."
-    la ""
+    la "Now breathe out... *Exhales* All the way..."
 
 # game/v1/scene46a.rpy:152
 translate francais v1s46a_sgb_95b1ef08:
 
     # u "*Exhales*"
-    u ""
+    u "*Exhales*"
 
 # game/v1/scene46a.rpy:157
 translate francais v1s46a_sgb_076accf7:
 
     # la "*Softly* And again. Breathe in... breathe out... in... out..."
-    la ""
+    la "*Softly* And again. Breathe in... breathe out... in... out..."
 
 # game/v1/scene46a.rpy:162
 translate francais v1s46a_sgb_63891b64:
 
     # u "*Inhales* *Exhales*"
-    u ""
+    u "*Inhales* *Exhales*"
 
 # game/v1/scene46a.rpy:167
-translate francais v1s46a_sgb_56366f9c:
+translate francais v1s46a_sgb_ddeca30f:
 
-    # la "*Softly* You are now falling into deep relaxation..."
-    la ""
+    # la "*Softly* You are now falling into a deep relaxation..."
+    la "*Softly* You are now falling into a deep relaxation..."
 
 # game/v1/scene46a.rpy:172
 translate francais v1s46a_sgb_df0a7769:
 
     # la "*Softly* Falling deeper and deeper..."
-    la ""
+    la "*Softly* Falling deeper and deeper..."
 
 # game/v1/scene46a.rpy:174
 translate francais v1s46a_sgb_cbd3915a:
 
     # la "*Softly* As you listen to the sound of my voice..."
-    la ""
+    la "*Softly* As you listen to the sound of my voice..."
 
 # game/v1/scene46a.rpy:179
 translate francais v1s46a_sgb_a54392ef:
 
     # la "*Softly* My voice is all you can hear as you sink deeper and deeper... into a peaceful... pleasant... relaxing state."
-    la ""
+    la "*Softly* My voice is all you can hear as you sink deeper and deeper... into a peaceful... pleasant... relaxing state."
 
 # game/v1/scene46a.rpy:184
-translate francais v1s46a_sgb_fcc18885:
+translate francais v1s46a_sgb_5928b156:
 
-    # u "*Laughs*"
-    u ""
+    # u "If you say so!"
+    u "If you say so!"
 
 # game/v1/scene46a.rpy:189
-translate francais v1s46a_sgb_ca864a05:
+translate francais v1s46a_sgb_d44a1ab9:
 
-    # la "[name]! Come on... *Chuckles* Please take this seriously."
-    la ""
+    # la "[name]! Come on... ha, please, please try to take this seriously."
+    la "[name]! Come on... ha, please, please try to take this seriously."
 
 # game/v1/scene46a.rpy:194
-translate francais v1s46a_sgb_9316ff66:
+translate francais v1s46a_sgb_3243b885:
 
-    # u "Haha... Okay... Okay. Sorry."
-    u ""
+    # u "Okay... okay. Sorry."
+    u "Okay... okay. Sorry."
 
 # game/v1/scene46a.rpy:196
 translate francais v1s46a_sgb_0dfbe353:
 
     # u "I'll try again."
-    u ""
+    u "I'll try again."
 
 # game/v1/scene46a.rpy:211
-translate francais v1s46a_sgb_86385b92:
+translate francais v1s46a_sgb_a91af3ca:
 
-    # la "*Softly* You are starting to feel relaxed... You are feeling safe... And completely comfortable."
-    la ""
+    # la "*Softly* You are starting to feel relaxed... you feel safe... and completely comfortable."
+    la "*Softly* You are starting to feel relaxed... you feel safe... and completely comfortable."
 
 # game/v1/scene46a.rpy:216
-translate francais v1s46a_sgb_486930b0:
+translate francais v1s46a_sgb_e9fbd13e:
 
-    # la "*Softly* As you drift off into a deep and pleasant state of relaxation, deeper and deeper..."
-    la ""
+    # la "*Softly* As you drift into a deep state of relaxation, deeper and deeper..."
+    la "*Softly* As you drift into a deep state of relaxation, deeper and deeper..."
 
 # game/v1/scene46a.rpy:217
-translate francais v1s46a_sgb_a5192c34:
+translate francais v1s46a_sgb_7216dd33:
 
-    # la "*Softly* Listening and feeling the gentle caress of the natural elements around you."
-    la ""
+    # la "*Softly* Listen and feel the gentle caress of the elements around you."
+    la "*Softly* Listen and feel the gentle caress of the elements around you."
 
 # game/v1/scene46a.rpy:222
-translate francais v1s46a_sgb_a10176e2:
+translate francais v1s46a_sgb_9da69822:
 
-    # la "*Softly* The longer you listen to my voice, the deeper you sink into pure relaxation."
-    la ""
+    # la "*Softly* The longer you listen to my voice, the deeper you sink into pure contentment."
+    la "*Softly* The longer you listen to my voice, the deeper you sink into pure contentment."
 
 # game/v1/scene46a.rpy:227
-translate francais v1s46a_sgb_d126c239:
+translate francais v1s46a_sgb_dffef3e9:
 
-    # u "(Oh, wow... Is this shit actually... working?)"
-    u ""
+    # u "(Oh, wow... Is this shit actually... working? What did I sign up for here?)"
+    u "(Oh, wow... Is this shit actually... working? What did I sign up for here?)"
 
 # game/v1/scene46a.rpy:232
 translate francais v1s46a_sgb_e387f4d9:
 
     # la "*Softly* Deeper and deeper..."
-    la ""
+    la "*Softly* Deeper and deeper..."
 
 # game/v1/scene46a.rpy:234
 translate francais v1s46a_sgb_a418687c:
 
     # la "*Whispers* More relaxed than you've ever felt before."
-    la ""
+    la "*Whispers* More relaxed than you've ever felt before."
 
 # game/v1/scene46a.rpy:239
 translate francais v1s46a_sgb_97dd9a03:
 
     # u "(Zzzz...)"
-    u ""
+    u "(Zzzz...)"
 
 # game/v1/scene46a.rpy:245
 translate francais v1s46a_sgb_fbdc8e73:
 
     # la "*Softly* You are now walking along a beach. It's the most beautiful day. So sunny and warm, you can feel the light dancing on your skin."
-    la ""
+    la "*Softly* You are now walking along a beach. It's the most beautiful day. So sunny and warm, you can feel the light dancing on your skin."
 
 # game/v1/scene46a.rpy:247
-translate francais v1s46a_sgb_da6b690f:
+translate francais v1s46a_sgb_5c465aac:
 
-    # la "*Softly* The sand between your toes is soft to the touch and feels like a freshly dried blanket. You're calm... you're relaxed..."
-    la ""
+    # la "*Softly* The sand between your toes is soft to the touch. You're calm... you're relaxed..."
+    la "*Softly* The sand between your toes is soft to the touch. You're calm... you're relaxed..."
 
 # game/v1/scene46a.rpy:252
-translate francais v1s46a_sgb_53476fa2:
+translate francais v1s46a_sgb_e251626d:
 
-    # la "*Softly* You've never felt this relaxed before... You're the happiest you've ever been."
-    la ""
+    # la "*Softly* You've never felt this unwound before... you're the happiest you've ever been."
+    la "*Softly* You've never felt this unwound before... you're the happiest you've ever been."
 
 # game/v1/scene46a.rpy:257
 translate francais v1s46a_sgb_3773b09c:
 
     # u "(Zzzz...) *Heavy breathing*"
-    u ""
+    u "(Zzzz...) *Heavy breathing*"
 
 # game/v1/scene46a.rpy:263
 translate francais v1s46a_sgb_635aeb4c:
 
     # la "*Softly* There's a girl in a bikini, laying on a beach towel. Do you see her?"
-    la ""
+    la "*Softly* There's a girl in a bikini, laying on a beach towel. Do you see her?"
 
 # game/v1/scene46a.rpy:278
 translate francais v1s46a_sgb_3ff79084:
 
     # u "Hm..."
-    u ""
+    u "Hm..."
 
 # game/v1/scene46a.rpy:283
-translate francais v1s46a_sgb_d544fe64:
+translate francais v1s46a_sgb_380b5671:
 
-    # la "She calls over to you and asks you to rub lotion on her skin. You can help her."
-    la ""
+    # la "She calls you over and asks you to rub lotion on her skin. You can help her."
+    la "She calls you over and asks you to rub lotion on her skin. You can help her."
 
 # game/v1/scene46a.rpy:300
 translate francais v1s46a_sgb_f854f387:
 
     # la "*Softly* As you rub the lotion into her back, she removes her bikini top and turns around to face you."
-    la ""
+    la "*Softly* As you rub the lotion into her back, she removes her bikini top and turns around to face you."
 
 # game/v1/scene46a.rpy:301
-translate francais v1s46a_sgb_db6b1ff8:
+translate francais v1s46a_sgb_e98de05d:
 
-    # la "*Softly* She's now asking you to massage the lotion into her breasts."
-    la ""
+    # la "*Softly* She's now asking you to massage the lotion across her breasts."
+    la "*Softly* She's now asking you to massage the lotion across her breasts."
 
 # game/v1/scene46a.rpy:309
 translate francais v1s46a_sgb_a8fb7ce1:
 
     # u "(Zzzz...) Hmm..."
-    u ""
+    u "(Zzzz...) Hmm..."
 
 # game/v1/scene46a.rpy:314
-translate francais v1s46a_sgb_06ec0595:
+translate francais v1s46a_sgb_c48914f6:
 
-    # la "*Softly* Rubbing into her soft skin you can feel her nipples, getting excited by your touch."
-    la ""
+    # la "*Softly* Rubbing against her soft skin you can feel her nipples, which are stimulated by your touch."
+    la "*Softly* Rubbing against her soft skin you can feel her nipples, which are stimulated by your touch."
 
 # game/v1/scene46a.rpy:334
 translate francais v1s46a_sgb_78c04a02:
 
     # la "*Softly* She feels your... pulsing cock. *Embarrassed giggle* It's hard. Your swim trunks feel like they're about to burst at the seams..."
-    la ""
+    la "*Softly* She feels your... pulsing cock. *Embarrassed giggle* It's hard. Your swim trunks feel like they're about to burst at the seams..."
 
 # game/v1/scene46a.rpy:339
 translate francais v1s46a_sgb_f16d90a1:
 
     # u "(Zzzz...) *Moans*"
-    u ""
+    u "(Zzzz...) *Moans*"
 
 # game/v1/scene46a.rpy:354
 translate francais v1s46a_sgb_e9b6654a:
 
     # la "*Softly* She slowly pulls them down and immediately takes your full, throbbing member in her mouth."
-    la ""
+    la "*Softly* She slowly pulls them down and immediately takes your full, throbbing member in her mouth."
 
 # game/v1/scene46a.rpy:355
 translate francais v1s46a_sgb_2c2e24c1:
 
     # la "*Softly* She starts to suck on it, her soft lips hugging every inch of you. Sucking and sucking and sucking until–"
-    la ""
+    la "*Softly* She starts to suck on it, her soft lips hugging every inch of you. Sucking and sucking and sucking until–"
 
 # game/v1/scene46a.rpy:360
 translate francais v1s46a_sgb_d3afeb29:
 
     # u "*Moans* Fuck..."
-    u ""
+    u "*Moans* Fuck..."
 
 # game/v1/scene46a.rpy:364
-translate francais v1s46_nsfwSkipLabel1_cab32c43:
+translate francais v1s46_nsfwSkipLabel1_0c66800e:
 
-    # la "*Laughs* Oh my God. I'm so sorry, I didn't think you'd-"
-    la ""
+    # la "Oh. My. God. I'm so sorry, I didn't think you'd-"
+    la "Oh. My. God. I'm so sorry, I didn't think you'd-"
 
 # game/v1/scene46a.rpy:374
-translate francais v1s46_nsfwSkipLabel1_00c627cb:
+translate francais v1s46_nsfwSkipLabel1_8e50d4ee:
 
-    # u "What the... fuck?!"
-    u ""
+    # u "What the... what the fuck?!"
+    u "What the... what the fuck?!"
 
 # game/v1/scene46a.rpy:381
-translate francais v1s46_nsfwSkipLabel1_59f1255b:
+translate francais v1s46_nsfwSkipLabel1_37a8ddeb:
 
-    # la "I'm so sorry! *Laughs* It was fun though, right? Did it feel real?"
-    la ""
+    # la "I'm so sorry! It was fun, though, right? Did it feel real?"
+    la "I'm so sorry! It was fun, though, right? Did it feel real?"
 
 # game/v1/scene46a.rpy:386
 translate francais v1s46_nsfwSkipLabel1_56514330:
 
     # u "I have cum all over myself, Lauren. It felt pretty fucking real! How am I supposed to walk home like this?!"
-    u ""
+    u "I have cum all over myself, Lauren. It felt pretty fucking real! How am I supposed to walk home like this?!"
 
 # game/v1/scene46a.rpy:391
-translate francais v1s46_nsfwSkipLabel1_9bb33c19:
+translate francais v1s46_nsfwSkipLabel1_64d404d5:
 
-    # la "That's so crazy... You can just go in the bathroom and clean yourself up, ha."
-    la ""
+    # la "That's so crazy... anyway, you can just go in the bathroom and clean yourself up."
+    la "That's so crazy... anyway, you can just go in the bathroom and clean yourself up."
 
 # game/v1/scene46a.rpy:396
 translate francais v1s46_nsfwSkipLabel1_eed88133:
 
     # u "So funny."
-    u ""
+    u "So funny."
 
 # game/v1/scene46a.rpy:401
 translate francais v1s46_nsfwSkipLabel1_ccdffc1a:
 
     # la "I said sorry!"
-    la ""
+    la "I said sorry!"
 
 # game/v1/scene46a.rpy:406
 translate francais v1s46_nsfwSkipLabel1_bce39fba:
 
     # la "But the hypnosis worked really well then, don't you think?"
-    la ""
+    la "But the hypnosis worked really well then, don't you think?"
 
 # game/v1/scene46a.rpy:418
 translate francais v1s46_nsfwSkipLabel1_b3e511ac:
 
     # u "If that's what you wanted to happen, then sure. It went great."
-    u ""
+    u "If that's what you wanted to happen, then sure. It went great."
 
 # game/v1/scene46a.rpy:423
 translate francais v1s46_nsfwSkipLabel1_9f9e69d8:
 
     # la "You can dry off with my beach towel in there."
-    la ""
+    la "You can dry off with my beach towel in there."
 
 # game/v1/scene46a.rpy:428
 translate francais v1s46_nsfwSkipLabel1_79ebe5aa:
 
     # u "Ah, a beach towel. Good one."
-    u ""
+    u "Ah, a beach towel. Good one."
 
 # game/v1/scene46a.rpy:445
 translate francais v1s46_nsfwSkipLabel1_6c857347:
 
     # la "I didn't know what was going to happen, [name]. I was just exploring."
-    la ""
+    la "I didn't know what was going to happen, [name]. I was just exploring."
 
 # game/v1/scene46a.rpy:450
 translate francais v1s46_nsfwSkipLabel1_e9580b50:
 
     # u "You were exploring and I was exploding..."
-    u ""
+    u "You were exploring and I was exploding..."
 
 # game/v1/scene46a.rpy:455
-translate francais v1s46_nsfwSkipLabel1_6d1b6cf7:
+translate francais v1s46_nsfwSkipLabel1_ff0dcc1e:
 
-    # la "*Laughs*"
-    la ""
+    # la "You were the best participant I could've asked for."
+    la "You were the best participant I could've asked for."
 
 # game/v1/scene46a.rpy:461
-translate francais v1s46_nsfwSkipLabel1_668a87ff:
+translate francais v1s46_nsfwSkipLabel1_1a9f1e91:
 
-    # u "*Laughs* That was such a weird experience. Where did you learn this?"
-    u ""
+    # u "Ha. That was such a weird experience. Where did you learn this?"
+    u "Ha. That was such a weird experience. Where did you learn this?"
 
 # game/v1/scene46a.rpy:466
-translate francais v1s46_nsfwSkipLabel1_96e7309f:
+translate francais v1s46_nsfwSkipLabel1_74ef0831:
 
-    # la "I guess I've just been watching a little too much porn lately... I can't stop thinking about sex."
-    la ""
+    # la "I think I've, uh, blurred the lines between my classes' lessons and my all-new porn-watching habits."
+    la "I think I've, uh, blurred the lines between my classes' lessons and my all-new porn-watching habits."
 
 # game/v1/scene46a.rpy:471
-translate francais v1s46_nsfwSkipLabel1_f4844e53:
+translate francais v1s46_nsfwSkipLabel1_73a73781:
 
-    # u "Haha, wow..."
-    u ""
+    # u "Wow. I'm going to remember this the next time you ask to test some psych stuff on me."
+    u "Wow. I'm going to remember this the next time you ask to test some psych stuff on me."
 
 # game/v1/scene46a.rpy:476
 translate francais v1s46_nsfwSkipLabel1_e02d5fe5:
 
     # la "You still love me, right?"
-    la ""
+    la "You still love me, right?"
 
 # game/v1/scene46a.rpy:483
 translate francais v1s46_nsfwSkipLabel1_3f54e48a:
 
     # u "Of course I do."
-    u ""
+    u "Of course I do."
 
 # game/v1/scene46a.rpy:492
 translate francais v1s46_nsfwSkipLabel1_ab2bb88b:
 
     # u "Even more than I did before."
-    u ""
+    u "Even more than I did before."
 
 # game/v1/scene46a.rpy:497
 translate francais v1s46_nsfwSkipLabel1_7557d2b4:
 
     # la "Really?"
-    la ""
+    la "Really?"
 
 # game/v1/scene46a.rpy:502
 translate francais v1s46_nsfwSkipLabel1_59734cd3:
 
     # u "I mean, I kinda feel like your guinea pig all the time..."
-    u ""
+    u "I mean, I kinda feel like your guinea pig all the time..."
 
 # game/v1/scene46a.rpy:507
-translate francais v1s46_nsfwSkipLabel1_87b5df08:
+translate francais v1s46_nsfwSkipLabel1_4e85e700:
 
-    # la "*Laughs* My poor guinea pig."
-    la ""
+    # la "My poor, horny guinea pig."
+    la "My poor, horny guinea pig."
 
 # game/v1/scene46a.rpy:512
 translate francais v1s46_nsfwSkipLabel1_c8105363:
 
     # u "But experimenting like this and seeing how excited you are, it reminds me of how much I like you."
-    u ""
+    u "But experimenting like this and seeing how excited you are, it reminds me of how much I like you."
 
 # game/v1/scene46a.rpy:523
 translate francais v1s46_nsfwSkipLabel1_df8289d9:
 
     # la "Aww."
-    la ""
+    la "Aww."
 
 # game/v1/scene46a.rpy:544
 translate francais v1s46_nsfwSkipLabel1_4c9a0e9f:
 
     # la "I'm glad."
-    la ""
+    la "I'm glad."
 
 # game/v1/scene46a.rpy:550
 translate francais v1s46_nsfwSkipLabel1_2be2731a:
 
     # la "*Softly* You are now walking through a fresh, grassy field in your bare feet."
-    la ""
+    la "*Softly* You are now walking through a fresh, grassy field in your bare feet."
 
 # game/v1/scene46a.rpy:551
-translate francais v1s46_nsfwSkipLabel1_76f836f7:
+translate francais v1s46_nsfwSkipLabel1_7828686b:
 
-    # la "*Softly* It's the most beautiful day. So sunny and warm, you can feel the light dancing on your skin."
-    la ""
+    # la "*Softly* It's the most beautiful day. So sunny and warm. You can feel the light dancing on your skin."
+    la "*Softly* It's the most beautiful day. So sunny and warm. You can feel the light dancing on your skin."
 
 # game/v1/scene46a.rpy:553
 translate francais v1s46_nsfwSkipLabel1_90988155:
 
     # la "*Softly* The grass between your toes is gentle to the touch. You're calm... you're relaxed... you're the happiest you've ever been..."
-    la ""
+    la "*Softly* The grass between your toes is gentle to the touch. You're calm... you're relaxed... you're the happiest you've ever been..."
 
 # game/v1/scene46a.rpy:558
 translate francais v1s46_nsfwSkipLabel1_f68b6c38:
 
     # u "*Zzzz...* *Heavy breathing*"
-    u ""
+    u "*Zzzz...* *Heavy breathing*"
 
 # game/v1/scene46a.rpy:569
 translate francais v1s46_nsfwSkipLabel1_e23d452f:
 
     # la "*Softly* You see a majestic horse trotting towards you. The closer it gets, the more calm you feel."
-    la ""
+    la "*Softly* You see a majestic horse trotting towards you. The closer it gets, the more calm you feel."
 
 # game/v1/scene46a.rpy:574
 translate francais v1s46_nsfwSkipLabel1_c9c59225:
 
     # la "*Softly* You notice you have an apple in your hand."
-    la ""
+    la "*Softly* You notice you have an apple in your hand."
 
 # game/v1/scene46a.rpy:584
 translate francais v1s46_nsfwSkipLabel1_a8e6ae2e:
 
     # la "*Softly* You feed it to the horse."
-    la ""
+    la "*Softly* You feed it to the horse."
 
 # game/v1/scene46a.rpy:589
 translate francais v1s46_nsfwSkipLabel1_a23843e2:
 
     # u "*Zzzz...* Hm..."
-    u ""
+    u "*Zzzz...* Hm..."
 
 # game/v1/scene46a.rpy:594
 translate francais v1s46_nsfwSkipLabel1_87fe17f9:
 
     # la "*Softly* The horse has finished the apple, but he's still hungry... He starts to eat your shirt."
-    la ""
+    la "*Softly* The horse has finished the apple, but he's still hungry... He starts to eat your shirt."
 
 # game/v1/scene46a.rpy:604
 translate francais v1s46_nsfwSkipLabel1_9f1c0dac:
 
     # la "*Softly* You can't stop him! In an instant, he's eaten your whole shirt..."
-    la ""
+    la "*Softly* You can't stop him! In an instant, he's eaten your whole shirt..."
 
 # game/v1/scene46a.rpy:609
-translate francais v1s46_nsfwSkipLabel1_e2e69cb5:
+translate francais v1s46_nsfwSkipLabel1_49fc6aa7:
 
-    # la "*Softly* But he's not stopping there... He's hungry for something else now. Before you know it, he's chewing at your dick."
-    la ""
+    # la "*Softly* But he's not stopping there... he's hungry for something else now. Before you know it, he's chewing at your... member."
+    la "*Softly* But he's not stopping there... he's hungry for something else now. Before you know it, he's chewing at your... member."
 
 # game/v1/scene46a.rpy:619
 translate francais v1s46_nsfwSkipLabel1_ce72dd33:
 
     # u "*Zzzz...* *Grunts*"
-    u ""
+    u "*Zzzz...* *Grunts*"
 
 # game/v1/scene46a.rpy:624
 translate francais v1s46_nsfwSkipLabel1_7170e33a:
 
     # la "*Softly* He's starting to get angry. You can feel his teeth trying to bite their way through the fabric of your jeans... but you can't move."
-    la ""
+    la "*Softly* He's starting to get angry. You can feel his teeth trying to bite their way through the fabric of your jeans... but you can't move."
 
 # game/v1/scene46a.rpy:629
 translate francais v1s46_nsfwSkipLabel1_38bb7b77:
 
     # la "*Softly* Your feet are glued to the ground as you try to push the horse away, but somehow he manages to rip off your pants."
-    la ""
+    la "*Softly* Your feet are glued to the ground as you try to push the horse away, but somehow he manages to rip off your pants."
 
 # game/v1/scene46a.rpy:634
-translate francais v1s46_nsfwSkipLabel1_83b64582:
+translate francais v1s46_nsfwSkipLabel1_64d78e0e:
 
-    # la "*Softly* The horse has his eyes on the prize now... Before you know it, he takes one quick bite towards your dick and-"
-    la ""
+    # la "*Softly* The horse has his eyes on the prize now... before you know it, he takes one quick bite towards your penis and-"
+    la "*Softly* The horse has his eyes on the prize now... before you know it, he takes one quick bite towards your penis and-"
 
 # game/v1/scene46a.rpy:639
-translate francais v1s46_nsfwSkipLabel1_1cbd1651:
+translate francais v1s46_nsfwSkipLabel1_f5359956:
 
-    # u "Aahhh! Fuck! Oww! M-My balls!"
-    u ""
+    # u "Aahhh! Fuck! Oww! M-my balls!"
+    u "Aahhh! Fuck! Oww! M-my balls!"
 
 # game/v1/scene46a.rpy:660
 translate francais v1s46_nsfwSkipLabel1_0a84af6a:
 
     # u "What the fuck?!"
-    u ""
+    u "What the fuck?!"
 
 # game/v1/scene46a.rpy:665
-translate francais v1s46_nsfwSkipLabel1_6994a67e:
+translate francais v1s46_nsfwSkipLabel1_853c5ecd:
 
-    # la "*Laughs* I'm sorry, [name]! It was too good of an opportunity! I didn't think the horse dream would actually work on anyone... *Chuckles*"
-    la ""
+    # la "I'm sorry, [name]! It was too good of an opportunity! I didn't think the horse dream would actually work on anyone... says more about you than me, really..."
+    la "I'm sorry, [name]! It was too good of an opportunity! I didn't think the horse dream would actually work on anyone... says more about you than me, really..."
 
 # game/v1/scene46a.rpy:670
 translate francais v1s46_nsfwSkipLabel1_9a48fa69:
 
     # u "What? Why did you do that?"
-    u ""
+    u "What? Why did you do that?"
 
 # game/v1/scene46a.rpy:675
-translate francais v1s46_nsfwSkipLabel1_0d59fa02:
+translate francais v1s46_nsfwSkipLabel1_6849012f:
 
-    # la "All in the name of science, I promise. You should be very proud of yourself. It worked perfectly."
-    la ""
+    # la "All in the name of psych science, I promise. You should be very proud of yourself. It worked perfectly."
+    la "All in the name of psych science, I promise. You should be very proud of yourself. It worked perfectly."
 
 # game/v1/scene46a.rpy:680
-translate francais v1s46_nsfwSkipLabel1_d444159c:
+translate francais v1s46_nsfwSkipLabel1_c30e53ab:
 
-    # u "You're some kind of mad scientist, aren't you?"
-    u ""
+    # u "Warped as fuck. You like to take things pretty far at the amateur hour psych evaluations, don't you?"
+    u "Warped as fuck. You like to take things pretty far at the amateur hour psych evaluations, don't you?"
 
 # game/v1/scene46a.rpy:685
-translate francais v1s46_nsfwSkipLabel1_dc36ba01:
+translate francais v1s46_nsfwSkipLabel1_3615b629:
 
-    # la "*Chuckles* I watched a few videos, and I wanted to see if it worked."
-    la ""
+    # la "Hehe, I saw a few tutorials and just wanted to see if it worked."
+    la "Hehe, I saw a few tutorials and just wanted to see if it worked."
 
 # game/v1/scene46a.rpy:690
-translate francais v1s46_nsfwSkipLabel1_04688964:
+translate francais v1s46_nsfwSkipLabel1_032b6208:
 
-    # u "*Laughs* That was such a weird experience... My balls... They actually hurt a little."
-    u ""
+    # u "That was such a weird experience... my balls... they actually hurt a little. I'm going to remember this."
+    u "That was such a weird experience... my balls... they actually hurt a little. I'm going to remember this."
 
 # game/v1/scene46a.rpy:695
-translate francais v1s46_nsfwSkipLabel1_e389d1f6:
+translate francais v1s46_nsfwSkipLabel1_4a4198c4:
 
-    # la "Haha! Perfect."
-    la ""
+    # la "Perfect."
+    la "Perfect."
 
 # game/v1/scene46a.rpy:702
-translate francais v1s46_nsfwSkipLabel1_d47bfab1:
+translate francais v1s46_nsfwSkipLabel1_c05a0a9b:
 
-    # la "Now, I've gotta get caught up on homework, so."
-    la ""
+    # la "Now, I've gotta get caught up on homework, so..."
+    la "Now, I've gotta get caught up on homework, so..."
 
 # game/v1/scene46a.rpy:707
 translate francais v1s46_nsfwSkipLabel1_b6a2f43c:
 
     # u "Kicking me out?"
-    u ""
+    u "Kicking me out?"
 
 # game/v1/scene46a.rpy:712
 translate francais v1s46_nsfwSkipLabel1_ffcc890a:
 
     # la "Yeah..."
-    la ""
+    la "Yeah..."
 
 # game/v1/scene46a.rpy:732
-translate francais v1s46_nsfwSkipLabel1_2815f46f:
+translate francais v1s46_nsfwSkipLabel1_90622431:
 
-    # la "Thanks for doing that with me."
-    la ""
+    # la "Thanks for doing that with me. I know I have some pretty out-there interests, but... really, thanks."
+    la "Thanks for doing that with me. I know I have some pretty out-there interests, but... really, thanks."
 
 # game/v1/scene46a.rpy:737
 translate francais v1s46_nsfwSkipLabel1_00b6f1c5:
 
     # u "You're welcome, I guess."
-    u ""
+    u "You're welcome, I guess."
 
 # game/v1/scene46a.rpy:742
-translate francais v1s46_nsfwSkipLabel1_8a4bc8a4:
+translate francais v1s46_nsfwSkipLabel1_6735fd95:
 
-    # la "Haha... We'll do something again soon?"
-    la ""
+    # la "We'll do something again soon, right?"
+    la "We'll do something again soon, right?"
 
 # game/v1/scene46a.rpy:747
-translate francais v1s46_nsfwSkipLabel1_3ecef2b0:
+translate francais v1s46_nsfwSkipLabel1_1998d40e:
 
-    # u "Yeah sure, but if it's another hypnosis session... Maybe I'll send Imre instead."
-    u ""
+    # u "Only if it's a different psych experiment. If it's another hypnosis session... maybe I'll send Imre instead."
+    u "Only if it's a different psych experiment. If it's another hypnosis session... maybe I'll send Imre instead."
 
 # game/v1/scene46a.rpy:752
-translate francais v1s46_nsfwSkipLabel1_c6af06d7:
+translate francais v1s46_nsfwSkipLabel1_ac7beb1c:
 
-    # la "*Chuckles* Please don't do that to me."
-    la ""
+    # la "Please don't do that to me."
+    la "Please don't do that to me."
 
 # game/v1/scene46a.rpy:757
-translate francais v1s46_nsfwSkipLabel1_a6a91cdf:
+translate francais v1s46_nsfwSkipLabel1_af3d72dd:
 
-    # u "Haha, see ya."
-    u ""
+    # u "Ha. See ya."
+    u "Ha. See ya."
 
 # game/v1/scene46a.rpy:762
 translate francais v1s46_nsfwSkipLabel1_ce58e489:
 
     # la "Bye, [name]."
-    la ""
+    la "Bye, [name]."
 
 # game/v1/scene46a.rpy:769
-translate francais v1s46_nsfwSkipLabel1_14fdd23d:
+translate francais v1s46_nsfwSkipLabel1_1f79ba0b:
 
-    # u "(Hmm, well that was interesting...)"
-    u ""
+    # u "(What the fuck just happened...)"
+    u "(What the fuck just happened...)"
 
 translate francais strings:
 
     # game/v1/scene46a.rpy:478
     old "Of course I do"
-    new ""
+    new "Of course I do"
 
     # game/v1/scene46a.rpy:478
     old "Even more"
-    new ""
+    new "Even more"
 

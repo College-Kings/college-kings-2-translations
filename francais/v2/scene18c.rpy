@@ -1,2734 +1,2806 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene18c.rpy:26
 translate francais v2s18c_riley_b76aecbf:
 
     # u "Oh- Hey, Riley. (I gotta start knocking...)"
-    u ""
+    u "Oh- Hey, Riley. (I gotta start knocking...)"
 
 # game/v2/scene18c.rpy:31
 translate francais v2s18c_riley_68a2c8f1:
 
     # ri "Hey, ever heard of knocking?"
-    ri ""
+    ri "Hey, ever heard of knocking?"
 
 # game/v2/scene18c.rpy:36
-translate francais v2s18c_riley_ed89880e:
+translate francais v2s18c_riley_1e338b87:
 
-    # u "Uh, yeah... Sounds familiar. *Laughs* Sorry."
-    u ""
+    # u "Uh, yeah... sounds familiar. Sorry."
+    u "Uh, yeah... sounds familiar. Sorry."
 
 # game/v2/scene18c.rpy:41
-translate francais v2s18c_riley_0233a203:
+translate francais v2s18c_riley_8b921c69:
 
-    # ri "Haha, no worries. I was just checking my makeup."
-    ri ""
+    # ri "Ha, no worries. I was just checking my makeup."
+    ri "Ha, no worries. I was just checking my makeup."
 
 # game/v2/scene18c.rpy:47
-translate francais v2s18c_riley_c28d503b:
+translate francais v2s18c_riley_6cd689cc:
 
-    # ri "So, fifty bucks on your girlfriend's big day, huh? What a sugar daddy... *Chuckles*"
-    ri ""
+    # ri "So, fifty bucks on your girlfriend's big day, huh? What a sugar daddy..."
+    ri "So, fifty bucks on your girlfriend's big day, huh? What a sugar daddy..."
 
 # game/v2/scene18c.rpy:52
 translate francais v2s18c_riley_9b08ec32:
 
     # u "Yeah, yeah..."
-    u ""
+    u "Yeah, yeah..."
 
 # game/v2/scene18c.rpy:57
 translate francais v2s18c_riley_5722ee4b:
 
     # ri "Next time you need to buy a gift for your girlfriend, just tell me. I can help, you know."
-    ri ""
+    ri "Next time you need to buy a gift for your girlfriend, just tell me. I can help, you know."
 
 # game/v2/scene18c.rpy:66
-translate francais v2s18c_riley_a2102cad:
+translate francais v2s18c_riley_08ebfe8e:
 
-    # u "Seriously? That would be great, haha."
-    u ""
+    # u "Seriously? That would be great."
+    u "Seriously? That would be great."
 
 # game/v2/scene18c.rpy:72
 translate francais v2s18c_riley_6afe68cb:
 
     # ri "Yeah. Of course."
-    ri ""
+    ri "Yeah. Of course."
 
 # game/v2/scene18c.rpy:78
 translate francais v2s18c_riley_1890e611:
 
     # ri "Yeah, really. I'd be down whenever."
-    ri ""
+    ri "Yeah, really. I'd be down whenever."
 
 # game/v2/scene18c.rpy:86
-translate francais v2s18c_riley_33bee93d:
+translate francais v2s18c_riley_6f21685d:
 
-    # u "What? You can't shop for yourself, haha. That ruins the surprise."
-    u ""
+    # u "What? You can't shop for yourself. That ruins the surprise."
+    u "What? You can't shop for yourself. That ruins the surprise."
 
 # game/v2/scene18c.rpy:92
-translate francais v2s18c_riley_3be10e81:
+translate francais v2s18c_riley_c57b2cb8:
 
-    # ri "Haha... You better watch yourself, handsome."
-    ri ""
+    # ri "You better watch yourself, handsome."
+    ri "You better watch yourself, handsome."
 
 # game/v2/scene18c.rpy:98
-translate francais v2s18c_riley_bb0d1427:
+translate francais v2s18c_riley_bdb786d7:
 
-    # ri "Was that supposed to be a pick-up line? *Laughs* Wait, say it again?"
-    ri ""
+    # ri "Was that supposed to be a pick-up line? Wait, say it again?"
+    ri "Was that supposed to be a pick-up line? Wait, say it again?"
 
 # game/v2/scene18c.rpy:103
 translate francais v2s18c_riley_f1d56e63:
 
     # u "*Sighs* Nah, forget it."
-    u ""
+    u "*Sighs* Nah, forget it."
 
 # game/v2/scene18c.rpy:108
-translate francais v2s18c_riley_5645090b:
+translate francais v2s18c_riley_17411807:
 
-    # ri "Besides... After the stunt you pulled tonight you need all the help you can get, haha."
-    ri ""
+    # ri "Besides... after the stunt you pulled tonight, you need all the help you can get."
+    ri "Besides... after the stunt you pulled tonight, you need all the help you can get."
 
 # game/v2/scene18c.rpy:113
 translate francais v2s18c_riley_f0e698f6:
 
     # u "Yeah, hopefully she isn't too upset..."
-    u ""
+    u "Yeah, hopefully she isn't too upset..."
 
 # game/v2/scene18c.rpy:118
-translate francais v2s18c_riley_407cb71b:
+translate francais v2s18c_riley_6b8a896c:
 
-    # ri "Oh, please... It'll be just fine, [name]. She's having a good time."
-    ri ""
+    # ri "Oh, please. It'll be just fine, [name]. She's having a good time."
+    ri "Oh, please. It'll be just fine, [name]. She's having a good time."
 
 # game/v2/scene18c.rpy:123
 translate francais v2s18c_riley_be3a14ef:
 
     # u "That's true, she is. She's had a smile on her face all night, apart from when she opened my gift..."
-    u ""
+    u "That's true, she is. She's had a smile on her face all night, apart from when she opened my gift..."
 
 # game/v2/scene18c.rpy:128
-translate francais v2s18c_riley_44cb16f8:
+translate francais v2s18c_riley_ecb43893:
 
-    # ri "*Chuckles* Stop thinking about it and move on."
-    ri ""
+    # ri "Stop thinking about it and move on."
+    ri "Stop thinking about it and move on."
 
 # game/v2/scene18c.rpy:133
 translate francais v2s18c_riley_deb1956c:
 
     # u "Thanks. Good advice, Riley."
-    u ""
+    u "Thanks. Good advice, Riley."
 
 # game/v2/scene18c.rpy:138
 translate francais v2s18c_riley_0b9d93a3:
 
     # ri "Anytime."
-    ri ""
+    ri "Anytime."
 
 # game/v2/scene18c.rpy:144
 translate francais v2s18c_riley_b154e2ee:
 
     # ri "I can't believe you bought the same gift card as Imre..."
-    ri ""
+    ri "I can't believe you bought the same gift card as Imre..."
 
 # game/v2/scene18c.rpy:149
-translate francais v2s18c_riley_b303b109:
+translate francais v2s18c_riley_6c76b8c0:
 
-    # u "Yeah... Neither can I, ha."
-    u ""
+    # u "Yeah... neither can I, ha."
+    u "Yeah... neither can I, ha."
 
 # game/v2/scene18c.rpy:151
 translate francais v2s18c_riley_33525a70:
 
     # u "*Sighs* It would have been a lot less embarrassing if she had opened mine first."
-    u ""
+    u "*Sighs* It would have been a lot less embarrassing if she had opened mine first."
 
 # game/v2/scene18c.rpy:156
-translate francais v2s18c_riley_a295db3b:
+translate francais v2s18c_riley_288486eb:
 
-    # ri "Haha, I wouldn't worry about it. Some people are really difficult to shop for."
-    ri ""
+    # ri "I wouldn't worry about it. Some people are really difficult to shop for."
+    ri "I wouldn't worry about it. Some people are really difficult to shop for."
 
 # game/v2/scene18c.rpy:162
 translate francais v2s18c_riley_1b75cc03:
 
     # ri "Nice job on the gift! Lauren really likes that little horse you bought her."
-    ri ""
+    ri "Nice job on the gift! Lauren really likes that little horse you bought her."
 
 # game/v2/scene18c.rpy:167
-translate francais v2s18c_riley_b33722fd:
+translate francais v2s18c_riley_00773ce0:
 
-    # u "Oh, thanks... Yeah, shame I didn't buy the right color though, ha."
-    u ""
+    # u "Oh, thanks... yeah, shame I didn't buy the right color though, ha."
+    u "Oh, thanks... yeah, shame I didn't buy the right color though, ha."
 
 # game/v2/scene18c.rpy:172
 translate francais v2s18c_riley_2e33d80f:
 
     # ri "Ah, don't worry about it."
-    ri ""
+    ri "Ah, don't worry about it."
 
 # game/v2/scene18c.rpy:177
 translate francais v2s18c_riley_861a68a3:
 
     # ri "It reminds her of the one from her childhood, and that was your goal, right?"
-    ri ""
+    ri "It reminds her of the one from her childhood, and that was your goal, right?"
 
 # game/v2/scene18c.rpy:182
 translate francais v2s18c_riley_2a04f3b2:
 
     # u "That's true."
-    u ""
+    u "That's true."
 
 # game/v2/scene18c.rpy:187
 translate francais v2s18c_riley_59675b0c:
 
     # ri "Of course it's true, why would I speak in lies?"
-    ri ""
+    ri "Of course it's true, why would I speak in lies?"
 
 # game/v2/scene18c.rpy:193
-translate francais v2s18c_riley_21122f46:
+translate francais v2s18c_riley_eb848949:
 
-    # ri "Lauren is obsessed with that damn horse! *Laughs*"
-    ri ""
+    # ri "Lauren is obsessed with that damn horse!"
+    ri "Lauren is obsessed with that damn horse!"
 
 # game/v2/scene18c.rpy:198
-translate francais v2s18c_riley_5d41301b:
+translate francais v2s18c_riley_62677e2f:
 
-    # u "Good! Haha, luckily Autumn gave me that insider info."
-    u ""
+    # u "Good! Thank God Autumn gave me that insider info."
+    u "Good! Thank God Autumn gave me that insider info."
 
 # game/v2/scene18c.rpy:203
 translate francais v2s18c_riley_4ebaf5ed:
 
     # ri "Aw, that was sweet of her."
-    ri ""
+    ri "Aw, that was sweet of her."
 
 # game/v2/scene18c.rpy:208
 translate francais v2s18c_riley_2b81e731:
 
     # u "For sure, Autumn is pretty great."
-    u ""
+    u "For sure, Autumn is pretty great."
 
 # game/v2/scene18c.rpy:213
 translate francais v2s18c_riley_1f62b0f3:
 
     # ri "I don't know her that well, really. I should try to hang out with her more."
-    ri ""
+    ri "I don't know her that well, really. I should try to hang out with her more."
 
 # game/v2/scene18c.rpy:218
-translate francais v2s18c_riley_bacf7e17:
+translate francais v2s18c_riley_49929591:
 
-    # u "Oh boy... You and Autumn in the same room together?"
-    u ""
+    # u "Oh boy... you and Autumn in the same room together?"
+    u "Oh boy... you and Autumn in the same room together?"
 
 # game/v2/scene18c.rpy:223
-translate francais v2s18c_riley_6617f12d:
+translate francais v2s18c_riley_845b2dc2:
 
-    # u "With your combined brainpower, you could take over the world. *Laughs*"
-    u ""
+    # u "With your combined brainpower, you could take over the world."
+    u "With your combined brainpower, you could take over the world."
 
 # game/v2/scene18c.rpy:228
 translate francais v2s18c_riley_53abfd3c:
 
     # ri "Take over the world... and fill it with puppies?!"
-    ri ""
+    ri "Take over the world... and fill it with puppies?!"
 
 # game/v2/scene18c.rpy:233
-translate francais v2s18c_riley_6b70c66d:
+translate francais v2s18c_riley_469533c6:
 
-    # u "That sounds like an extremely healthy ambition, haha. Good luck."
-    u ""
+    # u "That sounds like an extremely healthy ambition. Good luck."
+    u "That sounds like an extremely healthy ambition. Good luck."
 
 # game/v2/scene18c.rpy:238
 translate francais v2s18c_riley_332cd2c5:
 
     # ri "Why thank you, although I don't think we'll need it. Hehe..."
-    ri ""
+    ri "Why thank you, although I don't think we'll need it. Hehe..."
 
 # game/v2/scene18c.rpy:244
 translate francais v2s18c_riley_ecda0037:
 
     # ri "You did..."
-    ri ""
+    ri "You did..."
 
 # game/v2/scene18c.rpy:246
 translate francais v2s18c_riley_16137732:
 
     # ri "An amazing job with Lauren's gift."
-    ri ""
+    ri "An amazing job with Lauren's gift."
 
 # game/v2/scene18c.rpy:251
-translate francais v2s18c_riley_d048caa6:
+translate francais v2s18c_riley_e4b04c78:
 
-    # u "Oh, phew... Thanks, haha."
-    u ""
+    # u "Oh, phew... thanks."
+    u "Oh, phew... thanks."
 
 # game/v2/scene18c.rpy:256
-translate francais v2s18c_riley_37c999de:
+translate francais v2s18c_riley_6019a9ce:
 
-    # ri "It was stunning and she's clearly very happy with it, ha."
-    ri ""
+    # ri "It was stunning and she's clearly very happy with it."
+    ri "It was stunning and she's clearly very happy with it."
 
 # game/v2/scene18c.rpy:261
-translate francais v2s18c_riley_0322670b:
+translate francais v2s18c_riley_9717f5f8:
 
-    # u "I'm happy to hear that, it was pretty great to see how happy she was."
-    u ""
+    # u "I'm happy to hear that; it was pretty great to see how happy she was."
+    u "I'm happy to hear that; it was pretty great to see how happy she was."
 
 # game/v2/scene18c.rpy:266
 translate francais v2s18c_riley_159fcf72:
 
     # u "I love seeing her smile, but being the reason for it is even better, you know?"
-    u ""
+    u "I love seeing her smile, but being the reason for it is even better, you know?"
 
 # game/v2/scene18c.rpy:277
 translate francais v2s18c_riley_d01618e7:
 
     # ri "She'll be smiling for a long time after receiving that, haha."
-    ri ""
+    ri "She'll be smiling for a long time after receiving that, haha."
 
 # game/v2/scene18c.rpy:282
-translate francais v2s18c_riley_66a6e4f4:
+translate francais v2s18c_riley_96321123:
 
-    # u "Ha, yeah hopefully."
-    u ""
+    # u "Ha, yeah, hopefully."
+    u "Ha, yeah, hopefully."
 
 # game/v2/scene18c.rpy:288
 translate francais v2s18c_riley_687946fd:
 
     # ri "So, romantic jewelry? *Giggles* For a friend?"
-    ri ""
+    ri "So, romantic jewelry? *Giggles* For a friend?"
 
 # game/v2/scene18c.rpy:293
 translate francais v2s18c_riley_018a7d8f:
 
     # u "I don't-"
-    u ""
+    u "I don't-"
 
 # game/v2/scene18c.rpy:295
 translate francais v2s18c_riley_6c039ec8:
 
     # u "I didn't know it would come off as weird, I swear."
-    u ""
+    u "I didn't know it would come off as weird, I swear."
 
 # game/v2/scene18c.rpy:300
-translate francais v2s18c_riley_59c39b85:
+translate francais v2s18c_riley_20f939ed:
 
-    # u "And the sales guy was all \"She'll be a friend for life!\" if I got her jewelry... *Sighs"
-    u ""
+    # u "And the sales guy was all \"she'll be a friend for life!\" if I got her jewelry... *Sighs"
+    u "And the sales guy was all \"she'll be a friend for life!\" if I got her jewelry... *Sighs"
 
 # game/v2/scene18c.rpy:305
 translate francais v2s18c_riley_7b99fee2:
 
     # ri "The sales guy?"
-    ri ""
+    ri "The sales guy?"
 
 # game/v2/scene18c.rpy:310
 translate francais v2s18c_riley_0e18929a:
 
     # u "Yeah, the-"
-    u ""
+    u "Yeah, the-"
 
 # game/v2/scene18c.rpy:315
-translate francais v2s18c_riley_a1c0b940:
+translate francais v2s18c_riley_8c0834a2:
 
-    # ri "You mean the employee whose only goal and reason why he gets paid is to make sure people spend money?"
-    ri ""
+    # ri "You mean the employee whose only goal is to make sure people spend money?"
+    ri "You mean the employee whose only goal is to make sure people spend money?"
 
 # game/v2/scene18c.rpy:320
 translate francais v2s18c_riley_5ef45070:
 
     # u "Well, when you put it like that..."
-    u ""
+    u "Well, when you put it like that..."
 
 # game/v2/scene18c.rpy:325
 translate francais v2s18c_riley_2143ad6e:
 
     # u "It sounds like he did his job well."
-    u ""
+    u "It sounds like he did his job well."
 
 # game/v2/scene18c.rpy:330
-translate francais v2s18c_riley_d387d255:
+translate francais v2s18c_riley_ae0071bf:
 
-    # ri "Haha, he definitely did."
-    ri ""
+    # ri "He definitely did."
+    ri "He definitely did."
 
 # game/v2/scene18c.rpy:335
 translate francais v2s18c_riley_55e86340:
 
     # u "*Sighs* Oh well. She didn't seem to hate it..."
-    u ""
+    u "*Sighs* Oh well. She didn't seem to hate it..."
 
 # game/v2/scene18c.rpy:340
-translate francais v2s18c_riley_223ef7e5:
+translate francais v2s18c_riley_82579852:
 
-    # ri "Righttt... I wouldn't hate it either. Just a little creepy. *Chuckles*"
-    ri ""
+    # ri "Riiiight... I wouldn't hate it either. Just a little creepy."
+    ri "Riiiight... I wouldn't hate it either. Just a little creepy."
 
 # game/v2/scene18c.rpy:345
 translate francais v2s18c_riley_e3c27e75:
 
     # u "(Okay, I'm done being bullied.)"
-    u ""
+    u "(Okay, I'm done being bullied.)"
 
 # game/v2/scene18c.rpy:350
 translate francais v2s18c_riley_d2b1a43b:
 
     # u "Anyway... I'll leave you to it. Hurry up and get back to the party!"
-    u ""
+    u "Anyway... I'll leave you to it. Hurry up and get back to the party!"
 
 # game/v2/scene18c.rpy:355
-translate francais v2s18c_riley_8833c0b1:
+translate francais v2s18c_riley_67f12c35:
 
-    # ri "Haha, okay! See you out there."
-    ri ""
+    # ri "Okay! See you out there."
+    ri "Okay! See you out there."
 
 # game/v2/scene18c.rpy:375
 translate francais v2s18c_imre_aubrey_23856dcc:
 
     # imre "Did you see how happy she was with my gift card?"
-    imre ""
+    imre "Did you see how happy she was with my gift card?"
 
 # game/v2/scene18c.rpy:380
 translate francais v2s18c_imre_aubrey_20b06fed:
 
     # au "No, Imre. I didn't."
-    au ""
+    au "No, Imre. I didn't."
 
 # game/v2/scene18c.rpy:385
 translate francais v2s18c_imre_aubrey_f488dd90:
 
     # imre "What do you mean?"
-    imre ""
+    imre "What do you mean?"
 
 # game/v2/scene18c.rpy:390
 translate francais v2s18c_imre_aubrey_aa5d9398:
 
     # au "It was a gift card, Imre. Why would she be happy about that?"
-    au ""
+    au "It was a gift card, Imre. Why would she be happy about that?"
 
 # game/v2/scene18c.rpy:395
 translate francais v2s18c_imre_aubrey_d63b0984:
 
     # imre "You can buy whatever the fuck you want with it!"
-    imre ""
+    imre "You can buy whatever the fuck you want with it!"
 
 # game/v2/scene18c.rpy:400
 translate francais v2s18c_imre_aubrey_276e9a8a:
 
     # au "Yeah, I understand the concept. It's just lazy."
-    au ""
+    au "Yeah, I understand the concept. It's just lazy."
 
 # game/v2/scene18c.rpy:405
 translate francais v2s18c_imre_aubrey_da761984:
 
     # imre "If someone buys you a gift card in the future, you have to say that to their face."
-    imre ""
+    imre "If someone buys you a gift card in the future, you have to say that to their face."
 
 # game/v2/scene18c.rpy:410
 translate francais v2s18c_imre_aubrey_0991ebc7:
 
     # au "That they're lazy? That it was a boring, sad, and lazy gift?"
-    au ""
+    au "That they're lazy? That it was a boring, sad, and lazy gift?"
 
 # game/v2/scene18c.rpy:415
 translate francais v2s18c_imre_aubrey_83ca5bec:
 
     # au "Okay. Done."
-    au ""
+    au "Okay. Done."
 
 # game/v2/scene18c.rpy:420
 translate francais v2s18c_imre_aubrey_d9d8d264:
 
     # imre "I know sarcasm when I hear it, Aubrey."
-    imre ""
+    imre "I know sarcasm when I hear it, Aubrey."
 
 # game/v2/scene18c.rpy:426
 translate francais v2s18c_imre_aubrey_465e0e09:
 
     # imre "Obviously, it wasn't the worst idea since [name] got the exact same one. *Scoffs*"
-    imre ""
+    imre "Obviously, it wasn't the worst idea since [name] got the exact same one. *Scoffs*"
 
 # game/v2/scene18c.rpy:431
 translate francais v2s18c_imre_aubrey_ace0c449:
 
     # u "Imre, I didn't pick the same gift card as you on purpose. Are you fucking with me?"
-    u ""
+    u "Imre, I didn't pick the same gift card as you on purpose. Are you fucking with me?"
 
 # game/v2/scene18c.rpy:436
-translate francais v2s18c_imre_aubrey_a4893daa:
+translate francais v2s18c_imre_aubrey_615cbd0a:
 
-    # imre "Wha- No! I mean... Yeah, I was just joking."
-    imre ""
+    # imre "No! I mean... yeah, I was just joking."
+    imre "No! I mean... yeah, I was just joking."
 
 # game/v2/scene18c.rpy:441
 translate francais v2s18c_imre_aubrey_580093e4:
 
     # au "Oh, is that why you've been calling him the gift copier?"
-    au ""
+    au "Oh, is that why you've been calling him the gift copier?"
 
 # game/v2/scene18c.rpy:446
-translate francais v2s18c_imre_aubrey_4801816e:
+translate francais v2s18c_imre_aubrey_fec7033b:
 
-    # u "Gift copier... Good one."
-    u ""
+    # u "Gift copier... good one."
+    u "Gift copier... good one."
 
 # game/v2/scene18c.rpy:451
-translate francais v2s18c_imre_aubrey_798107e5:
+translate francais v2s18c_imre_aubrey_691143b7:
 
-    # imre "*Sighs* Alright, chill. I'm over it."
-    imre ""
+    # imre "*Sighs* All right, chill. I'm over it."
+    imre "*Sighs* All right, chill. I'm over it."
 
 # game/v2/scene18c.rpy:456
-translate francais v2s18c_imre_aubrey_ac1a0491:
+translate francais v2s18c_imre_aubrey_9c35509c:
 
-    # au "I would hope so... *Laughs*"
-    au ""
+    # au "I would hope so..."
+    au "I would hope so..."
 
 # game/v2/scene18c.rpy:461
 translate francais v2s18c_imre_aubrey_52aae21f:
 
     # imre "Why are you being such a bitch tonight?"
-    imre ""
+    imre "Why are you being such a bitch tonight?"
 
 # game/v2/scene18c.rpy:466
 translate francais v2s18c_imre_aubrey_e95bdb1c:
 
     # u "Whoa-"
-    u ""
+    u "Whoa-"
 
 # game/v2/scene18c.rpy:471
-translate francais v2s18c_imre_aubrey_ece95cb9:
+translate francais v2s18c_imre_aubrey_3adb6801:
 
-    # imre "Ohhh, okay... She gets to bully me about buying a gift card and I don't get to call her a bitch?"
-    imre ""
+    # imre "Ohhh, okay... she gets to bully me about buying a gift card and I don't get to call her a bitch?"
+    imre "Ohhh, okay... she gets to bully me about buying a gift card and I don't get to call her a bitch?"
 
 # game/v2/scene18c.rpy:476
 translate francais v2s18c_imre_aubrey_53ccb321:
 
     # u "That's correct. Yeah."
-    u ""
+    u "That's correct. Yeah."
 
 # game/v2/scene18c.rpy:481
 translate francais v2s18c_imre_aubrey_c3d109f3:
 
     # au "*Giggles*"
-    au ""
+    au "*Giggles*"
 
 # game/v2/scene18c.rpy:486
 translate francais v2s18c_imre_aubrey_bdab05f3:
 
     # imre "Fuck this, man... I know Lauren's smiling right now because of me."
-    imre ""
+    imre "Fuck this, man... I know Lauren's smiling right now because of me."
 
 # game/v2/scene18c.rpy:497
-translate francais v2s18c_imre_aubrey_85956a23:
+translate francais v2s18c_imre_aubrey_dccfc27a:
 
-    # au "A good gift is whatever the fuck [name] got, haha. It seemed to bring back some fun memories."
-    au ""
+    # au "A good gift is whatever the fuck [name] got. It seemed to bring back some fun memories."
+    au "A good gift is whatever the fuck [name] got. It seemed to bring back some fun memories."
 
 # game/v2/scene18c.rpy:502
-translate francais v2s18c_imre_aubrey_e5c40ef5:
+translate francais v2s18c_imre_aubrey_952a5c83:
 
-    # imre "Pfft... A toy?"
-    imre ""
+    # imre "Pfft... a toy?"
+    imre "Pfft... a toy?"
 
 # game/v2/scene18c.rpy:507
-translate francais v2s18c_imre_aubrey_3f7f3430:
+translate francais v2s18c_imre_aubrey_5e925fcd:
 
-    # u "Oh yeah, Autumn gave me the idea. I'm not sure what I would've gotten Lauren without her help, haha."
-    u ""
+    # u "Oh yeah, Autumn gave me the idea. I'm not sure what I would've gotten Lauren without her help."
+    u "Oh yeah, Autumn gave me the idea. I'm not sure what I would've gotten Lauren without her help."
 
 # game/v2/scene18c.rpy:512
 translate francais v2s18c_imre_aubrey_628f685f:
 
     # au "Hopefully not a gift card..."
-    au ""
+    au "Hopefully not a gift card..."
 
 # game/v2/scene18c.rpy:517
-translate francais v2s18c_imre_aubrey_6acfee17:
+translate francais v2s18c_imre_aubrey_90422ad0:
 
-    # u "Oh, God no... Of course not... *Chuckles*"
-    u ""
+    # u "Oh, God no... of course not..."
+    u "Oh, God no... of course not..."
 
 # game/v2/scene18c.rpy:522
 translate francais v2s18c_imre_aubrey_3666e431:
 
     # imre "Okay-"
-    imre ""
+    imre "Okay-"
 
 # game/v2/scene18c.rpy:533
 translate francais v2s18c_imre_aubrey_b8f21112:
 
     # au "An actual good gift was the jewelry that [name] got."
-    au ""
+    au "An actual good gift was the jewelry that [name] got."
 
 # game/v2/scene18c.rpy:538
 translate francais v2s18c_imre_aubrey_1ce3d42a:
 
     # u "Ha, thanks. Her reaction couldn't have been better."
-    u ""
+    u "Ha, thanks. Her reaction couldn't have been better."
 
 # game/v2/scene18c.rpy:543
-translate francais v2s18c_imre_aubrey_3062c3db:
+translate francais v2s18c_imre_aubrey_c1648138:
 
-    # imre "Yeah, but still... With my gift card, she can go out and buy something even better than that."
-    imre ""
+    # imre "Yeah, but still... with my gift card, she can go out and buy something even better than that."
+    imre "Yeah, but still... with my gift card, she can go out and buy something even better than that."
 
 # game/v2/scene18c.rpy:548
 translate francais v2s18c_imre_aubrey_47d06f92:
 
     # au "Imre, drop it. Your gift card was trash."
-    au ""
+    au "Imre, drop it. Your gift card was trash."
 
 # game/v2/scene18c.rpy:553
 translate francais v2s18c_imre_aubrey_2a07f85e:
 
     # u "What's better than jewelry?"
-    u ""
+    u "What's better than jewelry?"
 
 # game/v2/scene18c.rpy:558
 translate francais v2s18c_imre_aubrey_722f11d9:
 
     # imre "Umm, a lot of things?"
-    imre ""
+    imre "Umm, a lot of things?"
 
 # game/v2/scene18c.rpy:563
 translate francais v2s18c_imre_aubrey_195b323b:
 
     # au "Go ahead, Imre. Name one. Name one thing that's better than jewelry."
-    au ""
+    au "Go ahead, Imre. Name one. Name one thing that's better than jewelry."
 
 # game/v2/scene18c.rpy:568
 translate francais v2s18c_imre_aubrey_f930a6ce:
 
     # imre "You know what? I don't need this."
-    imre ""
+    imre "You know what? I don't need this."
 
 # game/v2/scene18c.rpy:579
-translate francais v2s18c_imre_aubrey_ee197e48:
+translate francais v2s18c_imre_aubrey_fdbddd5b:
 
-    # imre "At least I didn't buy her a romantic piece of jewelry, haha! That was so fucking awkward, dude."
-    imre ""
+    # imre "At least I didn't buy her a romantic piece of jewelry! That was so fucking awkward, dude."
+    imre "At least I didn't buy her a romantic piece of jewelry! That was so fucking awkward, dude."
 
 # game/v2/scene18c.rpy:584
 translate francais v2s18c_imre_aubrey_6acaec58:
 
     # u "Seriously, guys... I didn't know it'd be weird."
-    u ""
+    u "Seriously, guys... I didn't know it'd be weird."
 
 # game/v2/scene18c.rpy:589
 translate francais v2s18c_imre_aubrey_2b197437:
 
     # au "I think getting creepy jewelry is much better than getting a plain piece of plastic with money on it..."
-    au ""
+    au "I think getting creepy jewelry is much better than getting a plain piece of plastic with money on it..."
 
 # game/v2/scene18c.rpy:591
 translate francais v2s18c_imre_aubrey_49d00f52:
 
     # u "(Creepy jewelry?)"
-    u ""
+    u "(Creepy jewelry?)"
 
 # game/v2/scene18c.rpy:596
 translate francais v2s18c_imre_aubrey_30a6eb31:
 
     # imre "Aubrey, enough is enough! My gift card is the reason that Lauren is so happy right now. Admit it."
-    imre ""
+    imre "Aubrey, enough is enough! My gift card is the reason that Lauren is so happy right now. Admit it."
 
 # game/v2/scene18c.rpy:601
-translate francais v2s18c_imre_aubrey_ea6e051b:
+translate francais v2s18c_imre_aubrey_a51aaa7f:
 
-    # au "Haha!"
-    au ""
+    # au "Ha!"
+    au "Ha!"
 
 # game/v2/scene18c.rpy:603
 translate francais v2s18c_imre_aubrey_d192d299:
 
     # au "Okay, keep telling yourself that."
-    au ""
+    au "Okay, keep telling yourself that."
 
 # game/v2/scene18c.rpy:608
 translate francais v2s18c_imre_aubrey_bca76fc4:
 
     # imre "I will."
-    imre ""
+    imre "I will."
 
 # game/v2/scene18c.rpy:618
-translate francais v2s18c_imre_aubrey_6dc4314b:
+translate francais v2s18c_imre_aubrey_3b33a619:
 
-    # au "*Laughs* Nice job! I've been trying to scare him away for years..."
-    au ""
+    # au "Nice job! I've been trying to scare him away for years..."
+    au "Nice job! I've been trying to scare him away for years..."
 
 # game/v2/scene18c.rpy:623
-translate francais v2s18c_imre_aubrey_ed52b353:
+translate francais v2s18c_imre_aubrey_13b9271d:
 
-    # u "Haha, don't blame that on me! You're the one who got him fired up."
-    u ""
+    # u "Don't blame that on me! You're the one who got him fired up."
+    u "Don't blame that on me! You're the one who got him fired up."
 
 # game/v2/scene18c.rpy:628
-translate francais v2s18c_imre_aubrey_35842f61:
+translate francais v2s18c_imre_aubrey_b7f3e4bc:
 
-    # au "Who cares? It's too easy. *Laughs*"
-    au ""
+    # au "Who cares? It's too easy."
+    au "Who cares? It's too easy."
 
 # game/v2/scene18c.rpy:633
 translate francais v2s18c_imre_aubrey_f93a8ae8:
 
     # u "Very true."
-    u ""
+    u "Very true."
 
 # game/v2/scene18c.rpy:636
 translate francais v2s18c_imre_aubrey_6e2a344e:
 
     # u "(Now is a good time to check something off the list, should I ask Aubrey for help?)"
-    u ""
+    u "(Now is a good time to check something off the list, should I ask Aubrey for help?)"
 
 # game/v2/scene18c.rpy:646
 translate francais v2s18c_imre_aubrey_3913d396:
 
     # u "So, I'm just curious..."
-    u ""
+    u "So, I'm just curious..."
 
 # game/v2/scene18c.rpy:651
 translate francais v2s18c_imre_aubrey_5b3016dd:
 
     # au "Yeah?"
-    au ""
+    au "Yeah?"
 
 # game/v2/scene18c.rpy:656
 translate francais v2s18c_imre_aubrey_75b0c30a:
 
     # u "If I told you I had this dumb list of tasks to complete by the end of the night, would you want to help me?"
-    u ""
+    u "If I told you I had this dumb list of tasks to complete by the end of the night, would you want to help me?"
 
 # game/v2/scene18c.rpy:661
-translate francais v2s18c_imre_aubrey_317f0525:
+translate francais v2s18c_imre_aubrey_c47e6fce:
 
-    # au "Hmm... What kind of tasks? *Laughs*"
-    au ""
+    # au "Hmm... What kind of tasks?"
+    au "Hmm... What kind of tasks?"
 
 # game/v2/scene18c.rpy:666
 translate francais v2s18c_imre_aubrey_b1d790bb:
 
     # u "Uh, well..."
-    u ""
+    u "Uh, well..."
 
 # game/v2/scene18c.rpy:676
-translate francais v2s18c_imre_aubrey_1db66ed8:
+translate francais v2s18c_imre_aubrey_71909011:
 
-    # au "Oh! Haha..."
-    au ""
+    # au "Oh! Ha..."
+    au "Oh! Ha..."
 
 # game/v2/scene18c.rpy:681
 translate francais v2s18c_imre_aubrey_94e68ad3:
 
     # u "Yeah... I just thought I'd ask because-"
-    u ""
+    u "Yeah... I just thought I'd ask because-"
 
 # game/v2/scene18c.rpy:686
 translate francais v2s18c_imre_aubrey_6fd6e03b:
 
     # u "(Not feeling it...)"
-    u ""
+    u "(Not feeling it...)"
 
 # game/v2/scene18c.rpy:691
-translate francais v2s18c_imre_aubrey_d29580fd:
+translate francais v2s18c_imre_aubrey_ba1f545d:
 
-    # au "This might be shocking... But I'm kind of ready to leave, haha."
-    au ""
+    # au "This might be shocking, but... I'm kind of ready to leave."
+    au "This might be shocking, but... I'm kind of ready to leave."
 
 # game/v2/scene18c.rpy:696
-translate francais v2s18c_imre_aubrey_625a6a73:
+translate francais v2s18c_imre_aubrey_4810a42b:
 
-    # u "Wait, really? *Laughs* Since when do you get tired before midnight?"
-    u ""
+    # u "Wait, really? Since when do you get tired before midnight?"
+    u "Wait, really? Since when do you get tired before midnight?"
 
 # game/v2/scene18c.rpy:701
-translate francais v2s18c_imre_aubrey_bca30351:
+translate francais v2s18c_imre_aubrey_9fe4cbf6:
 
-    # au "Right? I guess it's just been a lot lately, modelling and the wedding."
-    au ""
+    # au "Right? I guess it's just been a lot lately, modelling and the wedding and all that."
+    au "Right? I guess it's just been a lot lately, modelling and the wedding and all that."
 
 # game/v2/scene18c.rpy:706
 translate francais v2s18c_imre_aubrey_2d9003e5:
 
     # u "Yeah. makes sense."
-    u ""
+    u "Yeah. makes sense."
 
 # game/v2/scene18c.rpy:708
-translate francais v2s18c_imre_aubrey_d467dbba:
+translate francais v2s18c_imre_aubrey_ec0421c1:
 
-    # u "You definitely need to get a good rest or else you'll be falling asleep during the vows, haha."
-    u ""
+    # u "You definitely need to get a good rest or else you'll be falling asleep during the vows."
+    u "You definitely need to get a good rest or else you'll be falling asleep during the vows."
 
 # game/v2/scene18c.rpy:713
-translate francais v2s18c_imre_aubrey_a27bc184:
+translate francais v2s18c_imre_aubrey_d766f963:
 
-    # au "*Chuckles* Yeah, I'm going to."
-    au ""
+    # au "Yeah, I'm going to."
+    au "Yeah, I'm going to."
 
 # game/v2/scene18c.rpy:718
 translate francais v2s18c_imre_aubrey_00423e97:
 
     # u "Good..."
-    u ""
+    u "Good..."
 
 # game/v2/scene18c.rpy:720
 translate francais v2s18c_imre_aubrey_5e1ab662:
 
     # u "I'm going to talk to the others before it's time to go, find me if you need me, yeah?"
-    u ""
+    u "I'm going to talk to the others before it's time to go, find me if you need me, yeah?"
 
 # game/v2/scene18c.rpy:725
 translate francais v2s18c_imre_aubrey_486f8c31:
 
     # au "Okay. Will do."
-    au ""
+    au "Okay. Will do."
 
-# game/v2/scene18c.rpy:745
-translate francais v2s18c_aubreysg_597f8897:
+# game/v2/scene18c.rpy:743
+translate francais v2s18c_imre_aubrey_802b1e3d:
 
-    # au "So... Do you still need some help with that list you mentioned earlier?"
-    au ""
+    # au "So... do you still need some help with that list you mentioned earlier?"
+    au "So... do you still need some help with that list you mentioned earlier?"
 
-# game/v2/scene18c.rpy:750
-translate francais v2s18c_aubreysg_1b3da86d:
+# game/v2/scene18c.rpy:748
+translate francais v2s18c_imre_aubrey_1b3da86d:
 
     # u "Yeah, if you want-"
-    u ""
+    u "Yeah, if you want-"
 
 # game/v2/scene18c.rpy:755
 translate francais v2s18c_aubreysg_bea2f980:
 
     # au "Come on then..."
-    au ""
+    au "Come on then..."
 
 # game/v2/scene18c.rpy:769
 translate francais v2s18c_aubreysg_3b84e907:
 
     # au "*Whispers* Nice! There's nobody in here..."
-    au ""
+    au "*Whispers* Nice! There's nobody in here..."
 
 # game/v2/scene18c.rpy:774
 translate francais v2s18c_aubreysg_eff3b904:
 
     # u "Autumn's room?"
-    u ""
+    u "Autumn's room?"
 
 # game/v2/scene18c.rpy:779
-translate francais v2s18c_aubreysg_4ce7c004:
+translate francais v2s18c_aubreysg_6715cb8a:
 
-    # au "Yeah, so? What she doesn't know won't hurt her, hehe."
-    au ""
+    # au "Yeah, so? What she doesn't know won't hurt her."
+    au "Yeah, so? What she doesn't know won't hurt her."
 
 # game/v2/scene18c.rpy:784
 translate francais v2s18c_aubreysg_92983e5c:
 
     # u "(Well, when you put it like that...)"
-    u ""
+    u "(Well, when you put it like that...)"
 
 # game/v2/scene18c.rpy:797
 translate francais v2s18c_aubreysg_5482ff6d:
 
     # au "Okay..."
-    au ""
+    au "Okay..."
 
 # game/v2/scene18c.rpy:802
 translate francais v2s18c_aubreysg_c850bb96:
 
     # au "I'm all yours for pleasing."
-    au ""
+    au "I'm all yours for pleasing."
 
 # game/v2/scene18c.rpy:807
-translate francais v2s18c_aubreysg_e38b2915:
+translate francais v2s18c_aubreysg_619fab1b:
 
-    # u "(Ha... Damn...)"
-    u ""
+    # u "(Ha... damn...)"
+    u "(Ha... damn...)"
 
 # game/v2/scene18c.rpy:836
 translate francais v2s18c_aubreysg_ac4ef2cf:
 
     # au "*Moans* Touch me..."
-    au ""
+    au "*Moans* Touch me..."
 
 # game/v2/scene18c.rpy:841
 translate francais v2s18c_aubreysg_e338cb02:
 
     # au "*Gasps* [name]..."
-    au ""
+    au "*Gasps* [name]..."
 
 # game/v2/scene18c.rpy:846
 translate francais v2s18c_aubreysg_1f049864:
 
     # au "Please."
-    au ""
+    au "Please."
 
 # game/v2/scene18c.rpy:851
 translate francais v2s18c_aubreysg_0e94215b:
 
     # u "How about a finger?"
-    u ""
+    u "How about a finger?"
 
-# game/v2/scene18c.rpy:871
-translate francais v2s18c_aubreysg_3ba1b972:
+# game/v2/scene18c.rpy:867
+translate francais v2s18c_aubreysg_11e71c0b:
 
-    # au "Oh... Shhit... *Moans*"
-    au ""
+    # au "Oh... shiiit... *Moans*"
+    au "Oh... shiiit... *Moans*"
 
-# game/v2/scene18c.rpy:873
+# game/v2/scene18c.rpy:869
 translate francais v2s18c_aubreysg_9aadcc33:
 
     # u "How does that feel?"
-    u ""
+    u "How does that feel?"
 
-# game/v2/scene18c.rpy:875
-translate francais v2s18c_aubreysg_f6939b86:
+# game/v2/scene18c.rpy:871
+translate francais v2s18c_aubreysg_125f9078:
 
-    # au "Ha... *Panting* It feels amazing."
-    au ""
+    # au "Ha... *Panting* it feels amazing."
+    au "Ha... *Panting* it feels amazing."
 
-# game/v2/scene18c.rpy:885
+# game/v2/scene18c.rpy:877
 translate francais v2s18c_aubreysg_e694a7ac:
 
     # au "*Moans* Yes... [name], please..."
-    au ""
+    au "*Moans* Yes... [name], please..."
 
-# game/v2/scene18c.rpy:887
+# game/v2/scene18c.rpy:879
 translate francais v2s18c_aubreysg_68945b2a:
 
     # au "Mmm, fuck!"
-    au ""
+    au "Mmm, fuck!"
 
-# game/v2/scene18c.rpy:889
+# game/v2/scene18c.rpy:881
 translate francais v2s18c_aubreysg_11759ca6:
 
     # au "*Moans* YES!"
-    au ""
+    au "*Moans* YES!"
 
-# game/v2/scene18c.rpy:906
+# game/v2/scene18c.rpy:894
 translate francais v2s18c_aubreysg_0c85aa2e:
 
     # u "Shh, shh, shh..."
-    u ""
+    u "Shh, shh, shh..."
 
-# game/v2/scene18c.rpy:908
+# game/v2/scene18c.rpy:896
 translate francais v2s18c_aubreysg_445b5f59:
 
     # u "We don't want anyone interrupting us, do we?"
-    u ""
+    u "We don't want anyone interrupting us, do we?"
 
-# game/v2/scene18c.rpy:918
+# game/v2/scene18c.rpy:903
 translate francais v2s18c_aubreysg_548bb5fa:
 
     # au "*Moans* N-no."
-    au ""
+    au "*Moans* N-no."
 
-# game/v2/scene18c.rpy:928
-translate francais v2s18c_aubreysg_d0c34f73:
+# game/v2/scene18c.rpy:913
+translate francais v2s18c_aubreysg_8f9dd420:
 
-    # u "Ha, scream for me."
-    u ""
+    # u "Scream for me."
+    u "Scream for me."
 
-# game/v2/scene18c.rpy:930
-translate francais v2s18c_aubreysg_d2776b56:
+# game/v2/scene18c.rpy:915
+translate francais v2s18c_aubreysg_6f3f6dcd:
 
-    # au "*Moans* You- OH!"
-    au ""
+    # au "*Moans* You-"
+    au "*Moans* You-"
 
-# game/v2/scene18c.rpy:940
-translate francais v2s18c_aubreysg_5bde8a2a:
+# game/v2/scene18c.rpy:917
+translate francais v2s18c_aubreysg_c1ce36ef:
 
-    # au "Fuck... You don't want that... Haha... *Moans*"
-    au ""
+    # au "OH!"
+    au "OH!"
 
-# game/v2/scene18c.rpy:942
-translate francais v2s18c_aubreysg_7d2daa66:
+# game/v2/scene18c.rpy:923
+translate francais v2s18c_aubreysg_6f372b8e:
 
-    # u "(Maybe. But I definitely don't want anyone else to hear her, haha. Hmm...)"
-    u ""
+    # au "Fuck... you don't want that... *Moans*"
+    au "Fuck... you don't want that... *Moans*"
 
-# game/v2/scene18c.rpy:952
+# game/v2/scene18c.rpy:925
+translate francais v2s18c_aubreysg_174d4484:
+
+    # u "(Maybe. But I definitely don't want anyone else to hear her. Hmm...)"
+    u "(Maybe. But I definitely don't want anyone else to hear her. Hmm...)"
+
+# game/v2/scene18c.rpy:931
 translate francais v2s18c_aubreysg_a4e2e281:
 
     # au "Mmm!"
-    au ""
+    au "Mmm!"
 
-# game/v2/scene18c.rpy:962
+# game/v2/scene18c.rpy:937
 translate francais v2s18c_aubreysg_a6b74049:
 
     # u "Faster?"
-    u ""
+    u "Faster?"
 
-# game/v2/scene18c.rpy:972
+# game/v2/scene18c.rpy:943
 translate francais v2s18c_aubreysg_3da13d1c:
 
     # au "*Moans*"
-    au ""
+    au "*Moans*"
 
-# game/v2/scene18c.rpy:982
+# game/v2/scene18c.rpy:949
 translate francais v2s18c_aubreysg_4b576d42:
 
     # u "You're so wet..."
-    u ""
+    u "You're so wet..."
 
-# game/v2/scene18c.rpy:984
+# game/v2/scene18c.rpy:951
 translate francais v2s18c_aubreysg_6efd31ee:
 
     # au "Mmm, mmm! *Moans*"
-    au ""
+    au "Mmm, mmm! *Moans*"
 
-# game/v2/scene18c.rpy:991
+# game/v2/scene18c.rpy:958
 translate francais v2s18c_aubreysg_7063425a:
 
     # au "I'm-"
-    au ""
+    au "I'm-"
 
-# game/v2/scene18c.rpy:1001
+# game/v2/scene18c.rpy:964
 translate francais v2s18c_aubreysg_7c3e62f2:
 
     # au "Ffffuck... [name]."
-    au ""
+    au "Ffffuck... [name]."
 
-# game/v2/scene18c.rpy:1003
+# game/v2/scene18c.rpy:966
 translate francais v2s18c_aubreysg_bb2f60d1:
 
     # u "Are you gonna cum for me?"
-    u ""
+    u "Are you gonna cum for me?"
 
-# game/v2/scene18c.rpy:1013
+# game/v2/scene18c.rpy:972
 translate francais v2s18c_aubreysg_36b40086:
 
     # au "*Whispers* Yes..."
-    au ""
+    au "*Whispers* Yes..."
 
-# game/v2/scene18c.rpy:1015
+# game/v2/scene18c.rpy:974
 translate francais v2s18c_aubreysg_2243895b:
 
     # u "Now?"
-    u ""
+    u "Now?"
 
-# game/v2/scene18c.rpy:1025
+# game/v2/scene18c.rpy:980
 translate francais v2s18c_aubreysg_7120c117:
 
     # au "Mmm, yes... *Moans* I-"
-    au ""
+    au "Mmm, yes... *Moans* I-"
 
-# game/v2/scene18c.rpy:1035
+# game/v2/scene18c.rpy:986
 translate francais v2s18c_aubreysg_9867192c:
 
     # au "Fuck... Oh, [name]..."
-    au ""
+    au "Fuck... Oh, [name]..."
 
-# game/v2/scene18c.rpy:1037
+# game/v2/scene18c.rpy:988
 translate francais v2s18c_aubreysg_1338134a:
 
     # au "*Moans* I'm gonna cum."
-    au ""
+    au "*Moans* I'm gonna cum."
 
-# game/v2/scene18c.rpy:1044
+# game/v2/scene18c.rpy:995
 translate francais v2s18c_aubreysg_6bcd435f:
 
     # u "Yeah?"
-    u ""
+    u "Yeah?"
 
-# game/v2/scene18c.rpy:1049
+# game/v2/scene18c.rpy:1000
 translate francais v2s18c_aubreysg_98d091cc:
 
     # au "Yessss... Yes, yes!"
-    au ""
+    au "Yessss... Yes, yes!"
 
-# game/v2/scene18c.rpy:1054
+# game/v2/scene18c.rpy:1005
 translate francais v2s18c_aubreysg_30a90cc9:
 
     # u "(And... check.)"
-    u ""
+    u "(And... check.)"
 
-# game/v2/scene18c.rpy:1059
+# game/v2/scene18c.rpy:1010
 translate francais v2s18c_aubreysg_40a168ac:
 
     # au "*Groans*"
-    au ""
+    au "*Groans*"
 
-# game/v2/scene18c.rpy:1066
+# game/v2/scene18c.rpy:1017
 translate francais v2s18c_nsfwSkipLabelAub_f979f308:
 
     # au "*Panting* Holy shit, [name]."
-    au ""
+    au "*Panting* Holy shit, [name]."
 
-# game/v2/scene18c.rpy:1071
-translate francais v2s18c_nsfwSkipLabelAub_488430bc:
+# game/v2/scene18c.rpy:1022
+translate francais v2s18c_nsfwSkipLabelAub_ad586092:
 
-    # u "*Chuckles* Looked like you enjoyed that."
-    u ""
+    # u "Looked like you enjoyed that."
+    u "Looked like you enjoyed that."
 
-# game/v2/scene18c.rpy:1076
+# game/v2/scene18c.rpy:1027
 translate francais v2s18c_nsfwSkipLabelAub_a8f2ee86:
 
     # au "Yes... *Panting*"
-    au ""
+    au "Yes... *Panting*"
 
-# game/v2/scene18c.rpy:1086
+# game/v2/scene18c.rpy:1037
 translate francais v2s18c_nsfwSkipLabelAub_35a07e5a:
 
     # au "Mmmm..."
-    au ""
+    au "Mmmm..."
 
-# game/v2/scene18c.rpy:1091
+# game/v2/scene18c.rpy:1042
 translate francais v2s18c_nsfwSkipLabelAub_24abcc3a:
 
     # au "I really, really, really did."
-    au ""
+    au "I really, really, really did."
 
-# game/v2/scene18c.rpy:1096
-translate francais v2s18c_nsfwSkipLabelAub_21065647:
+# game/v2/scene18c.rpy:1047
+translate francais v2s18c_nsfwSkipLabelAub_e3e15647:
 
-    # u "Well, I'm glad. And thank you, haha."
-    u ""
+    # u "Well, I'm glad. And thank you."
+    u "Well, I'm glad. And thank you."
 
-# game/v2/scene18c.rpy:1101
+# game/v2/scene18c.rpy:1052
 translate francais v2s18c_nsfwSkipLabelAub_660e8ec7:
 
     # au "Are you kidding?"
-    au ""
+    au "Are you kidding?"
 
-# game/v2/scene18c.rpy:1106
+# game/v2/scene18c.rpy:1057
 translate francais v2s18c_nsfwSkipLabelAub_ef2f1671:
 
     # u "What?"
-    u ""
+    u "What?"
 
-# game/v2/scene18c.rpy:1111
+# game/v2/scene18c.rpy:1062
 translate francais v2s18c_nsfwSkipLabelAub_a8bfda7b:
 
     # au "Thank me? Thank you."
-    au ""
+    au "Thank me? Thank you."
 
-# game/v2/scene18c.rpy:1128
+# game/v2/scene18c.rpy:1079
 translate francais v2s18c_nsfwSkipLabelAub_5b494f57:
 
     # u "*Gulps* You're welcome."
-    u ""
+    u "*Gulps* You're welcome."
 
-# game/v2/scene18c.rpy:1133
+# game/v2/scene18c.rpy:1084
 translate francais v2s18c_nsfwSkipLabelAub_487dba53:
 
     # au "We better get back to the party now, heh."
-    au ""
+    au "We better get back to the party now, heh."
 
-# game/v2/scene18c.rpy:1138
-translate francais v2s18c_nsfwSkipLabelAub_f9a959c6:
+# game/v2/scene18c.rpy:1089
+translate francais v2s18c_nsfwSkipLabelAub_02a43133:
 
-    # u "Yeah, good idea, haha."
-    u ""
+    # u "Yeah, good idea."
+    u "Yeah, good idea."
 
-# game/v2/scene18c.rpy:1144
+# game/v2/scene18c.rpy:1095
 translate francais v2s18c_nsfwSkipLabelAub_121fba87:
 
     # au "I'll miss you."
-    au ""
+    au "I'll miss you."
 
-# game/v2/scene18c.rpy:1164
+# game/v2/scene18c.rpy:1115
 translate francais v2s18c_nsfwSkipLabelAub_f5e70424:
 
     # u "*Exhales* (Damn, what a night so far.)"
-    u ""
+    u "*Exhales* (Damn, what a night so far.)"
 
-# game/v2/scene18c.rpy:1174
+# game/v2/scene18c.rpy:1125
 translate francais v2s18c_nsfwSkipLabelAub_84d83784:
 
     # u "(Now would be the perfect chance to steal a pair of panties for the list... I just hope Autumn won't notice.)"
-    u ""
+    u "(Now would be the perfect chance to steal a pair of panties for the list... I just hope Autumn won't notice.)"
 
-# game/v2/scene18c.rpy:1181
+# game/v2/scene18c.rpy:1132
 translate francais v2s18c_nsfwSkipLabelAub_efc25783:
 
     # u "(Sorry, Autumn. I'm a man in need.)"
-    u ""
+    u "(Sorry, Autumn. I'm a man in need.)"
 
-# game/v2/scene18c.rpy:1189
+# game/v2/scene18c.rpy:1140
 translate francais v2s18c_nsfwSkipLabelAub_318385ef:
 
     # u "(Double check.)"
-    u ""
+    u "(Double check.)"
 
-# game/v2/scene18c.rpy:1195
+# game/v2/scene18c.rpy:1146
 translate francais v2s18c_nsfwSkipLabelAub_8e01be0b:
 
     # u "(There's no way in hell I'm taking my girlfriend's sister's underwear. Not happening.)"
-    u ""
+    u "(There's no way in hell I'm taking my girlfriend's sister's underwear. Not happening.)"
 
-# game/v2/scene18c.rpy:1198
+# game/v2/scene18c.rpy:1149
 translate francais v2s18c_nsfwSkipLabelAub_f140851f:
 
     # u "(There's no way I'm taking those. Bad idea. Very, very bad idea.)"
-    u ""
+    u "(There's no way I'm taking those. Bad idea. Very, very bad idea.)"
 
-# game/v2/scene18c.rpy:1223
+# game/v2/scene18c.rpy:1174
 translate francais v2s18c_ryan_adddb164:
 
     # u "Ryan? Are you sleeping?"
-    u ""
+    u "Ryan? Are you sleeping?"
 
-# game/v2/scene18c.rpy:1228
+# game/v2/scene18c.rpy:1179
 translate francais v2s18c_ryan_ff2376e3:
 
     # ry "*Groans*"
-    ry ""
+    ry "*Groans*"
 
-# game/v2/scene18c.rpy:1233
-translate francais v2s18c_ryan_7a8d7f98:
+# game/v2/scene18c.rpy:1184
+translate francais v2s18c_ryan_b8a616dc:
 
-    # u "Damn, dude... Still not feeling well?"
-    u ""
+    # u "Damn, dude... still not feeling well?"
+    u "Damn, dude... still not feeling well?"
 
-# game/v2/scene18c.rpy:1238
+# game/v2/scene18c.rpy:1189
 translate francais v2s18c_ryan_44ba0674:
 
     # ry "*Whining*"
-    ry ""
+    ry "*Whining*"
 
-# game/v2/scene18c.rpy:1243
+# game/v2/scene18c.rpy:1194
 translate francais v2s18c_ryan_6a6149a4:
 
     # u "(For fuck's sake...)"
-    u ""
+    u "(For fuck's sake...)"
 
-# game/v2/scene18c.rpy:1248
+# game/v2/scene18c.rpy:1199
 translate francais v2s18c_ryan_533a4c06:
 
     # ry "I've gotten sick so many times I lost count."
-    ry ""
+    ry "I've gotten sick so many times I lost count."
 
-# game/v2/scene18c.rpy:1253
+# game/v2/scene18c.rpy:1204
 translate francais v2s18c_ryan_8e3c3926:
 
     # u "Ugh, I'm sorry man. I wish I could do something to help."
-    u ""
+    u "Ugh, I'm sorry man. I wish I could do something to help."
 
-# game/v2/scene18c.rpy:1258
+# game/v2/scene18c.rpy:1209
 translate francais v2s18c_ryan_ec5a8b60:
 
     # ry "Keep me away from candy. Forever..."
-    ry ""
+    ry "Keep me away from candy. Forever..."
 
-# game/v2/scene18c.rpy:1263
-translate francais v2s18c_ryan_127c5abf:
+# game/v2/scene18c.rpy:1214
+translate francais v2s18c_ryan_a657c661:
 
-    # u "Ha, alright. Noted."
-    u ""
+    # u "Ha, all right. Noted."
+    u "Ha, all right. Noted."
 
-# game/v2/scene18c.rpy:1268
-translate francais v2s18c_ryan_58ac7453:
+# game/v2/scene18c.rpy:1219
+translate francais v2s18c_ryan_34cf457d:
 
-    # ry "No... *Sniffles* There's nothing anyone can do."
-    ry ""
+    # ry "No... *sniffles* there's nothing anyone can do."
+    ry "No... *sniffles* there's nothing anyone can do."
 
-# game/v2/scene18c.rpy:1273
+# game/v2/scene18c.rpy:1224
 translate francais v2s18c_ryan_1067b076:
 
     # u "(Is he... crying?)"
-    u ""
+    u "(Is he... crying?)"
 
-# game/v2/scene18c.rpy:1278
+# game/v2/scene18c.rpy:1229
 translate francais v2s18c_ryan_ee91fea3:
 
     # ry "I'm gonna sleep now."
-    ry ""
+    ry "I'm gonna sleep now."
 
-# game/v2/scene18c.rpy:1283
-translate francais v2s18c_ryan_aad89788:
+# game/v2/scene18c.rpy:1234
+translate francais v2s18c_ryan_8296abcc:
 
-    # u "Alright, are you sure you're okay?"
-    u ""
+    # u "All right, are you sure you're okay?"
+    u "All right, are you sure you're okay?"
 
-# game/v2/scene18c.rpy:1288
+# game/v2/scene18c.rpy:1239
 translate francais v2s18c_ryan_a197efe0:
 
     # ry "..."
-    ry ""
+    ry "..."
 
-# game/v2/scene18c.rpy:1293
+# game/v2/scene18c.rpy:1244
 translate francais v2s18c_ryan_f0ff2a68:
 
     # u "Ryan?"
-    u ""
+    u "Ryan?"
 
-# game/v2/scene18c.rpy:1298
+# game/v2/scene18c.rpy:1249
 translate francais v2s18c_ryan_98cdb679:
 
     # ry "*Snoring*"
-    ry ""
+    ry "*Snoring*"
 
-# game/v2/scene18c.rpy:1303
+# game/v2/scene18c.rpy:1254
 translate francais v2s18c_ryan_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*Sighs*"
 
-# game/v2/scene18c.rpy:1308
+# game/v2/scene18c.rpy:1259
 translate francais v2s18c_ryan_bb4c1ef2:
 
     # u "(Oh, wait! I need that condom if I want to complete the list...)"
-    u ""
+    u "(Oh, wait! I need that condom if I want to complete the list...)"
 
-# game/v2/scene18c.rpy:1317
+# game/v2/scene18c.rpy:1268
 translate francais v2s18c_ryan_5c28fcdd:
 
     # u "(Sorry, bro...)"
-    u ""
+    u "(Sorry, bro...)"
 
-# game/v2/scene18c.rpy:1322
+# game/v2/scene18c.rpy:1273
 translate francais v2s18c_ryan_ff2376e3_1:
 
     # ry "*Groans*"
-    ry ""
+    ry "*Groans*"
 
-# game/v2/scene18c.rpy:1324
+# game/v2/scene18c.rpy:1275
 translate francais v2s18c_ryan_0224ce63:
 
     # u "(Fuck!)"
-    u ""
+    u "(Fuck!)"
 
-# game/v2/scene18c.rpy:1326
+# game/v2/scene18c.rpy:1277
 translate francais v2s18c_ryan_a197efe0_1:
 
     # ry "..."
-    ry ""
+    ry "..."
 
-# game/v2/scene18c.rpy:1331
+# game/v2/scene18c.rpy:1282
 translate francais v2s18c_ryan_e79bb6d7:
 
     # u "Phew..."
-    u ""
+    u "Phew..."
 
-# game/v2/scene18c.rpy:1336
-translate francais v2s18c_ryan_48cdb82a:
+# game/v2/scene18c.rpy:1287
+translate francais v2s18c_ryan_64461017:
 
-    # u "(This thing is definitely expired. *Laughs*)"
-    u ""
+    # u "(This thing is definitely expired.)"
+    u "(This thing is definitely expired.)"
 
-# game/v2/scene18c.rpy:1342
+# game/v2/scene18c.rpy:1293
 translate francais v2s18c_ryan_1a25e95b:
 
     # u "*Whispers* Hey, thanks man!"
-    u ""
+    u "*Whispers* Hey, thanks man!"
 
-# game/v2/scene18c.rpy:1350
+# game/v2/scene18c.rpy:1301
 translate francais v2s18c_ryan_49e9ad5e:
 
     # u "(Ah, I can't do that to him...)"
-    u ""
+    u "(Ah, I can't do that to him...)"
 
-# game/v2/scene18c.rpy:1352
-translate francais v2s18c_ryan_bc75f445:
+# game/v2/scene18c.rpy:1303
+translate francais v2s18c_ryan_f726dd1b:
 
-    # u "(He's probably had that thing for a few years, it'd be like stealing his best friend. *Laughs*)"
-    u ""
+    # u "(He's probably had that thing for a few years; it'd be like stealing his best friend.)"
+    u "(He's probably had that thing for a few years; it'd be like stealing his best friend.)"
 
-# game/v2/scene18c.rpy:1357
+# game/v2/scene18c.rpy:1308
 translate francais v2s18c_ryan_e58ad414:
 
     # u "Good luck, Ryan."
-    u ""
+    u "Good luck, Ryan."
 
-# game/v2/scene18c.rpy:1386
-translate francais v2s18c_lauren_f2d87c71:
+# game/v2/scene18c.rpy:1337
+translate francais v2s18c_lauren_e2d57163:
 
-    # u "Hey, there you are. Hiding from your own party? *Laughs*"
-    u ""
+    # u "Hey, there you are. Hiding from your own party?"
+    u "Hey, there you are. Hiding from your own party?"
 
-# game/v2/scene18c.rpy:1391
-translate francais v2s18c_lauren_cdd15967:
+# game/v2/scene18c.rpy:1342
+translate francais v2s18c_lauren_75448f59:
 
-    # la "Oh, hey. *Chuckles*"
-    la ""
+    # la "Oh, hey."
+    la "Oh, hey."
 
-# game/v2/scene18c.rpy:1393
-translate francais v2s18c_lauren_1dc4f568:
+# game/v2/scene18c.rpy:1344
+translate francais v2s18c_lauren_3d625104:
 
-    # la "No, I'm having a great time... Just taking a moment to soak it all in, you know?"
-    la ""
+    # la "No, I'm having a great time..."
+    la "No, I'm having a great time..."
 
-# game/v2/scene18c.rpy:1398
+# game/v2/scene18c.rpy:1346
+translate francais v2s18c_lauren_d828f987:
+
+    # la "Just taking a moment to soak it all in, you know?"
+    la "Just taking a moment to soak it all in, you know?"
+
+# game/v2/scene18c.rpy:1351
 translate francais v2s18c_lauren_65ccfb9d:
 
     # u "Yeah, I get it."
-    u ""
+    u "Yeah, I get it."
 
-# game/v2/scene18c.rpy:1408
+# game/v2/scene18c.rpy:1361
 translate francais v2s18c_lauren_82b8fa01:
 
     # u "It's so nice up here."
-    u ""
+    u "It's so nice up here."
 
-# game/v2/scene18c.rpy:1413
+# game/v2/scene18c.rpy:1366
 translate francais v2s18c_lauren_630bf3d2:
 
     # la "Yeah, it is. Autumn's let me stay in this room for tonight."
-    la ""
+    la "Yeah, it is. Autumn's let me stay in this room for tonight."
 
-# game/v2/scene18c.rpy:1415
-translate francais v2s18c_lauren_6be577ed:
+# game/v2/scene18c.rpy:1368
+translate francais v2s18c_lauren_7806df45:
 
-    # la "Her room is even bigger than this one, have you seen it?"
-    la ""
+    # la "Her room is even bigger than this one. Have you seen it?"
+    la "Her room is even bigger than this one. Have you seen it?"
 
-# game/v2/scene18c.rpy:1424
-translate francais v2s18c_lauren_36ecd216:
+# game/v2/scene18c.rpy:1377
+translate francais v2s18c_lauren_dcbdc171:
 
-    # u "Eh, I like the balcony a lot better. I'd be out here all the time if I were you, haha."
-    u ""
+    # u "Eh, I like the balcony a lot better. I'd be out here all the time if I were you."
+    u "Eh, I like the balcony a lot better. I'd be out here all the time if I were you."
 
-# game/v2/scene18c.rpy:1429
-translate francais v2s18c_lauren_356e9267:
+# game/v2/scene18c.rpy:1382
+translate francais v2s18c_lauren_7ec1e741:
 
-    # la "*Chuckles* I drop by here a lot, it's just relaxing."
-    la ""
+    # la "I drop by here a lot. It's relaxing."
+    la "I drop by here a lot. It's relaxing."
 
-# game/v2/scene18c.rpy:1437
-translate francais v2s18c_lauren_727c1a1b:
+# game/v2/scene18c.rpy:1390
+translate francais v2s18c_lauren_ff8b2c51:
 
-    # u "Yeah... Having a small dorm room kind of sucks, the bigger the better in my opinion."
-    u ""
+    # u "Yeah... having a small dorm room kind of sucks. The bigger the better, in my opinion."
+    u "Yeah... having a small dorm room kind of sucks. The bigger the better, in my opinion."
 
-# game/v2/scene18c.rpy:1442
-translate francais v2s18c_lauren_272358e8:
+# game/v2/scene18c.rpy:1395
+translate francais v2s18c_lauren_a1159189:
 
-    # la "I mean it does suck sometimes, but I don't need something massive, haha."
-    la ""
+    # la "I mean, it does suck sometimes, but I don't need something massive."
+    la "I mean, it does suck sometimes, but I don't need something massive."
 
-# game/v2/scene18c.rpy:1447
+# game/v2/scene18c.rpy:1400
 translate francais v2s18c_lauren_662b6819:
 
     # u "To each their own, ha."
-    u ""
+    u "To each their own, ha."
 
-# game/v2/scene18c.rpy:1452
+# game/v2/scene18c.rpy:1405
 translate francais v2s18c_lauren_792943a0:
 
     # la "I can't believe how stressed I was about this party... I thought everything was going wrong, but... no."
-    la ""
+    la "I can't believe how stressed I was about this party... I thought everything was going wrong, but... no."
 
-# game/v2/scene18c.rpy:1457
-translate francais v2s18c_lauren_696c7c79:
+# game/v2/scene18c.rpy:1410
+translate francais v2s18c_lauren_a0135ab4:
 
-    # la "It's all been perfect so far and everyone showed up! *Laughs*"
-    la ""
+    # la "It's all been perfect so far and everyone showed up!"
+    la "It's all been perfect so far and everyone showed up!"
 
-# game/v2/scene18c.rpy:1462
-translate francais v2s18c_lauren_dd8a01fe:
+# game/v2/scene18c.rpy:1415
+translate francais v2s18c_lauren_dbec4a25:
 
-    # u "Haha, of course everyone showed up! You're a pretty popular girl, Lauren."
-    u ""
+    # u "Of course everyone showed up! You're a pretty popular girl, Lauren."
+    u "Of course everyone showed up! You're a pretty popular girl, Lauren."
 
-# game/v2/scene18c.rpy:1467
+# game/v2/scene18c.rpy:1420
 translate francais v2s18c_lauren_e364c794:
 
     # la "Ha... I guess I just didn't see myself that way."
-    la ""
+    la "Ha... I guess I just didn't see myself that way."
 
-# game/v2/scene18c.rpy:1472
+# game/v2/scene18c.rpy:1425
 translate francais v2s18c_lauren_a8722e91:
 
     # la "I'm so grateful for all of our friends."
-    la ""
+    la "I'm so grateful for all of our friends."
 
-# game/v2/scene18c.rpy:1477
+# game/v2/scene18c.rpy:1430
 translate francais v2s18c_lauren_c508878c:
 
     # u "Me too, really. Everyone seems to be having a great time, too."
-    u ""
+    u "Me too, really. Everyone seems to be having a great time, too."
 
-# game/v2/scene18c.rpy:1483
+# game/v2/scene18c.rpy:1436
 translate francais v2s18c_lauren_a55420cc:
 
     # u "Well, everyone besides Ryan..."
-    u ""
+    u "Well, everyone besides Ryan..."
 
-# game/v2/scene18c.rpy:1488
-translate francais v2s18c_lauren_d6137683:
+# game/v2/scene18c.rpy:1441
+translate francais v2s18c_lauren_f6973ae5:
 
-    # la "*Laughs* I know! *Sighs* I shouldn't be laughing..."
-    la ""
+    # la "Ha! I know. Well... *sighs* I shouldn't be laughing..."
+    la "Ha! I know. Well... *sighs* I shouldn't be laughing..."
 
-# game/v2/scene18c.rpy:1494
-translate francais v2s18c_lauren_2c7abc44:
+# game/v2/scene18c.rpy:1447
+translate francais v2s18c_lauren_3f19e68b:
 
-    # la "Besides Ryan, haha! He's been getting sick all night. Something about eating too much. *Giggles*"
-    la ""
+    # la "Besides Ryan! He's been getting sick all night. Something about eating too much. *Giggles*"
+    la "Besides Ryan! He's been getting sick all night. Something about eating too much. *Giggles*"
 
-# game/v2/scene18c.rpy:1499
-translate francais v2s18c_lauren_371ed6ee:
+# game/v2/scene18c.rpy:1452
+translate francais v2s18c_lauren_bf91f827:
 
-    # u "Haha, did he arrive like that? What even happened to him?"
-    u ""
+    # u "Did he arrive like that? What even happened to him?"
+    u "Did he arrive like that? What even happened to him?"
 
-# game/v2/scene18c.rpy:1504
-translate francais v2s18c_lauren_322eecbb:
+# game/v2/scene18c.rpy:1457
+translate francais v2s18c_lauren_b1300774:
 
-    # la "No idea, ha."
-    la ""
+    # la "No idea."
+    la "No idea."
 
-# game/v2/scene18c.rpy:1509
+# game/v2/scene18c.rpy:1462
 translate francais v2s18c_lauren_7879ec25:
 
     # la "He looked okay when he first got here, but I do remember him holding his stomach a lot."
-    la ""
+    la "He looked okay when he first got here, but I do remember him holding his stomach a lot."
 
-# game/v2/scene18c.rpy:1511
+# game/v2/scene18c.rpy:1464
 translate francais v2s18c_lauren_4b52db76:
 
     # la "Then he just disappeared into the bathroom for ages."
-    la ""
+    la "Then he just disappeared into the bathroom for ages."
 
-# game/v2/scene18c.rpy:1516
-translate francais v2s18c_lauren_8a5eb7f9:
+# game/v2/scene18c.rpy:1469
+translate francais v2s18c_lauren_1ed2610d:
 
-    # u "Jeez... Poor Ryan."
-    u ""
+    # u "Jeez... poor Ryan."
+    u "Jeez... poor Ryan."
 
-# game/v2/scene18c.rpy:1521
+# game/v2/scene18c.rpy:1474
 translate francais v2s18c_lauren_4a69a823:
 
     # la "Hopefully he can recover enough to walk home."
-    la ""
+    la "Hopefully he can recover enough to walk home."
 
-# game/v2/scene18c.rpy:1526
-translate francais v2s18c_lauren_b6832f2e:
+# game/v2/scene18c.rpy:1479
+translate francais v2s18c_lauren_a68a7da7:
 
-    # u "*Scoffs*"
-    u ""
+    # u "Oof."
+    u "Oof."
 
-# game/v2/scene18c.rpy:1531
-translate francais v2s18c_lauren_ec1d5854:
+# game/v2/scene18c.rpy:1484
+translate francais v2s18c_lauren_9ba0d572:
 
-    # la "I mean, uh... Hopefully he feels better soon... *Giggles*"
-    la ""
+    # la "I mean, uh... hopefully he feels better soon..."
+    la "I mean, uh... hopefully he feels better soon..."
 
-# game/v2/scene18c.rpy:1536
-translate francais v2s18c_lauren_ebb05788:
+# game/v2/scene18c.rpy:1489
+translate francais v2s18c_lauren_9945103a:
 
-    # u "*Laughs* Yeah, I hope so too."
-    u ""
+    # u "Yeah, I hope so too."
+    u "Yeah, I hope so too."
 
-# game/v2/scene18c.rpy:1542
+# game/v2/scene18c.rpy:1492
 translate francais v2s18c_lauren_8d33cc11:
 
     # u "By the way, you look amazing tonight."
-    u ""
+    u "By the way, you look amazing tonight."
 
-# game/v2/scene18c.rpy:1547
+# game/v2/scene18c.rpy:1497
 translate francais v2s18c_lauren_ef1bb426:
 
     # la "Aww! Come here, you."
-    la ""
+    la "Aww! Come here, you."
 
-# game/v2/scene18c.rpy:1559
+# game/v2/scene18c.rpy:1509
 translate francais v2s18c_lauren_c631639e:
 
     # la "Thank you, [name]."
-    la ""
+    la "Thank you, [name]."
 
-# game/v2/scene18c.rpy:1564
+# game/v2/scene18c.rpy:1514
 translate francais v2s18c_lauren_7ccc0fdc:
 
     # u "You're very welcome."
-    u ""
+    u "You're very welcome."
 
-# game/v2/scene18c.rpy:1574
-translate francais v2s18c_lauren_4ae0ee62:
+# game/v2/scene18c.rpy:1524
+translate francais v2s18c_lauren_4eebb931:
 
-    # la "I don't know if I've ever felt happier... Ha."
-    la ""
+    # la "I don't know if I've ever felt happier..."
+    la "I don't know if I've ever felt happier..."
 
-# game/v2/scene18c.rpy:1579
+# game/v2/scene18c.rpy:1529
 translate francais v2s18c_lauren_d42b418c:
 
     # u "Me either."
-    u ""
+    u "Me either."
 
-# game/v2/scene18c.rpy:1584
+# game/v2/scene18c.rpy:1534
 translate francais v2s18c_lauren_43f96172:
 
     # la "Well, speaking of Ryan..."
-    la ""
+    la "Well, speaking of Ryan..."
 
-# game/v2/scene18c.rpy:1586
+# game/v2/scene18c.rpy:1536
 translate francais v2s18c_lauren_3d97cac0:
 
     # la "*Sighs* I should take him some water and see how he's doing."
-    la ""
+    la "*Sighs* I should take him some water and see how he's doing."
 
-# game/v2/scene18c.rpy:1591
+# game/v2/scene18c.rpy:1541
 translate francais v2s18c_lauren_d475986f:
 
     # u "Maybe. Or maybe you're always looking out for other people, and not enough for yourself..."
-    u ""
+    u "Maybe. Or maybe you're always looking out for other people, and not enough for yourself..."
 
-# game/v2/scene18c.rpy:1596
+# game/v2/scene18c.rpy:1546
 translate francais v2s18c_lauren_adbc94ec:
 
     # la "Hehe, that's what you're here for."
-    la ""
+    la "Hehe, that's what you're here for."
 
-# game/v2/scene18c.rpy:1601
+# game/v2/scene18c.rpy:1551
 translate francais v2s18c_lauren_fbd6a8e2:
 
     # u "(Cheeky...)"
-    u ""
+    u "(Cheeky...)"
 
-# game/v2/scene18c.rpy:1620
-translate francais v2s18c_autumn_amber_4a356984:
+# game/v2/scene18c.rpy:1570
+translate francais v2s18c_autumn_amber_afa071db:
 
-    # aut "Haha, I swear! I have no idea what strain it is, I've never asked."
-    aut ""
+    # aut "I swear! I have no idea what strain it is, I've never asked."
+    aut "I swear! I have no idea what strain it is, I've never asked."
 
-# game/v2/scene18c.rpy:1625
+# game/v2/scene18c.rpy:1575
 translate francais v2s18c_autumn_amber_d49ed31c:
 
     # am "Really?!"
-    am ""
+    am "Really?!"
 
-# game/v2/scene18c.rpy:1630
+# game/v2/scene18c.rpy:1580
 translate francais v2s18c_autumn_amber_4017686a:
 
     # aut "Really."
-    aut ""
+    aut "Really."
 
-# game/v2/scene18c.rpy:1635
+# game/v2/scene18c.rpy:1585
 translate francais v2s18c_autumn_amber_97a271e7:
 
     # am "Autumn, your entire world is going to open up once you start exploring different strains."
-    am ""
+    am "Autumn, your entire world is going to open up once you start exploring different strains."
 
-# game/v2/scene18c.rpy:1640
-translate francais v2s18c_autumn_amber_1c412a66:
+# game/v2/scene18c.rpy:1590
+translate francais v2s18c_autumn_amber_b1c6be0b:
 
-    # aut "*Laughs* You think so?"
-    aut ""
+    # aut "You think so?"
+    aut "You think so?"
 
-# game/v2/scene18c.rpy:1650
+# game/v2/scene18c.rpy:1600
 translate francais v2s18c_autumn_amber_f67352cc:
 
     # am "There are thousands of them, dude. And you can get blends, too."
-    am ""
+    am "There are thousands of them, dude. And you can get blends, too."
 
-# game/v2/scene18c.rpy:1655
+# game/v2/scene18c.rpy:1605
 translate francais v2s18c_autumn_amber_45af36bd:
 
     # aut "Blends? Like coffee?"
-    aut ""
+    aut "Blends? Like coffee?"
 
-# game/v2/scene18c.rpy:1660
-translate francais v2s18c_autumn_amber_4b78da8c:
+# game/v2/scene18c.rpy:1610
+translate francais v2s18c_autumn_amber_b32eb889:
 
-    # am "Haha, yes! It's exactly like coffee you basic bitch."
-    am ""
+    # am "Yes! It's exactly like coffee, you basic bitch."
+    am "Yes! It's exactly like coffee, you basic bitch."
 
-# game/v2/scene18c.rpy:1665
-translate francais v2s18c_autumn_amber_d12d1f13:
+# game/v2/scene18c.rpy:1615
+translate francais v2s18c_autumn_amber_c18179fa:
 
-    # aut "*Gasps* How dare you? Haha."
-    aut ""
+    # aut "How dare you."
+    aut "How dare you."
 
-# game/v2/scene18c.rpy:1670
+# game/v2/scene18c.rpy:1620
 translate francais v2s18c_autumn_amber_cc83d727:
 
     # u "Should I interfere in this drug debate?"
-    u ""
+    u "Should I interfere in this drug debate?"
 
-# game/v2/scene18c.rpy:1675
+# game/v2/scene18c.rpy:1625
 translate francais v2s18c_autumn_amber_27e78e6c:
 
     # am "Maybe, ha."
-    am ""
+    am "Maybe, ha."
 
-# game/v2/scene18c.rpy:1678
+# game/v2/scene18c.rpy:1628
 translate francais v2s18c_autumn_amber_f7a0e035:
 
     # am "Although obviously... I don't do that anymore. But I can at least pass on my wisdom to others."
-    am ""
+    am "Although obviously... I don't do that anymore. But I can at least pass on my wisdom to others."
 
-# game/v2/scene18c.rpy:1683
+# game/v2/scene18c.rpy:1633
 translate francais v2s18c_autumn_amber_20ae1b45:
 
     # u "True, true."
-    u ""
+    u "True, true."
 
-# game/v2/scene18c.rpy:1688
+# game/v2/scene18c.rpy:1638
 translate francais v2s18c_autumn_amber_d09a1635:
 
     # am "I'm just excited to find someone interested in this stuff."
-    am ""
+    am "I'm just excited to find someone interested in this stuff."
 
-# game/v2/scene18c.rpy:1693
+# game/v2/scene18c.rpy:1643
 translate francais v2s18c_autumn_amber_6e8d31f6:
 
     # u "I never would've expected you two hanging out together... Now I'm worried that I should start a bail fund."
-    u ""
+    u "I never would've expected you two hanging out together... Now I'm worried that I should start a bail fund."
 
-# game/v2/scene18c.rpy:1698
-translate francais v2s18c_autumn_amber_989335e6:
+# game/v2/scene18c.rpy:1648
+translate francais v2s18c_autumn_amber_b0bdaa8c:
 
-    # aut "*Laughs* Don't worry about that, I can get us out of anything usually."
-    aut ""
+    # aut "Don't worry about that. I can get us out of anything... usually."
+    aut "Don't worry about that. I can get us out of anything... usually."
 
-# game/v2/scene18c.rpy:1703
-translate francais v2s18c_autumn_amber_b294d6fa:
+# game/v2/scene18c.rpy:1653
+translate francais v2s18c_autumn_amber_f4d59416:
 
-    # am "Haha, yes! That's my girl."
-    am ""
+    # am "Yes! That's my girl."
+    am "Yes! That's my girl."
 
-# game/v2/scene18c.rpy:1708
+# game/v2/scene18c.rpy:1658
 translate francais v2s18c_autumn_amber_e1c2658c:
 
     # u "Oh boy..."
-    u ""
+    u "Oh boy..."
 
-# game/v2/scene18c.rpy:1713
-translate francais v2s18c_autumn_amber_a4652aa9:
+# game/v2/scene18c.rpy:1663
+translate francais v2s18c_autumn_amber_e363ec99:
 
-    # am "I'll teach you a thing or two about weed, and you can show me your big brain power. *Chuckles*"
-    am ""
+    # am "I'll teach you a thing or two about weed, and you can show me your big brain power."
+    am "I'll teach you a thing or two about weed, and you can show me your big brain power."
 
-# game/v2/scene18c.rpy:1718
-translate francais v2s18c_autumn_amber_7221cdf8:
+# game/v2/scene18c.rpy:1668
+translate francais v2s18c_autumn_amber_8209324d:
 
-    # aut "Okay, haha. Fair."
-    aut ""
+    # aut "Okay, ha. Fair."
+    aut "Okay, ha. Fair."
 
-# game/v2/scene18c.rpy:1723
+# game/v2/scene18c.rpy:1673
 translate francais v2s18c_autumn_amber_9a3f8645:
 
     # am "I'm gonna run to the bathroom, be right back."
-    am ""
+    am "I'm gonna run to the bathroom, be right back."
 
-# game/v2/scene18c.rpy:1728
+# game/v2/scene18c.rpy:1678
 translate francais v2s18c_autumn_amber_068302d3:
 
     # u "I'll keep your spot warm!"
-    u ""
+    u "I'll keep your spot warm!"
 
-# game/v2/scene18c.rpy:1733
+# game/v2/scene18c.rpy:1683
 translate francais v2s18c_autumn_amber_ca022a4f:
 
     # am "You better be gone when I return!"
-    am ""
+    am "You better be gone when I return!"
 
-# game/v2/scene18c.rpy:1738
-translate francais v2s18c_autumn_amber_1d6fc30d:
+# game/v2/scene18c.rpy:1688
+translate francais v2s18c_autumn_amber_b86ecb34:
 
-    # aut "Haha, she's something."
-    aut ""
+    # aut "She's something."
+    aut "She's something."
 
-# game/v2/scene18c.rpy:1743
-translate francais v2s18c_autumn_amber_168b088c:
+# game/v2/scene18c.rpy:1693
+translate francais v2s18c_autumn_amber_061a24ff:
 
-    # u "Yes, yes, she is. *Chuckles*"
-    u ""
+    # u "Yes. Yes, she is."
+    u "Yes. Yes, she is."
 
-# game/v2/scene18c.rpy:1748
+# game/v2/scene18c.rpy:1698
 translate francais v2s18c_autumn_amber_84be8bc1:
 
     # aut "So, what have you been up to all night?"
-    aut ""
+    aut "So, what have you been up to all night?"
 
-# game/v2/scene18c.rpy:1758
+# game/v2/scene18c.rpy:1708
 translate francais v2s18c_autumn_amber_f4cd1aef:
 
     # u "Well, you might have already heard, but I have this list of challenges that I've been working on."
-    u ""
+    u "Well, you might have already heard, but I have this list of challenges that I've been working on."
 
-# game/v2/scene18c.rpy:1763
-translate francais v2s18c_autumn_amber_3358b4dc:
+# game/v2/scene18c.rpy:1713
+translate francais v2s18c_autumn_amber_a9bfd4db:
 
-    # aut "Haha, yeah? I think I might have overheard something about that."
-    aut ""
+    # aut "Yeah? I think I might have overheard something about that."
+    aut "Yeah? I think I might have overheard something about that."
 
-# game/v2/scene18c.rpy:1768
-translate francais v2s18c_autumn_amber_547afee0:
+# game/v2/scene18c.rpy:1718
+translate francais v2s18c_autumn_amber_fdbce207:
 
-    # u "Oh... *Chuckles*"
-    u ""
+    # u "Oh..."
+    u "Oh..."
 
-# game/v2/scene18c.rpy:1770
+# game/v2/scene18c.rpy:1720
 translate francais v2s18c_autumn_amber_73b0fb09:
 
     # u "Well, I do have an easy one left, if you'd like to help me out?"
-    u ""
+    u "Well, I do have an easy one left, if you'd like to help me out?"
 
-# game/v2/scene18c.rpy:1778
+# game/v2/scene18c.rpy:1728
 translate francais v2s18c_autumn_amber_f8810dcb:
 
     # u "(Eh, I don't want to get Autumn involved in this...)"
-    u ""
+    u "(Eh, I don't want to get Autumn involved in this...)"
 
-# game/v2/scene18c.rpy:1780
-translate francais v2s18c_autumn_amber_c2ef4470:
+# game/v2/scene18c.rpy:1730
+translate francais v2s18c_autumn_amber_a3e1eb48:
 
-    # u "Honestly? I've just been making my rounds and trying to stay caught up with everyone, haha."
-    u ""
+    # u "Honestly? I've just been making my rounds and trying to stay caught up with everyone."
+    u "Honestly? I've just been making my rounds and trying to stay caught up with everyone."
 
-# game/v2/scene18c.rpy:1785
+# game/v2/scene18c.rpy:1735
 translate francais v2s18c_autumn_amber_68853ccc:
 
     # aut "Yeah, I get that. Parties aren't exactly my thing either."
-    aut ""
+    aut "Yeah, I get that. Parties aren't exactly my thing either."
 
-# game/v2/scene18c.rpy:1790
+# game/v2/scene18c.rpy:1740
 translate francais v2s18c_autumn_amber_fcff0074:
 
     # u "I don't mind them, there's always a lot going on though."
-    u ""
+    u "I don't mind them, there's always a lot going on though."
 
-# game/v2/scene18c.rpy:1795
+# game/v2/scene18c.rpy:1745
 translate francais v2s18c_autumn_amber_38a10f60:
 
     # aut "Speaking of a lot... I have a shit ton of homework."
-    aut ""
+    aut "Speaking of a lot... I have a shit ton of homework."
 
-# game/v2/scene18c.rpy:1800
+# game/v2/scene18c.rpy:1750
 translate francais v2s18c_autumn_amber_c5446f18:
 
     # u "Really?"
-    u ""
+    u "Really?"
 
-# game/v2/scene18c.rpy:1805
+# game/v2/scene18c.rpy:1755
 translate francais v2s18c_autumn_amber_ac35c0e5:
 
     # aut "Look, I know it's nerdy to leave a party early for-"
-    aut ""
+    aut "Look, I know it's nerdy to leave a party early for-"
 
-# game/v2/scene18c.rpy:1810
+# game/v2/scene18c.rpy:1760
 translate francais v2s18c_autumn_amber_569c471b:
 
     # u "You are a nerd."
-    u ""
+    u "You are a nerd."
 
-# game/v2/scene18c.rpy:1815
+# game/v2/scene18c.rpy:1765
 translate francais v2s18c_autumn_amber_e06fb34e:
 
     # aut "Okay, fine! I'm a nerd!"
-    aut ""
+    aut "Okay, fine! I'm a nerd!"
 
-# game/v2/scene18c.rpy:1820
-translate francais v2s18c_autumn_amber_35836de5:
+# game/v2/scene18c.rpy:1770
+translate francais v2s18c_autumn_amber_09e9245a:
 
-    # u "You wanna shout a little louder? *Chuckles*"
-    u ""
+    # u "You wanna shout a little louder?"
+    u "You wanna shout a little louder?"
 
-# game/v2/scene18c.rpy:1825
+# game/v2/scene18c.rpy:1775
 translate francais v2s18c_autumn_amber_e1bb96e9:
 
     # aut "Haha, anyway... I should go get some work done before bed."
-    aut ""
+    aut "Haha, anyway... I should go get some work done before bed."
 
-# game/v2/scene18c.rpy:1830
+# game/v2/scene18c.rpy:1780
 translate francais v2s18c_autumn_amber_8f3f16b2:
 
     # u "Okay, okay. It was fun seeing you again, and great work on the decorations."
-    u ""
+    u "Okay, okay. It was fun seeing you again, and great work on the decorations."
 
-# game/v2/scene18c.rpy:1835
+# game/v2/scene18c.rpy:1785
 translate francais v2s18c_autumn_amber_bdb875f9:
 
     # aut "Oh, thank you! I'm glad everyone had fun tonight. I'll see you soon."
-    aut ""
+    aut "Oh, thank you! I'm glad everyone had fun tonight. I'll see you soon."
 
-# game/v2/scene18c.rpy:1840
+# game/v2/scene18c.rpy:1790
 translate francais v2s18c_autumn_amber_adc3d887:
 
     # u "Later. Good luck."
-    u ""
+    u "Later. Good luck."
 
-# game/v2/scene18c.rpy:1858
+# game/v2/scene18c.rpy:1808
 translate francais v2s18c_autumn_amber_462a5c1a:
 
     # aut "Any luck with your little tasks?"
-    aut ""
+    aut "Any luck with your little tasks?"
 
-# game/v2/scene18c.rpy:1864
-translate francais v2s18c_autumn_amber_c9533326:
+# game/v2/scene18c.rpy:1814
+translate francais v2s18c_autumn_amber_b2ee5271:
 
-    # u "Haha, yeah. Some things are complete, still have a few left though."
-    u ""
+    # u "Ha, yeah. Some things are complete. Still have a few left, though."
+    u "Ha, yeah. Some things are complete. Still have a few left, though."
 
-# game/v2/scene18c.rpy:1866
+# game/v2/scene18c.rpy:1816
 translate francais v2s18c_autumn_amber_7b2935db:
 
     # u "Not really, still have a few left to complete."
-    u ""
+    u "Not really, still have a few left to complete."
 
-# game/v2/scene18c.rpy:1871
+# game/v2/scene18c.rpy:1821
 translate francais v2s18c_autumn_amber_e38c693d:
 
     # aut "Hmm, like what?"
-    aut ""
+    aut "Hmm, like what?"
 
-# game/v2/scene18c.rpy:1880
+# game/v2/scene18c.rpy:1830
 translate francais v2s18c_autumn_amber_5888cd9b:
 
     # u "(I can't ask Autumn to make out with me! What am I thinking?)"
-    u ""
+    u "(I can't ask Autumn to make out with me! What am I thinking?)"
 
-# game/v2/scene18c.rpy:1882
-translate francais v2s18c_autumn_amber_bcb9359a:
+# game/v2/scene18c.rpy:1832
+translate francais v2s18c_autumn_amber_58573d33:
 
-    # u "Actually, it's okay, haha. Never mind."
-    u ""
+    # u "Actually, it's okay. Never mind."
+    u "Actually, it's okay. Never mind."
 
-# game/v2/scene18c.rpy:1887
+# game/v2/scene18c.rpy:1837
 translate francais v2s18c_autumn_amber_724bb916:
 
     # u "It's a really dumb list."
-    u ""
+    u "It's a really dumb list."
 
-# game/v2/scene18c.rpy:1892
-translate francais v2s18c_autumn_amber_76d30175:
+# game/v2/scene18c.rpy:1842
+translate francais v2s18c_autumn_amber_d9353e8a:
 
-    # aut "Yeah, well... You did get it from Imre, hehe."
-    aut ""
+    # aut "Yeah, well... you did get it from Imre."
+    aut "Yeah, well... you did get it from Imre."
 
-# game/v2/scene18c.rpy:1897
-translate francais v2s18c_autumn_amber_10d23f72:
+# game/v2/scene18c.rpy:1847
+translate francais v2s18c_autumn_amber_f93a8ae8:
 
-    # u "Very true, ha."
-    u ""
+    # u "Very true."
+    u "Very true."
 
-# game/v2/scene18c.rpy:1899
+# game/v2/scene18c.rpy:1849
 translate francais v2s18c_autumn_amber_5c701db7:
 
     # u "Anyway, I'm gonna go catch everyone else before the party ends."
-    u ""
+    u "Anyway, I'm gonna go catch everyone else before the party ends."
 
-# game/v2/scene18c.rpy:1904
+# game/v2/scene18c.rpy:1854
 translate francais v2s18c_autumn_amber_339fa3bc:
 
     # aut "Okay, sounds good. Later. I gotta head home to study anyways."
-    aut ""
+    aut "Okay, sounds good. Later. I gotta head home to study anyways."
 
-# game/v2/scene18c.rpy:1924
+# game/v2/scene18c.rpy:1874
 translate francais v2s18c_autumn_amber_e1704450:
 
     # u "Well, do you wanna make out?"
-    u ""
+    u "Well, do you wanna make out?"
 
-# game/v2/scene18c.rpy:1930
-translate francais v2s18c_autumn_amber_33716fc7:
+# game/v2/scene18c.rpy:1880
+translate francais v2s18c_autumn_amber_98b23d0f:
 
-    # aut "[name]! You're dating my sister, what are you-"
-    aut ""
+    # aut "[name]! You're dating my sister. What are you-"
+    aut "[name]! You're dating my sister. What are you-"
 
-# game/v2/scene18c.rpy:1935
+# game/v2/scene18c.rpy:1885
 translate francais v2s18c_autumn_amber_f5b43cd7:
 
     # u "Yeah, I know, I'm sorry... I just-"
-    u ""
+    u "Yeah, I know, I'm sorry... I just-"
 
-# game/v2/scene18c.rpy:1940
+# game/v2/scene18c.rpy:1890
 translate francais v2s18c_autumn_amber_b71d5a88:
 
     # aut "You just nothing. You're lucky I won't tell Lauren that you even asked me."
-    aut ""
+    aut "You just nothing. You're lucky I won't tell Lauren that you even asked me."
 
-# game/v2/scene18c.rpy:1945
+# game/v2/scene18c.rpy:1895
 translate francais v2s18c_autumn_amber_76ec5f31:
 
     # u "I'm sorry, Autumn. I thought-"
-    u ""
+    u "I'm sorry, Autumn. I thought-"
 
-# game/v2/scene18c.rpy:1950
+# game/v2/scene18c.rpy:1900
 translate francais v2s18c_autumn_amber_35707dd3:
 
     # aut "This never happened, [name]. Go away."
-    aut ""
+    aut "This never happened, [name]. Go away."
 
-# game/v2/scene18c.rpy:1955
+# game/v2/scene18c.rpy:1905
 translate francais v2s18c_autumn_amber_22f8f829:
 
     # u "Yeah. Okay..."
-    u ""
+    u "Yeah. Okay..."
 
-# game/v2/scene18c.rpy:1960
+# game/v2/scene18c.rpy:1910
 translate francais v2s18c_autumn_amber_3bf3cdce:
 
     # u "(Well, fuck...)"
-    u ""
+    u "(Well, fuck...)"
 
-# game/v2/scene18c.rpy:1965
+# game/v2/scene18c.rpy:1915
 translate francais v2s18c_autumn_amber_ba34248b:
 
     # aut "I'm just gonna leave and go check on Amber."
-    aut ""
+    aut "I'm just gonna leave and go check on Amber."
 
-# game/v2/scene18c.rpy:1971
+# game/v2/scene18c.rpy:1921
 translate francais v2s18c_autumn_amber_7a669a23:
 
     # aut "Ha, I uh..."
-    aut ""
+    aut "Ha, I uh..."
 
-# game/v2/scene18c.rpy:1973
-translate francais v2s18c_autumn_amber_1f23b441:
+# game/v2/scene18c.rpy:1923
+translate francais v2s18c_autumn_amber_82375792:
 
-    # aut "There's too much drama I think... Between you and Lauren."
-    aut ""
+    # aut "There's too much drama, I think... between you and Lauren."
+    aut "There's too much drama, I think... between you and Lauren."
 
-# game/v2/scene18c.rpy:1975
+# game/v2/scene18c.rpy:1925
 translate francais v2s18c_autumn_amber_fc970a72:
 
     # aut "It's just hard to-"
-    aut ""
+    aut "It's just hard to-"
 
-# game/v2/scene18c.rpy:1980
+# game/v2/scene18c.rpy:1930
 translate francais v2s18c_autumn_amber_06c69842:
 
     # u "I understand. No worries."
-    u ""
+    u "I understand. No worries."
 
-# game/v2/scene18c.rpy:1985
+# game/v2/scene18c.rpy:1935
 translate francais v2s18c_autumn_amber_bc4d3b8f:
 
     # aut "Okay, thanks."
-    aut ""
+    aut "Okay, thanks."
 
-# game/v2/scene18c.rpy:1987
-translate francais v2s18c_autumn_amber_c33545a0:
+# game/v2/scene18c.rpy:1937
+translate francais v2s18c_autumn_amber_0dd7fc70:
 
-    # aut "I'm gonna go force Amber out of the bathroom, haha! I have to pee really bad..."
-    aut ""
+    # aut "I'm gonna go force Amber out of the bathroom! I have to pee really bad..."
+    aut "I'm gonna go force Amber out of the bathroom! I have to pee really bad..."
 
-# game/v2/scene18c.rpy:1992
-translate francais v2s18c_autumn_amber_f1c2b281:
+# game/v2/scene18c.rpy:1942
+translate francais v2s18c_autumn_amber_b645db82:
 
-    # u "Haha, okay. See you around."
-    u ""
+    # u "Ha, okay. See you around."
+    u "Ha, okay. See you around."
 
-# game/v2/scene18c.rpy:1997
+# game/v2/scene18c.rpy:1947
 translate francais v2s18c_autumn_amber_8a1dedb2:
 
     # aut "Later!"
-    aut ""
+    aut "Later!"
 
-# game/v2/scene18c.rpy:2002
+# game/v2/scene18c.rpy:1952
 translate francais v2s18c_autumn_amber_7b978365:
 
     # u "(Well, that could've gone worse...)"
-    u ""
+    u "(Well, that could've gone worse...)"
 
-# game/v2/scene18c.rpy:2013
-translate francais v2s18c_autumnsg_b8152cda:
+# game/v2/scene18c.rpy:1963
+translate francais v2s18c_autumnsg_4ea05f33:
 
-    # aut "Haha! What?"
-    aut ""
+    # aut "Ha! What?"
+    aut "Ha! What?"
 
-# game/v2/scene18c.rpy:2018
-translate francais v2s18c_autumnsg_f44d5599:
+# game/v2/scene18c.rpy:1968
+translate francais v2s18c_autumnsg_2ab13b3b:
 
-    # u "I have to make out with someone, ha."
-    u ""
+    # u "I have to make out with someone."
+    u "I have to make out with someone."
 
-# game/v2/scene18c.rpy:2023
-translate francais v2s18c_autumnsg_28b6359a:
+# game/v2/scene18c.rpy:1973
+translate francais v2s18c_autumnsg_41634883:
 
-    # aut "Oh... Sure. That's easy. *Chuckles*"
-    aut ""
+    # aut "Oh... sure. That's easy."
+    aut "Oh... sure. That's easy."
 
-# game/v2/scene18c.rpy:2028
+# game/v2/scene18c.rpy:1978
 translate francais v2s18c_autumnsg_e7dacb23:
 
     # u "Yeah!"
-    u ""
+    u "Yeah!"
 
-# game/v2/scene18c.rpy:2030
+# game/v2/scene18c.rpy:1980
 translate francais v2s18c_autumnsg_a11d55ea:
 
     # u "Wait, really?"
-    u ""
+    u "Wait, really?"
 
-# game/v2/scene18c.rpy:2039
+# game/v2/scene18c.rpy:1989
 translate francais v2s18c_autumnsg_8064c10c:
 
     # aut "Hmm... I don't-"
-    aut ""
+    aut "Hmm... I don't-"
 
-# game/v2/scene18c.rpy:2044
+# game/v2/scene18c.rpy:1994
 translate francais v2s18c_autumnsg_3d26c476:
 
     # u "It's cool, no worries."
-    u ""
+    u "It's cool, no worries."
 
-# game/v2/scene18c.rpy:2049
+# game/v2/scene18c.rpy:1999
 translate francais v2s18c_autumnsg_39e80ff4:
 
     # aut "I'm just not feeling it... I'm sorry, [name]."
-    aut ""
+    aut "I'm just not feeling it... I'm sorry, [name]."
 
-# game/v2/scene18c.rpy:2054
-translate francais v2s18c_autumnsg_8913a89a:
+# game/v2/scene18c.rpy:2004
+translate francais v2s18c_autumnsg_aa1b7352:
 
-    # u "Really, it's okay. *Chuckles*"
-    u ""
+    # u "Really, it's okay."
+    u "Really, it's okay."
 
-# game/v2/scene18c.rpy:2059
+# game/v2/scene18c.rpy:2009
 translate francais v2s18c_autumnsg_b6efd30b:
 
     # aut "Thanks."
-    aut ""
+    aut "Thanks."
 
-# game/v2/scene18c.rpy:2064
-translate francais v2s18c_autumnsg_c33545a0:
+# game/v2/scene18c.rpy:2014
+translate francais v2s18c_autumnsg_0dd7fc70:
 
-    # aut "I'm gonna go force Amber out of the bathroom, haha! I have to pee really bad..."
-    aut ""
+    # aut "I'm gonna go force Amber out of the bathroom! I have to pee really bad..."
+    aut "I'm gonna go force Amber out of the bathroom! I have to pee really bad..."
 
-# game/v2/scene18c.rpy:2069
-translate francais v2s18c_autumnsg_f1c2b281:
+# game/v2/scene18c.rpy:2019
+translate francais v2s18c_autumnsg_921422e9:
 
-    # u "Haha, okay. See you around."
-    u ""
+    # u "Gotcha. See you around."
+    u "Gotcha. See you around."
 
-# game/v2/scene18c.rpy:2074
+# game/v2/scene18c.rpy:2024
 translate francais v2s18c_autumnsg_8a1dedb2:
 
     # aut "Later!"
-    aut ""
+    aut "Later!"
 
-# game/v2/scene18c.rpy:2079
+# game/v2/scene18c.rpy:2029
 translate francais v2s18c_autumnsg_7b978365:
 
     # u "(Well, that could've gone worse...)"
-    u ""
+    u "(Well, that could've gone worse...)"
 
-# game/v2/scene18c.rpy:2102
+# game/v2/scene18c.rpy:2052
 translate francais v2s18c_autumn_kiss_7fc93f43:
 
     # aut "Let's make this quick. Under the stairs here, while nobody is looking."
-    aut ""
+    aut "Let's make this quick. Under the stairs here, while nobody is looking."
 
-# game/v2/scene18c.rpy:2107
+# game/v2/scene18c.rpy:2057
 translate francais v2s18c_autumn_kiss_2ca9fab5:
 
     # u "Perfect."
-    u ""
+    u "Perfect."
 
-# game/v2/scene18c.rpy:2112
+# game/v2/scene18c.rpy:2062
 translate francais v2s18c_autumn_kiss_b959c4d7:
 
     # aut "And no tongue, [name]."
-    aut ""
+    aut "And no tongue, [name]."
 
-# game/v2/scene18c.rpy:2117
-translate francais v2s18c_autumn_kiss_0e118d11:
+# game/v2/scene18c.rpy:2067
+translate francais v2s18c_autumn_kiss_83b73476:
 
-    # u "Haha, okay, no tongues."
-    u ""
+    # u "Ha! Okay, no tongues."
+    u "Ha! Okay, no tongues."
 
-# game/v2/scene18c.rpy:2146
+# game/v2/scene18c.rpy:2096
 translate francais v2s18c_autumn_kiss_bbab2974:
 
     # aut "There. Good?"
-    aut ""
+    aut "There. Good?"
 
-# game/v2/scene18c.rpy:2151
-translate francais v2s18c_autumn_kiss_e7d20bb8:
+# game/v2/scene18c.rpy:2101
+translate francais v2s18c_autumn_kiss_bf7776d2:
 
-    # u "Mhmm... Yeah, all good."
-    u ""
+    # u "Mhmm... yeah, all good."
+    u "Mhmm... yeah, all good."
 
-# game/v2/scene18c.rpy:2156
-translate francais v2s18c_autumn_kiss_e7a07e6b:
+# game/v2/scene18c.rpy:2106
+translate francais v2s18c_autumn_kiss_4a968c12:
 
-    # aut "Haha."
-    aut ""
+    # aut "Then we're set."
+    aut "Then we're set."
 
-# game/v2/scene18c.rpy:2161
+# game/v2/scene18c.rpy:2111
 translate francais v2s18c_autumn_kiss_378a8243:
 
     # u "Thanks, Autumn."
-    u ""
+    u "Thanks, Autumn."
 
-# game/v2/scene18c.rpy:2166
-translate francais v2s18c_autumn_kiss_57c21fe4:
+# game/v2/scene18c.rpy:2116
+translate francais v2s18c_autumn_kiss_99250dd0:
 
-    # aut "Mhmm... Now, go away."
-    aut ""
+    # aut "Mhmm... now, go away."
+    aut "Mhmm... now, go away."
 
-# game/v2/scene18c.rpy:2176
-translate francais v2s18c_autumn_kiss_3884ef2c:
+# game/v2/scene18c.rpy:2126
+translate francais v2s18c_autumn_kiss_3c8517fb:
 
-    # u "*Laughs* Okay."
-    u ""
+    # u "Sure thing."
+    u "Sure thing."
 
-# game/v2/scene18c.rpy:2193
-translate francais v2s18c_chris_penelope_30b86f4e:
+# game/v2/scene18c.rpy:2143
+translate francais v2s18c_chris_penelope_bdfb9c2d:
 
-    # ch "Yeah, but... You know what it's like."
-    ch ""
+    # ch "Yeah, but... you know what it's like."
+    ch "Yeah, but... you know what it's like."
 
-# game/v2/scene18c.rpy:2195
+# game/v2/scene18c.rpy:2145
 translate francais v2s18c_chris_penelope_1698e3ba:
 
     # ch "You've been single for how long now?"
-    ch ""
+    ch "You've been single for how long now?"
 
-# game/v2/scene18c.rpy:2200
+# game/v2/scene18c.rpy:2152
+translate francais v2s18c_chris_penelope_1ccb363a:
+
+    # pe "Oh, I'm... Well..."
+    pe "Oh, I'm... Well..."
+
+# game/v2/scene18c.rpy:2157
+translate francais v2s18c_chris_penelope_0b0b4577:
+
+    # ch "You have a boyfriend? Sorry, I didn't know."
+    ch "You have a boyfriend? Sorry, I didn't know."
+
+# game/v2/scene18c.rpy:2162
+translate francais v2s18c_chris_penelope_36f3fa11:
+
+    # pe "Well, I don't... have a boyfriend?"
+    pe "Well, I don't... have a boyfriend?"
+
+# game/v2/scene18c.rpy:2167
+translate francais v2s18c_chris_penelope_fb456fd7:
+
+    # ch "..."
+    ch "..."
+
+# game/v2/scene18c.rpy:2172
+translate francais v2s18c_chris_penelope_1e39e915:
+
+    # ch "So, you're single?"
+    ch "So, you're single?"
+
+# game/v2/scene18c.rpy:2177
+translate francais v2s18c_chris_penelope_ef273def:
+
+    # u "(Jesus, dude. Back off.)"
+    u "(Jesus, dude. Back off.)"
+
+# game/v2/scene18c.rpy:2182
+translate francais v2s18c_chris_penelope_ac08abd7:
+
+    # pe "No, I don't have a boyfriend... but I'm not single. I'm seeing someone? I think?"
+    pe "No, I don't have a boyfriend... but I'm not single. I'm seeing someone? I think?"
+
+# game/v2/scene18c.rpy:2184
+translate francais v2s18c_chris_penelope_5313fb61:
+
+    # pe "Does that count?"
+    pe "Does that count?"
+
+# game/v2/scene18c.rpy:2189
+translate francais v2s18c_chris_penelope_9bc6fbc9:
+
+    # ch "Sure. I guess?"
+    ch "Sure. I guess?"
+
+# game/v2/scene18c.rpy:2194
+translate francais v2s18c_chris_penelope_340a8f8b:
+
+    # pe "So... Yeah."
+    pe "So... Yeah."
+
+# game/v2/scene18c.rpy:2199
+translate francais v2s18c_chris_penelope_9aba9c42:
+
+    # u "(This is painful to listen to.)"
+    u "(This is painful to listen to.)"
+
+# game/v2/scene18c.rpy:2206
 translate francais v2s18c_chris_penelope_1503fb58:
 
     # pe "A while, I guess..."
-    pe ""
+    pe "A while, I guess..."
 
-# game/v2/scene18c.rpy:2205
+# game/v2/scene18c.rpy:2211
 translate francais v2s18c_chris_penelope_29649e73:
 
     # ch "So, how do you deal with it?"
-    ch ""
+    ch "So, how do you deal with it?"
 
-# game/v2/scene18c.rpy:2210
+# game/v2/scene18c.rpy:2216
 translate francais v2s18c_chris_penelope_8fd4e488:
 
     # pe "With what?"
-    pe ""
+    pe "With what?"
 
-# game/v2/scene18c.rpy:2215
+# game/v2/scene18c.rpy:2221
 translate francais v2s18c_chris_penelope_b365040f:
 
     # ch "Being single."
-    ch ""
+    ch "Being single."
 
-# game/v2/scene18c.rpy:2220
-translate francais v2s18c_chris_penelope_4c69175d:
+# game/v2/scene18c.rpy:2226
+translate francais v2s18c_chris_penelope_4d823086:
 
-    # u "(Fuck's sake Chris...)"
-    u ""
+    # u "(Fuck's sake, Chris...)"
+    u "(Fuck's sake, Chris...)"
 
-# game/v2/scene18c.rpy:2225
+# game/v2/scene18c.rpy:2231
 translate francais v2s18c_chris_penelope_1bedd63e:
 
     # pe "I don't understand..."
-    pe ""
+    pe "I don't understand..."
 
-# game/v2/scene18c.rpy:2230
-translate francais v2s18c_chris_penelope_d21bdce5:
+# game/v2/scene18c.rpy:2236
+translate francais v2s18c_chris_penelope_0c407578:
 
-    # ch "Haha, sorry. I'm not really thinking straight."
-    ch ""
+    # ch "Ha, sorry. I'm not really thinking straight."
+    ch "Ha, sorry. I'm not really thinking straight."
 
-# game/v2/scene18c.rpy:2232
-translate francais v2s18c_chris_penelope_cd843041:
+# game/v2/scene18c.rpy:2238
+translate francais v2s18c_chris_penelope_359a3da6:
 
-    # ch "I'm such a lightweight these days, haha!"
-    ch ""
+    # ch "I'm such a lightweight these days!"
+    ch "I'm such a lightweight these days!"
 
-# game/v2/scene18c.rpy:2237
-translate francais v2s18c_chris_penelope_5b7b7961:
+# game/v2/scene18c.rpy:2243
+translate francais v2s18c_chris_penelope_da5e1fb8:
 
-    # pe "Oh, ha... Okay."
-    pe ""
+    # pe "Oh, ha... okay."
+    pe "Oh, ha... okay."
 
-# game/v2/scene18c.rpy:2246
+# game/v2/scene18c.rpy:2252
 translate francais v2s18c_chris_penelope_7016a499:
 
     # u "(Sorry, Penelope. I don't want anything to do with sad boy Chris, I'm outta here!)"
-    u ""
+    u "(Sorry, Penelope. I don't want anything to do with sad boy Chris, I'm outta here!)"
 
-# game/v2/scene18c.rpy:2257
+# game/v2/scene18c.rpy:2263
 translate francais v2s18c_chris_penelope_4caec112:
 
     # u "Hey, Chris."
-    u ""
+    u "Hey, Chris."
 
-# game/v2/scene18c.rpy:2262
+# game/v2/scene18c.rpy:2268
 translate francais v2s18c_chris_penelope_4a80488d:
 
     # ch "Oh, hey [name]."
-    ch ""
+    ch "Oh, hey [name]."
 
-# game/v2/scene18c.rpy:2267
-translate francais v2s18c_chris_penelope_97ddf315:
+# game/v2/scene18c.rpy:2273
+translate francais v2s18c_chris_penelope_3beed5a2:
 
-    # u "I think Imre was looking for you, it sounded important."
-    u ""
+    # u "I think Imre was looking for you. It sounded important."
+    u "I think Imre was looking for you. It sounded important."
 
-# game/v2/scene18c.rpy:2269
-translate francais v2s18c_chris_penelope_98641beb:
+# game/v2/scene18c.rpy:2275
+translate francais v2s18c_chris_penelope_dac7b969:
 
-    # u "Something about Wolves and fighting, ha."
-    u ""
+    # u "Something about Wolves and fighting."
+    u "Something about Wolves and fighting."
 
-# game/v2/scene18c.rpy:2274
-translate francais v2s18c_chris_penelope_aa63f9f9:
+# game/v2/scene18c.rpy:2280
+translate francais v2s18c_chris_penelope_5893d92a:
 
-    # ch "My whole life revolves around Wolves and fighting... Well, now that Nora's gone..."
-    ch ""
+    # ch "My whole life revolves around Wolves and fighting... well, now that Nora's gone..."
+    ch "My whole life revolves around Wolves and fighting... well, now that Nora's gone..."
 
-# game/v2/scene18c.rpy:2279
+# game/v2/scene18c.rpy:2285
 translate francais v2s18c_chris_penelope_176d10c0:
 
     # ch "Anyway, thanks man. See you guys."
-    ch ""
+    ch "Anyway, thanks man. See you guys."
 
-# game/v2/scene18c.rpy:2289
-translate francais v2s18c_chris_penelope_8fc5abff:
+# game/v2/scene18c.rpy:2295
+translate francais v2s18c_chris_penelope_6f0fda28:
 
-    # pe "My hero! Thank you, [name]. *Laughs*"
-    pe ""
+    # pe "My hero! Thank you, [name]."
+    pe "My hero! Thank you, [name]."
 
-# game/v2/scene18c.rpy:2294
-translate francais v2s18c_chris_penelope_c4abb755:
+# game/v2/scene18c.rpy:2300
+translate francais v2s18c_chris_penelope_5c4e5a55:
 
-    # u "Haha, you're welcome. I could see the pain in your eyes."
-    u ""
+    # u "You're welcome. I could see the pain in your eyes."
+    u "You're welcome. I could see the pain in your eyes."
 
-# game/v2/scene18c.rpy:2299
+# game/v2/scene18c.rpy:2305
 translate francais v2s18c_chris_penelope_6e9bea9e:
 
     # pe "I've been stuck in that conversation for twenty minutes now..."
-    pe ""
+    pe "I've been stuck in that conversation for twenty minutes now..."
 
-# game/v2/scene18c.rpy:2301
+# game/v2/scene18c.rpy:2307
 translate francais v2s18c_chris_penelope_435e7dab:
 
     # pe "Chris is a nice guy, but damn! He can be boring as hell sometimes..."
-    pe ""
+    pe "Chris is a nice guy, but damn! He can be boring as hell sometimes..."
 
-# game/v2/scene18c.rpy:2306
-translate francais v2s18c_chris_penelope_2b981146:
+# game/v2/scene18c.rpy:2312
+translate francais v2s18c_chris_penelope_682fbf25:
 
-    # u "Haha, yeah. He's going through some stuff right now."
-    u ""
+    # u "Yeah. He's going through some stuff right now."
+    u "Yeah. He's going through some stuff right now."
 
-# game/v2/scene18c.rpy:2311
+# game/v2/scene18c.rpy:2317
 translate francais v2s18c_chris_penelope_bdcb161e:
 
     # pe "*Sighs* True."
-    pe ""
+    pe "*Sighs* True."
 
-# game/v2/scene18c.rpy:2317
-translate francais v2s18c_chris_penelope_e1ee729d:
+# game/v2/scene18c.rpy:2323
+translate francais v2s18c_chris_penelope_002088a4:
 
-    # pe "So, I heard about this little list you've been working on..."
-    pe ""
+    # pe "So, I heard about a list you've been working on..."
+    pe "So, I heard about a list you've been working on..."
 
-# game/v2/scene18c.rpy:2322
+# game/v2/scene18c.rpy:2328
 translate francais v2s18c_chris_penelope_fab3fb3f:
 
     # u "Oh? From whom?"
-    u ""
+    u "Oh? From whom?"
 
-# game/v2/scene18c.rpy:2327
-translate francais v2s18c_chris_penelope_fbaf24ac:
+# game/v2/scene18c.rpy:2333
+translate francais v2s18c_chris_penelope_f7793ca5:
 
-    # pe "Does it matter? *Chuckles* Let me see."
-    pe ""
+    # pe "Does it matter? Let me see."
+    pe "Does it matter? Let me see."
 
-# game/v2/scene18c.rpy:2337
-translate francais v2s18c_chris_penelope_31d731f6:
+# game/v2/scene18c.rpy:2343
+translate francais v2s18c_chris_penelope_d934b260:
 
-    # pe "Oooooh, okay..."
-    pe ""
+    # pe "Oooooh, wow. Okay..."
+    pe "Oooooh, wow. Okay..."
 
-# game/v2/scene18c.rpy:2347
+# game/v2/scene18c.rpy:2353
 translate francais v2s18c_chris_penelope_037deaf9:
 
     # u "Yeah, Imre gave it to me."
-    u ""
-
-# game/v2/scene18c.rpy:2352
-translate francais v2s18c_chris_penelope_35a7694e:
-
-    # pe "Haha, that makes complete sense."
-    pe ""
+    u "Yeah, Imre gave it to me."
 
 # game/v2/scene18c.rpy:2358
+translate francais v2s18c_chris_penelope_e782d475:
+
+    # pe "That makes complete sense."
+    pe "That makes complete sense."
+
+# game/v2/scene18c.rpy:2364
 translate francais v2s18c_chris_penelope_57f7673b:
 
     # u "So, about that list I showed you earlier..."
-    u ""
+    u "So, about that list I showed you earlier..."
 
-# game/v2/scene18c.rpy:2363
-translate francais v2s18c_chris_penelope_d28a3aa1:
+# game/v2/scene18c.rpy:2369
+translate francais v2s18c_chris_penelope_65cf10b1:
 
-    # pe "Oh, yeah... That thing."
-    pe ""
+    # pe "Oh, yeah... that thing."
+    pe "Oh, yeah... that thing."
 
-# game/v2/scene18c.rpy:2373
+# game/v2/scene18c.rpy:2379
 translate francais v2s18c_chris_penelope_6993575b:
 
     # u "How would you feel about helping me check off one of these?"
-    u ""
+    u "How would you feel about helping me check off one of these?"
 
-# game/v2/scene18c.rpy:2378
+# game/v2/scene18c.rpy:2384
 translate francais v2s18c_chris_penelope_a76f51ff:
 
     # u "It's so stupid, right?"
-    u ""
+    u "It's so stupid, right?"
 
-# game/v2/scene18c.rpy:2383
-translate francais v2s18c_chris_penelope_21103764:
+# game/v2/scene18c.rpy:2389
+translate francais v2s18c_chris_penelope_d8dd28fe:
 
-    # pe "Haha maybe. But it might also get some people really lucky. If you know what I mean."
-    pe ""
+    # pe "Yeah. But it might also get some people really lucky. If you know what I mean."
+    pe "Yeah. But it might also get some people really lucky. If you know what I mean."
 
-# game/v2/scene18c.rpy:2388
-translate francais v2s18c_chris_penelope_4bb0e54c:
+# game/v2/scene18c.rpy:2394
+translate francais v2s18c_chris_penelope_c100709e:
 
-    # u "I think I do, haha."
-    u ""
+    # u "I think I do."
+    u "I think I do."
 
-# game/v2/scene18c.rpy:2400
-translate francais v2s18c_penelopesg_f2081299:
+# game/v2/scene18c.rpy:2403
+translate francais v2s18c_askhelp_f2081299:
 
     # pe "Um, I don't think we should do anything while we're here."
-    pe ""
+    pe "Um, I don't think we should do anything while we're here."
 
-# game/v2/scene18c.rpy:2405
-translate francais v2s18c_penelopesg_923343fe:
+# game/v2/scene18c.rpy:2408
+translate francais v2s18c_askhelp_923343fe:
 
     # u "Oh, okay, sure."
-    u ""
+    u "Oh, okay, sure."
 
-# game/v2/scene18c.rpy:2410
-translate francais v2s18c_penelopesg_3e1f5d40:
+# game/v2/scene18c.rpy:2413
+translate francais v2s18c_askhelp_3e1f5d40:
 
     # pe "Sorry, I just don't feel comfortable."
-    pe ""
-
-# game/v2/scene18c.rpy:2419
-translate francais v2s18c_penelopesg_4ff75da5:
-
-    # pe "So, what do you need help with?"
-    pe ""
+    pe "Sorry, I just don't feel comfortable."
 
 # game/v2/scene18c.rpy:2424
+translate francais v2s18c_penelopesg_708d7db0:
+
+    # pe "So... um... what exactly do you need help with, anyway?"
+    pe "So... um... what exactly do you need help with, anyway?"
+
+# game/v2/scene18c.rpy:2429
 translate francais v2s18c_penelopesg_79765266:
 
     # u "Follow me."
-    u ""
+    u "Follow me."
 
-# game/v2/scene18c.rpy:2438
+# game/v2/scene18c.rpy:2443
 translate francais v2s18c_penelopesg_348a3b9f:
 
     # u "I want to do something for you."
-    u ""
+    u "I want to do something for you."
 
-# game/v2/scene18c.rpy:2443
-translate francais v2s18c_penelopesg_5238952d:
+# game/v2/scene18c.rpy:2448
+translate francais v2s18c_penelopesg_06ca135a:
 
-    # pe "Hmm, that would be nice."
-    pe ""
+    # pe "And what would that be?"
+    pe "And what would that be?"
 
-# game/v2/scene18c.rpy:2445
-translate francais v2s18c_penelopesg_41e30898:
-
-    # pe "Usually, I'm the one who does all the work, haha."
-    pe ""
-
-# game/v2/scene18c.rpy:2450
+# game/v2/scene18c.rpy:2453
 translate francais v2s18c_penelopesg_05181888:
 
     # u "Get comfortable."
-    u ""
+    u "Get comfortable."
 
-# game/v2/scene18c.rpy:2468
-translate francais v2s18c_penelopesg_48c7b007:
+# game/v2/scene18c.rpy:2471
+translate francais v2s18c_penelopesg_7f2da20c:
 
-    # pe "Oh, hehe..."
-    pe ""
+    # pe "Oh... oh my..."
+    pe "Oh... oh my..."
 
-# game/v2/scene18c.rpy:2470
+# game/v2/scene18c.rpy:2473
 translate francais v2s18c_penelopesg_d8765019:
 
     # pe "I see where this is going."
-    pe ""
+    pe "I see where this is going."
 
-# game/v2/scene18c.rpy:2483
-translate francais v2s18c_penelopesg_e05a9fae:
+# game/v2/scene18c.rpy:2482
+translate francais v2s18c_penelopesg_06752751:
 
-    # pe "*Chuckles* Mmm..."
-    pe ""
+    # pe "Mmm..."
+    pe "Mmm..."
 
-# game/v2/scene18c.rpy:2485
+# game/v2/scene18c.rpy:2484
 translate francais v2s18c_penelopesg_1c8f7a54:
 
     # pe "Oh... [name]..."
-    pe ""
+    pe "Oh... [name]..."
 
-# game/v2/scene18c.rpy:2487
-translate francais v2s18c_penelopesg_1bfdca3b:
+# game/v2/scene18c.rpy:2486
+translate francais v2s18c_penelopesg_46e686ff:
 
-    # pe "*Whispers* Fuck..."
-    pe ""
+    # pe "I couldn't have imagined..."
+    pe "I couldn't have imagined..."
 
-# game/v2/scene18c.rpy:2489
+# game/v2/scene18c.rpy:2488
 translate francais v2s18c_penelopesg_a437d78a:
 
     # u "Do you like it when I taste you?"
-    u ""
+    u "Do you like it when I taste you?"
 
-# game/v2/scene18c.rpy:2491
-translate francais v2s18c_penelopesg_284a8dcd:
+# game/v2/scene18c.rpy:2490
+translate francais v2s18c_penelopesg_81bb48f1:
 
-    # pe "*Moans* I love it, [name]... Fuck..."
-    pe ""
+    # pe "I... I really do, [name]..."
+    pe "I... I really do, [name]..."
 
-# game/v2/scene18c.rpy:2493
+# game/v2/scene18c.rpy:2492
 translate francais v2s18c_penelopesg_eaf77367:
 
     # pe "You... *Gasps*"
-    pe ""
+    pe "You... *Gasps*"
 
-# game/v2/scene18c.rpy:2500
-translate francais v2s18c_penelopesg_125151a8:
+# game/v2/scene18c.rpy:2499
+translate francais v2s18c_penelopesg_dd030910:
 
-    # pe "You really know what you're doing... Ha! Down there..."
-    pe ""
+    # pe "You really know what you're doing! Down there, I mean..."
+    pe "You really know what you're doing! Down there, I mean..."
 
-# game/v2/scene18c.rpy:2502
+# game/v2/scene18c.rpy:2501
 translate francais v2s18c_penelopesg_66184048:
 
     # u "*Muffled* Mhmm..."
-    u ""
+    u "*Muffled* Mhmm..."
 
-# game/v2/scene18c.rpy:2504
+# game/v2/scene18c.rpy:2503
 translate francais v2s18c_penelopesg_86b8ea7c:
 
     # pe "Yes, yes! *Moans* Just like that..."
-    pe ""
+    pe "Yes, yes! *Moans* Just like that..."
 
-# game/v2/scene18c.rpy:2506
+# game/v2/scene18c.rpy:2505
 translate francais v2s18c_penelopesg_b2a3fa99:
 
     # pe "Oh, I can't believe we're doing this."
-    pe ""
+    pe "Oh, I can't believe we're doing this."
 
-# game/v2/scene18c.rpy:2508
-translate francais v2s18c_penelopesg_f6f8e9b1:
+# game/v2/scene18c.rpy:2507
+translate francais v2s18c_penelopesg_4fddcc39:
 
-    # u "(I can't believe how good you taste... Holy shit-)"
-    u ""
+    # u "(I can't believe how good you taste...)"
+    u "(I can't believe how good you taste...)"
 
-# game/v2/scene18c.rpy:2510
+# game/v2/scene18c.rpy:2509
 translate francais v2s18c_penelopesg_fbec25ac:
 
     # pe "I'm going to cum! [name], I-"
-    pe ""
+    pe "I'm going to cum! [name], I-"
 
-# game/v2/scene18c.rpy:2517
+# game/v2/scene18c.rpy:2516
 translate francais v2s18c_penelopesg_99e9eacd:
 
     # pe "I'm..."
-    pe ""
+    pe "I'm..."
 
-# game/v2/scene18c.rpy:2522
-translate francais v2s18c_penelopesg_f554e548:
+# game/v2/scene18c.rpy:2521
+translate francais v2s18c_penelopesg_26aaac98:
 
-    # pe "*Gasps* Mmm, fuck!"
-    pe ""
+    # pe "*Gasps*"
+    pe "*Gasps*"
 
-# game/v2/scene18c.rpy:2527
+# game/v2/scene18c.rpy:2526
 translate francais v2s18c_penelopesg_a0de8459:
 
     # pe "Ha..."
-    pe ""
+    pe "Ha..."
 
-# game/v2/scene18c.rpy:2529
+# game/v2/scene18c.rpy:2528
 translate francais v2s18c_penelopesg_3aed3db4:
 
     # pe "You made me cum. *Panting*"
-    pe ""
+    pe "You made me cum. *Panting*"
 
-# game/v2/scene18c.rpy:2534
-translate francais v2s18c_penelopesg_27ff8259:
+# game/v2/scene18c.rpy:2533
+translate francais v2s18c_penelopesg_3bab75dc:
 
-    # u "I could tell. *Chuckles*"
-    u ""
+    # u "I could tell."
+    u "I could tell."
 
-# game/v2/scene18c.rpy:2556
+# game/v2/scene18c.rpy:2555
 translate francais v2s18c_penelopesg_784ea6a5:
 
     # pe "That was incredible..."
-    pe ""
+    pe "That was incredible..."
 
-# game/v2/scene18c.rpy:2561
-translate francais v2s18c_penelopesg_4034990f:
+# game/v2/scene18c.rpy:2560
+translate francais v2s18c_penelopesg_1a5c75e1:
 
-    # u "I'm glad you enjoyed it, haha. Thanks for your help."
-    u ""
+    # u "I'm glad you enjoyed it. Thanks for your help."
+    u "I'm glad you enjoyed it. Thanks for your help."
 
-# game/v2/scene18c.rpy:2566
+# game/v2/scene18c.rpy:2565
 translate francais v2s18c_penelopesg_05eb33c8:
 
     # pe "*Sighs* You're so welcome..."
-    pe ""
+    pe "*Sighs* You're so welcome..."
 
-# game/v2/scene18c.rpy:2568
+# game/v2/scene18c.rpy:2567
 translate francais v2s18c_penelopesg_62aa2066:
 
     # pe "I could lay here forever..."
-    pe ""
+    pe "I could lay here forever..."
 
-# game/v2/scene18c.rpy:2573
-translate francais v2s18c_penelopesg_d9cc85c6:
+# game/v2/scene18c.rpy:2572
+translate francais v2s18c_penelopesg_8c7b7c16:
 
-    # u "People might start to wonder where we are, but same."
-    u ""
+    # u "People might start to wonder where we are, but, same."
+    u "People might start to wonder where we are, but, same."
 
-# game/v2/scene18c.rpy:2578
-translate francais v2s18c_penelopesg_bbc08092:
+# game/v2/scene18c.rpy:2577
+translate francais v2s18c_penelopesg_69ff3af7:
 
-    # pe "Haha, okay. You're right."
-    pe ""
+    # pe "You're right."
+    pe "You're right."
 
-# game/v2/scene18c.rpy:2595
+# game/v2/scene18c.rpy:2594
 translate francais v2s18c_nsfwSkipLabelP_d2a3f50d:
 
     # pe "Ready?"
-    pe ""
+    pe "Ready?"
 
-# game/v2/scene18c.rpy:2605
+# game/v2/scene18c.rpy:2604
 translate francais v2s18c_nsfwSkipLabelP_a808a3a1:
 
     # u "After you."
-    u ""
+    u "After you."
 
-# game/v2/scene18c.rpy:2624
-translate francais v2s18c_nsfwSkipLabelP_6afdfb2a:
+# game/v2/scene18c.rpy:2623
+translate francais v2s18c_nsfwSkipLabelP_722d8eae:
 
-    # pe "I think it would be kind of weird if we did anything on this list together."
-    pe ""
+    # pe "I think it would be weird if we did anything on this list together."
+    pe "I think it would be weird if we did anything on this list together."
 
-# game/v2/scene18c.rpy:2626
+# game/v2/scene18c.rpy:2625
 translate francais v2s18c_nsfwSkipLabelP_e74e1627:
 
     # pe "Since we're just friends. You know?"
-    pe ""
+    pe "Since we're just friends. You know?"
 
-# game/v2/scene18c.rpy:2631
+# game/v2/scene18c.rpy:2630
 translate francais v2s18c_nsfwSkipLabelP_daac62bb:
 
     # u "Yeah, I get that."
-    u ""
+    u "Yeah, I get that."
 
-# game/v2/scene18c.rpy:2636
-translate francais v2s18c_nsfwSkipLabelP_b992f118:
+# game/v2/scene18c.rpy:2635
+translate francais v2s18c_nsfwSkipLabelP_a50382cb:
 
-    # pe "Sorry, haha."
-    pe ""
+    # pe "Sorry."
+    pe "Sorry."
 
-# game/v2/scene18c.rpy:2645
+# game/v2/scene18c.rpy:2644
 translate francais v2s18c_nsfwSkipLabelP_f2081299:
 
     # pe "Um, I don't think we should do anything while we're here."
-    pe ""
+    pe "Um, I don't think we should do anything while we're here."
 
-# game/v2/scene18c.rpy:2650
+# game/v2/scene18c.rpy:2649
 translate francais v2s18c_nsfwSkipLabelP_923343fe:
 
     # u "Oh, okay, sure."
-    u ""
+    u "Oh, okay, sure."
 
-# game/v2/scene18c.rpy:2655
+# game/v2/scene18c.rpy:2654
 translate francais v2s18c_nsfwSkipLabelP_3e1f5d40:
 
     # pe "Sorry, I just don't feel comfortable."
-    pe ""
+    pe "Sorry, I just don't feel comfortable."
 
-# game/v2/scene18c.rpy:2660
-translate francais v2s18c_nsfwSkipLabelP_db92a4bf:
+# game/v2/scene18c.rpy:2659
+translate francais v2s18c_nsfwSkipLabelP_dfa1ec00:
 
-    # u "Trust me, don't worry about it. *Chuckles*"
-    u ""
+    # u "Trust me, don't worry about it."
+    u "Trust me, don't worry about it."
 
-# game/v2/scene18c.rpy:2665
+# game/v2/scene18c.rpy:2664
 translate francais v2s18c_nsfwSkipLabelP_5d446ccc:
 
     # pe "Okay. Thanks."
-    pe ""
+    pe "Okay. Thanks."
 
-# game/v2/scene18c.rpy:2671
+# game/v2/scene18c.rpy:2670
 translate francais v2s18c_backtoparty_73ab2e1e:
 
     # u "Anyway, time to get back to the party. Ready?"
-    u ""
+    u "Anyway, time to get back to the party. Ready?"
 
-# game/v2/scene18c.rpy:2676
-translate francais v2s18c_backtoparty_3e79a3a5:
+# game/v2/scene18c.rpy:2675
+translate francais v2s18c_backtoparty_6d702833:
 
-    # pe "Yes! So ready, haha."
-    pe ""
+    # pe "Yes! So ready."
+    pe "Yes! So ready."
 
 translate francais strings:
 
     # game/v2/scene18c.rpy:62
     old "Sounds great"
-    new ""
+    new "Sounds great"
 
     # game/v2/scene18c.rpy:62
     old "You can't shop for yourself"
-    new ""
+    new "You can't shop for yourself"
 
     # game/v2/scene18c.rpy:638
     old "Ask for help"
-    new ""
+    new "Ask for help"
 
     # game/v2/scene18c.rpy:638
     old "Don't mention it"
-    new ""
+    new "Don't mention it"
 
-    # game/v2/scene18c.rpy:897
+    # game/v2/scene18c.rpy:885
     old "Keep her quiet"
-    new ""
+    new "Keep her quiet"
 
-    # game/v2/scene18c.rpy:897
+    # game/v2/scene18c.rpy:885
     old "Let her be loud"
-    new ""
+    new "Let her be loud"
 
-    # game/v2/scene18c.rpy:1176
+    # game/v2/scene18c.rpy:1127
     old "Steal the panties"
-    new ""
+    new "Steal the panties"
 
-    # game/v2/scene18c.rpy:1176
+    # game/v2/scene18c.rpy:1127
     old "Don't steal the panties"
-    new ""
+    new "Don't steal the panties"
 
-    # game/v2/scene18c.rpy:1310
+    # game/v2/scene18c.rpy:1261
     old "Take the condom"
-    new ""
+    new "Take the condom"
 
-    # game/v2/scene18c.rpy:1310
+    # game/v2/scene18c.rpy:1261
     old "Don't take it"
-    new ""
+    new "Don't take it"
 
-    # game/v2/scene18c.rpy:1420
+    # game/v2/scene18c.rpy:1373
     old "This balcony is better"
-    new ""
+    new "This balcony is better"
 
-    # game/v2/scene18c.rpy:1420
+    # game/v2/scene18c.rpy:1373
     old "Bigger the better"
-    new ""
+    new "Bigger the better"
 
-    # game/v2/scene18c.rpy:1876
+    # game/v2/scene18c.rpy:1826
     old "Never mind"
-    new ""
+    new "Never mind"
 
-    # game/v2/scene18c.rpy:1876
+    # game/v2/scene18c.rpy:1826
     old "Let's make out"
-    new ""
+    new "Let's make out"
 
-    # game/v2/scene18c.rpy:2242
+    # game/v2/scene18c.rpy:2248
     old "Don't interrupt"
-    new ""
+    new "Don't interrupt"
 
-    # game/v2/scene18c.rpy:2242
+    # game/v2/scene18c.rpy:2248
     old "Save Penelope"
-    new ""
+    new "Save Penelope"
 
-    # game/v2/scene18c.rpy:2368
+    # game/v2/scene18c.rpy:2374
     old "Ask for her help"
-    new ""
+    new "Ask for her help"
 
-    # game/v2/scene18c.rpy:2368
+    # game/v2/scene18c.rpy:2374
     old "Tell her the list is stupid"
-    new ""
+    new "Tell her the list is stupid"
 

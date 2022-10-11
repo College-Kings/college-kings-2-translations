@@ -1,606 +1,560 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v2/scene17.rpy:72
+# game/v2/scene17.rpy:23
 translate francais v2s17_08ba2594:
 
     # clerk "Hello, sir! Is there something I can help you with today?"
-    clerk ""
+    clerk "Hello, sir! Is there something I can help you with today?"
 
-# game/v2/scene17.rpy:77
+# game/v2/scene17.rpy:28
 translate francais v2s17_7544ba16:
 
     # u "Um, hi there."
-    u ""
+    u "Um, hi there."
 
-# game/v2/scene17.rpy:83
+# game/v2/scene17.rpy:34
 translate francais v2s17_a6e91fd5:
 
     # u "I'm buying a birthday gift for my girlfriend, Lauren. Can you help me with that?"
-    u ""
+    u "I'm buying a birthday gift for my girlfriend, Lauren. Can you help me with that?"
 
-# game/v2/scene17.rpy:88
+# game/v2/scene17.rpy:39
 translate francais v2s17_6e535baf:
 
     # clerk "Oh, certainly! I don't know her, obviously, but girlfriends are girlfriends."
-    clerk ""
+    clerk "Oh, certainly! I don't know her, obviously, but girlfriends are girlfriends."
 
-# game/v2/scene17.rpy:93
-translate francais v2s17_dd308c08:
+# game/v2/scene17.rpy:44
+translate francais v2s17_1e7426d2:
 
-    # u "(I don't know what he means by that, but...) Ha, sure."
-    u ""
+    # u "(I don't know what he means by that, but...) Ha, yeah."
+    u "(I don't know what he means by that, but...) Ha, yeah."
 
-# game/v2/scene17.rpy:99
+# game/v2/scene17.rpy:53
 translate francais v2s17_15e6779c:
 
     # u "I'm buying a birthday gift for my friend, Lauren. Any ideas?"
-    u ""
+    u "I'm buying a birthday gift for my friend, Lauren. Any ideas?"
 
-# game/v2/scene17.rpy:104
+# game/v2/scene17.rpy:58
 translate francais v2s17_4f1d978b:
 
     # clerk "Well, I don't know her, but I'm sure I can help you find a unique gift!"
-    clerk ""
+    clerk "Well, I don't know her, but I'm sure I can help you find a unique gift!"
 
-# game/v2/scene17.rpy:109
+# game/v2/scene17.rpy:60
 translate francais v2s17_48bc322b:
 
     # clerk "So, what does this Lauren like?"
-    clerk ""
+    clerk "So, what does this Lauren like?"
 
-# game/v2/scene17.rpy:114
+# game/v2/scene17.rpy:65
 translate francais v2s17_f6f764aa:
 
     # u "Well... I was thinking about getting her something useful, you know, like a gift card. So that she can buy some books."
-    u ""
+    u "Well... I was thinking about getting her something useful, you know, like a gift card. So that she can buy some books."
 
-# game/v2/scene17.rpy:119
+# game/v2/scene17.rpy:70
 translate francais v2s17_d7a8a3e5:
 
     # clerk "A gift card is always the safe option. It doesn't sound like you know her very well, so that might be best."
-    clerk ""
+    clerk "A gift card is always the safe option. It doesn't sound like you know her very well, so that might be best."
 
-# game/v2/scene17.rpy:124
+# game/v2/scene17.rpy:75
 translate francais v2s17_d1d34bd1:
 
     # u "Well, I know her. I mean we're pretty-"
-    u ""
+    u "Well, I know her. I mean we're pretty-"
 
-# game/v2/scene17.rpy:129
+# game/v2/scene17.rpy:80
 translate francais v2s17_76f259dd:
 
     # clerk "So, a gift card? You're going to get her a gift card? For books?"
-    clerk ""
+    clerk "So, a gift card? You're going to get her a gift card? For books?"
 
-# game/v2/scene17.rpy:134
+# game/v2/scene17.rpy:85
 translate francais v2s17_8c5a2002:
 
     # u "She likes books..."
-    u ""
+    u "She likes books..."
 
-# game/v2/scene17.rpy:139
+# game/v2/scene17.rpy:90
 translate francais v2s17_88759b27:
 
     # clerk "Hmm..."
-    clerk ""
+    clerk "Hmm..."
 
-# game/v2/scene17.rpy:144
-translate francais v2s17_fcdb6549:
+# game/v2/scene17.rpy:95
+translate francais v2s17_81886929:
 
-    # u "Okay, so what do you recommend then?"
-    u ""
+    # u "Okay, so what do you recommend, then?"
+    u "Okay, so what do you recommend, then?"
 
-# game/v2/scene17.rpy:149
+# game/v2/scene17.rpy:100
 translate francais v2s17_279dcaf0:
 
     # clerk "Have you thought about spending more than $5?"
-    clerk ""
+    clerk "Have you thought about spending more than $5?"
 
-# game/v2/scene17.rpy:154
+# game/v2/scene17.rpy:105
 translate francais v2s17_25d7a768:
 
     # u "I wouldn't buy her a gift card for just $5."
-    u ""
+    u "I wouldn't buy her a gift card for just $5."
 
-# game/v2/scene17.rpy:159
+# game/v2/scene17.rpy:110
 translate francais v2s17_b43a4d9a:
 
     # clerk "Oh, I see. We currently have them for $5, $10, $20, then $50, then $100."
-    clerk ""
+    clerk "Oh, I see. We currently have them for $5, $10, $20, then $50, then $100."
 
-# game/v2/scene17.rpy:161
+# game/v2/scene17.rpy:112
 translate francais v2s17_14565831:
 
     # clerk "Should I get you a $100 gift card?"
-    clerk ""
+    clerk "Should I get you a $100 gift card?"
 
-# game/v2/scene17.rpy:166
+# game/v2/scene17.rpy:117
 translate francais v2s17_93014248:
 
     # u "That's a bit... too much. Maybe the $50 one?"
-    u ""
+    u "That's a bit... too much. Maybe the $50 one?"
 
-# game/v2/scene17.rpy:171
+# game/v2/scene17.rpy:122
 translate francais v2s17_c984473a:
 
     # clerk "Are you sure?"
-    clerk ""
+    clerk "Are you sure?"
 
-# game/v2/scene17.rpy:176
+# game/v2/scene17.rpy:127
 translate francais v2s17_4d05d393:
 
     # u "I don't know, are there any other options?"
-    u ""
+    u "I don't know, are there any other options?"
 
-# game/v2/scene17.rpy:181
+# game/v2/scene17.rpy:132
 translate francais v2s17_994da75d:
 
     # clerk "May I suggest jewelry?"
-    clerk ""
+    clerk "May I suggest jewelry?"
 
-# game/v2/scene17.rpy:187
+# game/v2/scene17.rpy:138
 translate francais v2s17_ece6456f:
 
     # u "Yes! Autumn said she'd love that."
-    u ""
+    u "Yes! Autumn said she'd love that."
 
-# game/v2/scene17.rpy:192
+# game/v2/scene17.rpy:143
 translate francais v2s17_c1fe7abe:
 
     # clerk "Autumn?"
-    clerk ""
+    clerk "Autumn?"
 
-# game/v2/scene17.rpy:197
+# game/v2/scene17.rpy:148
 translate francais v2s17_ce1fbac5:
 
     # u "Yeah, Autumn. Her sister."
-    u ""
+    u "Yeah, Autumn. Her sister."
 
-# game/v2/scene17.rpy:202
-translate francais v2s17_18756192:
+# game/v2/scene17.rpy:153
+translate francais v2s17_620062ac:
 
-    # clerk "Ah... I'm surprised Lauren's name isn't Summer! Haha!"
-    clerk ""
+    # clerk "Ah... I'm surprised Lauren's name isn't Summer! Ha!"
+    clerk "Ah... I'm surprised Lauren's name isn't Summer! Ha!"
 
-# game/v2/scene17.rpy:207
-translate francais v2s17_a66ad5fa:
+# game/v2/scene17.rpy:158
+translate francais v2s17_e6939812:
 
-    # u "Ha... Good one."
-    u ""
+    # u "Ha... good one."
+    u "Ha... good one."
 
-# game/v2/scene17.rpy:213
+# game/v2/scene17.rpy:164
 translate francais v2s17_42a2545a:
 
     # u "Hmm. It's true about women and jewelry..."
-    u ""
+    u "Hmm. It's true about women and jewelry..."
 
-# game/v2/scene17.rpy:218
-translate francais v2s17_15df2d96:
+# game/v2/scene17.rpy:169
+translate francais v2s17_52a47d72:
 
-    # clerk "Yes, sir it is!"
-    clerk ""
+    # clerk "Yes, sir, it is!"
+    clerk "Yes, sir, it is!"
 
-# game/v2/scene17.rpy:223
+# game/v2/scene17.rpy:174
 translate francais v2s17_c0a2b17f:
 
     # u "Ms. Rose looked so proud of her new necklace and really seemed to enjoy showing it off to me... among other things..."
-    u ""
+    u "Ms. Rose looked so proud of her new necklace and really seemed to enjoy showing it off to me... among other things..."
 
-# game/v2/scene17.rpy:234
+# game/v2/scene17.rpy:185
 translate francais v2s17_ccccc505:
 
     # clerk "You seem to be smiling a little strangely, sir. Are you okay?"
-    clerk ""
+    clerk "You seem to be smiling a little strangely, sir. Are you okay?"
 
-# game/v2/scene17.rpy:239
-translate francais v2s17_0b13112a:
+# game/v2/scene17.rpy:190
+translate francais v2s17_6c24c8d8:
 
-    # u "Yeah, sorry. I was just lost in my thoughts for a moment there."
-    u ""
+    # u "Yeah, sorry. I was just lost in my thoughts."
+    u "Yeah, sorry. I was just lost in my thoughts."
 
-# game/v2/scene17.rpy:244
+# game/v2/scene17.rpy:195
 translate francais v2s17_538d8f98:
 
     # u "Okay, that sounds like a good idea. Let's look at your jewelry."
-    u ""
+    u "Okay, that sounds like a good idea. Let's look at your jewelry."
 
-# game/v2/scene17.rpy:249
+# game/v2/scene17.rpy:200
 translate francais v2s17_6c7db891:
 
     # clerk "Jewelry is this way."
-    clerk ""
+    clerk "Jewelry is this way."
 
-# game/v2/scene17.rpy:264
+# game/v2/scene17.rpy:215
 translate francais v2s17_efae528d:
 
     # clerk "I would suggest the emerald bracelet or the ruby choker necklace."
-    clerk ""
+    clerk "I would suggest the emerald bracelet or the ruby choker necklace."
 
-# game/v2/scene17.rpy:269
+# game/v2/scene17.rpy:220
 translate francais v2s17_bf296972:
 
     # clerk "Both beautiful items, and currently on sale for only $50."
-    clerk ""
+    clerk "Both beautiful items, and currently on sale for only $50."
 
-# game/v2/scene17.rpy:275
+# game/v2/scene17.rpy:226
 translate francais v2s17_fbeab310:
 
     # u "Would you say jewelry is the perfect choice for a girlfriend?"
-    u ""
+    u "Would you say jewelry is the perfect choice for a girlfriend?"
 
-# game/v2/scene17.rpy:280
+# game/v2/scene17.rpy:231
 translate francais v2s17_397f9777:
 
     # clerk "Absolutely. You can never go wrong with jewelry, especially at these prices."
-    clerk ""
+    clerk "Absolutely. You can never go wrong with jewelry, especially at these prices."
 
-# game/v2/scene17.rpy:286
+# game/v2/scene17.rpy:237
 translate francais v2s17_9da6ca44:
 
     # u "Is jewelry too much if we're just friends?"
-    u ""
+    u "Is jewelry too much if we're just friends?"
 
-# game/v2/scene17.rpy:291
+# game/v2/scene17.rpy:242
 translate francais v2s17_f68a3108:
 
     # clerk "Jewelry is never too much, young man. If you buy this for her, she will be your friend forever!"
-    clerk ""
+    clerk "Jewelry is never too much, young man. If you buy this for her, she will be your friend forever!"
 
-# game/v2/scene17.rpy:296
+# game/v2/scene17.rpy:244
 translate francais v2s17_611cc45c:
 
     # clerk "She will look like a birthday princess!"
-    clerk ""
+    clerk "She will look like a birthday princess!"
 
-# game/v2/scene17.rpy:298
+# game/v2/scene17.rpy:246
 translate francais v2s17_5fba9a45:
 
     # clerk "Now, do you think you're ready to make a decision?"
-    clerk ""
+    clerk "Now, do you think you're ready to make a decision?"
 
-# game/v2/scene17.rpy:303
+# game/v2/scene17.rpy:251
 translate francais v2s17_0ab32344:
 
     # u "Let me think for a second..."
-    u ""
+    u "Let me think for a second..."
 
-# game/v2/scene17.rpy:314
-translate francais v2s17_528f0579:
+# game/v2/scene17.rpy:262
+translate francais v2s17_d9d52b1d:
 
-    # u "Autumn told me about a little toy horse... She said it would be a good gift if I could find it."
-    u ""
+    # u "Autumn told me about a little toy horse. She said it would be a good gift if I could find it."
+    u "Autumn told me about a little toy horse. She said it would be a good gift if I could find it."
 
-# game/v2/scene17.rpy:319
+# game/v2/scene17.rpy:267
 translate francais v2s17_2f39e1ef:
 
     # clerk "Well, thank goodness you spoke to Autumn..."
-    clerk ""
+    clerk "Well, thank goodness you spoke to Autumn..."
 
-# game/v2/scene17.rpy:324
+# game/v2/scene17.rpy:272
 translate francais v2s17_a2b14085:
 
     # clerk "But a toy horse? Are you buying this for a child? We have many children's toys."
-    clerk ""
+    clerk "But a toy horse? Are you buying this for a child? We have many children's toys."
 
-# game/v2/scene17.rpy:329
-translate francais v2s17_846a22df:
+# game/v2/scene17.rpy:277
+translate francais v2s17_53088e6c:
 
-    # u "No, it's a gift for sentimental reasons. She won't be expecting it."
-    u ""
+    # u "No, it's a sentimental item. She won't be expecting it."
+    u "No, it's a sentimental item. She won't be expecting it."
 
-# game/v2/scene17.rpy:334
+# game/v2/scene17.rpy:282
 translate francais v2s17_6148bbe5:
 
     # clerk "Ah, very good! Let's see what horses we have in stock, shall we?"
-    clerk ""
+    clerk "Ah, very good! Let's see what horses we have in stock, shall we?"
 
-# game/v2/scene17.rpy:340
+# game/v2/scene17.rpy:288
 translate francais v2s17_8e9f72cb:
 
     # u "Do you have anything else that may make a good gift?"
-    u ""
+    u "Do you have anything else that may make a good gift?"
 
-# game/v2/scene17.rpy:345
+# game/v2/scene17.rpy:293
 translate francais v2s17_9047ea82:
 
     # clerk "Well, we do have little toy horses on sale right now."
-    clerk ""
+    clerk "Well, we do have little toy horses on sale right now."
 
-# game/v2/scene17.rpy:350
-translate francais v2s17_9952f02d:
+# game/v2/scene17.rpy:298
+translate francais v2s17_184f3b63:
 
-    # clerk "But of course, it might not be the best gift for an adult..."
-    clerk ""
+    # clerk "But, of course, it might not be the best gift for an adult..."
+    clerk "But, of course, it might not be the best gift for an adult..."
 
-# game/v2/scene17.rpy:355
-translate francais v2s17_37d3c5da:
+# game/v2/scene17.rpy:303
+translate francais v2s17_e85e1a46:
 
-    # u "Haha, could I see them anyway?"
-    u ""
+    # u "Could I see them anyway?"
+    u "Could I see them anyway?"
 
-# game/v2/scene17.rpy:360
+# game/v2/scene17.rpy:308
 translate francais v2s17_2b3894e3:
 
     # clerk "Of course."
-    clerk ""
+    clerk "Of course."
 
-# game/v2/scene17.rpy:375
+# game/v2/scene17.rpy:323
 translate francais v2s17_6cd47784:
 
     # clerk "Here we are..."
-    clerk ""
+    clerk "Here we are..."
 
-# game/v2/scene17.rpy:380
-translate francais v2s17_6c8078dd:
+# game/v2/scene17.rpy:328
+translate francais v2s17_49082a14:
 
-    # clerk "There are only two different colors it seems... Hopefully one of these will suit your needs."
-    clerk ""
+    # clerk "There are only two different colors, it seems. Hopefully one of these will suit your needs."
+    clerk "There are only two different colors, it seems. Hopefully one of these will suit your needs."
 
-# game/v2/scene17.rpy:385
+# game/v2/scene17.rpy:333
 translate francais v2s17_b4c3c5c6:
 
     # u "Okay, I think I know what I want now."
-    u ""
+    u "Okay, I think I know what I want now."
 
-# game/v2/scene17.rpy:390
+# game/v2/scene17.rpy:338
 translate francais v2s17_ef149a6f:
 
     # clerk "Wonderful."
-    clerk ""
+    clerk "Wonderful."
 
-# game/v2/scene17.rpy:406
-translate francais v2s17_gift_choice_f8ddd7a5:
+# game/v2/scene17.rpy:354
+translate francais v2s17_gift_choice_b4b80a0c:
 
-    # clerk "Here you are... One $50 gift card! I hope you don't regret going for the safe option."
-    clerk ""
+    # clerk "Here you are: One $50 gift card! I hope you don't regret going for the safe option."
+    clerk "Here you are: One $50 gift card! I hope you don't regret going for the safe option."
 
-# game/v2/scene17.rpy:411
-translate francais v2s17_gift_choice_ad5b1fb1:
+# game/v2/scene17.rpy:359
+translate francais v2s17_gift_choice_8b045747:
 
-    # u "It's fine, haha. The party is really soon, so I didn't have a lot of time to think about it."
-    u ""
+    # u "It's fine. The party is really soon, so I didn't have a lot of time to think about it."
+    u "It's fine. The party is really soon, so I didn't have a lot of time to think about it."
 
-# game/v2/scene17.rpy:416
+# game/v2/scene17.rpy:364
 translate francais v2s17_gift_choice_190fb209:
 
     # clerk "*Mumbles* It shows..."
-    clerk ""
+    clerk "*Mumbles* It shows..."
 
-# game/v2/scene17.rpy:421
+# game/v2/scene17.rpy:369
 translate francais v2s17_gift_choice_b45f40e0:
 
     # u "I'm sorry?"
-    u ""
+    u "I'm sorry?"
 
-# game/v2/scene17.rpy:426
+# game/v2/scene17.rpy:374
 translate francais v2s17_gift_choice_f3800b0d:
 
     # clerk "Nothing, sir."
-    clerk ""
+    clerk "Nothing, sir."
 
-# game/v2/scene17.rpy:428
+# game/v2/scene17.rpy:376
 translate francais v2s17_gift_choice_ea41747a:
 
     # clerk "I'm sure she'll be very happy with it."
-    clerk ""
+    clerk "I'm sure she'll be very happy with it."
 
-# game/v2/scene17.rpy:441
+# game/v2/scene17.rpy:389
 translate francais v2s17_gift_choice_ca509407:
 
     # u "The emerald is too beautiful to turn away from."
-    u ""
+    u "The emerald is too beautiful to turn away from."
 
-# game/v2/scene17.rpy:446
+# game/v2/scene17.rpy:394
 translate francais v2s17_gift_choice_e06b36c4:
 
     # clerk "Jewelry! She is going to love it, young man."
-    clerk ""
+    clerk "Jewelry! She is going to love it, young man."
 
-# game/v2/scene17.rpy:459
+# game/v2/scene17.rpy:407
 translate francais v2s17_gift_choice_66431246:
 
     # u "The ruby is perfect. She's going to love it."
-    u ""
+    u "The ruby is perfect. She's going to love it."
 
-# game/v2/scene17.rpy:464
-translate francais v2s17_gift_choice_e06b36c4_1:
+# game/v2/scene17.rpy:412
+translate francais v2s17_gift_choice_3e775e31:
 
-    # clerk "Jewelry! She is going to love it, young man."
-    clerk ""
+    # clerk "Jewelry! She IS going to love it, young man."
+    clerk "Jewelry! She IS going to love it, young man."
 
-# game/v2/scene17.rpy:477
+# game/v2/scene17.rpy:425
 translate francais v2s17_gift_choice_06c8c4bc:
 
     # u "This one!"
-    u ""
+    u "This one!"
 
-# game/v2/scene17.rpy:482
-translate francais v2s17_gift_choice_80e904b0:
+# game/v2/scene17.rpy:430
+translate francais v2s17_gift_choice_e196a302:
 
-    # clerk "The sentimental horse, aww! It's perfect."
-    clerk ""
+    # clerk "The sentimental horse! It's perfect."
+    clerk "The sentimental horse! It's perfect."
 
-# game/v2/scene17.rpy:487
+# game/v2/scene17.rpy:435
 translate francais v2s17_gift_choice_bad21845:
 
     # u "Thank you for your help."
-    u ""
+    u "Thank you for your help."
 
-# game/v2/scene17.rpy:492
+# game/v2/scene17.rpy:440
 translate francais v2s17_gift_choice_13c5a65c:
 
     # clerk "Of course! In fact..."
-    clerk ""
+    clerk "Of course! In fact..."
 
-# game/v2/scene17.rpy:497
+# game/v2/scene17.rpy:445
 translate francais v2s17_gift_choice_8da709c8:
 
     # clerk "I'll go ahead and wrap it for you, no extra charge."
-    clerk ""
+    clerk "I'll go ahead and wrap it for you, no extra charge."
 
-# game/v2/scene17.rpy:510
+# game/v2/scene17.rpy:458
 translate francais v2s17_gift_choice_fa9dd091:
 
     # u "Definitely this one!"
-    u ""
+    u "Definitely this one!"
 
-# game/v2/scene17.rpy:515
-translate francais v2s17_gift_choice_80e904b0_1:
+# game/v2/scene17.rpy:463
+translate francais v2s17_gift_choice_e196a302_1:
 
-    # clerk "The sentimental horse, aww! It's perfect."
-    clerk ""
+    # clerk "The sentimental horse! It's perfect."
+    clerk "The sentimental horse! It's perfect."
 
-# game/v2/scene17.rpy:520
+# game/v2/scene17.rpy:468
 translate francais v2s17_gift_choice_bad21845_1:
 
     # u "Thank you for your help."
-    u ""
+    u "Thank you for your help."
 
-# game/v2/scene17.rpy:525
+# game/v2/scene17.rpy:473
 translate francais v2s17_gift_choice_13c5a65c_1:
 
     # clerk "Of course! In fact..."
-    clerk ""
+    clerk "Of course! In fact..."
 
-# game/v2/scene17.rpy:530
+# game/v2/scene17.rpy:478
 translate francais v2s17_gift_choice_8da709c8_1:
 
     # clerk "I'll go ahead and wrap it for you, no extra charge."
-    clerk ""
+    clerk "I'll go ahead and wrap it for you, no extra charge."
 
-# game/v2/scene17.rpy:544
+# game/v2/scene17.rpy:492
 translate francais v2s17_giftwrap_ca829ded:
 
     # clerk "A pretty little package!"
-    clerk ""
+    clerk "A pretty little package!"
 
-# game/v2/scene17.rpy:549
-translate francais v2s17_giftwrap_95c0db11:
+# game/v2/scene17.rpy:497
+translate francais v2s17_giftwrap_5914eb0c:
 
-    # u "Haha, it's great."
-    u ""
+    # u "That's great, thanks!"
+    u "That's great, thanks!"
 
-# game/v2/scene17.rpy:554
+# game/v2/scene17.rpy:502
 translate francais v2s17_giftwrap_a2f18a38:
 
     # clerk "Is there anything else I can help you with today?"
-    clerk ""
+    clerk "Is there anything else I can help you with today?"
 
-# game/v2/scene17.rpy:559
-translate francais v2s17_giftwrap_c05a22e9:
+# game/v2/scene17.rpy:507
+translate francais v2s17_giftwrap_c2528d8c:
 
-    # u "I don't think s- Oh, wait... There is."
-    u ""
+    # u "I don't think so... oh, wait. There is."
+    u "I don't think so... oh, wait. There is."
 
-# game/v2/scene17.rpy:561
-translate francais v2s17_giftwrap_c51f5d7d:
+# game/v2/scene17.rpy:509
+translate francais v2s17_giftwrap_a9c0061d:
 
-    # u "It's a costume party, ha."
-    u ""
+    # u "It's a costume party."
+    u "It's a costume party."
 
-# game/v2/scene17.rpy:566
+# game/v2/scene17.rpy:514
 translate francais v2s17_giftwrap_8fad217d:
 
     # clerk "Oh, boy. You know, we are very low on costumes. We only have one left."
-    clerk ""
+    clerk "Oh, boy. You know, we are very low on costumes. We only have one left."
 
-# game/v2/scene17.rpy:571
-translate francais v2s17_giftwrap_b0f2ee21:
+# game/v2/scene17.rpy:519
+translate francais v2s17_giftwrap_698d51da:
 
-    # u "Really? Damn... Okay. I guess I'll take it."
-    u ""
+    # u "Really? Damn. I guess I'll take it."
+    u "Really? Damn. I guess I'll take it."
 
-# game/v2/scene17.rpy:576
+# game/v2/scene17.rpy:524
 translate francais v2s17_giftwrap_fc55f26e:
 
     # clerk "You don't want to see it first?"
-    clerk ""
+    clerk "You don't want to see it first?"
 
-# game/v2/scene17.rpy:581
-translate francais v2s17_giftwrap_57429fd6:
+# game/v2/scene17.rpy:529
+translate francais v2s17_giftwrap_9621050e:
 
-    # u "There's really no point if it's the only one you have. *Laughs* I don't have time to stop anywhere else."
-    u ""
+    # u "There's really no point if it's the only one you have. I don't have time to stop anywhere else."
+    u "There's really no point if it's the only one you have. I don't have time to stop anywhere else."
 
-# game/v2/scene17.rpy:586
-translate francais v2s17_giftwrap_16041e2a:
+# game/v2/scene17.rpy:534
+translate francais v2s17_giftwrap_11479446:
 
-    # clerk "Very well, then *Stifled laugh*"
-    clerk ""
+    # clerk "Very well, then..."
+    clerk "Very well, then..."
 
-# game/v2/scene17.rpy:591
+# game/v2/scene17.rpy:539
 translate francais v2s17_giftwrap_aa5e0c8c:
 
     # u "I'm sure it'll fit."
-    u ""
+    u "I'm sure it'll fit."
 
-# game/v2/scene17.rpy:596
+# game/v2/scene17.rpy:544
 translate francais v2s17_giftwrap_90264ba5:
 
     # clerk "Yes, one size fits all! I'll just put it in the bag for you."
-    clerk ""
+    clerk "Yes, one size fits all! I'll just put it in the bag for you."
 
-# game/v2/scene17.rpy:601
+# game/v2/scene17.rpy:549
 translate francais v2s17_giftwrap_3af8310e:
 
     # u "Thank you again."
-    u ""
+    u "Thank you again."
 
-# game/v2/scene17.rpy:621
+# game/v2/scene17.rpy:569
 translate francais v2s17_giftwrap_ababf478:
 
     # clerk "Have a great night! Tell Miss Lauren I said Happy Birthday!"
-    clerk ""
+    clerk "Have a great night! Tell Miss Lauren I said Happy Birthday!"
 
-# game/v2/scene17.rpy:626
+# game/v2/scene17.rpy:574
 translate francais v2s17_giftwrap_d724ec45:
 
     # u "You got it!"
-    u ""
-
-translate francais strings:
-
-    # game/v2/scene17.rpy:9
-    old "I'm doing really well! Thanks for asking :)"
-    new ""
-
-    # game/v2/scene17.rpy:19
-    old "Sorority Presidents are at war"
-    new ""
-
-    # game/v2/scene17.rpy:20
-    old "I'd rather not talk about it"
-    new ""
-
-    # game/v2/scene17.rpy:23
-    old "Oof... I can't even imagine, lol."
-    new ""
-
-    # game/v2/scene17.rpy:27
-    old "That's fair. I hope it all clears up for you soon. Just try to stay out of it, yeah?"
-    new ""
-
-    # game/v2/scene17.rpy:32
-    old "So, when do you get back to America?"
-    new ""
-
-    # game/v2/scene17.rpy:33
-    old "It's like I'm the rope in a game of tug of war, you know?"
-    new ""
-
-    # game/v2/scene17.rpy:39
-    old "We can leave it at that for now, I gotta go. Talk to you again soon? <3"
-    new ""
-
-    # game/v2/scene17.rpy:45
-    old "But hey, my phone is about to die so I'll talk to you later, okay?"
-    new ""
-
-    # game/v2/scene17.rpy:56
-    old "Amazing! How are you?"
-    new ""
-
-    # game/v2/scene17.rpy:57
-    old "God, I miss Paris..."
-    new ""
+    u "You got it!"
 

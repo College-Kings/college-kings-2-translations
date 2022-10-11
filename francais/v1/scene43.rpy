@@ -1,104 +1,104 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene43.rpy:27
-translate francais v1s43_4d0eb332:
+translate francais v1s43_4d0eb332_1:
 
     # u "(Hmm?)"
-    u ""
+    u "(Hmm?)"
 
-# game/v1/scene43.rpy:48
-translate francais v1s43_PhoneContinueEmily_88d710ce:
+# game/v1/scene43.rpy:52
+translate francais v1s43_PhoneContinueEmily_88d710ce_1:
 
     # u "(I should check my phone.)"
-    u ""
+    u "(I should check my phone.)"
 
-# game/v1/scene43.rpy:54
-translate francais v1s43_PhoneContinueEmily_ef9ea744:
+# game/v1/scene43.rpy:58
+translate francais v1s43_PhoneContinueEmily_dc078773_1:
 
-    # u "(Glad to see that Emily's still up to no good, haha.)"
-    u ""
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Glad to see Emily's still up to no good.)"
 
-# game/v1/scene43.rpy:69
-translate francais v1s43_PhoneContinueEmily_9c004e59:
+# game/v1/scene43.rpy:73
+translate francais v1s43_PhoneContinueEmily_9c004e59_1:
 
     # u "This seat taken?"
-    u ""
+    u "This seat taken?"
 
-# game/v1/scene43.rpy:75
-translate francais v1s43_PhoneContinueEmily_caafc8e1:
+# game/v1/scene43.rpy:79
+translate francais v1s43_PhoneContinueEmily_caafc8e1_1:
 
     # pe "Saved, actually."
-    pe ""
+    pe "Saved, actually."
 
-# game/v1/scene43.rpy:80
-translate francais v1s43_PhoneContinueEmily_cab2a430:
+# game/v1/scene43.rpy:84
+translate francais v1s43_PhoneContinueEmily_cab2a430_1:
 
     # u "Oh?"
-    u ""
+    u "Oh?"
 
-# game/v1/scene43.rpy:85
-translate francais v1s43_PhoneContinueEmily_8e880ca5:
+# game/v1/scene43.rpy:89
+translate francais v1s43_PhoneContinueEmily_8e880ca5_1:
 
     # pe "For this cute guy with brown fluffy hair and an amazing smile."
-    pe ""
+    pe "For this cute guy with brown fluffy hair and an amazing smile."
 
-# game/v1/scene43.rpy:95
-translate francais v1s43_PhoneContinueEmily_1743b6c3:
+# game/v1/scene43.rpy:99
+translate francais v1s43_PhoneContinueEmily_dc2c1e9f_1:
 
-    # pe "Sit down already, weirdo. *Chuckles*"
-    pe ""
+    # pe "Sit down already, weirdo."
+    pe "Sit down already, weirdo."
 
-# game/v1/scene43.rpy:98
-translate francais v1s43_PhoneContinueEmily_74e10c99:
+# game/v1/scene43.rpy:102
+translate francais v1s43_PhoneContinueEmily_74e10c99_1:
 
     # pe "That depends..."
-    pe ""
+    pe "That depends..."
 
-# game/v1/scene43.rpy:103
-translate francais v1s43_PhoneContinueEmily_c386ccf3:
+# game/v1/scene43.rpy:107
+translate francais v1s43_PhoneContinueEmily_c386ccf3_1:
 
     # u "On what?"
-    u ""
+    u "On what?"
 
-# game/v1/scene43.rpy:108
-translate francais v1s43_PhoneContinueEmily_f2b59b77:
+# game/v1/scene43.rpy:112
+translate francais v1s43_PhoneContinueEmily_f2b59b77_1:
 
     # pe "Which type of bear is best?"
-    pe ""
+    pe "Which type of bear is best?"
 
-# game/v1/scene43.rpy:113
-translate francais v1s43_PhoneContinueEmily_efc4f511:
+# game/v1/scene43.rpy:117
+translate francais v1s43_PhoneContinueEmily_711d81c8_1:
 
-    # u "What? *Chuckles* What do you-"
-    u ""
+    # u "What? What do you-"
+    u "What? What do you-"
 
-# game/v1/scene43.rpy:118
-translate francais v1s43_PhoneContinueEmily_bdc66e6f:
+# game/v1/scene43.rpy:122
+translate francais v1s43_PhoneContinueEmily_bdc66e6f_1:
 
     # pe "False. Black bear."
-    pe ""
+    pe "False. Black bear."
 
-# game/v1/scene43.rpy:123
-translate francais v1s43_PhoneContinueEmily_478ca63d:
+# game/v1/scene43.rpy:127
+translate francais v1s43_PhoneContinueEmily_478ca63d_1:
 
     # u "Wait, how do you even-"
-    u ""
+    u "Wait, how do you even-"
 
-# game/v1/scene43.rpy:128
-translate francais v1s43_PhoneContinueEmily_0556128a:
+# game/v1/scene43.rpy:132
+translate francais v1s43_PhoneContinueEmily_dd1302a2_1:
 
-    # pe "Sit down already, would you? People are starting to stare... *Laughs*"
-    pe ""
+    # pe "Sit down already, would you? People are starting to stare..."
+    pe "Sit down already, would you? People are starting to stare..."
 
-# game/v1/scene43.rpy:138
-translate francais v1s43_PhoneContinueEmily_5441fb2f:
+# game/v1/scene43.rpy:142
+translate francais v1s43_PhoneContinueEmily_cbb87f53_1:
 
-    # u "*Laughs* Good one."
-    u ""
+    # u "Good one."
+    u "Good one."
 
-# game/v1/scene43.rpy:143
-translate francais v1s43_PhoneContinueEmily_fb5c9743:
+# game/v1/scene43.rpy:147
+translate francais v1s43_PhoneContinueEmily_fb5c9743_1:
 
     # pe "Thank you."
-    pe ""
+    pe "Thank you."
 

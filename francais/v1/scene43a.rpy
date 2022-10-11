@@ -1,128 +1,134 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene43a.rpy:29
-translate francais v1s43a_f881aea7:
+translate francais v1s43a_4c2618d5_1:
 
-    # u "Oh, and just so you know... You snore super loudly. *Laughs* I'm sure you already knew that though."
-    u ""
+    # u "Oh, and just so you know... you snore super loudly. I'm sure you already knew that, though."
+    u "Oh, and just so you know... you snore super loudly. I'm sure you already knew that, though."
 
 # game/v1/scene43a.rpy:34
-translate francais v1s43a_6f560e36:
+translate francais v1s43a_6f560e36_1:
 
     # pe "What?! I do not! Stop it, [name]."
-    pe ""
+    pe "What?! I do not! Stop it, [name]."
 
 # game/v1/scene43a.rpy:39
-translate francais v1s43a_227ba15b:
+translate francais v1s43a_227ba15b_1:
 
     # u "You were like..."
-    u ""
+    u "You were like..."
 
 # game/v1/scene43a.rpy:41
-translate francais v1s43a_8b544936:
+translate francais v1s43a_8b544936_1:
 
     # u "*Loud snoring sounds*"
-    u ""
+    u "*Loud snoring sounds*"
 
 # game/v1/scene43a.rpy:46
-translate francais v1s43a_a2020fd2:
+translate francais v1s43a_3200e1bf_1:
 
-    # pe "Oh my- Stop! *Chuckles*"
-    pe ""
+    # pe "Oh my-"
+    pe "Oh my-"
 
-# game/v1/scene43a.rpy:51
-translate francais v1s43a_7c918427:
+# game/v1/scene43a.rpy:48
+translate francais v1s43a_09eb34a2_1:
+
+    # pe "Stop! So embarrassing."
+    pe "Stop! So embarrassing."
+
+# game/v1/scene43a.rpy:53
+translate francais v1s43a_7c918427_1:
 
     # pe "Please never bring that up again."
-    pe ""
+    pe "Please never bring that up again."
 
-# game/v1/scene43a.rpy:56
-translate francais v1s43a_864ccbc2:
+# game/v1/scene43a.rpy:58
+translate francais v1s43a_864ccbc2_1:
 
     # u "Yeah, sure..."
-    u ""
+    u "Yeah, sure..."
 
-# game/v1/scene43a.rpy:61
-translate francais v1s43a_55f649aa:
+# game/v1/scene43a.rpy:63
+translate francais v1s43a_55f649aa_1:
 
     # pe "[name]!"
-    pe ""
+    pe "[name]!"
 
-# game/v1/scene43a.rpy:66
-translate francais v1s43a_86c9aa87:
+# game/v1/scene43a.rpy:68
+translate francais v1s43a_abc4dfab_1:
 
-    # u "Haha! You weren't actually snoring... Just kidding."
-    u ""
+    # u "You weren't actually snoring... just kidding."
+    u "You weren't actually snoring... just kidding."
 
-# game/v1/scene43a.rpy:71
-translate francais v1s43a_639ecac3:
+# game/v1/scene43a.rpy:73
+translate francais v1s43a_639ecac3_1:
 
     # pe "You're not funny."
-    pe ""
+    pe "You're not funny."
 
-# game/v1/scene43a.rpy:76
-translate francais v1s43a_d5bce35a:
+# game/v1/scene43a.rpy:78
+translate francais v1s43a_d5bce35a_1:
 
     # u "I'll be funny once I tell everyone that you snore, though."
-    u ""
+    u "I'll be funny once I tell everyone that you snore, though."
 
-# game/v1/scene43a.rpy:81
-translate francais v1s43a_968441fe:
+# game/v1/scene43a.rpy:83
+translate francais v1s43a_968441fe_1:
 
     # pe "You wouldn't do that."
-    pe ""
+    pe "You wouldn't do that."
 
-# game/v1/scene43a.rpy:86
-translate francais v1s43a_01e59ead:
+# game/v1/scene43a.rpy:88
+translate francais v1s43a_01e59ead_1:
 
     # u "Wouldn't I?"
-    u ""
+    u "Wouldn't I?"
 
-# game/v1/scene43a.rpy:99
-translate francais v1s43a_4d0eb332:
+# game/v1/scene43a.rpy:101
+translate francais v1s43a_4d0eb332_1:
 
     # u "(Hmm?)"
-    u ""
+    u "(Hmm?)"
 
-# game/v1/scene43a.rpy:120
-translate francais v1s43a_PhoneContinueEmily_88d710ce:
+# game/v1/scene43a.rpy:125
+translate francais v1s43a_PhoneContinueEmily_88d710ce_1:
 
     # u "(I should check my phone.)"
-    u ""
-
-# game/v1/scene43a.rpy:126
-translate francais v1s43a_PhoneContinueEmily_ef9ea744:
-
-    # u "(Glad to see that Emily's still up to no good, haha.)"
-    u ""
+    u "(I should check my phone.)"
 
 # game/v1/scene43a.rpy:131
-translate francais v1s43a_PhoneContinueEmily_a4b7c8ee:
+translate francais v1s43a_PhoneContinueEmily_dc078773_1:
 
-    # pe "Good news? Bad news?"
-    pe ""
+    # u "(Glad to see Emily's still up to no good.)"
+    u "(Glad to see Emily's still up to no good.)"
 
 # game/v1/scene43a.rpy:136
-translate francais v1s43a_PhoneContinueEmily_003310a3:
+translate francais v1s43a_PhoneContinueEmily_a4b7c8ee_1:
 
-    # u "Uhh... no, nothing important..."
-    u ""
-
-# game/v1/scene43a.rpy:138
-translate francais v1s43a_PhoneContinueEmily_90ff2897:
-
-    # u "(I need to be careful with my phone in public.)"
-    u ""
+    # pe "Good news? Bad news?"
+    pe "Good news? Bad news?"
 
 # game/v1/scene43a.rpy:141
-translate francais v1s43a_PhoneContinueEmily_323f49b3:
+translate francais v1s43a_PhoneContinueEmily_003310a3_1:
 
-    # u "(Last time that Penelope learned about Emily she got upset.)"
-    u ""
+    # u "Uhh... no, nothing important..."
+    u "Uhh... no, nothing important..."
+
+# game/v1/scene43a.rpy:143
+translate francais v1s43a_PhoneContinueEmily_90ff2897_1:
+
+    # u "(I need to be careful with my phone in public.)"
+    u "(I need to be careful with my phone in public.)"
 
 # game/v1/scene43a.rpy:146
-translate francais v1s43a_PhoneContinueEmily_f2fb9662:
+translate francais v1s43a_PhoneContinueEmily_323f49b3_1:
 
-    # pe "Let's go then."
-    pe ""
+    # u "(Last time that Penelope learned about Emily she got upset.)"
+    u "(Last time that Penelope learned about Emily she got upset.)"
+
+# game/v1/scene43a.rpy:151
+translate francais v1s43a_PhoneContinueEmily_e365ba85_1:
+
+    # pe "Let's go, then."
+    pe "Let's go, then."
 

@@ -1,284 +1,308 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene3.rpy:22
-translate francais v2s3_0057dc6e:
+translate francais v2s3_0057dc6e_1:
 
     # de "Oh look, and here's another member of the Ape clan. Come and sit down, [name]."
-    de ""
+    de "Oh look, and here's another member of the Ape clan. Come and sit down, [name]."
 
 # game/v2/scene3.rpy:27
-translate francais v2s3_f009213a:
+translate francais v2s3_6153f748_1:
 
-    # u "(Oh, shit... Too late to turn around and run, I guess.)"
-    u ""
+    # u "(Oh, shit... too late to turn around and run, I guess.)"
+    u "(Oh, shit... too late to turn around and run, I guess.)"
 
 # game/v2/scene3.rpy:32
-translate francais v2s3_30c457ba:
+translate francais v2s3_30c457ba_1:
 
     # u "(I think I have an idea on what this is about.)"
-    u ""
+    u "(I think I have an idea on what this is about.)"
 
 # game/v2/scene3.rpy:37
-translate francais v2s3_01ede772:
+translate francais v2s3_d426228d_1:
 
-    # de "I was just saying to Grayson here, that this fraternity is his responsibility."
-    de ""
+    # de "I was just saying to Grayson here that this fraternity is his responsibility."
+    de "I was just saying to Grayson here that this fraternity is his responsibility."
 
 # game/v2/scene3.rpy:42
-translate francais v2s3_a139fa25:
+translate francais v2s3_a139fa25_1:
 
     # de "What happens under this roof is your responsibility."
-    de ""
+    de "What happens under this roof is your responsibility."
 
 # game/v2/scene3.rpy:47
-translate francais v2s3_64d46774:
+translate francais v2s3_a78bbe81_1:
 
-    # de "And posting indecent photos of female students, is certainly something that this whole house will be punished for."
-    de ""
+    # de "And posting indecent photos of female students is certainly something that this whole house will be punished for."
+    de "And posting indecent photos of female students is certainly something that this whole house will be punished for."
 
 # game/v2/scene3.rpy:52
-translate francais v2s3_59e994f4:
+translate francais v2s3_59e994f4_1:
 
     # ry "What?!"
-    ry ""
+    ry "What?!"
 
 # game/v2/scene3.rpy:57
-translate francais v2s3_6c6dc092:
+translate francais v2s3_6c6dc092_1:
 
     # ca "Ha, nice one, Gray..."
-    ca ""
+    ca "Ha, nice one, Gray..."
 
 # game/v2/scene3.rpy:62
-translate francais v2s3_2aa15175:
+translate francais v2s3_2aa15175_1:
 
     # de "If this type of behavior becomes a habit, Grayson, the Apes will be shut down completely. That's how serious you need to take this."
-    de ""
+    de "If this type of behavior becomes a habit, Grayson, the Apes will be shut down completely. That's how serious you need to take this."
 
 # game/v2/scene3.rpy:67
-translate francais v2s3_96c687dd:
+translate francais v2s3_96c687dd_1:
 
     # de "I'm making a note on your permanent record. All of you, in fact."
-    de ""
+    de "I'm making a note on your permanent record. All of you, in fact."
 
 # game/v2/scene3.rpy:72
-translate francais v2s3_d65262cf:
+translate francais v2s3_fa1e7f6d_1:
 
-    # gr "I said I'm sorry, Mrs. Harrison. It was just a stupid prank-"
-    gr ""
+    # ry "What?! Seriously?!"
+    ry "What?! Seriously?!"
 
 # game/v2/scene3.rpy:77
-translate francais v2s3_9205442d:
+translate francais v2s3_d65262cf_1:
 
-    # de "No matter what your intention was, it's bullying."
-    de ""
+    # gr "I said I'm sorry, Mrs. Harrison. It was just a stupid prank-"
+    gr "I said I'm sorry, Mrs. Harrison. It was just a stupid prank-"
 
 # game/v2/scene3.rpy:82
-translate francais v2s3_8b632c75:
+translate francais v2s3_9205442d_1:
 
-    # gr "Again, I'm sorry. I- We obviously didn't think this through and sadly we made a bad decision as a group."
-    gr ""
+    # de "No matter what your intention was, it's bullying."
+    de "No matter what your intention was, it's bullying."
 
-# game/v2/scene3.rpy:87
-translate francais v2s3_ab398d09:
+# game/v2/scene3.rpy:84
+translate francais v2s3_0c8a05c5_1:
 
-    # u "(He's doing his best to sound sincere, and to spread the blame...)"
-    u ""
+    # de "And also a crime. You're lucky Ms. Moralez doesn't want to press charges."
+    de "And also a crime. You're lucky Ms. Moralez doesn't want to press charges."
 
-# game/v2/scene3.rpy:92
-translate francais v2s3_0282f0b7:
+# game/v2/scene3.rpy:89
+translate francais v2s3_82a15b5f_1:
 
-    # de "An apology is just a start."
-    de ""
+    # gr "Again, I'm sorry. I... we obviously didn't think this through and sadly we made a bad decision as a group."
+    gr "Again, I'm sorry. I... we obviously didn't think this through and sadly we made a bad decision as a group."
 
 # game/v2/scene3.rpy:94
-translate francais v2s3_d730704b:
+translate francais v2s3_4525a913_1:
 
-    # de "What I need from you all right now, is to delete the posts and the photos from your phones."
-    de ""
+    # u "(He's doing his best to sound sincere. And to spread the blame...)"
+    u "(He's doing his best to sound sincere. And to spread the blame...)"
 
-# game/v2/scene3.rpy:104
-translate francais v2s3_ff7329ab:
+# game/v2/scene3.rpy:99
+translate francais v2s3_57a6886c_1:
+
+    # de "You think this is just about the Apes? This kind of behavior reflects badly on the whole college."
+    de "You think this is just about the Apes? This kind of behavior reflects badly on the whole college."
+
+# game/v2/scene3.rpy:101
+translate francais v2s3_0282f0b7_1:
+
+    # de "An apology is just a start."
+    de "An apology is just a start."
+
+# game/v2/scene3.rpy:103
+translate francais v2s3_c37b6a68_1:
+
+    # de "What I need from you all, right now, is to delete the posts and the photos from your phones."
+    de "What I need from you all, right now, is to delete the posts and the photos from your phones."
+
+# game/v2/scene3.rpy:113
+translate francais v2s3_ff7329ab_1:
 
     # de "NOW!"
-    de ""
+    de "NOW!"
 
-# game/v2/scene3.rpy:109
-translate francais v2s3_9c9e2f8b:
+# game/v2/scene3.rpy:118
+translate francais v2s3_9c9e2f8b_1:
 
     # de "Oh, yes. I did hear that [name] was the only one smart enough to make the decision of not posting the photo."
-    de ""
+    de "Oh, yes. I did hear that [name] was the only one smart enough to make the decision of not posting the photo."
 
-# game/v2/scene3.rpy:114
-translate francais v2s3_507557c5:
+# game/v2/scene3.rpy:123
+translate francais v2s3_507557c5_1:
 
     # de "At least there is one of you who has some integrity..."
-    de ""
+    de "At least there is one of you who has some integrity..."
 
-# game/v2/scene3.rpy:121
-translate francais v2s3_8d0a036d:
+# game/v2/scene3.rpy:130
+translate francais v2s3_8d0a036d_1:
 
     # ry "I knew we should've listened to you..."
-    ry ""
+    ry "I knew we should've listened to you..."
 
-# game/v2/scene3.rpy:127
-translate francais v2s3_14f0f0cc:
+# game/v2/scene3.rpy:136
+translate francais v2s3_14f0f0cc_1:
 
     # ry "Way to be a team player..."
-    ry ""
+    ry "Way to be a team player..."
 
-# game/v2/scene3.rpy:133
-translate francais v2s3_ce22eb69:
+# game/v2/scene3.rpy:142
+translate francais v2s3_ce22eb69_1:
 
     # de "Well done, [name]. You're excused from the punishment."
-    de ""
+    de "Well done, [name]. You're excused from the punishment."
 
-# game/v2/scene3.rpy:138
-translate francais v2s3_02b6fac4:
+# game/v2/scene3.rpy:147
+translate francais v2s3_02b6fac4_1:
 
     # u "(Jeez, thanks for calling me out, Harrison!)"
-    u ""
+    u "(Jeez, thanks for calling me out, Harrison!)"
 
-# game/v2/scene3.rpy:148
-translate francais v2s3_b68c92f8:
+# game/v2/scene3.rpy:157
+translate francais v2s3_b68c92f8_1:
 
     # ca "Done."
-    ca ""
+    ca "Done."
 
-# game/v2/scene3.rpy:158
-translate francais v2s3_06fe180d:
+# game/v2/scene3.rpy:167
+translate francais v2s3_06fe180d_1:
 
     # gr "Deleted."
-    gr ""
+    gr "Deleted."
 
-# game/v2/scene3.rpy:168
-translate francais v2s3_91c5ed35:
+# game/v2/scene3.rpy:177
+translate francais v2s3_91c5ed35_1:
 
     # ry "Yeah, it's gone now."
-    ry ""
+    ry "Yeah, it's gone now."
 
-# game/v2/scene3.rpy:173
-translate francais v2s3_c049dcdd:
+# game/v2/scene3.rpy:182
+translate francais v2s3_c049dcdd_1:
 
     # de "Very well. Make sure you message all the other Apes to do the same immediately."
-    de ""
+    de "Very well. Make sure you message all the other Apes to do the same immediately."
 
-# game/v2/scene3.rpy:178
-translate francais v2s3_a6c0d3ba:
+# game/v2/scene3.rpy:187
+translate francais v2s3_a6c0d3ba_1:
 
     # ry "Y-yes, ma'am."
-    ry ""
+    ry "Y-yes, ma'am."
 
-# game/v2/scene3.rpy:183
-translate francais v2s3_745579fa:
+# game/v2/scene3.rpy:192
+translate francais v2s3_745579fa_1:
 
     # de "I'm going to be watching you all very closely from now on..."
-    de ""
+    de "I'm going to be watching you all very closely from now on..."
 
-# game/v2/scene3.rpy:188
-translate francais v2s3_61097f44:
+# game/v2/scene3.rpy:197
+translate francais v2s3_61097f44_1:
 
     # de "The Apes' reputation is also the reputation of SVC. We want it to have a good reputation. Remember that."
-    de ""
+    de "The Apes' reputation is also the reputation of SVC. We want it to have a good reputation. Remember that."
 
-# game/v2/scene3.rpy:198
-translate francais v2s3_fcd8cef0:
+# game/v2/scene3.rpy:199
+translate francais v2s3_21d0a402_1:
 
-    # gr "Our reputation is exactly where it needs to be! *Laughs*"
-    gr ""
+    # de "If I have to speak to you all about something like this again I promise the consequences will be serious."
+    de "If I have to speak to you all about something like this again I promise the consequences will be serious."
 
-# game/v2/scene3.rpy:203
-translate francais v2s3_5d952a09:
+# game/v2/scene3.rpy:209
+translate francais v2s3_b4742dcd_1:
+
+    # gr "What a bitch. Our reputation is exactly where it needs to be!"
+    gr "What a bitch. Our reputation is exactly where it needs to be!"
+
+# game/v2/scene3.rpy:214
+translate francais v2s3_5d952a09_1:
 
     # ry "That sucked."
-    ry ""
+    ry "That sucked."
 
-# game/v2/scene3.rpy:208
-translate francais v2s3_7034309d:
+# game/v2/scene3.rpy:219
+translate francais v2s3_7034309d_1:
 
     # gr "It doesn't matter. The posts have already done the damage. We fucking did it, boys!"
-    gr ""
+    gr "It doesn't matter. The posts have already done the damage. We fucking did it, boys!"
 
-# game/v2/scene3.rpy:213
-translate francais v2s3_05d7d874:
+# game/v2/scene3.rpy:224
+translate francais v2s3_05d7d874_1:
 
     # ry "What about the note on our permanent record?"
-    ry ""
+    ry "What about the note on our permanent record?"
 
-# game/v2/scene3.rpy:218
-translate francais v2s3_860c1f31:
+# game/v2/scene3.rpy:229
+translate francais v2s3_860c1f31_1:
 
     # gr "That doesn't mean anything, man. Come on!"
-    gr ""
+    gr "That doesn't mean anything, man. Come on!"
 
-# game/v2/scene3.rpy:223
-translate francais v2s3_a2e8d2c6:
+# game/v2/scene3.rpy:234
+translate francais v2s3_a2e8d2c6_1:
 
     # ca "Yeah, it's not even worth thinking about."
-    ca ""
+    ca "Yeah, it's not even worth thinking about."
 
-# game/v2/scene3.rpy:228
-translate francais v2s3_35dfa768:
+# game/v2/scene3.rpy:239
+translate francais v2s3_b95413d4_1:
 
-    # u "This is what we get for joining the Apes. *Chuckles*"
-    u ""
+    # u "I guess this is what we get for joining the Apes, huh, buddy?"
+    u "I guess this is what we get for joining the Apes, huh, buddy?"
 
-# game/v2/scene3.rpy:233
-translate francais v2s3_b1f55b05:
+# game/v2/scene3.rpy:244
+translate francais v2s3_b1f55b05_1:
 
     # ry "You mean me? This is what I get for joining the Apes. You don't get shit."
-    ry ""
+    ry "You mean me? This is what I get for joining the Apes. You don't get shit."
 
-# game/v2/scene3.rpy:242
-translate francais v2s3_d1303ba1:
+# game/v2/scene3.rpy:254
+translate francais v2s3_d1303ba1_1:
 
     # u "Come on man, this isn't my fault."
-    u ""
+    u "Come on man, this isn't my fault."
 
-# game/v2/scene3.rpy:245
-translate francais v2s3_77ea7120:
+# game/v2/scene3.rpy:257
+translate francais v2s3_77ea7120_2:
 
     # u "I tried to stop-"
-    u ""
+    u "I tried to stop-"
 
-# game/v2/scene3.rpy:250
-translate francais v2s3_eebd296a:
+# game/v2/scene3.rpy:262
+translate francais v2s3_eebd296a_1:
 
     # ry "Maybe not, but it sure doesn't matter now, does it?"
-    ry ""
+    ry "Maybe not, but it sure doesn't matter now, does it?"
 
-# game/v2/scene3.rpy:256
-translate francais v2s3_c95051eb:
+# game/v2/scene3.rpy:270
+translate francais v2s3_c95051eb_1:
 
     # u "Ryan, look, I'm sorry."
-    u ""
+    u "Ryan, look, I'm sorry."
 
-# game/v2/scene3.rpy:259
-translate francais v2s3_77ea7120_1:
+# game/v2/scene3.rpy:273
+translate francais v2s3_77ea7120_3:
 
     # u "I tried to stop-"
-    u ""
+    u "I tried to stop-"
 
-# game/v2/scene3.rpy:264
-translate francais v2s3_4fc5a29e:
+# game/v2/scene3.rpy:278
+translate francais v2s3_4fc5a29e_1:
 
     # ry "You know what, [name]? It doesn't fucking matter."
-    ry ""
+    ry "You know what, [name]? It doesn't fucking matter."
 
-# game/v2/scene3.rpy:269
-translate francais v2s3_57ae9944:
+# game/v2/scene3.rpy:283
+translate francais v2s3_57ae9944_1:
 
     # u "*Sighs*"
-    u ""
+    u "*Sighs*"
 
-# game/v2/scene3.rpy:280
-translate francais v2s3_81488685:
+# game/v2/scene3.rpy:294
+translate francais v2s3_81488685_1:
 
     # u "(I'll just go check on Autumn at the shelter...)"
-    u ""
+    u "(I'll just go check on Autumn at the shelter...)"
 
 translate francais strings:
 
-    # game/v2/scene3.rpy:237
+    # game/v2/scene3.rpy:248
     old "It's not my fault"
-    new ""
+    new "It's not my fault"
 

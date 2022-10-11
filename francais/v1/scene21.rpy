@@ -1,338 +1,332 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene21.rpy:12
-translate francais v1s21_5112e439:
+translate francais v1s21_5112e439_1:
 
     # cl "[name]!"
-    cl ""
+    cl "[name]!"
 
 # game/v1/scene21.rpy:17
-translate francais v1s21_89ab6e28:
+translate francais v1s21_89ab6e28_1:
 
     # cl "[name]! Wait up!"
-    cl ""
+    cl "[name]! Wait up!"
 
 # game/v1/scene21.rpy:32
-translate francais v1s21_f019be27:
+translate francais v1s21_f019be27_1:
 
     # u "What's happening? Something wrong?"
-    u ""
+    u "What's happening? Something wrong?"
 
 # game/v1/scene21.rpy:37
-translate francais v1s21_7bcb7a71:
+translate francais v1s21_7bcb7a71_1:
 
     # cl "No, no, nothing's wrong. *Panting*"
-    cl ""
+    cl "No, no, nothing's wrong. *Panting*"
 
 # game/v1/scene21.rpy:39
-translate francais v1s21_44d90d09:
+translate francais v1s21_44d90d09_1:
 
     # cl "Are you busy right now?"
-    cl ""
+    cl "Are you busy right now?"
 
 # game/v1/scene21.rpy:44
-translate francais v1s21_5cdb1aa3:
+translate francais v1s21_5cdb1aa3_1:
 
     # u "Not at this very moment, no."
-    u ""
+    u "Not at this very moment, no."
 
 # game/v1/scene21.rpy:49
-translate francais v1s21_fbe540b8:
+translate francais v1s21_fbe540b8_1:
 
     # cl "Okay, well..."
-    cl ""
+    cl "Okay, well..."
 
 # game/v1/scene21.rpy:51
-translate francais v1s21_1ddda97d:
+translate francais v1s21_1ddda97d_1:
 
     # cl "When I left the library earlier, I couldn't help but feel like I didn't really translate how thankful I am for all of your help."
-    cl ""
+    cl "When I left the library earlier, I couldn't help but feel like I didn't really translate how thankful I am for all of your help."
 
 # game/v1/scene21.rpy:61
-translate francais v1s21_d4da0610:
+translate francais v1s21_d4da0610_1:
 
     # cl "You're not only there for me in private but now in public as well. That's something I can't thank you enough for."
-    cl ""
+    cl "You're not only there for me in private but now in public as well. That's something I can't thank you enough for."
 
 # game/v1/scene21.rpy:63
-translate francais v1s21_2c853fc7:
+translate francais v1s21_b3a27465_1:
 
-    # cl "A lot of people that I know tend to avoid hanging out with me, because of the rumors or preconceived images that float around. But..."
-    cl ""
+    # cl "A lot of people tend to avoid hanging out with me because of rumors or preconceived notions that float around. But..."
+    cl "A lot of people tend to avoid hanging out with me because of rumors or preconceived notions that float around. But..."
 
 # game/v1/scene21.rpy:73
-translate francais v1s21_eabd8440:
+translate francais v1s21_eabd8440_1:
 
     # cl "You don't care what people say. And that's what I appreciate the most."
-    cl ""
+    cl "You don't care what people say. And that's what I appreciate the most."
 
 # game/v1/scene21.rpy:95
-translate francais v1s21_f6b31c46:
+translate francais v1s21_f6b31c46_1:
 
     # u "I enjoy being there for you."
-    u ""
+    u "I enjoy being there for you."
 
 # game/v1/scene21.rpy:97
-translate francais v1s21_4fd4d756:
+translate francais v1s21_b79289b9_1:
 
-    # u "I adore seeing you happy, a-and excited..."
-    u ""
+    # u "I adore seeing you happy, and excited..."
+    u "I adore seeing you happy, and excited..."
 
 # game/v1/scene21.rpy:102
-translate francais v1s21_108b353e:
+translate francais v1s21_5128434c_1:
 
-    # cl "*Chuckles*"
-    cl ""
+    # cl "Aw."
+    cl "Aw."
 
 # game/v1/scene21.rpy:107
-translate francais v1s21_f54a3912:
+translate francais v1s21_f54a3912_1:
 
     # u "And honestly Chloe, I'll do whatever I can to help keep that gorgeous smile on your face for as long as humanly possible."
-    u ""
+    u "And honestly Chloe, I'll do whatever I can to help keep that gorgeous smile on your face for as long as humanly possible."
 
 # game/v1/scene21.rpy:112
-translate francais v1s21_342d5425:
+translate francais v1s21_a34ad692_1:
 
-    # cl "You're the most amazing person I've ever met, do you know that?"
-    cl ""
+    # cl "You're the most amazing person I've ever met. You know that?"
+    cl "You're the most amazing person I've ever met. You know that?"
 
 # game/v1/scene21.rpy:117
-translate francais v1s21_97b6b99b:
+translate francais v1s21_d954b4cb_1:
 
-    # u "I do now, I suppose. Although, I'm not completely agreeing with you on that one..."
-    u ""
+    # u "I do now, I suppose..."
+    u "I do now, I suppose..."
 
 # game/v1/scene21.rpy:122
-translate francais v1s21_108b353e_1:
-
-    # cl "*Chuckles*"
-    cl ""
-
-# game/v1/scene21.rpy:124
-translate francais v1s21_382b9b63:
+translate francais v1s21_382b9b63_1:
 
     # cl "You know, I think I need to apologize in advance."
-    cl ""
+    cl "You know, I think I need to apologize in advance."
 
-# game/v1/scene21.rpy:129
-translate francais v1s21_f53a47fb:
+# game/v1/scene21.rpy:127
+translate francais v1s21_f53a47fb_1:
 
     # u "Apologize? For what?"
-    u ""
+    u "Apologize? For what?"
+
+# game/v1/scene21.rpy:132
+translate francais v1s21_747c0564_1:
+
+    # cl "With the campaign being so competitive, I'm gonna have a lot less time than what we're used to."
+    cl "With the campaign being so competitive, I'm gonna have a lot less time than what we're used to."
 
 # game/v1/scene21.rpy:134
-translate francais v1s21_99ae3b89:
+translate francais v1s21_c11cb2f7_1:
 
-    # cl "I mean, with the campaign being this real and competitive, I'm gonna have a lot less time than what we're used to."
-    cl ""
+    # cl "We'll have less time together, you know?"
+    cl "We'll have less time together, you know?"
 
-# game/v1/scene21.rpy:136
-translate francais v1s21_cf2c7255:
+# game/v1/scene21.rpy:142
+translate francais v1s21_b0741626_1:
 
-    # cl "So, sadly that means we'll have less time to be together, you know?"
-    cl ""
+    # u "That does kinda suck. I guess we'll have to make the most of the time we have."
+    u "That does kinda suck. I guess we'll have to make the most of the time we have."
 
-# game/v1/scene21.rpy:144
-translate francais v1s21_ef17d67d:
-
-    # u "That does kinda suck. I guess we'll have to make the most out of the time we have."
-    u ""
-
-# game/v1/scene21.rpy:148
-translate francais v1s21_690faec6:
+# game/v1/scene21.rpy:146
+translate francais v1s21_690faec6_1:
 
     # u "I'm a patient man when it comes to the things I care about, Chloe. I know your situation and I understand that this campaign is more important right now."
-    u ""
+    u "I'm a patient man when it comes to the things I care about, Chloe. I know your situation and I understand that this campaign is more important right now."
 
-# game/v1/scene21.rpy:153
-translate francais v1s21_8fd360f1:
+# game/v1/scene21.rpy:151
+translate francais v1s21_8fd360f1_1:
 
     # cl "*Sighs* You really are the best."
-    cl ""
+    cl "*Sighs* You really are the best."
 
-# game/v1/scene21.rpy:158
-translate francais v1s21_9f2d85b0:
+# game/v1/scene21.rpy:156
+translate francais v1s21_9f2d85b0_1:
 
     # u "Thank you, you are too."
-    u ""
+    u "Thank you, you are too."
 
-# game/v1/scene21.rpy:163
-translate francais v1s21_75e4a699:
+# game/v1/scene21.rpy:161
+translate francais v1s21_0302c1b5_1:
 
-    # cl "You know, I have some time right now..."
-    cl ""
+    # cl "For what it's worth, I have some time right now..."
+    cl "For what it's worth, I have some time right now..."
 
-# game/v1/scene21.rpy:168
-translate francais v1s21_1c9eec7f:
+# game/v1/scene21.rpy:166
+translate francais v1s21_1c9eec7f_1:
 
     # u "Oh, yeah?"
-    u ""
+    u "Oh, yeah?"
 
-# game/v1/scene21.rpy:173
-translate francais v1s21_351497a1:
+# game/v1/scene21.rpy:171
+translate francais v1s21_c80dda08_1:
 
-    # cl "Yeah... I think I have a nice idea in mind to kick off our campaign as well."
-    cl ""
+    # cl "Yeah... I think I may have a nice idea to kick off our campaign with as well."
+    cl "Yeah... I think I may have a nice idea to kick off our campaign with as well."
 
-# game/v1/scene21.rpy:178
-translate francais v1s21_57258cce:
+# game/v1/scene21.rpy:176
+translate francais v1s21_57258cce_1:
 
     # u "What's that?"
-    u ""
+    u "What's that?"
 
-# game/v1/scene21.rpy:183
-translate francais v1s21_ccb05df7:
+# game/v1/scene21.rpy:181
+translate francais v1s21_ccb05df7_1:
 
     # cl "Hmm..."
-    cl ""
+    cl "Hmm..."
 
-# game/v1/scene21.rpy:188
-translate francais v1s21_c41e61b3:
+# game/v1/scene21.rpy:186
+translate francais v1s21_c41e61b3_1:
 
     # cl "*Whispers* Let me show you."
-    cl ""
+    cl "*Whispers* Let me show you."
 
-# game/v1/scene21.rpy:208
-translate francais v1s21_3d20714d:
+# game/v1/scene21.rpy:206
+translate francais v1s21_3d20714d_1:
 
     # u "Is there a reason we're in the parking lot?"
-    u ""
+    u "Is there a reason we're in the parking lot?"
 
-# game/v1/scene21.rpy:213
-translate francais v1s21_a3e97ba0:
+# game/v1/scene21.rpy:211
+translate francais v1s21_a3e97ba0_1:
 
     # cl "No one ever comes back here, you know?"
-    cl ""
+    cl "No one ever comes back here, you know?"
 
-# game/v1/scene21.rpy:215
-translate francais v1s21_a7ea0459:
+# game/v1/scene21.rpy:213
+translate francais v1s21_a7ea0459_1:
 
     # cl "I used to sit out here and study everyday after class during my first couple of years on campus."
-    cl ""
+    cl "I used to sit out here and study everyday after class during my first couple of years on campus."
 
-# game/v1/scene21.rpy:217
-translate francais v1s21_4d842c87:
+# game/v1/scene21.rpy:215
+translate francais v1s21_4d842c87_1:
 
     # cl "One of the very few places on campus where I know I won't be bothered."
-    cl ""
+    cl "One of the very few places on campus where I know I won't be bothered."
 
-# game/v1/scene21.rpy:222
-translate francais v1s21_a4875ca5:
+# game/v1/scene21.rpy:220
+translate francais v1s21_a4875ca5_1:
 
     # u "So, we're here to study?"
-    u ""
+    u "So, we're here to study?"
 
-# game/v1/scene21.rpy:227
-translate francais v1s21_108b353e_2:
+# game/v1/scene21.rpy:225
+translate francais v1s21_6ec7e8ae_1:
 
-    # cl "*Chuckles*"
-    cl ""
+    # cl "Ha."
+    cl "Ha."
 
-# game/v1/scene21.rpy:232
-translate francais v1s21_afebcc8c:
+# game/v1/scene21.rpy:230
+translate francais v1s21_26e7ae07_1:
 
-    # cl "We can call it that."
-    cl ""
+    # cl "We can call it that, if you want."
+    cl "We can call it that, if you want."
 
-# game/v1/scene21.rpy:257
-translate francais v1s21_438d4fd4:
+# game/v1/scene21.rpy:255
+translate francais v1s21_438d4fd4_1:
 
     # cl "Hm? Is something wrong?"
-    cl ""
+    cl "Hm? Is something wrong?"
 
-# game/v1/scene21.rpy:262
-translate francais v1s21_9974b02d:
+# game/v1/scene21.rpy:260
+translate francais v1s21_9974b02d_1:
 
     # u "N-No... Nothing's wrong at all, I just-"
-    u ""
+    u "N-No... Nothing's wrong at all, I just-"
 
-# game/v1/scene21.rpy:267
-translate francais v1s21_4b1e6b98:
+# game/v1/scene21.rpy:265
+translate francais v1s21_4b1e6b98_1:
 
     # u "Look, Chloe... I don't want you to feel like you owe me anything just for supporting you."
-    u ""
+    u "Look, Chloe... I don't want you to feel like you owe me anything just for supporting you."
 
-# game/v1/scene21.rpy:272
-translate francais v1s21_d06ac492:
+# game/v1/scene21.rpy:270
+translate francais v1s21_d06ac492_1:
 
     # u "I do these things because I care about you and want you to succeed."
-    u ""
+    u "I do these things because I care about you and want you to succeed."
 
-# game/v1/scene21.rpy:274
-translate francais v1s21_d548c5ce:
+# game/v1/scene21.rpy:272
+translate francais v1s21_d548c5ce_1:
 
     # u "I don't do it just because I expect something from you in the end."
-    u ""
+    u "I don't do it just because I expect something from you in the end."
 
-# game/v1/scene21.rpy:290
-translate francais v1s21_f4b07541:
+# game/v1/scene21.rpy:288
+translate francais v1s21_f4b07541_1:
 
     # cl "I've never been with a man like you, but I'm sure as hell happy that I am."
-    cl ""
+    cl "I've never been with a man like you, but I'm sure as hell happy that I am."
 
-# game/v1/scene21.rpy:295
-translate francais v1s21_659365d8:
+# game/v1/scene21.rpy:293
+translate francais v1s21_659365d8_1:
 
     # u "I'm happy we're together too."
-    u ""
+    u "I'm happy we're together too."
 
-# game/v1/scene21.rpy:297
-translate francais v1s21_cdf0964b:
+# game/v1/scene21.rpy:295
+translate francais v1s21_cdf0964b_1:
 
     # u "And I want to see you win. So you go ahead and get things done that need to be done."
-    u ""
+    u "And I want to see you win. So you go ahead and get things done that need to be done."
 
-# game/v1/scene21.rpy:299
-translate francais v1s21_9770c588:
+# game/v1/scene21.rpy:297
+translate francais v1s21_9770c588_1:
 
     # u "I'm gonna go talk to Chris."
-    u ""
+    u "I'm gonna go talk to Chris."
 
-# game/v1/scene21.rpy:304
-translate francais v1s21_f6e51173:
+# game/v1/scene21.rpy:302
+translate francais v1s21_f6e51173_1:
 
     # cl "Thank you, baby. So much."
-    cl ""
+    cl "Thank you, baby. So much."
 
-# game/v1/scene21.rpy:309
-translate francais v1s21_e8ae7c6e:
+# game/v1/scene21.rpy:307
+translate francais v1s21_e8ae7c6e_1:
 
     # u "Always!"
-    u ""
+    u "Always!"
 
-# game/v1/scene21.rpy:314
-translate francais v1s21_1a0fbfb1:
+# game/v1/scene21.rpy:312
+translate francais v1s21_1a0fbfb1_1:
 
     # cl "I'll meet you there soon, okay?"
-    cl ""
+    cl "I'll meet you there soon, okay?"
 
-# game/v1/scene21.rpy:319
-translate francais v1s21_1b28a406:
+# game/v1/scene21.rpy:317
+translate francais v1s21_1b28a406_1:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
-# game/v1/scene21.rpy:335
-translate francais v1s21_91dd9879:
+# game/v1/scene21.rpy:333
+translate francais v1s21_91dd9879_1:
 
     # u "(She's something else.)"
-    u ""
+    u "(She's something else.)"
 
 translate francais strings:
 
-    # game/v1/scene21.rpy:141
+    # game/v1/scene21.rpy:139
     old "That does kinda suck"
-    new ""
+    new "That does kinda suck"
 
-    # game/v1/scene21.rpy:141
+    # game/v1/scene21.rpy:139
     old "Don't worry about it"
-    new ""
+    new "Don't worry about it"
 
-    # game/v1/scene21.rpy:244
+    # game/v1/scene21.rpy:242
     old "Continue"
-    new ""
+    new "Continue"
 
-    # game/v1/scene21.rpy:244
+    # game/v1/scene21.rpy:242
     old "Pull back"
-    new ""
+    new "Pull back"
 

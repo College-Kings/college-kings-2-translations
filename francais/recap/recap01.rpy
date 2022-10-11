@@ -1,218 +1,224 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/recap/recap01.rpy:20
-translate francais recap_start_84ee90c4:
+translate francais recap_start_544b7160:
 
-    # narrator "That was me on my first day at San Vallejo College."
-    narrator ""
+    # "I still remember my first day at San Vallejo College."
+    "I still remember my first day at San Vallejo College."
 
 # game/recap/recap01.rpy:25
-translate francais recap_start_04f5f176:
+translate francais recap_start_f819199c:
 
-    # narrator "The new kid on campus with no idea of the rollercoaster lifestyle I was stepping into."
-    narrator ""
+    # "Young and naive, I had no idea how my life was about to change."
+    "Young and naive, I had no idea how my life was about to change."
 
 # game/recap/recap01.rpy:30
-translate francais recap_start_fcf1fcd2:
+translate francais recap_start_d02b745d:
 
-    # narrator "All the girls..."
-    narrator ""
+    # "All the girls..."
+    "All the girls..."
 
 # game/recap/recap01.rpy:35
-translate francais recap_start_915d7120:
+translate francais recap_start_011e1edd:
 
-    # narrator "the parties... "
-    narrator ""
+    # "the parties... "
+    "the parties... "
 
-# game/recap/recap01.rpy:45
-translate francais recap_start_78e2df04:
+# game/recap/recap01.rpy:40
+translate francais recap_start_d392fea5:
 
-    # narrator "the fights... "
-    narrator ""
+    # "the fights... "
+    "the fights... "
 
 # game/recap/recap01.rpy:50
-translate francais recap_start_d7f43b6a:
+translate francais recap_start_de5f87ed:
 
-    # narrator "Now I know just how crazy college life can be!"
-    narrator ""
+    # "All of the sudden, I could be whoever I wanted to be..."
+    "All of the sudden, I could be whoever I wanted to be..."
 
-# game/recap/recap01.rpy:71
+# game/recap/recap01.rpy:65
 translate francais test_rep_screen_15325989:
 
     # u "In those early days, my dorm mate was Imre."
-    u ""
+    u "In those early days, my dorm mate was Imre."
 
-# game/recap/recap01.rpy:76
+# game/recap/recap01.rpy:70
 translate francais test_rep_screen_964ed496:
 
     # u "He's an absolute sex hound, always trying to get laid..."
-    u ""
+    u "He's an absolute sex hound, always trying to get laid..."
 
-# game/recap/recap01.rpy:81
+# game/recap/recap01.rpy:75
 translate francais test_rep_screen_7b177169:
 
     # u "and obsessed with joining a frat called the Wolves."
-    u ""
+    u "and obsessed with joining a frat called the Wolves."
 
-# game/recap/recap01.rpy:88
+# game/recap/recap01.rpy:82
 translate francais test_rep_screen_e36a66bc:
 
     # u "And I made friends with Ryan"
-    u ""
+    u "And I made friends with Ryan"
 
-# game/recap/recap01.rpy:93
+# game/recap/recap01.rpy:87
 translate francais test_rep_screen_602d8c8f:
 
     # u "He's not as confident as Imre, but he's a solid wingman and a loyal friend."
-    u ""
+    u "He's not as confident as Imre, but he's a solid wingman and a loyal friend."
 
-# game/recap/recap01.rpy:100
+# game/recap/recap01.rpy:94
 translate francais test_rep_screen_118ffe31:
 
     # u "And there were the girls of course."
-    u ""
+    u "And there were the girls of course."
 
-# game/recap/recap01.rpy:105
+# game/recap/recap01.rpy:99
 translate francais test_rep_screen_35b2e5e6:
 
     # u "Lauren..."
-    u ""
+    u "Lauren..."
 
-# game/recap/recap01.rpy:110
+# game/recap/recap01.rpy:104
 translate francais test_rep_screen_5297b918:
 
     # u "and Riley to start with."
-    u ""
+    u "and Riley to start with."
 
-# game/recap/recap01.rpy:115
+# game/recap/recap01.rpy:109
 translate francais test_rep_screen_34071af0:
 
     # u "But that was soon going to change into lots more girls entering my life..."
-    u ""
+    u "But that was soon going to change into lots more girls entering my life..."
 
-# game/recap/recap01.rpy:120
+# game/recap/recap01.rpy:114
 translate francais test_rep_screen_3b34470e:
 
     # u "with so many choices about who I wanted to pursue a relationship with or just stay friends."
-    u ""
+    u "with so many choices about who I wanted to pursue a relationship with or just stay friends."
 
-# game/recap/recap01.rpy:125
-translate francais test_rep_screen_58a71383:
+# game/recap/recap01.rpy:119
+translate francais test_rep_screen_9d52cd73:
 
-    # u "That kinda leads me to the first huge decision I had to make that was going to shape my whole future"
-    u ""
+    # u "That kinda leads me to the first huge decision I had to make that was going to shape my whole future."
+    u "That kinda leads me to the first huge decision I had to make that was going to shape my whole future."
 
-# game/recap/recap01.rpy:130
+# game/recap/recap01.rpy:124
 translate francais test_rep_screen_c3d63b2b:
 
     # u "Which frat did I want to join? The Wolves or the Apes?"
-    u ""
+    u "Which frat did I want to join? The Wolves or the Apes?"
 
-# game/recap/recap01.rpy:137
+# game/recap/recap01.rpy:131
 translate francais test_rep_screen_c1e0ee19:
 
     # u "Joining either frat would mean hooking up with the hottest girls..."
-    u ""
+    u "Joining either frat would mean hooking up with the hottest girls..."
 
-# game/recap/recap01.rpy:152
+# game/recap/recap01.rpy:146
 translate francais test_rep_screen_f76ee3f5:
 
     # u "going to awesome parties..."
-    u ""
+    u "going to awesome parties..."
 
-# game/recap/recap01.rpy:157
+# game/recap/recap01.rpy:151
 translate francais test_rep_screen_5305e8c3:
 
     # u "and competing in fight tournaments."
-    u ""
+    u "and competing in fight tournaments."
 
-# game/recap/recap01.rpy:167
+# game/recap/recap01.rpy:161
 translate francais test_rep_screen_7ef2a2ab:
 
     # u "But both frats have a very different vibe."
-    u ""
+    u "But both frats have a very different vibe."
 
-# game/recap/recap01.rpy:172
+# game/recap/recap01.rpy:166
 translate francais test_rep_screen_2bdbf6f1:
 
     # u "Imre wanted me to join the Wolves."
-    u ""
+    u "Imre wanted me to join the Wolves."
 
-# game/recap/recap01.rpy:177
+# game/recap/recap01.rpy:171
 translate francais test_rep_screen_666ae7dc:
 
     # u "Ryan wanted me to join the Apes"
-    u ""
+    u "Ryan wanted me to join the Apes"
 
-# game/recap/recap01.rpy:198
+# game/recap/recap01.rpy:192
 translate francais test_frat_selection_b05b176a:
 
     # u "After making my choice..."
-    u ""
+    u "After making my choice..."
 
-# game/recap/recap01.rpy:203
+# game/recap/recap01.rpy:197
 translate francais test_frat_selection_f8396888:
 
     # u "I passed my initiation by showing my loyaly to the frat and my new brothers..."
-    u ""
+    u "I passed my initiation by showing my loyaly to the frat and my new brothers..."
 
-# game/recap/recap01.rpy:215
+# game/recap/recap01.rpy:209
 translate francais test_frat_selection_214224ac:
 
     # u "and moved into the frat house."
-    u ""
+    u "and moved into the frat house."
 
-# game/recap/recap01.rpy:222
+# game/recap/recap01.rpy:216
 translate francais test_frat_selection_b05b176a_1:
 
     # u "After making my choice..."
-    u ""
+    u "After making my choice..."
 
-# game/recap/recap01.rpy:226
+# game/recap/recap01.rpy:220
 translate francais test_frat_selection_f8396888_1:
 
     # u "I passed my initiation by showing my loyaly to the frat and my new brothers..."
-    u ""
+    u "I passed my initiation by showing my loyaly to the frat and my new brothers..."
 
-# game/recap/recap01.rpy:238
+# game/recap/recap01.rpy:232
 translate francais test_frat_selection_214224ac_1:
 
     # u "and moved into the frat house."
-    u ""
+    u "and moved into the frat house."
 
-# game/recap/recap01.rpy:246
+# game/recap/recap01.rpy:240
 translate francais test_frat_selection_113b5edb:
 
     # u "Back to the girls."
-    u ""
+    u "Back to the girls."
 
-# game/recap/recap01.rpy:261
+# game/recap/recap01.rpy:255
 translate francais test_frat_selection_2a81a40e:
 
     # u "I could pursue multiple girls at the same time..."
-    u ""
+    u "I could pursue multiple girls at the same time..."
 
-# game/recap/recap01.rpy:271
+# game/recap/recap01.rpy:265
 translate francais test_frat_selection_4340bb3f:
 
     # u "but this became quite tricky as going for one girl..."
-    u ""
+    u "but this became quite tricky as going for one girl..."
 
-# game/recap/recap01.rpy:281
+# game/recap/recap01.rpy:275
 translate francais test_frat_selection_a0724e31:
 
     # u "sometimes meant I couldn't go for another because..."
-    u ""
+    u "sometimes meant I couldn't go for another because..."
 
-# game/recap/recap01.rpy:291
+# game/recap/recap01.rpy:285
 translate francais test_frat_selection_1ec44789:
 
     # u "they were best friends..."
-    u ""
+    u "they were best friends..."
 
-# game/recap/recap01.rpy:296
+# game/recap/recap01.rpy:290
 translate francais test_frat_selection_eb382f0a:
 
     # u "or worse... sisters."
-    u ""
+    u "or worse... sisters."
+
+# game/recap/recap01.rpy:295
+translate francais test_frat_selection_0fc7cf7e:
+
+    # u "I had to decide who to pursue."
+    u "I had to decide who to pursue."
 

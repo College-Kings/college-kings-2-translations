@@ -1,378 +1,378 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene43d.rpy:18
-translate francais v1s43d_7a2b2045:
+translate francais v1s43d_5753b9a4_1:
 
-    # ri "Thank you for pairing with me by the way."
-    ri ""
+    # ri "Thank you for pairing with me, by the way."
+    ri "Thank you for pairing with me, by the way."
 
 # game/v1/scene43d.rpy:23
-translate francais v1s43d_86ece32b:
+translate francais v1s43d_86ece32b_1:
 
     # u "Oh, of course."
-    u ""
+    u "Oh, of course."
 
 # game/v1/scene43d.rpy:28
-translate francais v1s43d_372327d1:
+translate francais v1s43d_2d0305ae_1:
 
-    # ri "I saw Imre floating around the room and I thought I was gonna have to be with him for a second, but thankfully... You came to the rescue. *Laughs*"
-    ri ""
+    # ri "I saw Imre floating around the room and I thought I was gonna have to be with him for a second, but thankfully... you came to the rescue."
+    ri "I saw Imre floating around the room and I thought I was gonna have to be with him for a second, but thankfully... you came to the rescue."
 
 # game/v1/scene43d.rpy:33
-translate francais v1s43d_d0934b1b:
+translate francais v1s43d_c7666659_1:
 
-    # u "Haha, it's no problem. He actually told me what he did and begged me to work with you so that it wasn't awkward for either of you."
-    u ""
+    # u "It's no problem. He actually told me what he did and begged me to work with you so that it wasn't awkward for either of you."
+    u "It's no problem. He actually told me what he did and begged me to work with you so that it wasn't awkward for either of you."
 
 # game/v1/scene43d.rpy:38
-translate francais v1s43d_4d86bf54:
+translate francais v1s43d_4d86bf54_1:
 
     # ri "Ah, I see. Did he go into detail at all? About what he did?"
-    ri ""
+    ri "Ah, I see. Did he go into detail at all? About what he did?"
 
 # game/v1/scene43d.rpy:43
-translate francais v1s43d_bef5d205:
+translate francais v1s43d_bef5d205_1:
 
     # u "No, he just said that he was drunk texting you last night and you never responded."
-    u ""
+    u "No, he just said that he was drunk texting you last night and you never responded."
 
 # game/v1/scene43d.rpy:48
-translate francais v1s43d_797a5f53:
+translate francais v1s43d_797a5f53_1:
 
     # ri "Well, I hope he was drunk... 'cause that was some harsh shit, ha."
-    ri ""
+    ri "Well, I hope he was drunk... 'cause that was some harsh shit, ha."
 
 # game/v1/scene43d.rpy:53
-translate francais v1s43d_7f2e94d7:
+translate francais v1s43d_7f2e94d7_1:
 
     # u "*Sighs* Do I wanna know?"
-    u ""
+    u "*Sighs* Do I wanna know?"
 
 # game/v1/scene43d.rpy:58
-translate francais v1s43d_6eac890d:
+translate francais v1s43d_6eac890d_1:
 
     # ri "You don't."
-    ri ""
+    ri "You don't."
 
 # game/v1/scene43d.rpy:63
-translate francais v1s43d_fcc18885:
+translate francais v1s43d_46b6e599_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "Got it."
+    u "Got it."
 
 # game/v1/scene43d.rpy:68
-translate francais v1s43d_e8294151:
+translate francais v1s43d_e8294151_1:
 
     # ri "Let's get started on this before I get bored. I don't plan on being here long."
-    ri ""
+    ri "Let's get started on this before I get bored. I don't plan on being here long."
 
 # game/v1/scene43d.rpy:74
-translate francais v1s43d_aa96b2c7:
+translate francais v1s43d_aa96b2c7_1:
 
     # u "No problem. Really though, you okay?"
-    u ""
+    u "No problem. Really though, you okay?"
 
 # game/v1/scene43d.rpy:79
-translate francais v1s43d_8d3fc135:
+translate francais v1s43d_e367f220_1:
 
-    # ri "Yeah, ha. I am now... Yeah."
-    ri ""
+    # ri "Yeah, ha. I am now... yeah."
+    ri "Yeah, ha. I am now... yeah."
 
 # game/v1/scene43d.rpy:84
-translate francais v1s43d_3a265791:
+translate francais v1s43d_40ddaa0c_1:
 
-    # u "Alright, well... What ideas did you have for the scene?"
-    u ""
+    # u "All right, well... What ideas did you have for the scene?"
+    u "All right, well... What ideas did you have for the scene?"
 
 # game/v1/scene43d.rpy:89
-translate francais v1s43d_8720e12b:
+translate francais v1s43d_8720e12b_1:
 
     # ri "None, really. I just know one thing I wanna do."
-    ri ""
+    ri "None, really. I just know one thing I wanna do."
 
 # game/v1/scene43d.rpy:94
-translate francais v1s43d_cb6c1c75:
+translate francais v1s43d_cb6c1c75_1:
 
     # u "And that is?"
-    u ""
+    u "And that is?"
 
 # game/v1/scene43d.rpy:99
-translate francais v1s43d_e9b07e0b:
+translate francais v1s43d_3fe000b7_1:
 
-    # ri "*Clears throat* Drumroll please!"
-    ri ""
+    # ri "*Clears throat* Drumroll, please!"
+    ri "*Clears throat* Drumroll, please!"
 
 # game/v1/scene43d.rpy:104
-translate francais v1s43d_7b1c1392:
+translate francais v1s43d_7b1c1392_1:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v1/scene43d.rpy:109
-translate francais v1s43d_c5da343c:
+translate francais v1s43d_c5da343c_1:
 
     # ri "Please?"
-    ri ""
+    ri "Please?"
 
 # game/v1/scene43d.rpy:114
-translate francais v1s43d_61693fc1:
+translate francais v1s43d_aadb9ce3_1:
 
-    # u "C'mon already, weirdo. I thought you didn't wanna be here long? *Chuckles*"
-    u ""
+    # u "Ha, c'mon already, weirdo. I thought you didn't wanna be here long?"
+    u "Ha, c'mon already, weirdo. I thought you didn't wanna be here long?"
 
 # game/v1/scene43d.rpy:119
-translate francais v1s43d_d42df6cd:
+translate francais v1s43d_d42df6cd_1:
 
     # ri "*Sighs* You're no fun..."
-    ri ""
+    ri "*Sighs* You're no fun..."
 
 # game/v1/scene43d.rpy:121
-translate francais v1s43d_2edfa4cc:
+translate francais v1s43d_2edfa4cc_1:
 
     # ri "The one thing I really wanna do is improv."
-    ri ""
+    ri "The one thing I really wanna do is improv."
 
 # game/v1/scene43d.rpy:126
-translate francais v1s43d_f656edf3:
+translate francais v1s43d_62dddef3_1:
 
-    # u "You mean you wanna wing it? *Chuckles* Be lazy and come up with nothing?"
-    u ""
+    # u "You mean you wanna wing it? Be lazy and come up with nothing?"
+    u "You mean you wanna wing it? Be lazy and come up with nothing?"
 
 # game/v1/scene43d.rpy:131
-translate francais v1s43d_24c21af4:
+translate francais v1s43d_648bc37b_1:
 
-    # ri "Well... We can come up with a premise."
-    ri ""
+    # ri "Well... we can come up with a premise."
+    ri "Well... we can come up with a premise."
 
 # game/v1/scene43d.rpy:136
-translate francais v1s43d_b6c00206:
+translate francais v1s43d_b6c00206_1:
 
     # u "Explain..."
-    u ""
+    u "Explain..."
 
 # game/v1/scene43d.rpy:141
-translate francais v1s43d_b8f6cc12:
+translate francais v1s43d_b8f6cc12_1:
 
     # ri "First off, I'm the queen. So obviously, I expect to be treated like one."
-    ri ""
+    ri "First off, I'm the queen. So obviously, I expect to be treated like one."
 
 # game/v1/scene43d.rpy:146
-translate francais v1s43d_b53bf97a:
+translate francais v1s43d_875325dc_1:
 
-    # u "Ha, okay. And how is that?"
-    u ""
+    # u "Okay. And how is that?"
+    u "Okay. And how is that?"
 
 # game/v1/scene43d.rpy:152
-translate francais v1s43d_9c535bd9:
+translate francais v1s43d_196ba007_1:
 
-    # ri "Well, the King thinks that above all, the Queen should always be treated."
-    ri ""
+    # ri "Well, the king thinks that above all, the queen should always be treated."
+    ri "Well, the king thinks that above all, the queen should always be treated."
 
 # game/v1/scene43d.rpy:157
-translate francais v1s43d_9d0ef8a3:
+translate francais v1s43d_9d0ef8a3_1:
 
     # u "*Gulp* Always?"
-    u ""
+    u "*Gulp* Always?"
 
 # game/v1/scene43d.rpy:162
-translate francais v1s43d_f5226c6b:
+translate francais v1s43d_ba734852_1:
 
-    # ri "*Laughs* Yeah, always."
-    ri ""
+    # ri "Yeah, always."
+    ri "Yeah, always."
 
 # game/v1/scene43d.rpy:167
-translate francais v1s43d_6e2045ff:
+translate francais v1s43d_6e2045ff_1:
 
     # ri "*Whispers* And he loves treating her just as much as she loves being treated..."
-    ri ""
+    ri "*Whispers* And he loves treating her just as much as she loves being treated..."
 
 # game/v1/scene43d.rpy:172
-translate francais v1s43d_197f382f:
+translate francais v1s43d_98cddfb4_1:
 
-    # u "Hmm... Okay, I think I understand. (This scene is gonna be hot as fuck...)"
-    u ""
+    # u "Hmm... okay, I think I understand. (This scene is gonna be hot as fuck...)"
+    u "Hmm... okay, I think I understand. (This scene is gonna be hot as fuck...)"
 
 # game/v1/scene43d.rpy:177
-translate francais v1s43d_2057c186:
+translate francais v1s43d_a3bf8c92_1:
 
-    # ri "*Chuckles*"
-    ri ""
+    # ri "Mmm, good."
+    ri "Mmm, good."
 
 # game/v1/scene43d.rpy:183
-translate francais v1s43d_f85b5ff8:
+translate francais v1s43d_f85b5ff8_1:
 
     # ri "I don't need to explain myself to you! King or not, you will do as the Queen demands. And that's final."
-    ri ""
+    ri "I don't need to explain myself to you! King or not, you will do as the Queen demands. And that's final."
 
 # game/v1/scene43d.rpy:188
-translate francais v1s43d_f3130810:
+translate francais v1s43d_a5f9f709_1:
 
-    # u "Oh, shit... How the hell am I supposed to compete with an A-list actress?"
-    u ""
+    # u "Oh, shit... how the hell am I supposed to compete with an A-list actress?"
+    u "Oh, shit... how the hell am I supposed to compete with an A-list actress?"
 
 # game/v1/scene43d.rpy:193
-translate francais v1s43d_cf5c7ea1:
+translate francais v1s43d_03e8f121_1:
 
-    # ri "*Laughs*"
-    ri ""
+    # ri "Ha!"
+    ri "Ha!"
 
 # game/v1/scene43d.rpy:198
-translate francais v1s43d_15c346fc:
+translate francais v1s43d_f0d69703_1:
 
-    # ri "I really wanna make the whole class squirm, and Mr. Lee too for hitting me with that bomb today."
-    ri ""
+    # ri "I really wanna make the whole class squirm. And Mr. Lee, too, for hitting me with that bomb today."
+    ri "I really wanna make the whole class squirm. And Mr. Lee, too, for hitting me with that bomb today."
 
 # game/v1/scene43d.rpy:203
-translate francais v1s43d_d6380cb0:
+translate francais v1s43d_fe2cf6ac_1:
 
-    # u "Ha, okay. How are you planning to do that?"
-    u ""
+    # u "How are you planning to do that?"
+    u "How are you planning to do that?"
 
 # game/v1/scene43d.rpy:208
-translate francais v1s43d_54f5d168:
+translate francais v1s43d_54f5d168_1:
 
     # ri "You couldn't tell? Obviously I wanna do a little sub/dom action."
-    ri ""
+    ri "You couldn't tell? Obviously I wanna do a little sub/dom action."
 
 # game/v1/scene43d.rpy:217
-translate francais v1s43d_d26c21c9:
+translate francais v1s43d_d26c21c9_1:
 
     # u "Well if that's the case, I'm the dominant."
-    u ""
+    u "Well if that's the case, I'm the dominant."
 
 # game/v1/scene43d.rpy:222
-translate francais v1s43d_2b28720e:
+translate francais v1s43d_2b28720e_1:
 
     # ri "Oh... You like taking control, huh?"
-    ri ""
+    ri "Oh... You like taking control, huh?"
 
 # game/v1/scene43d.rpy:230
-translate francais v1s43d_a4ff39d2:
+translate francais v1s43d_a4ff39d2_1:
 
     # u "If that's the case, I'll play the submissive."
-    u ""
+    u "If that's the case, I'll play the submissive."
 
 # game/v1/scene43d.rpy:235
-translate francais v1s43d_3e98df23:
+translate francais v1s43d_3e98df23_1:
 
     # ri "You like being told what to do, huh?"
-    ri ""
+    ri "You like being told what to do, huh?"
 
 # game/v1/scene43d.rpy:240
-translate francais v1s43d_b25d5702:
+translate francais v1s43d_46a425b3_1:
 
-    # u "Haha. Umm..."
-    u ""
+    # u "Wellll, umm..."
+    u "Wellll, umm..."
 
 # game/v1/scene43d.rpy:243
-translate francais v1s43d_5a5b8457:
+translate francais v1s43d_5a5b8457_1:
 
     # u "You already know the answer to that question, I think."
-    u ""
+    u "You already know the answer to that question, I think."
 
 # game/v1/scene43d.rpy:253
-translate francais v1s43d_a6ed3529:
+translate francais v1s43d_4b0fc063_1:
 
-    # ri "Haha, that I do..."
-    ri ""
+    # ri "That I do..."
+    ri "That I do..."
 
 # game/v1/scene43d.rpy:258
-translate francais v1s43d_9abe18e1:
+translate francais v1s43d_9abe18e1_1:
 
     # ri "Okay, nevermind. Focus!"
-    ri ""
+    ri "Okay, nevermind. Focus!"
 
 # game/v1/scene43d.rpy:263
-translate francais v1s43d_f6031cf2:
+translate francais v1s43d_a2ec139a_1:
 
-    # u "Yes, my Queen."
-    u ""
+    # u "Yes, my queen."
+    u "Yes, my queen."
 
 # game/v1/scene43d.rpy:268
-translate francais v1s43d_c1a09845:
+translate francais v1s43d_c1a09845_1:
 
     # ri "Good start."
-    ri ""
+    ri "Good start."
 
 # game/v1/scene43d.rpy:270
-translate francais v1s43d_9514a71e:
+translate francais v1s43d_88ae8f3f_1:
 
-    # ri "Also, we'll have to include at least something about history so that we don't mess it up by giving Mr. Lee the chance to interrupt."
-    ri ""
+    # ri "Also, we'll have to include something linked to history so that we don't give Mr. Lee a reason to interrupt."
+    ri "Also, we'll have to include something linked to history so that we don't give Mr. Lee a reason to interrupt."
 
 # game/v1/scene43d.rpy:275
-translate francais v1s43d_99bd25a7:
+translate francais v1s43d_5e38262e_1:
 
-    # u "*Laughs* Fair enough."
-    u ""
+    # u "Fair enough."
+    u "Fair enough."
 
 # game/v1/scene43d.rpy:280
-translate francais v1s43d_b24cb673:
+translate francais v1s43d_d4a4bb07_1:
 
-    # ri "Alright, so... We're good for next week then?"
-    ri ""
+    # ri "All right, so... we're good for next week, then?"
+    ri "All right, so... we're good for next week, then?"
 
 # game/v1/scene43d.rpy:285
-translate francais v1s43d_87be9757:
+translate francais v1s43d_69cc4711_1:
 
-    # u "Haha, yep. We're all good."
-    u ""
+    # u "Yep. We're all good."
+    u "Yep. We're all good."
 
 # game/v1/scene43d.rpy:290
-translate francais v1s43d_1a8bbbb8:
+translate francais v1s43d_1a8bbbb8_1:
 
     # ri "Great, I gotta go chat with Aubrey. Catch you later?"
-    ri ""
+    ri "Great, I gotta go chat with Aubrey. Catch you later?"
 
 # game/v1/scene43d.rpy:296
-translate francais v1s43d_3362403b:
+translate francais v1s43d_61ad5939_1:
 
-    # u "Don't have too much fun without me. *Chuckles*"
-    u ""
+    # u "Don't have too much fun without me."
+    u "Don't have too much fun without me."
 
 # game/v1/scene43d.rpy:301
-translate francais v1s43d_49cdb406:
+translate francais v1s43d_2b2fb3e7_1:
 
-    # ri "No promises, hehe."
-    ri ""
+    # ri "No promises!"
+    ri "No promises!"
 
 # game/v1/scene43d.rpy:306
-translate francais v1s43d_9d24938a:
+translate francais v1s43d_528e081b_1:
 
-    # u "*Laughs* (She can't get enough of her Aubs, can she?)"
-    u ""
+    # u "(She can't get enough of her Aubs, can she?)"
+    u "(She can't get enough of her Aubs, can she?)"
 
 # game/v1/scene43d.rpy:311
-translate francais v1s43d_9475b827:
+translate francais v1s43d_9475b827_1:
 
     # u "Later!"
-    u ""
+    u "Later!"
 
 # game/v1/scene43d.rpy:317
-translate francais v1s43d_acc8f678:
+translate francais v1s43d_acc8f678_1:
 
     # u "Yeah, later."
-    u ""
+    u "Yeah, later."
 
 # game/v1/scene43d.rpy:322
-translate francais v1s43d_e7f7bc19:
+translate francais v1s43d_e7f7bc19_1:
 
     # u "(Should've known she'd choose to do the whole thing on a whim...)"
-    u ""
+    u "(Should've known she'd choose to do the whole thing on a whim...)"
 
 # game/v1/scene43d.rpy:323
-translate francais v1s43d_2be99962:
+translate francais v1s43d_f5cc5138_1:
 
-    # u "(As long as I get a passing grade, she can have as much fun as she wants with the class, haha.)"
-    u ""
+    # u "(As long as I get a passing grade, she can have as much fun as she wants with the class.)"
+    u "(As long as I get a passing grade, she can have as much fun as she wants with the class.)"
 
 translate francais strings:
 
     # game/v1/scene43d.rpy:210
     old "I'm dominant"
-    new ""
+    new "I'm dominant"
 
     # game/v1/scene43d.rpy:210
     old "I'm submissive"
-    new ""
+    new "I'm submissive"
 

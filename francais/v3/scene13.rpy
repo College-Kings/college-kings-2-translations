@@ -1,14 +1,14 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene13.rpy:12
-translate francais v3s13_352d141a:
+translate francais v3s13_352d141a_1:
 
     # u "(Good thing I had a clean change of clothes in my locker.)"
-    u ""
+    u "(Good thing I had a clean change of clothes in my locker.)"
 
 # game/v3/scene13.rpy:17
-translate francais v3s13_60a587b9:
+translate francais v3s13_c6364338_1:
 
-    # u "(This yoga session with Nora should do me good. I've been feeling very stiff, haha.)"
-    u ""
+    # u "(This yoga session with Nora should do me good. After all, I've been feeling very stiff lately.)"
+    u "(This yoga session with Nora should do me good. After all, I've been feeling very stiff lately.)"
 

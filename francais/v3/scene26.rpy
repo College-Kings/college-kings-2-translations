@@ -1,572 +1,626 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene26.rpy:27
-translate francais v3s26_9e077633:
+translate francais v3s26_845f406f:
 
-    # u "Oh shi- Hey, Linds."
-    u ""
+    # u "Oh shi-"
+    u "Oh shi-"
 
-# game/v3/scene26.rpy:32
-translate francais v3s26_da3df64f:
+# game/v3/scene26.rpy:29
+translate francais v3s26_e5a8c51d:
 
-    # li "Haha, did I make you jump?"
-    li ""
+    # u "Oh, uh, hey, Linds."
+    u "Oh, uh, hey, Linds."
 
-# game/v3/scene26.rpy:37
+# game/v3/scene26.rpy:34
+translate francais v3s26_cd5bd2d6:
+
+    # li "Did I make you jump?"
+    li "Did I make you jump?"
+
+# game/v3/scene26.rpy:39
 translate francais v3s26_af850717:
 
     # u "Not at all, ha."
-    u ""
+    u "Not at all, ha."
 
-# game/v3/scene26.rpy:42
-translate francais v3s26_43e4af76:
+# game/v3/scene26.rpy:44
+translate francais v3s26_d2ad7c15:
 
-    # li "Hmm... looked like you jumped a bit. *Laughs*"
-    li ""
+    # li "Hmm... looked like you jumped a bit."
+    li "Hmm... looked like you jumped a bit."
 
-# game/v3/scene26.rpy:47
+# game/v3/scene26.rpy:49
 translate francais v3s26_fcb60f55:
 
     # u "No way. I'm unjumpable."
-    u ""
+    u "No way. I'm unjumpable."
 
-# game/v3/scene26.rpy:52
+# game/v3/scene26.rpy:54
 translate francais v3s26_12ce5cce:
 
     # li "Unjumpable?"
-    li ""
+    li "Unjumpable?"
 
-# game/v3/scene26.rpy:57
+# game/v3/scene26.rpy:59
 translate francais v3s26_1d3cfd63:
 
     # u "The opposite of \"jumpable\"?"
-    u ""
+    u "The opposite of \"jumpable\"?"
 
-# game/v3/scene26.rpy:62
+# game/v3/scene26.rpy:64
 translate francais v3s26_b74d3804:
 
     # li "I don't think either of those are words..."
-    li ""
+    li "I don't think either of those are words..."
 
-# game/v3/scene26.rpy:67
+# game/v3/scene26.rpy:69
 translate francais v3s26_3876d0ef:
 
     # u "Hmph. Agree to disagree."
-    u ""
+    u "Hmph. Agree to disagree."
 
-# game/v3/scene26.rpy:73
+# game/v3/scene26.rpy:72
 translate francais v3s26_6564e944:
 
     # u "How are you getting on with those bonsai therapy sessions?"
-    u ""
+    u "How are you getting on with those bonsai therapy sessions?"
 
-# game/v3/scene26.rpy:78
+# game/v3/scene26.rpy:77
 translate francais v3s26_68395d93:
 
     # li "Ah, you heard about that."
-    li ""
+    li "Ah, you heard about that."
 
-# game/v3/scene26.rpy:80
+# game/v3/scene26.rpy:79
 translate francais v3s26_d57e2329:
 
     # li "Mr. Lee's got us pruning his little trees for an hour every day."
-    li ""
+    li "Mr. Lee's got us pruning his little trees for an hour every day."
 
-# game/v3/scene26.rpy:85
+# game/v3/scene26.rpy:84
 translate francais v3s26_dba880fb:
 
     # u "A whole hour?"
-    u ""
+    u "A whole hour?"
 
-# game/v3/scene26.rpy:90
+# game/v3/scene26.rpy:89
 translate francais v3s26_2f514e6f:
 
     # li "Yes. *Sighs*"
-    li ""
+    li "Yes. *Sighs*"
 
-# game/v3/scene26.rpy:92
+# game/v3/scene26.rpy:91
 translate francais v3s26_8a12a0ce:
 
     # li "It's the weirdest punishment ever. He even plays meditation music while we're doing it."
-    li ""
+    li "It's the weirdest punishment ever. He even plays meditation music while we're doing it."
 
-# game/v3/scene26.rpy:97
-translate francais v3s26_fcc18885:
+# game/v3/scene26.rpy:96
+translate francais v3s26_d8febef9:
 
-    # u "*Laughs*"
-    u ""
+    # u "Sounds kinda nice. Heh."
+    u "Sounds kinda nice. Heh."
 
-# game/v3/scene26.rpy:102
+# game/v3/scene26.rpy:101
 translate francais v3s26_05744770:
 
     # li "It's not funny! He also reads out quotes from some book about positive thinking and the importance of respect. Ugh..."
-    li ""
+    li "It's not funny! He also reads out quotes from some book about positive thinking and the importance of respect. Ugh..."
 
-# game/v3/scene26.rpy:107
-translate francais v3s26_8d9c45d2:
+# game/v3/scene26.rpy:106
+translate francais v3s26_07797e0c:
 
-    # u "Classic Mr. Lee, the man is an actual character."
-    u ""
+    # u "Classic Mr. Lee. What a character."
+    u "Classic Mr. Lee. What a character."
 
-# game/v3/scene26.rpy:112
+# game/v3/scene26.rpy:111
 translate francais v3s26_1c69f24d:
 
     # li "*Sighs* Anyway, enough about that."
-    li ""
+    li "*Sighs* Anyway, enough about that."
 
-# game/v3/scene26.rpy:114
-translate francais v3s26_00414d10:
+# game/v3/scene26.rpy:116
+translate francais v3s26_a93552d8:
 
-    # li "Autumn was telling me about the dog shelter re-opening and how you've been helping her?"
-    li ""
+    # li "Autumn was telling me about the dog shelter re-opening and how you've been helping her."
+    li "Autumn was telling me about the dog shelter re-opening and how you've been helping her."
 
-# game/v3/scene26.rpy:123
+# game/v3/scene26.rpy:125
 translate francais v3s26_85f36c84:
 
     # u "Oh, yeah! It's been great. I'm excited to go back and see how the little guys are doing."
-    u ""
+    u "Oh, yeah! It's been great. I'm excited to go back and see how the little guys are doing."
 
-# game/v3/scene26.rpy:131
-translate francais v3s26_1683badf:
+# game/v3/scene26.rpy:133
+translate francais v3s26_3849e7a4:
 
-    # u "Oh, yeah! Autumn's great. She really cares about the animals and honestly, a lot cooler than I thought she was, haha."
-    u ""
+    # u "Oh, yeah! Autumn's great. She really cares about the animals and is a lot cooler than I first thought she was."
+    u "Oh, yeah! Autumn's great. She really cares about the animals and is a lot cooler than I first thought she was."
 
-# game/v3/scene26.rpy:136
+# game/v3/scene26.rpy:138
 translate francais v3s26_244ee5cb:
 
     # li "I know! Ever since we hung out the other night, I can't help but love her. She's so chill."
-    li ""
+    li "I know! Ever since we hung out the other night, I can't help but love her. She's so chill."
 
-# game/v3/scene26.rpy:141
-translate francais v3s26_8fb8555b:
+# game/v3/scene26.rpy:143
+translate francais v3s26_775c8544:
 
-    # u "Yeah, for sure. Helping her out at the shelter has been a blast, the dogs are amazing."
-    u ""
-
-# game/v3/scene26.rpy:146
-translate francais v3s26_21e552b5:
-
-    # li "Haha, that's sweet."
-    li ""
+    # u "Yeah, for sure. Helping her out at the shelter has been a blast. The dogs are amazing."
+    u "Yeah, for sure. Helping her out at the shelter has been a blast. The dogs are amazing."
 
 # game/v3/scene26.rpy:148
+translate francais v3s26_e1a60c5e:
+
+    # li "That's sweet."
+    li "That's sweet."
+
+# game/v3/scene26.rpy:150
 translate francais v3s26_3a945922:
 
     # li "I really wanted to attend the re-opening, but I won't have the time that day..."
-    li ""
+    li "I really wanted to attend the re-opening, but I won't have the time that day..."
 
-# game/v3/scene26.rpy:149
+# game/v3/scene26.rpy:151
 translate francais v3s26_59188b8a:
 
     # li "Can you take the donation for me and make sure it gets into the right hands?"
-    li ""
+    li "Can you take the donation for me and make sure it gets into the right hands?"
 
-# game/v3/scene26.rpy:156
+# game/v3/scene26.rpy:158
 translate francais v3s26_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Yeah, sure."
 
-# game/v3/scene26.rpy:161
+# game/v3/scene26.rpy:163
 translate francais v3s26_a2eafcaa:
 
     # li "Thanks. That should help a few fur babies."
-    li ""
+    li "Thanks. That should help a few fur babies."
 
-# game/v3/scene26.rpy:166
-translate francais v3s26_25cc9854:
+# game/v3/scene26.rpy:168
+translate francais v3s26_0861072c:
 
-    # u "Haha, I'm sure they'll appreciate it. I'll give it Autumn as soon as I see her."
-    u ""
+    # u "I'm sure they'll appreciate it. I'll give it to Autumn as soon as I see her."
+    u "I'm sure they'll appreciate it. I'll give it to Autumn as soon as I see her."
 
-# game/v3/scene26.rpy:176
+# game/v3/scene26.rpy:178
 translate francais v3s26_e125afee:
 
     # pe "Hey, you two!"
-    pe ""
+    pe "Hey, you two!"
 
-# game/v3/scene26.rpy:181
-translate francais v3s26_71d42a9e:
+# game/v3/scene26.rpy:183
+translate francais v3s26_28241bea:
 
-    # u "Penelope, it's too early to be that happy. *Chuckles*"
-    u ""
+    # u "Penelope, it's too early to be that happy."
+    u "Penelope, it's too early to be that happy."
 
-# game/v3/scene26.rpy:186
+# game/v3/scene26.rpy:188
 translate francais v3s26_5ac57227:
 
     # pe "No, come on! Wake up! I have huge news, guys."
-    pe ""
+    pe "No, come on! Wake up! I have huge news, guys."
 
-# game/v3/scene26.rpy:191
+# game/v3/scene26.rpy:193
 translate francais v3s26_1a5a6664:
 
     # li "Uh oh. Huge news, [name]."
-    li ""
+    li "Uh oh. Huge news, [name]."
 
-# game/v3/scene26.rpy:196
+# game/v3/scene26.rpy:198
 translate francais v3s26_b9298e54:
 
     # u "*Sighs* Okay, hit me with it."
-    u ""
+    u "*Sighs* Okay, hit me with it."
 
-# game/v3/scene26.rpy:201
-translate francais v3s26_2bf1b33a:
+# game/v3/scene26.rpy:203
+translate francais v3s26_8143c472:
 
-    # pe "Okay, so, guess who's coming to perform a little concert for us tomorrow night, all because of me?"
-    pe ""
+    # pe "Guess who's coming to perform a little concert for us tomorrow night, all because of me?"
+    pe "Guess who's coming to perform a little concert for us tomorrow night, all because of me?"
 
-# game/v3/scene26.rpy:208
+# game/v3/scene26.rpy:210
 translate francais v3s26_b591764f:
 
     # u "The music majors?"
-    u ""
+    u "The music majors?"
 
-# game/v3/scene26.rpy:213
+# game/v3/scene26.rpy:215
 translate francais v3s26_4d4877d3:
 
     # li "Oh, nice guess."
-    li ""
+    li "Oh, nice guess."
 
-# game/v3/scene26.rpy:218
+# game/v3/scene26.rpy:220
 translate francais v3s26_b44c0fc0:
 
     # u "Hey, thanks."
-    u ""
+    u "Hey, thanks."
 
-# game/v3/scene26.rpy:223
-translate francais v3s26_57aec47d:
+# game/v3/scene26.rpy:225
+translate francais v3s26_0cb845ab:
 
-    # pe "Haha, no, you idiot!"
-    pe ""
+    # pe "No, you idiot!"
+    pe "No, you idiot!"
 
-# game/v3/scene26.rpy:228
-translate francais v3s26_e9b291c1:
+# game/v3/scene26.rpy:230
+translate francais v3s26_d360ef0b:
 
-    # li "*Laughs*"
-    li ""
+    # li "Ha, wow."
+    li "Ha, wow."
 
-# game/v3/scene26.rpy:233
-translate francais v3s26_897ab442:
+# game/v3/scene26.rpy:235
+translate francais v3s26_6f870509:
 
-    # pe "Why would I- Nevermind, who cares. Anyway!"
-    pe ""
+    # pe "Why would I... nevermind, who cares. Anyway!"
+    pe "Why would I... nevermind, who cares. Anyway!"
 
-# game/v3/scene26.rpy:239
+# game/v3/scene26.rpy:242
 translate francais v3s26_74aac718:
 
     # u "I've got no idea. Who?"
-    u ""
+    u "I've got no idea. Who?"
 
-# game/v3/scene26.rpy:244
+# game/v3/scene26.rpy:247
 translate francais v3s26_091187ee:
 
     # li "Yeah, don't keep us in suspense over here!"
-    li ""
+    li "Yeah, don't keep us in suspense over here!"
 
-# game/v3/scene26.rpy:249
+# game/v3/scene26.rpy:252
 translate francais v3s26_1ae2f354:
 
     # pe "Polly!"
-    pe ""
+    pe "Polly!"
 
-# game/v3/scene26.rpy:254
+# game/v3/scene26.rpy:257
 translate francais v3s26_7f7eb3d8:
 
     # li "Polly? THE Polly?!"
-    li ""
+    li "Polly? THE Polly?!"
 
-# game/v3/scene26.rpy:259
+# game/v3/scene26.rpy:262
 translate francais v3s26_029944cc:
 
     # pe "The one and only Polly!"
-    pe ""
+    pe "The one and only Polly!"
 
-# game/v3/scene26.rpy:264
-translate francais v3s26_c923a002:
+# game/v3/scene26.rpy:267
+translate francais v3s26_622940ea:
 
-    # li "Wha- Ahh! That's amazing, Penelope!"
-    li ""
+    # li "Ahh! That's amazing, Penelope!"
+    li "Ahh! That's amazing, Penelope!"
 
-# game/v3/scene26.rpy:269
+# game/v3/scene26.rpy:272
 translate francais v3s26_2e938e76:
 
     # li "OMG!"
-    li ""
+    li "OMG!"
 
-# game/v3/scene26.rpy:271
+# game/v3/scene26.rpy:274
 translate francais v3s26_1fbbc800:
 
     # pe "EEEEE!"
-    pe ""
+    pe "EEEEE!"
 
-# game/v3/scene26.rpy:276
-translate francais v3s26_cf38919f:
-
-    # li "How the hell did you make friends with her?"
-    li ""
-
-# game/v3/scene26.rpy:285
-translate francais v3s26_0b0a33a0:
-
-    # u "We went to her concert in Amsterdam."
-    u ""
-
-# game/v3/scene26.rpy:291
-translate francais v3s26_454b71ef:
-
-    # pe "Yeah, we got to go backstage even!"
-    pe ""
-
-# game/v3/scene26.rpy:296
-translate francais v3s26_0c9f23c7:
-
-    # pe "She really liked us for some reason, and we became best friends somehow... *Laughs* The craziest night of my life."
-    pe ""
-
-# game/v3/scene26.rpy:301
-translate francais v3s26_cd7094f6:
-
-    # u "Don't act all humble now. You're the one she liked."
-    u ""
-
-# game/v3/scene26.rpy:306
-translate francais v3s26_ae3bb29e:
-
-    # li "I'm so fucking jealous."
-    li ""
-
-# game/v3/scene26.rpy:312
+# game/v3/scene26.rpy:280
 translate francais v3s26_7f386eb8:
 
     # u "Polly? Right, she's-"
-    u ""
+    u "Polly? Right, she's-"
 
-# game/v3/scene26.rpy:317
+# game/v3/scene26.rpy:285
 translate francais v3s26_c5c4c609:
 
     # pe "A pop sensation, [name]."
-    pe ""
+    pe "A pop sensation, [name]."
 
-# game/v3/scene26.rpy:323
+# game/v3/scene26.rpy:290
+translate francais v3s26_cf38919f:
+
+    # li "How the hell did you make friends with her?"
+    li "How the hell did you make friends with her?"
+
+# game/v3/scene26.rpy:296
+translate francais v3s26_0b0a33a0:
+
+    # u "We went to her concert in Amsterdam."
+    u "We went to her concert in Amsterdam."
+
+# game/v3/scene26.rpy:302
+translate francais v3s26_454b71ef:
+
+    # pe "Yeah, we got to go backstage even!"
+    pe "Yeah, we got to go backstage even!"
+
+# game/v3/scene26.rpy:307
+translate francais v3s26_3ea4c757:
+
+    # pe "She really liked us and we became best friends somehow... just, y'know, the craziest night of my life."
+    pe "She really liked us and we became best friends somehow... just, y'know, the craziest night of my life."
+
+# game/v3/scene26.rpy:312
+translate francais v3s26_cd7094f6:
+
+    # u "Don't act all humble now. You're the one she liked."
+    u "Don't act all humble now. You're the one she liked."
+
+# game/v3/scene26.rpy:317
+translate francais v3s26_ae3bb29e:
+
+    # li "I'm so fucking jealous."
+    li "I'm so fucking jealous."
+
+# game/v3/scene26.rpy:324
+translate francais v3s26_b7c36c12:
+
+    # pe "Yeah! It was crazy good!"
+    pe "Yeah! It was crazy good!"
+
+# game/v3/scene26.rpy:329
+translate francais v3s26_0ede4ff6:
+
+    # u "Definitely crazy..."
+    u "Definitely crazy..."
+
+# game/v3/scene26.rpy:334
+translate francais v3s26_b49017ca:
+
+    # pe "When we got back from Europe, I drew this super cheesy Polly fanart and posted on my super secret Kiwii-Polly fan account."
+    pe "When we got back from Europe, I drew this super cheesy Polly fanart and posted on my super secret Kiwii-Polly fan account."
+
+# game/v3/scene26.rpy:339
+translate francais v3s26_00ce97f9:
+
+    # li "That's adorable."
+    li "That's adorable."
+
+# game/v3/scene26.rpy:344
+translate francais v3s26_b09a7d96:
+
+    # pe "Next thing I know, she DMs me with something she'd doodled that day."
+    pe "Next thing I know, she DMs me with something she'd doodled that day."
+
+# game/v3/scene26.rpy:349
+translate francais v3s26_0a845f8e:
+
+    # pe "Our styles are SO similar it's ridiculous. And we have so much in common."
+    pe "Our styles are SO similar it's ridiculous. And we have so much in common."
+
+# game/v3/scene26.rpy:351
+translate francais v3s26_8a0140a3:
+
+    # pe "She said we were like long lost sisters or something!"
+    pe "She said we were like long lost sisters or something!"
+
+# game/v3/scene26.rpy:360
 translate francais v3s26_9692c9f4:
 
     # pe "There was a meet and greet recently where she was signing stuff and promoting her new single."
-    pe ""
+    pe "There was a meet and greet recently where she was signing stuff and promoting her new single."
 
-# game/v3/scene26.rpy:325
-translate francais v3s26_84d89b6b:
+# game/v3/scene26.rpy:362
+translate francais v3s26_958c7fdf:
 
-    # pe "We just hit it off, I don't even know how to explain it. She said we were like long lost sisters or something, haha!"
-    pe ""
+    # pe "We just hit it off. I don't even know how to explain it. She said we were like long lost sisters or something!"
+    pe "We just hit it off. I don't even know how to explain it. She said we were like long lost sisters or something!"
 
-# game/v3/scene26.rpy:330
+# game/v3/scene26.rpy:369
 translate francais v3s26_f2793ee4:
 
     # u "(Polly's in town? Huh. I wonder if she'd recognize me?)"
-    u ""
+    u "(Polly's in town? Huh. I wonder if she'd recognize me?)"
 
-# game/v3/scene26.rpy:335
+# game/v3/scene26.rpy:374
+translate francais v3s26_ed3f8a0f:
+
+    # pe "I still can't believe it."
+    pe "I still can't believe it."
+
+# game/v3/scene26.rpy:379
 translate francais v3s26_419b141d:
 
     # li "Oh my god, you're living my actual dream!"
-    li ""
+    li "Oh my god, you're living my actual dream!"
 
-# game/v3/scene26.rpy:340
-translate francais v3s26_c3c41d0f:
+# game/v3/scene26.rpy:384
+translate francais v3s26_6d075032:
 
-    # pe "Haha, I connected with her on Kiwii and we've been talking about SVC."
-    pe ""
+    # pe "Yeah, so after I connected with her on Kiwii and we've been talking about SVC."
+    pe "Yeah, so after I connected with her on Kiwii and we've been talking about SVC."
 
-# game/v3/scene26.rpy:345
+# game/v3/scene26.rpy:389
 translate francais v3s26_250ed315:
 
     # u "Oh, shit."
-    u ""
+    u "Oh, shit."
 
-# game/v3/scene26.rpy:350
+# game/v3/scene26.rpy:394
 translate francais v3s26_15cc9d48:
 
     # pe "She'll only have time to sing a few songs, but she's actually coming to our college, guys!"
-    pe ""
+    pe "She'll only have time to sing a few songs, but she's actually coming to our college, guys!"
 
-# game/v3/scene26.rpy:355
-translate francais v3s26_bab2d02c:
+# game/v3/scene26.rpy:399
+translate francais v3s26_f5f094e0:
 
-    # li "I can't believe it. Polly is coming here... To SVC!"
-    li ""
+    # li "I can't believe it. Polly is coming here... to SVC!"
+    li "I can't believe it. Polly is coming here... to SVC!"
 
-# game/v3/scene26.rpy:360
+# game/v3/scene26.rpy:404
 translate francais v3s26_59d8a7ce:
 
     # pe "I know! *Screams*"
-    pe ""
+    pe "I know! *Screams*"
 
-# game/v3/scene26.rpy:362
+# game/v3/scene26.rpy:406
 translate francais v3s26_c3994e1b:
 
     # pe "Make sure you're free that night. You'll know when."
-    pe ""
+    pe "Make sure you're free that night. You'll know when."
 
-# game/v3/scene26.rpy:367
+# game/v3/scene26.rpy:411
 translate francais v3s26_686a26ba:
 
     # u "We will, for sure."
-    u ""
+    u "We will, for sure."
 
-# game/v3/scene26.rpy:372
+# game/v3/scene26.rpy:416
 translate francais v3s26_1bf657b5:
 
     # li "Yeah, I wouldn't miss it for the world."
-    li ""
+    li "Yeah, I wouldn't miss it for the world."
 
-# game/v3/scene26.rpy:377
+# game/v3/scene26.rpy:421
 translate francais v3s26_aceb0291:
 
     # pe "Oh, [name], how did it go with Imre?"
-    pe ""
+    pe "Oh, [name], how did it go with Imre?"
 
-# game/v3/scene26.rpy:382
+# game/v3/scene26.rpy:426
 translate francais v3s26_bef01ee5:
 
     # u "Ah, it's always drama with him. But I think he had real feelings for Karen, sadly. He really wanted a second date."
-    u ""
+    u "Ah, it's always drama with him. But I think he had real feelings for Karen, sadly. He really wanted a second date."
 
-# game/v3/scene26.rpy:387
+# game/v3/scene26.rpy:431
 translate francais v3s26_09bfa4c9:
 
     # li "Wait. Imre and Karen? What happened?"
-    li ""
+    li "Wait. Imre and Karen? What happened?"
 
-# game/v3/scene26.rpy:392
+# game/v3/scene26.rpy:436
 translate francais v3s26_2bdf8bf8:
 
     # pe "I'll tell you later, Linds, don't worry."
-    pe ""
+    pe "I'll tell you later, Linds, don't worry."
 
-# game/v3/scene26.rpy:397
-translate francais v3s26_a1fa4692:
+# game/v3/scene26.rpy:441
+translate francais v3s26_e6a8c372:
 
-    # li "Yeah, I need to hear all about that. *Chuckles*"
-    li ""
+    # li "Yeah, I need to hear all about that."
+    li "Yeah, I need to hear all about that."
 
-# game/v3/scene26.rpy:402
+# game/v3/scene26.rpy:446
 translate francais v3s26_11294d54:
 
     # u "What was Karen's excuse?"
-    u ""
+    u "What was Karen's excuse?"
 
-# game/v3/scene26.rpy:407
+# game/v3/scene26.rpy:451
 translate francais v3s26_c9138022:
 
     # pe "She didn't have one. That guy just told her she was hot and asked her for a kiss."
-    pe ""
+    pe "She didn't have one. That guy just told her she was hot and asked her for a kiss."
 
-# game/v3/scene26.rpy:412
+# game/v3/scene26.rpy:456
 translate francais v3s26_c93a1675:
 
     # u "And that worked?"
-    u ""
+    u "And that worked?"
 
-# game/v3/scene26.rpy:417
-translate francais v3s26_586491a2:
+# game/v3/scene26.rpy:461
+translate francais v3s26_e389a5cb:
 
-    # pe "Haha, yeah. I guess it works on some people. They're going on a date next week."
-    pe ""
+    # pe "Evidently. I guess it works on some people. They're going on a date next week."
+    pe "Evidently. I guess it works on some people. They're going on a date next week."
 
-# game/v3/scene26.rpy:422
-translate francais v3s26_d9e040ee:
+# game/v3/scene26.rpy:466
+translate francais v3s26_b07fc1cb:
 
-    # u "Yikes, it sucks for Imre."
-    u ""
+    # u "Sucks for Imre."
+    u "Sucks for Imre."
 
-# game/v3/scene26.rpy:427
+# game/v3/scene26.rpy:471
 translate francais v3s26_248e22f3:
 
     # li "Yeah, but if you're with the wrong person, your heart will keep searching for the right one."
-    li ""
+    li "Yeah, but if you're with the wrong person, your heart will keep searching for the right one."
 
-# game/v3/scene26.rpy:432
+# game/v3/scene26.rpy:476
 translate francais v3s26_b05d273b:
 
     # u "Wow. Very wisdomous today."
-    u ""
+    u "Wow. Very wisdomous today."
 
-# game/v3/scene26.rpy:437
+# game/v3/scene26.rpy:481
 translate francais v3s26_063ab0b9:
 
     # li "Again, I don't think that's a word..."
-    li ""
+    li "Again, I don't think that's a word..."
 
-# game/v3/scene26.rpy:442
-translate francais v3s26_c796af13:
+# game/v3/scene26.rpy:486
+translate francais v3s26_ef81dbef:
 
-    # pe "But he's right. That was a smart sentence, I'm proud of you. *Giggles*"
-    pe ""
+    # pe "But he's right. That was a smart sentence. I'm proud of you, Lindsey."
+    pe "But he's right. That was a smart sentence. I'm proud of you, Lindsey."
 
-# game/v3/scene26.rpy:447
-translate francais v3s26_fbda4340:
+# game/v3/scene26.rpy:491
+translate francais v3s26_864bcef2:
 
-    # li "Oh god, it's the therapy sessions!"
-    li ""
+    # li "Oh God, it's the therapy sessions!"
+    li "Oh God, it's the therapy sessions!"
 
-# game/v3/scene26.rpy:449
-translate francais v3s26_fcc18885_1:
+# game/v3/scene26.rpy:496
+translate francais v3s26_f684a5ec:
 
-    # u "*Laughs*"
-    u ""
+    # u "Ha! Hardly."
+    u "Ha! Hardly."
 
-# game/v3/scene26.rpy:454
+# game/v3/scene26.rpy:501
 translate francais v3s26_ae401300:
 
     # pe "We should probably get to class now."
-    pe ""
+    pe "We should probably get to class now."
 
-# game/v3/scene26.rpy:459
-translate francais v3s26_eddc69fe:
+# game/v3/scene26.rpy:506
+translate francais v3s26_e6b93c42:
 
-    # li "Oh, yeah! That's what I was going to tell you in the first place, haha!"
-    li ""
+    # li "Oh, yeah! That's what I was going to tell you in the first place!"
+    li "Oh, yeah! That's what I was going to tell you in the first place!"
 
-# game/v3/scene26.rpy:461
-translate francais v3s26_aae14ef9:
+# game/v3/scene26.rpy:508
+translate francais v3s26_79274144:
 
-    # li "Classes are cancelled today, but we're all supposed to attend a lecture about parenting or sex, or something."
-    li ""
+    # li "Classes are cancelled today, but we're all supposed to attend a lecture about parenting, or sex, or something."
+    li "Classes are cancelled today, but we're all supposed to attend a lecture about parenting, or sex, or something."
 
-# game/v3/scene26.rpy:466
-translate francais v3s26_7a9affa8:
+# game/v3/scene26.rpy:513
+translate francais v3s26_b7b5a08b:
 
-    # u "Hmm. Parenting or sex or something..."
-    u ""
+    # u "Hmm. Parenting, or sex, or something..."
+    u "Hmm. Parenting, or sex, or something..."
 
-# game/v3/scene26.rpy:471
-translate francais v3s26_7beec2a1:
+# game/v3/scene26.rpy:518
+translate francais v3s26_f8b2d276:
 
-    # pe "Wow. Well, let's find out, shall we? *Laughs*"
-    pe ""
+    # pe "Wow. Well, let's find out, shall we?"
+    pe "Wow. Well, let's find out, shall we?"
 
-# game/v3/scene26.rpy:476
+# game/v3/scene26.rpy:523
 translate francais v3s26_f1bb17df:
 
     # u "We shall!"
-    u ""
+    u "We shall!"
 
 translate francais strings:
 
-    # game/v3/scene26.rpy:116
+    # game/v3/scene26.rpy:118
     old "Yeah, it's great"
-    new ""
+    new "Yeah, it's great"
 
-    # game/v3/scene26.rpy:116
+    # game/v3/scene26.rpy:118
     old "Yeah, she's great"
-    new ""
+    new "Yeah, she's great"
 
-    # game/v3/scene26.rpy:203
+    # game/v3/scene26.rpy:205
     old "The music majors"
-    new ""
+    new "The music majors"
 
-    # game/v3/scene26.rpy:203
+    # game/v3/scene26.rpy:205
     old "No idea, who?"
-    new ""
+    new "No idea, who?"
 

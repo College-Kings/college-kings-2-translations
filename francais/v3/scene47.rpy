@@ -1,38 +1,38 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene47.rpy:18
-translate francais v3s47_53003558:
+translate francais v3s47_53003558_1:
 
     # cl "Helloooo! Welcome to the house of enforced parenthood..."
-    cl ""
+    cl "Helloooo! Welcome to the house of enforced parenthood..."
 
 # game/v3/scene47.rpy:23
-translate francais v3s47_d248fee9:
+translate francais v3s47_5da1ade5_1:
 
-    # u "*Laughs* It's not that bad."
-    u ""
+    # u "Ha, it's not that bad."
+    u "Ha, it's not that bad."
 
 # game/v3/scene47.rpy:28
-translate francais v3s47_68995f1f:
+translate francais v3s47_68995f1f_1:
 
     # cl "We'll see."
-    cl ""
+    cl "We'll see."
 
 # game/v3/scene47.rpy:55
-translate francais v3s47_81c0fb14:
+translate francais v3s47_81c0fb14_1:
 
     # no "Look who it is, [v3_baby_name]! It's your daddy!"
-    no ""
+    no "Look who it is, [v3_baby_name]! It's your daddy!"
 
 # game/v3/scene47.rpy:60
-translate francais v3s47_4c1d8e0c:
+translate francais v3s47_d643c680_1:
 
-    # u "Oh dear, your mother has already gone insane and forgotten that you're made of plastic. *Laughs*"
-    u ""
+    # u "Oh dear, your mother has already gone insane and forgotten that you're made of plastic."
+    u "Oh dear, your mother has already gone insane and forgotten that you're made of plastic."
 
 # game/v3/scene47.rpy:65
-translate francais v3s47_3dfcf446:
+translate francais v3s47_1ce79d62_1:
 
-    # no "*Chuckles* Screw you! It's fun to pretend for one night."
-    no ""
+    # no "Screw you. It's fun to pretend for one night."
+    no "Screw you. It's fun to pretend for one night."
 

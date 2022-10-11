@@ -1,494 +1,524 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v2/scene36.rpy:17
+# game/v2/scene36.rpy:19
 translate francais v2s36_ea56c124:
 
     # aut "Tonight was so much fun!"
-    aut ""
+    aut "Tonight was so much fun!"
 
-# game/v2/scene36.rpy:22
-translate francais v2s36_6d195871:
+# game/v2/scene36.rpy:24
+translate francais v2s36_8fdbde36:
 
-    # u "Absolutely. The game, the drinks, and of course... The company. *Chuckles*"
-    u ""
+    # u "Absolutely. The game, the drinks, and of course... The company."
+    u "Absolutely. The game, the drinks, and of course... The company."
 
-# game/v2/scene36.rpy:27
-translate francais v2s36_e9401d28:
+# game/v2/scene36.rpy:29
+translate francais v2s36_1bc960d1:
 
-    # aut "Haha, we make a good foursome."
-    aut ""
+    # aut "We make a good foursome."
+    aut "We make a good foursome."
 
-# game/v2/scene36.rpy:32
+# game/v2/scene36.rpy:34
 translate francais v2s36_dfc0d854:
 
     # u "Oh-"
-    u ""
+    u "Oh-"
 
-# game/v2/scene36.rpy:37
-translate francais v2s36_12c45067:
+# game/v2/scene36.rpy:39
+translate francais v2s36_ee389f02:
 
-    # aut "And not in a sexual way! Before you say anything, haha."
-    aut ""
+    # aut "And not in a sexual way! Before you say anything."
+    aut "And not in a sexual way! Before you say anything."
 
-# game/v2/scene36.rpy:47
+# game/v2/scene36.rpy:49
 translate francais v2s36_3ecf6ee7:
 
     # u "So... I don't know if it's up for conversation, but..."
-    u ""
+    u "So... I don't know if it's up for conversation, but..."
 
-# game/v2/scene36.rpy:52
+# game/v2/scene36.rpy:54
 translate francais v2s36_707a0153:
 
     # aut "You're going to ask about my sexuality, aren't you?"
-    aut ""
+    aut "You're going to ask about my sexuality, aren't you?"
 
-# game/v2/scene36.rpy:61
+# game/v2/scene36.rpy:63
 translate francais v2s36_2c4ad87c:
 
     # u "Oh no, I wasn't. Actually I wanted to know what your favorite question from tonight was."
-    u ""
+    u "Oh no, I wasn't. Actually I wanted to know what your favorite question from tonight was."
 
-# game/v2/scene36.rpy:68
+# game/v2/scene36.rpy:70
 translate francais v2s36_5b4f2373:
 
     # u "Well, I'm curious about getting to know the real Autumn, but I know it's a sensitive issue."
-    u ""
+    u "Well, I'm curious about getting to know the real Autumn, but I know it's a sensitive issue."
 
-# game/v2/scene36.rpy:70
+# game/v2/scene36.rpy:72
 translate francais v2s36_45b49866:
 
     # u "Only if you're comfortable talking about it, of course."
-    u ""
+    u "Only if you're comfortable talking about it, of course."
 
-# game/v2/scene36.rpy:76
+# game/v2/scene36.rpy:78
 translate francais v2s36_83b04aff:
 
     # aut "It's okay. We can talk about it."
-    aut ""
+    aut "It's okay. We can talk about it."
 
-# game/v2/scene36.rpy:78
+# game/v2/scene36.rpy:80
 translate francais v2s36_3e5e1a0d:
 
     # aut "To be honest, I've been thinking about it a lot."
-    aut ""
+    aut "To be honest, I've been thinking about it a lot."
 
-# game/v2/scene36.rpy:83
+# game/v2/scene36.rpy:85
 translate francais v2s36_a62ea486:
 
     # u "Really? In what way?"
-    u ""
-
-# game/v2/scene36.rpy:88
-translate francais v2s36_e2287011:
-
-    # aut "Well, it would be interesting to at least consider losing my virginity to someone. Then I'd know exactly how I feel."
-    aut ""
+    u "Really? In what way?"
 
 # game/v2/scene36.rpy:90
+translate francais v2s36_7975858e:
+
+    # aut "Well, it'd be interesting to at least consider losing my virginity to someone. Then I'd know exactly how I feel about sex."
+    aut "Well, it'd be interesting to at least consider losing my virginity to someone. Then I'd know exactly how I feel about sex."
+
+# game/v2/scene36.rpy:92
 translate francais v2s36_53690bbd:
 
     # aut "I won't be left wondering, you know."
-    aut ""
+    aut "I won't be left wondering, you know."
 
-# game/v2/scene36.rpy:95
+# game/v2/scene36.rpy:94
+translate francais v2s36_45abde53:
+
+    # aut "Like I said, it doesn't gross me out, it's just like... reading a book I'm kinda interested in checking out."
+    aut "Like I said, it doesn't gross me out, it's just like... reading a book I'm kinda interested in checking out."
+
+# game/v2/scene36.rpy:99
 translate francais v2s36_dee59074:
 
     # u "Yeah... I can understand that."
-    u ""
+    u "Yeah... I can understand that."
 
-# game/v2/scene36.rpy:100
-translate francais v2s36_5a26dd96:
+# game/v2/scene36.rpy:104
+translate francais v2s36_6c28fad7:
 
-    # aut "And if anybody ever asks, I can say... Yes! More sex please! Haha... Or just, meh... It's not for me."
-    aut ""
+    # aut "And if anybody ever asks, I can say... Yes! More sex please! Or just, meh... It's not for me."
+    aut "And if anybody ever asks, I can say... Yes! More sex please! Or just, meh... It's not for me."
 
-# game/v2/scene36.rpy:105
-translate francais v2s36_a1477627:
+# game/v2/scene36.rpy:109
+translate francais v2s36_d79263fb:
 
-    # u "*Laughs* I think that's a good way to go about it, but only if you're ready, you know?"
-    u ""
+    # u "I think that's a good way to go about it, but only if you're ready, you know?"
+    u "I think that's a good way to go about it, but only if you're ready, you know?"
 
-# game/v2/scene36.rpy:110
+# game/v2/scene36.rpy:114
 translate francais v2s36_1c76f094:
 
     # aut "Yeah. Exactly. And I think..."
-    aut ""
+    aut "Yeah. Exactly. And I think..."
 
-# game/v2/scene36.rpy:112
+# game/v2/scene36.rpy:116
 translate francais v2s36_9c006246:
 
     # aut "I think you'd be the right person to do it with."
-    aut ""
+    aut "I think you'd be the right person to do it with."
 
-# game/v2/scene36.rpy:117
-translate francais v2s36_7b633c6c:
+# game/v2/scene36.rpy:121
+translate francais v2s36_da31dfd0:
 
-    # u "(What?)"
-    u ""
+    # u "(Huh?!)"
+    u "(Huh?!)"
 
-# game/v2/scene36.rpy:122
-translate francais v2s36_d57e05ae:
+# game/v2/scene36.rpy:126
+translate francais v2s36_90022059:
 
-    # aut "We seem to get along really well, and I like your company."
-    aut ""
+    # aut "We get along really well, and I like your company."
+    aut "We get along really well, and I like your company."
 
-# game/v2/scene36.rpy:127
+# game/v2/scene36.rpy:131
 translate francais v2s36_5afea696:
 
     # u "(Is Autumn admitting that... She wants to have sex with me?!)"
-    u ""
+    u "(Is Autumn admitting that... She wants to have sex with me?!)"
 
-# game/v2/scene36.rpy:129
+# game/v2/scene36.rpy:133
 translate francais v2s36_dc520791:
 
     # u "Yeah, I mean... I really like hanging out with you too."
-    u ""
+    u "Yeah, I mean... I really like hanging out with you too."
 
-# game/v2/scene36.rpy:134
+# game/v2/scene36.rpy:138
 translate francais v2s36_8b717d74:
 
     # aut "So, what do you think about it?"
-    aut ""
+    aut "So, what do you think about it?"
 
-# game/v2/scene36.rpy:143
+# game/v2/scene36.rpy:147
 translate francais v2s36_8218d3fe:
 
     # u "Honestly, I'd really like that... I feel the same way."
-    u ""
+    u "Honestly, I'd really like that... I feel the same way."
 
-# game/v2/scene36.rpy:150
+# game/v2/scene36.rpy:153
 translate francais v2s36_30eef190:
 
     # aut "Yeah, but... I know what you're going to say."
-    aut ""
+    aut "Yeah, but... I know what you're going to say."
 
-# game/v2/scene36.rpy:152
+# game/v2/scene36.rpy:155
 translate francais v2s36_e4dea69e:
 
     # aut "You're dating Lauren, so obviously it's never going to happen. *Sighs*"
-    aut ""
+    aut "You're dating Lauren, so obviously it's never going to happen. *Sighs*"
 
-# game/v2/scene36.rpy:157
+# game/v2/scene36.rpy:160
 translate francais v2s36_1e07e9b6:
 
     # u "I'm flattered, truly. But, yeah... I'm dating your sister, ha."
-    u ""
+    u "I'm flattered, truly. But, yeah... I'm dating your sister, ha."
 
-# game/v2/scene36.rpy:162
+# game/v2/scene36.rpy:165
 translate francais v2s36_f75352ed:
 
     # aut "Ha... Yeah."
-    aut ""
+    aut "Ha... Yeah."
 
-# game/v2/scene36.rpy:164
-translate francais v2s36_e3d04357:
+# game/v2/scene36.rpy:167
+translate francais v2s36_ed1825c4:
 
-    # aut "I'm really happy that she found such a great guy. It's just a shame that we can't clone you, haha."
-    aut ""
+    # aut "I'm really happy that she found such a great guy. It's just a shame that we can't clone you."
+    aut "I'm really happy that she found such a great guy. It's just a shame that we can't clone you."
 
-# game/v2/scene36.rpy:169
-translate francais v2s36_ed155f68:
+# game/v2/scene36.rpy:172
+translate francais v2s36_27b4b670:
 
-    # u "Haha, thanks, Autumn. You're also an amazing person."
-    u ""
+    # u "Thanks, Autumn. You're a great person."
+    u "Thanks, Autumn. You're a great person."
 
-# game/v2/scene36.rpy:171
-translate francais v2s36_7d50d20f:
+# game/v2/scene36.rpy:174
+translate francais v2s36_d6ba9f0c:
 
-    # u "I'm sure you'll find someone as good as me one day... *Chuckles*"
-    u ""
+    # u "*Winks* I'm sure you'll find someone as good as me one day."
+    u "*Winks* I'm sure you'll find someone as good as me one day."
 
-# game/v2/scene36.rpy:176
+# game/v2/scene36.rpy:179
 translate francais v2s36_abff82b8:
 
     # aut "Haha! Okay, mister... Don't push it."
-    aut ""
+    aut "Haha! Okay, mister... Don't push it."
 
-# game/v2/scene36.rpy:189
-translate francais v2s36_53ed9cb0:
+# game/v2/scene36.rpy:192
+translate francais v2s36_89c9ac74:
 
-    # aut "Wait, really? I was so nervous to ask... *Giggles*"
-    aut ""
+    # aut "Wait, really? I was so nervous to ask..."
+    aut "Wait, really? I was so nervous to ask..."
 
-# game/v2/scene36.rpy:194
-translate francais v2s36_0b7bc27d:
+# game/v2/scene36.rpy:197
+translate francais v2s36_670cbd54:
 
-    # u "Haha, don't you remember? You were the very first person I met when I arrived at SVC."
-    u ""
+    # u "Don't you remember? You were the very first person I met when I arrived at SVC."
+    u "Don't you remember? You were the very first person I met when I arrived at SVC."
 
-# game/v2/scene36.rpy:199
-translate francais v2s36_0b0730b6:
+# game/v2/scene36.rpy:202
+translate francais v2s36_1708ec7f:
 
-    # aut "Hehe, yeah. I was totally oblivious to your charm..."
-    aut ""
+    # aut "Oh yeah. I was totally oblivious to your charm..."
+    aut "Oh yeah. I was totally oblivious to your charm..."
 
-# game/v2/scene36.rpy:204
+# game/v2/scene36.rpy:207
 translate francais v2s36_1707554e:
 
     # u "My charm? Well, well, well..."
-    u ""
+    u "My charm? Well, well, well..."
 
-# game/v2/scene36.rpy:209
+# game/v2/scene36.rpy:212
 translate francais v2s36_63581b79:
 
     # aut "I just can't believe it took this long for me to catch up..."
-    aut ""
+    aut "I just can't believe it took this long for me to catch up..."
 
-# game/v2/scene36.rpy:224
+# game/v2/scene36.rpy:227
 translate francais v2s36_18b99c44:
 
     # aut "It all starts with a kiss, right?"
-    aut ""
+    aut "It all starts with a kiss, right?"
 
-# game/v2/scene36.rpy:258
+# game/v2/scene36.rpy:261
 translate francais v2s36_f2d3dfae:
 
     # u "And so it begins..."
-    u ""
+    u "And so it begins..."
 
-# game/v2/scene36.rpy:273
+# game/v2/scene36.rpy:278
 translate francais v2s36_0bef5839:
 
     # u "I do like you, Autumn... I just don't think we should be anything more than friends, you know."
-    u ""
-
-# game/v2/scene36.rpy:278
-translate francais v2s36_893425cb:
-
-    # u "We have a lot of fun when we hang out, there's no expectations. I'd prefer to keep it like that."
-    u ""
+    u "I do like you, Autumn... I just don't think we should be anything more than friends, you know."
 
 # game/v2/scene36.rpy:283
-translate francais v2s36_95d55a74:
+translate francais v2s36_c1082277:
 
-    # aut "Yeah, you're not wrong there. We do have a lot of fun. Why mess that up, right?"
-    aut ""
+    # u "We have a lot of fun when we hang out, there's no expectations. I don't want to mess that up."
+    u "We have a lot of fun when we hang out, there's no expectations. I don't want to mess that up."
 
 # game/v2/scene36.rpy:288
+translate francais v2s36_4ca4f15c:
+
+    # aut "Yeah, you're not wrong there. We do have a lot of fun. Be a shame to screw it up, right?"
+    aut "Yeah, you're not wrong there. We do have a lot of fun. Be a shame to screw it up, right?"
+
+# game/v2/scene36.rpy:293
 translate francais v2s36_6b8dc5f2:
 
     # u "Right, yeah. I'm sorry if-"
-    u ""
+    u "Right, yeah. I'm sorry if-"
 
-# game/v2/scene36.rpy:293
+# game/v2/scene36.rpy:298
 translate francais v2s36_4a2ae375:
 
     # aut "No, no. There's nothing to apologize for. You're right, and thanks for being honest."
-    aut ""
-
-# game/v2/scene36.rpy:299
-translate francais v2s36_99220593:
-
-    # aut "You're literally dating my sister anyway, so... Nothing can happen between us, ha."
-    aut ""
+    aut "No, no. There's nothing to apologize for. You're right, and thanks for being honest."
 
 # game/v2/scene36.rpy:304
+translate francais v2s36_bcb54aed:
+
+    # aut "And you're literally dating my sister anyway, so... What am I thinking? *Sighs*"
+    aut "And you're literally dating my sister anyway, so... What am I thinking? *Sighs*"
+
+# game/v2/scene36.rpy:309
 translate francais v2s36_46698d44:
 
     # u "Exactly."
-    u ""
+    u "Exactly."
 
-# game/v2/scene36.rpy:309
+# game/v2/scene36.rpy:314
 translate francais v2s36_f4316fdb:
 
     # aut "Well, I'm going to see you again soon, yeah?"
-    aut ""
+    aut "Well, I'm going to see you again soon, yeah?"
 
-# game/v2/scene36.rpy:314
+# game/v2/scene36.rpy:319
 translate francais v2s36_50af11f5:
 
     # u "Definitely. I'm already looking forward to it."
-    u ""
+    u "Definitely. I'm already looking forward to it."
 
-# game/v2/scene36.rpy:319
-translate francais v2s36_0e5b796b:
+# game/v2/scene36.rpy:324
+translate francais v2s36_d14350bc:
 
-    # aut "Haha, me too."
-    aut ""
+    # aut "Me too."
+    aut "Me too."
 
-# game/v2/scene36.rpy:325
+# game/v2/scene36.rpy:330
 translate francais v2s36_02c8a7b8:
 
     # aut "I get it, you've got questions, ha."
-    aut ""
+    aut "I get it, you've got questions, ha."
 
-# game/v2/scene36.rpy:327
+# game/v2/scene36.rpy:332
 translate francais v2s36_4267f87b:
 
     # aut "I'm just done talking about it for today."
-    aut ""
+    aut "I'm just done talking about it for today."
 
-# game/v2/scene36.rpy:332
+# game/v2/scene36.rpy:337
 translate francais v2s36_aa231e95:
 
     # u "Oh, okay. Sure. Sorry for-."
-    u ""
+    u "Oh, okay. Sure. Sorry for-."
 
-# game/v2/scene36.rpy:337
+# game/v2/scene36.rpy:342
 translate francais v2s36_4bc9c946:
 
     # aut "No, it's fine, really. I just need time to think about it all, you know. Maybe another time."
-    aut ""
+    aut "No, it's fine, really. I just need time to think about it all, you know. Maybe another time."
 
-# game/v2/scene36.rpy:342
+# game/v2/scene36.rpy:347
 translate francais v2s36_fc217a95:
 
     # u "Yeah, I get that. No worries..."
-    u ""
+    u "Yeah, I get that. No worries..."
 
-# game/v2/scene36.rpy:344
+# game/v2/scene36.rpy:349
 translate francais v2s36_ddc9cb73:
 
     # u "So, what was your favorite question from the game tonight?"
-    u ""
-
-# game/v2/scene36.rpy:351
-translate francais v2s36_dontask_0141ec46:
-
-    # aut "Now that I think about it, there were some really crazy ones, haha."
-    aut ""
+    u "So, what was your favorite question from the game tonight?"
 
 # game/v2/scene36.rpy:356
+translate francais v2s36_dontask_3332757b:
+
+    # aut "Now that I think about it, there were some really crazy ones."
+    aut "Now that I think about it, there were some really crazy ones."
+
+# game/v2/scene36.rpy:361
 translate francais v2s36_dontask_fcc18885:
 
     # u "*Laughs*"
-    u ""
-
-# game/v2/scene36.rpy:362
-translate francais v2s36_dontask_dc9e3d3f:
-
-    # aut "The one about getting shit-face drunk and waking up on the other side of the country, haha."
-    aut ""
+    u "*Laughs*"
 
 # game/v2/scene36.rpy:367
-translate francais v2s36_dontask_a9af6953:
+translate francais v2s36_dontask_548fd6b4:
 
-    # u "*Laughs* Because everyone said it would be me?"
-    u ""
+    # aut "The one about getting shit-face drunk and waking up on the other side of the country."
+    aut "The one about getting shit-face drunk and waking up on the other side of the country."
 
 # game/v2/scene36.rpy:372
-translate francais v2s36_dontask_1d15604d:
+translate francais v2s36_dontask_42469f8b:
 
-    # aut "It's only a matter of time. *Giggles*"
-    aut ""
+    # u "Because everyone said it would be me?"
+    u "Because everyone said it would be me?"
 
 # game/v2/scene36.rpy:377
+translate francais v2s36_dontask_6069e744:
+
+    # aut "It's only a matter of time."
+    aut "It's only a matter of time."
+
+# game/v2/scene36.rpy:382
 translate francais v2s36_dontask_d3971cba:
 
     # u "I can see you all taking bets on what state I'll wake up in."
-    u ""
-
-# game/v2/scene36.rpy:382
-translate francais v2s36_dontask_a8459f66:
-
-    # aut "A drunken state... Haha!"
-    aut ""
+    u "I can see you all taking bets on what state I'll wake up in."
 
 # game/v2/scene36.rpy:387
-translate francais v2s36_dontask_4b316295:
+translate francais v2s36_dontask_92120e11:
 
-    # u "Wow... Good one. Haha, I was going to say Missouri."
-    u ""
+    # aut "A drunken state... Get it?!"
+    aut "A drunken state... Get it?!"
 
 # game/v2/scene36.rpy:392
-translate francais v2s36_dontask_987154a8:
+translate francais v2s36_dontask_24387f61:
 
-    # aut "Okay... That was way worse than my cheesy joke..."
-    aut ""
+    # u "Wow... Good one. I was going to say North Carolina. The moonshine state."
+    u "Wow... Good one. I was going to say North Carolina. The moonshine state."
 
-# game/v2/scene36.rpy:403
+# game/v2/scene36.rpy:397
+translate francais v2s36_dontask_43789d64:
+
+    # aut "..."
+    aut "..."
+
+# game/v2/scene36.rpy:399
+translate francais v2s36_dontask_a6d5c136:
+
+    # aut "Took me a second to get that you're talking about the drink, not the sky."
+    aut "Took me a second to get that you're talking about the drink, not the sky."
+
+# game/v2/scene36.rpy:404
+translate francais v2s36_dontask_c155c49f:
+
+    # u "Because you've got your head in the clouds?"
+    u "Because you've got your head in the clouds?"
+
+# game/v2/scene36.rpy:406
+translate francais v2s36_dontask_43789d64_1:
+
+    # aut "..."
+    aut "..."
+
+# game/v2/scene36.rpy:408
+translate francais v2s36_dontask_5e93e669:
+
+    # u "C'mon! I thought that was a good one!"
+    u "C'mon! I thought that was a good one!"
+
+# game/v2/scene36.rpy:419
 translate francais v2s36_dontask_15512958:
 
     # aut "It's gotta be the frogs, haha."
-    aut ""
+    aut "It's gotta be the frogs, haha."
 
-# game/v2/scene36.rpy:405
+# game/v2/scene36.rpy:421
 translate francais v2s36_dontask_b435cab1:
 
     # aut "Little frog adventures? Sign me up!"
-    aut ""
+    aut "Little frog adventures? Sign me up!"
 
-# game/v2/scene36.rpy:410
-translate francais v2s36_dontask_579c92d4:
+# game/v2/scene36.rpy:426
+translate francais v2s36_dontask_2fa3cbaf:
 
-    # u "Ha, what's so good about being a frog?"
-    u ""
+    # u "What's so good about being a frog?"
+    u "What's so good about being a frog?"
 
-# game/v2/scene36.rpy:415
+# game/v2/scene36.rpy:431
 translate francais v2s36_dontask_06302fbe:
 
     # aut "Everything! I wouldn't care if it rained..."
-    aut ""
+    aut "Everything! I wouldn't care if it rained..."
 
-# game/v2/scene36.rpy:420
+# game/v2/scene36.rpy:436
 translate francais v2s36_dontask_17639ef2:
 
     # u "And you could breathe underwater..."
-    u ""
+    u "And you could breathe underwater..."
 
-# game/v2/scene36.rpy:425
+# game/v2/scene36.rpy:441
 translate francais v2s36_dontask_df198500:
 
     # aut "Mhmm... And jumping ability!"
-    aut ""
+    aut "Mhmm... And jumping ability!"
 
-# game/v2/scene36.rpy:430
+# game/v2/scene36.rpy:446
 translate francais v2s36_dontask_a10e7321:
 
     # u "Okay, yeah. You're right. Frogs are kinda sick."
-    u ""
+    u "Okay, yeah. You're right. Frogs are kinda sick."
 
-# game/v2/scene36.rpy:435
-translate francais v2s36_dontask_84bad424:
+# game/v2/scene36.rpy:451
+translate francais v2s36_dontask_1571c03b:
 
-    # aut "Haha, exactly! Just don't let any of the actual frogs hearing you say that..."
-    aut ""
+    # aut "Exactly! Just don't let any of SVC's Frogs hearing you say that... They'll get the wrong idea."
+    aut "Exactly! Just don't let any of SVC's Frogs hearing you say that... They'll get the wrong idea."
 
-# game/v2/scene36.rpy:440
-translate francais v2s36_dontask_19766d8f:
+# game/v2/scene36.rpy:456
+translate francais v2s36_dontask_50ac87f2:
 
-    # u "*Laughs* Good advice, thanks."
-    u ""
+    # u "Good advice, thanks. I'd be laughed out of the frat."
+    u "Good advice, thanks. I'd be laughed out of the frat."
 
-# game/v2/scene36.rpy:450
+# game/v2/scene36.rpy:466
 translate francais v2s36_dontask_ff5455d9:
 
     # aut "Here we are... Thanks for walking me home."
-    aut ""
+    aut "Here we are... Thanks for walking me home."
 
-# game/v2/scene36.rpy:455
+# game/v2/scene36.rpy:471
 translate francais v2s36_dontask_206eefae:
 
     # u "Anytime! Just call me."
-    u ""
+    u "Anytime! Just call me."
 
-# game/v2/scene36.rpy:460
-translate francais v2s36_dontask_e3db5890:
+# game/v2/scene36.rpy:476
+translate francais v2s36_dontask_1766eaaa:
 
-    # aut "Hehe, goodnight, [name]."
-    aut ""
+    # aut "Thanks, goodnight, [name]."
+    aut "Thanks, goodnight, [name]."
 
-# game/v2/scene36.rpy:465
-translate francais v2s36_dontask_e6c2fa42:
+# game/v2/scene36.rpy:481
+translate francais v2s36_dontask_a40a60d9:
 
-    # u "Goodnight, Autumn."
-    u ""
+    # u "Night, Autumn."
+    u "Night, Autumn."
 
 translate francais strings:
 
-    # game/v2/scene36.rpy:57
+    # game/v2/scene36.rpy:59
     old "Oh no, I wasn't"
-    new ""
+    new "Oh no, I wasn't"
 
-    # game/v2/scene36.rpy:57
+    # game/v2/scene36.rpy:59
     old "I'm really curious"
-    new ""
+    new "I'm really curious"
 
-    # game/v2/scene36.rpy:139
+    # game/v2/scene36.rpy:143
     old "I'd like that"
-    new ""
+    new "I'd like that"
 
-    # game/v2/scene36.rpy:139
+    # game/v2/scene36.rpy:143
     old "It's not a good idea"
-    new ""
+    new "It's not a good idea"
 

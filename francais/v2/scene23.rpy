@@ -1,66 +1,48 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene23.rpy:30
-translate francais v2s23_3a0d6ee0:
+translate francais v2s23_977fb4da_1:
 
-    # u "(Well, Halloween was a success... Thankfully I'll never have to wear that costume ever again, haha.)"
-    u ""
+    # u "(Well, Halloween was a success. Thankfully, I'll never have to wear that costume ever again.)"
+    u "(Well, Halloween was a success. Thankfully, I'll never have to wear that costume ever again.)"
 
 # game/v2/scene23.rpy:54
-translate francais v2s23_f5eb3756:
+translate francais v2s23_7dabf636_2:
 
-    # u "(Maybe I should take art next semester...) *Laughs*"
-    u ""
+    # u "(Maybe I should take art next semester...)"
+    u "(Maybe I should take art next semester...)"
 
 # game/v2/scene23.rpy:68
-translate francais v2s23_f5eb3756_1:
+translate francais v2s23_7dabf636_3:
 
-    # u "(Maybe I should take art next semester...) *Laughs*"
-    u ""
+    # u "(Maybe I should take art next semester...)"
+    u "(Maybe I should take art next semester...)"
 
-# game/v2/scene23.rpy:120
-translate francais v2s23_aubrey_text_continue_f4277857:
-
-    # u "(I should reply to Aubrey.)"
-    u ""
-
-# game/v2/scene23.rpy:126
-translate francais v2s23_aubrey_text_continue_aa2eb626:
-
-    # u "(I wonder what the surprise is...)"
-    u ""
-
-# game/v2/scene23.rpy:136
-translate francais v2s23_aubrey_text_continue_d04615c9:
-
-    # u "(Time to find out!)"
-    u ""
-
-# game/v2/scene23.rpy:173
-translate francais v2s23_aubrey_text_continue2_f4277857:
+# game/v2/scene23.rpy:137
+translate francais v2s23_aubrey_text_continue_f4277857_1:
 
     # u "(I should reply to Aubrey.)"
-    u ""
+    u "(I should reply to Aubrey.)"
 
-# game/v2/scene23.rpy:179
-translate francais v2s23_aubrey_text_continue2_aa2eb626:
+# game/v2/scene23.rpy:146
+translate francais v2s23_aubrey_text_continue_aa2eb626_1:
 
     # u "(I wonder what the surprise is...)"
-    u ""
+    u "(I wonder what the surprise is...)"
 
-# game/v2/scene23.rpy:189
-translate francais v2s23_aubrey_text_continue2_d04615c9:
+# game/v2/scene23.rpy:162
+translate francais v2s23_aubrey_text_continue_d04615c9_1:
 
     # u "(Time to find out!)"
-    u ""
+    u "(Time to find out!)"
 
 translate francais strings:
 
     # game/v2/scene23.rpy:42
     old "Draw a happy face"
-    new ""
+    new "Draw a happy face"
 
     # game/v2/scene23.rpy:42
     old "Draw a dick"
-    new ""
+    new "Draw a dick"
 

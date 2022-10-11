@@ -1,1768 +1,1770 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene4.rpy:12
-translate francais v2s4_add61745:
+translate francais v2s4_add61745_1:
 
     # u "(Damn, this place really got an upgrade...)"
-    u ""
+    u "(Damn, this place really got an upgrade...)"
 
 # game/v2/scene4.rpy:17
-translate francais v2s4_c7f99013:
+translate francais v2s4_c7f99013_1:
 
     # u "(Oh, there's Autumn.)"
-    u ""
+    u "(Oh, there's Autumn.)"
 
-# game/v2/scene4.rpy:37
-translate francais v2s4_74ba0b05:
+# game/v2/scene4.rpy:35
+translate francais v2s4_74ba0b05_1:
 
     # u "Hey, there. Need a hand?"
-    u ""
+    u "Hey, there. Need a hand?"
+
+# game/v2/scene4.rpy:40
+translate francais v2s4_44751553_1:
+
+    # aut "Who-"
+    aut "Who-"
 
 # game/v2/scene4.rpy:42
-translate francais v2s4_1f7a9790:
+translate francais v2s4_3e67b102_1:
 
-    # aut "Who- Oh! Hey, [name]! *Chuckles*"
-    aut ""
+    # aut "Oh! Hey, [name]!"
+    aut "Oh! Hey, [name]!"
 
 # game/v2/scene4.rpy:44
-translate francais v2s4_7e7ee1cc:
+translate francais v2s4_af0f8176_1:
 
-    # aut "Yes, please... If you don't mind."
-    aut ""
+    # aut "Yes, please... if you don't mind."
+    aut "Yes, please... if you don't mind."
 
 # game/v2/scene4.rpy:49
-translate francais v2s4_61fdc7f9:
+translate francais v2s4_f7966907_1:
 
-    # u "That's what I'm here for, haha."
-    u ""
+    # u "That's what I'm here for."
+    u "That's what I'm here for."
 
 # game/v2/scene4.rpy:54
-translate francais v2s4_6f7fcee4:
+translate francais v2s4_aa633f12_1:
 
-    # aut "Thank you. *Laughs*"
-    aut ""
+    # aut "Thank you."
+    aut "Thank you."
 
 # game/v2/scene4.rpy:56
-translate francais v2s4_42047e3e:
+translate francais v2s4_60632443_1:
 
-    # aut "Just go ahead and take the top one. That's the heaviest anyway."
-    aut ""
+    # aut "Just go ahead and take the top one. That's the heaviest, anyway."
+    aut "Just go ahead and take the top one. That's the heaviest, anyway."
 
 # game/v2/scene4.rpy:66
-translate francais v2s4_8e9c12a4:
+translate francais v2s4_a92f8386_1:
 
-    # aut "Ahh... So much better, haha."
-    aut ""
+    # aut "Ahhh... so much better."
+    aut "Ahhh... so much better."
 
 # game/v2/scene4.rpy:68
-translate francais v2s4_a12eaf25:
+translate francais v2s4_a12eaf25_1:
 
     # u "(Damn, this is pretty heavy.)"
-    u ""
+    u "(Damn, this is pretty heavy.)"
 
 # game/v2/scene4.rpy:78
-translate francais v2s4_4e44522b:
+translate francais v2s4_4e44522b_1:
 
     # u "What the hell is in here? Bricks?"
-    u ""
+    u "What the hell is in here? Bricks?"
 
 # game/v2/scene4.rpy:83
-translate francais v2s4_58538967:
+translate francais v2s4_58538967_1:
 
     # aut "*Grunts* Yup!"
-    aut ""
+    aut "*Grunts* Yup!"
 
 # game/v2/scene4.rpy:88
-translate francais v2s4_ec72e505:
+translate francais v2s4_ec72e505_1:
 
     # u "Wait, what?"
-    u ""
+    u "Wait, what?"
 
 # game/v2/scene4.rpy:98
-translate francais v2s4_895fd598:
+translate francais v2s4_23eee591_1:
 
-    # aut "Kidding. *Chuckles* It's actually a ton of coffee mugs that we plan to sell at the re-opening."
-    aut ""
+    # aut "Kidding. It's actually a ton of coffee mugs that we plan to sell at the re-opening."
+    aut "Kidding. It's actually a ton of coffee mugs that we plan to sell at the re-opening."
 
 # game/v2/scene4.rpy:107
-translate francais v2s4_1dbe9d11:
+translate francais v2s4_eff47ea9_1:
 
-    # u "Oh... *Chuckles* You think you're funny, huh?"
-    u ""
+    # u "Oh, you think you're funny, huh?"
+    u "Oh, you think you're funny, huh?"
 
 # game/v2/scene4.rpy:112
-translate francais v2s4_e44c60d7:
+translate francais v2s4_e44c60d7_1:
 
     # aut "Oh, please... I know I'm funny."
-    aut ""
+    aut "Oh, please... I know I'm funny."
 
 # game/v2/scene4.rpy:117
-translate francais v2s4_fcc18885:
+translate francais v2s4_61cd9349_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "Ha! Confident."
+    u "Ha! Confident."
 
 # game/v2/scene4.rpy:126
-translate francais v2s4_9743271d:
+translate francais v2s4_690411eb_1:
 
-    # u "Oh, that makes sense *Laughs*"
-    u ""
+    # u "Oh, that makes sense."
+    u "Oh, that makes sense."
 
 # game/v2/scene4.rpy:128
-translate francais v2s4_9e8bd2d7:
+translate francais v2s4_9e8bd2d7_1:
 
     # u "Can I have one?"
-    u ""
+    u "Can I have one?"
 
 # game/v2/scene4.rpy:133
-translate francais v2s4_09d5894f:
+translate francais v2s4_ed2d41b4_1:
 
-    # aut "Haha, sure. Thirty bucks, though."
-    aut ""
+    # aut "Ha, sure. Thirty bucks, though."
+    aut "Ha, sure. Thirty bucks, though."
 
 # game/v2/scene4.rpy:138
-translate francais v2s4_d9acfe5d:
+translate francais v2s4_d9acfe5d_1:
 
     # u "Thirty bucks?!"
-    u ""
+    u "Thirty bucks?!"
 
 # game/v2/scene4.rpy:143
-translate francais v2s4_d5f63e06:
+translate francais v2s4_48ad1123_1:
 
-    # aut "Hey, it's not cheap to run a non-profit. *Chuckles*"
-    aut ""
+    # aut "Hey, it's not cheap to run a non-profit."
+    aut "Hey, it's not cheap to run a non-profit."
 
 # game/v2/scene4.rpy:148
-translate francais v2s4_f41f777e:
+translate francais v2s4_f41f777e_1:
 
     # u "Yeah, yeah... I get it."
-    u ""
+    u "Yeah, yeah... I get it."
 
 # game/v2/scene4.rpy:153
-translate francais v2s4_72e7991a:
+translate francais v2s4_9fec9015_1:
 
-    # aut "Haha, I'll give you a mug at the re-opening. Promise."
-    aut ""
+    # aut "I'll give you a mug at the re-opening. Promise."
+    aut "I'll give you a mug at the re-opening. Promise."
 
-# game/v2/scene4.rpy:161
-translate francais v2s4_ee07622e:
+# game/v2/scene4.rpy:164
+translate francais v2s4_ee07622e_1:
 
     # u "Hey, Autumn."
-    u ""
+    u "Hey, Autumn."
 
-# game/v2/scene4.rpy:166
-translate francais v2s4_2f9653ac:
+# game/v2/scene4.rpy:169
+translate francais v2s4_2f9653ac_1:
 
     # aut "Oh! Hey, [name]. *Grunts* Thanks for coming..."
-    aut ""
+    aut "Oh! Hey, [name]. *Grunts* Thanks for coming..."
 
-# game/v2/scene4.rpy:171
-translate francais v2s4_9c88a542:
+# game/v2/scene4.rpy:174
+translate francais v2s4_9c88a542_1:
 
     # u "No problem, how's everything going so far?"
-    u ""
+    u "No problem, how's everything going so far?"
 
-# game/v2/scene4.rpy:183
-translate francais v2s4_89ba2d92:
+# game/v2/scene4.rpy:186
+translate francais v2s4_89ba2d92_1:
 
     # aut "Oh no..."
-    aut ""
+    aut "Oh no..."
 
-# game/v2/scene4.rpy:188
-translate francais v2s4_2c87197c:
+# game/v2/scene4.rpy:191
+translate francais v2s4_2c87197c_1:
 
     # u "That doesn't sound too good..."
-    u ""
+    u "That doesn't sound too good..."
 
-# game/v2/scene4.rpy:193
-translate francais v2s4_f6457ff1:
+# game/v2/scene4.rpy:196
+translate francais v2s4_f6457ff1_1:
 
     # aut "It's the sound of three broken coffee mugs... *Sighs*"
-    aut ""
+    aut "It's the sound of three broken coffee mugs... *Sighs*"
 
-# game/v2/scene4.rpy:195
-translate francais v2s4_fc664c33:
+# game/v2/scene4.rpy:198
+translate francais v2s4_fc664c33_1:
 
     # aut "It's going great so far! Can't you tell? Ha..."
-    aut ""
+    aut "It's going great so far! Can't you tell? Ha..."
 
-# game/v2/scene4.rpy:205
-translate francais v2s4_dd77a1d2:
+# game/v2/scene4.rpy:208
+translate francais v2s4_dd77a1d2_1:
 
     # u "I'm sorry, I should have-"
-    u ""
+    u "I'm sorry, I should have-"
 
-# game/v2/scene4.rpy:220
-translate francais v2s4_d972f87f:
+# game/v2/scene4.rpy:223
+translate francais v2s4_d972f87f_1:
 
     # aut "No, no, no... I'm sorry."
-    aut ""
+    aut "No, no, no... I'm sorry."
 
-# game/v2/scene4.rpy:225
-translate francais v2s4_5ac4c6aa:
+# game/v2/scene4.rpy:228
+translate francais v2s4_24941d40_1:
 
-    # aut "This has nothing to do with you. *Chuckles* Thanks for being here."
-    aut ""
+    # aut "This has nothing to do with you. Thanks for being here."
+    aut "This has nothing to do with you. Thanks for being here."
 
-# game/v2/scene4.rpy:234
-translate francais v2s4_790d40d7:
+# game/v2/scene4.rpy:240
+translate francais v2s4_18b0cddf_1:
 
-    # u "Just take a deep breath, haha. It's not the end of the world."
-    u ""
+    # u "Just take a deep breath, ha. It's not the end of the world."
+    u "Just take a deep breath, ha. It's not the end of the world."
 
-# game/v2/scene4.rpy:239
-translate francais v2s4_c6303ea3:
+# game/v2/scene4.rpy:245
+translate francais v2s4_c6303ea3_1:
 
     # aut "No, it's not. But it is special merchandise that we handmade to sell at the re-opening..."
-    aut ""
+    aut "No, it's not. But it is special merchandise that we handmade to sell at the re-opening..."
 
-# game/v2/scene4.rpy:244
-translate francais v2s4_0663206e:
+# game/v2/scene4.rpy:250
+translate francais v2s4_c69a3d3d_1:
 
-    # u "Oh... Shit. Well, how much are they worth? Can you just-"
-    u ""
+    # u "Oh... shit. Well, how much are they worth? Can you just-"
+    u "Oh... shit. Well, how much are they worth? Can you just-"
 
-# game/v2/scene4.rpy:249
-translate francais v2s4_bbeacd96:
+# game/v2/scene4.rpy:255
+translate francais v2s4_a222d731_1:
 
-    # aut "Thirty bucks, ha."
-    aut ""
+    # aut "Thirty bucks."
+    aut "Thirty bucks."
 
-# game/v2/scene4.rpy:251
-translate francais v2s4_7e5244df:
+# game/v2/scene4.rpy:257
+translate francais v2s4_1c695b76_1:
 
-    # aut "But... Yeah. I'll pay it off, don't worry."
-    aut ""
+    # aut "But... yeah. I'll pay it off, don't worry."
+    aut "But... yeah. I'll pay it off, don't worry."
 
-# game/v2/scene4.rpy:256
-translate francais v2s4_0ef59d9d:
+# game/v2/scene4.rpy:262
+translate francais v2s4_0ef59d9d_1:
 
     # u "Thirty dollars for a coffee mug?!"
-    u ""
+    u "Thirty dollars for a coffee mug?!"
 
-# game/v2/scene4.rpy:261
-translate francais v2s4_36f04b6f:
+# game/v2/scene4.rpy:267
+translate francais v2s4_36f04b6f_1:
 
     # aut "Mhmm. Anyway..."
-    aut ""
+    aut "Mhmm. Anyway..."
 
-# game/v2/scene4.rpy:263
-translate francais v2s4_dd0ed68e:
+# game/v2/scene4.rpy:269
+translate francais v2s4_dd0ed68e_1:
 
     # u "(I think she's over this conversation...)"
-    u ""
+    u "(I think she's over this conversation...)"
 
-# game/v2/scene4.rpy:268
-translate francais v2s4_08bd9a50:
+# game/v2/scene4.rpy:274
+translate francais v2s4_08bd9a50_1:
 
     # u "So, what's first on our list of things to do?"
-    u ""
+    u "So, what's first on our list of things to do?"
 
-# game/v2/scene4.rpy:273
-translate francais v2s4_d82c2cef:
+# game/v2/scene4.rpy:279
+translate francais v2s4_63b606ab_1:
 
-    # aut "Our list... *Chuckles*"
-    aut ""
+    # aut "Our list..."
+    aut "Our list..."
 
-# game/v2/scene4.rpy:278
-translate francais v2s4_ef2f1671:
+# game/v2/scene4.rpy:284
+translate francais v2s4_ef2f1671_1:
 
     # u "What?"
-    u ""
+    u "What?"
 
-# game/v2/scene4.rpy:283
-translate francais v2s4_b89f3c10:
+# game/v2/scene4.rpy:289
+translate francais v2s4_b89f3c10_1:
 
     # aut "Nothing. It's just..."
-    aut ""
+    aut "Nothing. It's just..."
 
-# game/v2/scene4.rpy:285
-translate francais v2s4_f0e12ce6:
+# game/v2/scene4.rpy:291
+translate francais v2s4_f0e12ce6_1:
 
     # aut "I'm not used to having help, I guess. I don't usually rely on other people."
-    aut ""
+    aut "I'm not used to having help, I guess. I don't usually rely on other people."
 
-# game/v2/scene4.rpy:290
-translate francais v2s4_e909fe0e:
+# game/v2/scene4.rpy:296
+translate francais v2s4_e909fe0e_1:
 
     # u "Well today, you can."
-    u ""
+    u "Well today, you can."
 
-# game/v2/scene4.rpy:292
-translate francais v2s4_67e886c2:
+# game/v2/scene4.rpy:298
+translate francais v2s4_67e886c2_1:
 
     # u "So, first?"
-    u ""
+    u "So, first?"
 
-# game/v2/scene4.rpy:297
-translate francais v2s4_a2901dd0:
+# game/v2/scene4.rpy:303
+translate francais v2s4_a2901dd0_1:
 
     # aut "First... Blue. Follow me."
-    aut ""
+    aut "First... Blue. Follow me."
 
-# game/v2/scene4.rpy:312
-translate francais v2s4_5f17e8eb:
+# game/v2/scene4.rpy:318
+translate francais v2s4_5f17e8eb_1:
 
     # u "Oh my..."
-    u ""
+    u "Oh my..."
 
-# game/v2/scene4.rpy:317
-translate francais v2s4_c1491939:
+# game/v2/scene4.rpy:323
+translate francais v2s4_c1491939_1:
 
     # aut "We found this little guy on the side of the road last night."
-    aut ""
+    aut "We found this little guy on the side of the road last night."
 
-# game/v2/scene4.rpy:322
-translate francais v2s4_b29df47b:
+# game/v2/scene4.rpy:328
+translate francais v2s4_82c853eb_1:
 
-    # aut "Hi! Hello! *Chuckles* Cutie..."
-    aut ""
+    # aut "Hi! Hello! Cutie..."
+    aut "Hi! Hello! Cutie..."
 
-# game/v2/scene4.rpy:331
-translate francais v2s4_eb41e2dc:
+# game/v2/scene4.rpy:337
+translate francais v2s4_e2397797_1:
 
-    # u "He is adorable, not gonna lie. *Laughs*"
-    u ""
+    # u "He is adorable, not gonna lie."
+    u "He is adorable, not gonna lie."
 
-# game/v2/scene4.rpy:336
-translate francais v2s4_6280dc76:
+# game/v2/scene4.rpy:342
+translate francais v2s4_6280dc76_1:
 
     # aut "How could someone give up on you, bud?"
-    aut ""
+    aut "How could someone give up on you, bud?"
 
-# game/v2/scene4.rpy:344
-translate francais v2s4_5ceb7c71:
+# game/v2/scene4.rpy:350
+translate francais v2s4_5ceb7c71_1:
 
     # u "You? Or the dog?"
-    u ""
+    u "You? Or the dog?"
 
-# game/v2/scene4.rpy:352
-translate francais v2s4_08518a2b:
+# game/v2/scene4.rpy:358
+translate francais v2s4_08518a2b_1:
 
     # aut "Ha. Good one, [name]. You should use it on my sister next time."
-    aut ""
-
-# game/v2/scene4.rpy:357
-translate francais v2s4_247dad18:
-
-    # u "Yeah, for sure. Ha! She'd like that..."
-    u ""
+    aut "Ha. Good one, [name]. You should use it on my sister next time."
 
 # game/v2/scene4.rpy:363
-translate francais v2s4_fc1bdb63:
+translate francais v2s4_d2de9909_1:
+
+    # u "Yeah, for sure. She'd like that..."
+    u "Yeah, for sure. She'd like that..."
+
+# game/v2/scene4.rpy:369
+translate francais v2s4_fc1bdb63_1:
 
     # aut "Hmm... Both?"
-    aut ""
+    aut "Hmm... Both?"
 
-# game/v2/scene4.rpy:368
-translate francais v2s4_12b88fe1:
+# game/v2/scene4.rpy:374
+translate francais v2s4_12b88fe1_1:
 
     # u "Fair."
-    u ""
+    u "Fair."
 
-# game/v2/scene4.rpy:373
-translate francais v2s4_149deff5:
+# game/v2/scene4.rpy:379
+translate francais v2s4_b334e358_1:
 
-    # aut "*Chuckles* Hopefully we can find you a good home."
-    aut ""
+    # aut "Hopefully we can find you a good home."
+    aut "Hopefully we can find you a good home."
 
-# game/v2/scene4.rpy:382
-translate francais v2s4_fa30eb21:
+# game/v2/scene4.rpy:388
+translate francais v2s4_fa6e1da2_1:
 
-    # u "Pfft, good luck with that. *Laughs*"
-    u ""
+    # u "Pfft, good luck with that."
+    u "Pfft, good luck with that."
 
-# game/v2/scene4.rpy:387
-translate francais v2s4_2705b5eb:
+# game/v2/scene4.rpy:393
+translate francais v2s4_2705b5eb_1:
 
     # aut "Don't be mean! He's had a hard life..."
-    aut ""
+    aut "Don't be mean! He's had a hard life..."
 
-# game/v2/scene4.rpy:392
-translate francais v2s4_d00a9673:
+# game/v2/scene4.rpy:398
+translate francais v2s4_84bb5982_1:
 
-    # u "Yeah, I can tell. Haha."
-    u ""
+    # u "Yeah, I can tell."
+    u "Yeah, I can tell."
 
-# game/v2/scene4.rpy:397
-translate francais v2s4_11da7db8:
+# game/v2/scene4.rpy:403
+translate francais v2s4_11da7db8_1:
 
     # aut "*Whispers* I promise I'll try my best, okay?"
-    aut ""
-
-# game/v2/scene4.rpy:411
-translate francais v2s4_70a02736:
-
-    # u "We will, I know it."
-    u ""
+    aut "*Whispers* I promise I'll try my best, okay?"
 
 # game/v2/scene4.rpy:416
-translate francais v2s4_470ebb50:
+translate francais v2s4_70a02736_1:
 
-    # aut "*Chuckles* Yeah?"
-    aut ""
+    # u "We will, I know it."
+    u "We will, I know it."
 
 # game/v2/scene4.rpy:421
-translate francais v2s4_55461223:
+translate francais v2s4_03127902_1:
 
-    # u "Yeah. In fact..."
-    u ""
+    # aut "Yeah?"
+    aut "Yeah?"
 
 # game/v2/scene4.rpy:426
-translate francais v2s4_2a20ca4e:
+translate francais v2s4_55461223_1:
+
+    # u "Yeah. In fact..."
+    u "Yeah. In fact..."
+
+# game/v2/scene4.rpy:431
+translate francais v2s4_2a20ca4e_1:
 
     # u "*Whispers* I'll make sure of it, okay?"
-    u ""
+    u "*Whispers* I'll make sure of it, okay?"
 
-# game/v2/scene4.rpy:441
-translate francais v2s4_4d555492:
+# game/v2/scene4.rpy:446
+translate francais v2s4_4d555492_1:
 
     # aut "He was starving when we found him..."
-    aut ""
-
-# game/v2/scene4.rpy:443
-translate francais v2s4_3f9c4038:
-
-    # aut "He already ate three servings of food throughout the night, haha."
-    aut ""
+    aut "He was starving when we found him..."
 
 # game/v2/scene4.rpy:448
-translate francais v2s4_e99d6f51:
+translate francais v2s4_8ae59ebf_1:
 
-    # u "Good. Well, I mean, not good. But-"
-    u ""
+    # aut "He already ate three servings of food through the night."
+    aut "He already ate three servings of food through the night."
 
 # game/v2/scene4.rpy:453
-translate francais v2s4_fe3627a3:
+translate francais v2s4_e99d6f51_1:
 
-    # aut "*Laughs* I got you."
-    aut ""
+    # u "Good. Well, I mean, not good. But-"
+    u "Good. Well, I mean, not good. But-"
 
 # game/v2/scene4.rpy:458
-translate francais v2s4_5593d4df:
+translate francais v2s4_21877bb1_1:
 
-    # u "He looks a bit muddy. Does he not need a bath?"
-    u ""
+    # aut "I got you."
+    aut "I got you."
 
 # game/v2/scene4.rpy:463
-translate francais v2s4_ee229509:
+translate francais v2s4_5593d4df_1:
+
+    # u "He looks a bit muddy. Does he not need a bath?"
+    u "He looks a bit muddy. Does he not need a bath?"
+
+# game/v2/scene4.rpy:468
+translate francais v2s4_ee229509_1:
 
     # aut "Yeah, he does, but he seems to have some sort of trauma associated the bathtub... he refuses to get in."
-    aut ""
-
-# game/v2/scene4.rpy:465
-translate francais v2s4_172881df:
-
-    # aut "We might have to warn his future owner about that, haha."
-    aut ""
+    aut "Yeah, he does, but he seems to have some sort of trauma associated the bathtub... he refuses to get in."
 
 # game/v2/scene4.rpy:470
-translate francais v2s4_063616f6:
+translate francais v2s4_47767f62_1:
 
-    # u "Wow, seems like he's a bit of a rebel."
-    u ""
+    # aut "We might have to warn his future owner about that."
+    aut "We might have to warn his future owner about that."
 
 # game/v2/scene4.rpy:475
-translate francais v2s4_1d6128a7:
+translate francais v2s4_f703b90c_1:
 
-    # aut "Yeah, he is. Little Blue."
-    aut ""
+    # u "Wow. Seems like he's a bit of a rebel."
+    u "Wow. Seems like he's a bit of a rebel."
 
 # game/v2/scene4.rpy:480
-translate francais v2s4_9d0e4eee:
+translate francais v2s4_1d6128a7_1:
 
-    # u "Blue?"
-    u ""
+    # aut "Yeah, he is. Little Blue."
+    aut "Yeah, he is. Little Blue."
 
 # game/v2/scene4.rpy:485
-translate francais v2s4_6e671596:
+translate francais v2s4_9d0e4eee_1:
 
-    # aut "Oh, haha. I've just been calling him that today."
-    aut ""
+    # u "Blue?"
+    u "Blue?"
 
 # game/v2/scene4.rpy:490
-translate francais v2s4_a7d0e220:
+translate francais v2s4_c29e38c1_1:
 
-    # u "Why Blue?"
-    u ""
+    # aut "Oh. I've just been calling him that today."
+    aut "Oh. I've just been calling him that today."
 
 # game/v2/scene4.rpy:495
-translate francais v2s4_003d47c2:
+translate francais v2s4_a7d0e220_1:
 
-    # aut "I mean, he was so sad when we found him. I instantly thought like, he's got the blues."
-    aut ""
+    # u "Why Blue?"
+    u "Why Blue?"
 
 # game/v2/scene4.rpy:500
-translate francais v2s4_fcc18885_1:
+translate francais v2s4_305e8f0f_1:
 
-    # u "*Laughs*"
-    u ""
+    # aut "I mean, he was so sad when we found him. I instantly thought, like, he's got the blues."
+    aut "I mean, he was so sad when we found him. I instantly thought, like, he's got the blues."
 
 # game/v2/scene4.rpy:505
-translate francais v2s4_e0aa292a:
+translate francais v2s4_542373b8_1:
 
-    # aut "What?! *Chuckles*"
-    aut ""
+    # u "Ha, wow."
+    u "Ha, wow."
 
 # game/v2/scene4.rpy:510
-translate francais v2s4_7afa8468:
+translate francais v2s4_95aeac1c_1:
 
-    # u "He's got the blues? Haha... That's the reason?"
-    u ""
+    # aut "What?"
+    aut "What?"
 
 # game/v2/scene4.rpy:515
-translate francais v2s4_067cbc5e:
+translate francais v2s4_cca0620f_1:
 
-    # aut "Well, he also prefers his blue bone over any other toy we offer him. So-"
-    aut ""
+    # u "He's got the blues? That's the reason?"
+    u "He's got the blues? That's the reason?"
 
 # game/v2/scene4.rpy:520
-translate francais v2s4_6d26b8d1:
+translate francais v2s4_067cbc5e_1:
 
-    # u "Okay, next time someone asks, just start with that. *Laughs*"
-    u ""
+    # aut "Well, he also prefers his blue bone over any other toy we offer him. So-"
+    aut "Well, he also prefers his blue bone over any other toy we offer him. So-"
 
 # game/v2/scene4.rpy:525
-translate francais v2s4_a27dc41a:
+translate francais v2s4_26cd7f53_1:
 
-    # aut "*Chuckles* Okay, smartass."
-    aut ""
+    # u "Okay, next time someone asks, just start with that."
+    u "Okay, next time someone asks, just start with that."
 
-# game/v2/scene4.rpy:527
-translate francais v2s4_9b214853:
+# game/v2/scene4.rpy:530
+translate francais v2s4_26aea4de_1:
+
+    # aut "Okay, smartass."
+    aut "Okay, smartass."
+
+# game/v2/scene4.rpy:532
+translate francais v2s4_9b214853_1:
 
     # aut "You think we should change it to something else?"
-    aut ""
-
-# game/v2/scene4.rpy:537
-translate francais v2s4_f966028f:
-
-    # u "No, let's not. I kinda like Blue, actually."
-    u ""
+    aut "You think we should change it to something else?"
 
 # game/v2/scene4.rpy:542
-translate francais v2s4_968c201a:
+translate francais v2s4_f966028f_1:
 
-    # aut "Good, me too."
-    aut ""
+    # u "No, let's not. I kinda like Blue, actually."
+    u "No, let's not. I kinda like Blue, actually."
 
 # game/v2/scene4.rpy:547
-translate francais v2s4_69bc97b8:
+translate francais v2s4_968c201a_1:
 
-    # aut "Okay, Blue. I'll be back later to play with you and take you for a walk."
-    aut ""
+    # aut "Good, me too."
+    aut "Good, me too."
 
 # game/v2/scene4.rpy:552
-translate francais v2s4_3793550c:
+translate francais v2s4_69bc97b8_1:
+
+    # aut "Okay, Blue. I'll be back later to play with you and take you for a walk."
+    aut "Okay, Blue. I'll be back later to play with you and take you for a walk."
+
+# game/v2/scene4.rpy:557
+translate francais v2s4_3793550c_1:
 
     # u "Bye, Blue!"
-    u ""
-
-# game/v2/scene4.rpy:560
-translate francais v2s4_40f504c2:
-
-    # u "Yeah, I think we should."
-    u ""
+    u "Bye, Blue!"
 
 # game/v2/scene4.rpy:565
-translate francais v2s4_055b598d:
+translate francais v2s4_40f504c2_1:
 
-    # aut "Okay, what should we call him then?"
-    aut ""
+    # u "Yeah, I think we should."
+    u "Yeah, I think we should."
 
-# game/v2/scene4.rpy:574
-translate francais v2s4_dog_369102fe:
+# game/v2/scene4.rpy:570
+translate francais v2s4_ff1d42ac_1:
+
+    # aut "Okay. What should we call him, then?"
+    aut "Okay. What should we call him, then?"
+
+# game/v2/scene4.rpy:579
+translate francais v2s4_dog_369102fe_1:
 
     # u "(I should come up with a better name than that...)"
-    u ""
+    u "(I should come up with a better name than that...)"
 
-# game/v2/scene4.rpy:581
-translate francais v2s4_dog_235d0172:
+# game/v2/scene4.rpy:586
+translate francais v2s4_dog_235d0172_1:
 
     # u "He looks like an [dog_name] to me."
-    u ""
+    u "He looks like an [dog_name] to me."
 
-# game/v2/scene4.rpy:583
-translate francais v2s4_dog_00352a6f:
+# game/v2/scene4.rpy:588
+translate francais v2s4_dog_00352a6f_1:
 
     # u "He looks like a [dog_name] to me."
-    u ""
+    u "He looks like a [dog_name] to me."
 
-# game/v2/scene4.rpy:589
-translate francais v2s4_dog_09e52ce2:
+# game/v2/scene4.rpy:594
+translate francais v2s4_dog_09e52ce2_6:
 
     # aut "[dog_name]?!"
-    aut ""
+    aut "[dog_name]?!"
 
-# game/v2/scene4.rpy:591
-translate francais v2s4_dog_0e126548:
+# game/v2/scene4.rpy:596
+translate francais v2s4_dog_838f378b_1:
 
-    # aut "We already had one, I don't want to get confused. *Chuckles*"
-    aut ""
+    # aut "We already had one, I don't want to get confused."
+    aut "We already had one, I don't want to get confused."
 
-# game/v2/scene4.rpy:593
-translate francais v2s4_dog_572c4d8f:
+# game/v2/scene4.rpy:598
+translate francais v2s4_dog_572c4d8f_1:
 
     # aut "Try a different name."
-    aut ""
+    aut "Try a different name."
 
-# game/v2/scene4.rpy:601
-translate francais v2s4_dog_09e52ce2_1:
+# game/v2/scene4.rpy:606
+translate francais v2s4_dog_09e52ce2_7:
 
     # aut "[dog_name]?!"
-    aut ""
-
-# game/v2/scene4.rpy:603
-translate francais v2s4_dog_b3d07699:
-
-    # aut "Well, you two do look a bit alike. *Laughs*"
-    aut ""
+    aut "[dog_name]?!"
 
 # game/v2/scene4.rpy:608
-translate francais v2s4_dog_8f602a62:
+translate francais v2s4_dog_365f7553_1:
 
-    # u "Hahahah."
-    u ""
+    # aut "Well, you two do look a bit alike."
+    aut "Well, you two do look a bit alike."
 
-# game/v2/scene4.rpy:614
-translate francais v2s4_dog_09e52ce2_2:
-
-    # aut "[dog_name]?!"
-    aut ""
-
-# game/v2/scene4.rpy:616
-translate francais v2s4_dog_3d7f1165:
-
-    # aut "You're an idiot."
-    aut ""
-
-# game/v2/scene4.rpy:621
+# game/v2/scene4.rpy:613
 translate francais v2s4_dog_8f602a62_1:
 
     # u "Hahahah."
-    u ""
+    u "Hahahah."
 
-# game/v2/scene4.rpy:627
-translate francais v2s4_dog_09e52ce2_3:
+# game/v2/scene4.rpy:622
+translate francais v2s4_dog_09e52ce2_8:
 
     # aut "[dog_name]?!"
-    aut ""
+    aut "[dog_name]?!"
 
-# game/v2/scene4.rpy:632
-translate francais v2s4_dog_26f56125:
+# game/v2/scene4.rpy:624
+translate francais v2s4_dog_3d7f1165_1:
 
-    # u "I thought I'd give him a new coat of paint."
-    u ""
+    # aut "You're an idiot."
+    aut "You're an idiot."
 
-# game/v2/scene4.rpy:637
-translate francais v2s4_dog_567095ea:
+# game/v2/scene4.rpy:629
+translate francais v2s4_dog_b574930e_1:
 
-    # aut "*Laughs*"
-    aut ""
+    # u "Guilty as charged."
+    u "Guilty as charged."
+
+# game/v2/scene4.rpy:638
+translate francais v2s4_dog_09e52ce2_9:
+
+    # aut "[dog_name]?!"
+    aut "[dog_name]?!"
 
 # game/v2/scene4.rpy:643
-translate francais v2s4_dog_09e52ce2_4:
+translate francais v2s4_dog_26f56125_1:
+
+    # u "I thought I'd give him a new coat of paint."
+    u "I thought I'd give him a new coat of paint."
+
+# game/v2/scene4.rpy:648
+translate francais v2s4_dog_2e9c6bd7_1:
+
+    # aut "Clever!"
+    aut "Clever!"
+
+# game/v2/scene4.rpy:654
+translate francais v2s4_dog_09e52ce2_10:
 
     # aut "[dog_name]?!"
-    aut ""
-
-# game/v2/scene4.rpy:645
-translate francais v2s4_dog_85393b02:
-
-    # aut "That's so original... *Chuckles*"
-    aut ""
-
-# game/v2/scene4.rpy:650
-translate francais v2s4_dog_8f602a62_2:
-
-    # u "Hahahah."
-    u ""
+    aut "[dog_name]?!"
 
 # game/v2/scene4.rpy:656
-translate francais v2s4_dog_09e52ce2_5:
+translate francais v2s4_dog_728f4b79_1:
+
+    # aut "That's so original..."
+    aut "That's so original..."
+
+# game/v2/scene4.rpy:661
+translate francais v2s4_dog_3e5b255d_1:
+
+    # u "It is to the little fuzzbelly."
+    u "It is to the little fuzzbelly."
+
+# game/v2/scene4.rpy:670
+translate francais v2s4_dog_09e52ce2_11:
 
     # aut "[dog_name]?!"
-    aut ""
+    aut "[dog_name]?!"
 
-# game/v2/scene4.rpy:658
-translate francais v2s4_dog_492e820b:
+# game/v2/scene4.rpy:672
+translate francais v2s4_dog_492e820b_1:
 
     # aut "That's a mouthful. I'll try to remember it."
-    aut ""
+    aut "That's a mouthful. I'll try to remember it."
 
-# game/v2/scene4.rpy:663
-translate francais v2s4_dog_8f602a62_3:
+# game/v2/scene4.rpy:677
+translate francais v2s4_dog_5559650f_1:
 
-    # u "Hahahah."
-    u ""
+    # u "Try to keep up."
+    u "Try to keep up."
 
-# game/v2/scene4.rpy:669
-translate francais v2s4_dog_e1341206:
+# game/v2/scene4.rpy:686
+translate francais v2s4_dog_e1341206_1:
 
     # aut "[dog_name]? Huh..."
-    aut ""
-
-# game/v2/scene4.rpy:671
-translate francais v2s4_dog_606ad022:
-
-    # aut "It's weirdly perfect..."
-    aut ""
-
-# game/v2/scene4.rpy:676
-translate francais v2s4_dog_62dc5593:
-
-    # u "Right? *Chuckles*"
-    u ""
-
-# game/v2/scene4.rpy:681
-translate francais v2s4_dog_c7516217:
-
-    # aut "Okay, [dog_name], I'll be back later to play with you and take you for a walk."
-    aut ""
-
-# game/v2/scene4.rpy:683
-translate francais v2s4_dog_4b231b01:
-
-    # aut "And possibly bathe you, if you ever let me."
-    aut ""
+    aut "[dog_name]? Huh..."
 
 # game/v2/scene4.rpy:688
-translate francais v2s4_dog_410afdf0:
+translate francais v2s4_dog_606ad022_1:
 
-    # u "Bye, [dog_name]."
-    u ""
+    # aut "It's weirdly perfect..."
+    aut "It's weirdly perfect..."
+
+# game/v2/scene4.rpy:693
+translate francais v2s4_dog_be5b18a9_1:
+
+    # u "Right?"
+    u "Right?"
 
 # game/v2/scene4.rpy:698
-translate francais v2s4_dog_78d4d55f:
+translate francais v2s4_dog_c7516217_1:
+
+    # aut "Okay, [dog_name], I'll be back later to play with you and take you for a walk."
+    aut "Okay, [dog_name], I'll be back later to play with you and take you for a walk."
+
+# game/v2/scene4.rpy:700
+translate francais v2s4_dog_4b231b01_1:
+
+    # aut "And possibly bathe you, if you ever let me."
+    aut "And possibly bathe you, if you ever let me."
+
+# game/v2/scene4.rpy:705
+translate francais v2s4_dog_410afdf0_1:
+
+    # u "Bye, [dog_name]."
+    u "Bye, [dog_name]."
+
+# game/v2/scene4.rpy:715
+translate francais v2s4_dog_78d4d55f_1:
 
     # u "So, what's next?"
-    u ""
+    u "So, what's next?"
 
-# game/v2/scene4.rpy:703
-translate francais v2s4_dog_cf34bc61:
+# game/v2/scene4.rpy:720
+translate francais v2s4_dog_cf34bc61_1:
 
     # aut "We have a huge banner to hang up and I could really use your help with that, so let's get it done really quick."
-    aut ""
-
-# game/v2/scene4.rpy:713
-translate francais v2s4_dog_a0fed960:
-
-    # aut "Hold it tight!"
-    aut ""
-
-# game/v2/scene4.rpy:725
-translate francais v2s4_dog_375a4a0e:
-
-    # u "Hey, wanna hear a joke?"
-    u ""
+    aut "We have a huge banner to hang up and I could really use your help with that, so let's get it done really quick."
 
 # game/v2/scene4.rpy:730
-translate francais v2s4_dog_365d9cd3:
+translate francais v2s4_dog_a0fed960_1:
+
+    # aut "Hold it tight!"
+    aut "Hold it tight!"
+
+# game/v2/scene4.rpy:742
+translate francais v2s4_dog_375a4a0e_1:
+
+    # u "Hey, wanna hear a joke?"
+    u "Hey, wanna hear a joke?"
+
+# game/v2/scene4.rpy:747
+translate francais v2s4_dog_365d9cd3_1:
 
     # aut "Ha. Okay, sure."
-    aut ""
+    aut "Ha. Okay, sure."
 
-# game/v2/scene4.rpy:735
-translate francais v2s4_dog_67118760:
+# game/v2/scene4.rpy:752
+translate francais v2s4_dog_67118760_1:
 
     # u "Did you hear about the dog that had a hangover?"
-    u ""
+    u "Did you hear about the dog that had a hangover?"
 
-# game/v2/scene4.rpy:740
-translate francais v2s4_dog_b767881f:
+# game/v2/scene4.rpy:757
+translate francais v2s4_dog_b767881f_1:
 
     # aut "Hmm, nope."
-    aut ""
+    aut "Hmm, nope."
 
-# game/v2/scene4.rpy:745
-translate francais v2s4_dog_fe4a62c3:
+# game/v2/scene4.rpy:762
+translate francais v2s4_dog_fe4a62c3_1:
 
     # u "He said he was feeling ruff!"
-    u ""
+    u "He said he was feeling ruff!"
 
-# game/v2/scene4.rpy:750
-translate francais v2s4_dog_69dbbe7f:
+# game/v2/scene4.rpy:767
+translate francais v2s4_dog_01763330_1:
 
-    # aut "*Laughs* You owe me for having to listen to that."
-    aut ""
+    # aut "You owe me for having to listen to that."
+    aut "You owe me for having to listen to that."
 
-# game/v2/scene4.rpy:765
-translate francais v2s4_dog_6b11968b:
+# game/v2/scene4.rpy:782
+translate francais v2s4_dog_6b11968b_1:
 
     # aut "We did it!"
-    aut ""
+    aut "We did it!"
 
-# game/v2/scene4.rpy:770
-translate francais v2s4_dog_a9a3ff95:
+# game/v2/scene4.rpy:787
+translate francais v2s4_dog_d0c7bb6b_1:
 
-    # u "Well, you did it. I just held a ladder... Haha."
-    u ""
+    # u "Well, you did it. I just held a ladder."
+    u "Well, you did it. I just held a ladder."
 
-# game/v2/scene4.rpy:775
-translate francais v2s4_dog_e3ab7b7a:
+# game/v2/scene4.rpy:792
+translate francais v2s4_dog_00a92d77_1:
 
-    # aut "Exactly, we did great. *Chuckles* Good job."
-    aut ""
+    # aut "Exactly, we did great. Good job."
+    aut "Exactly, we did great. Good job."
 
-# game/v2/scene4.rpy:785
-translate francais v2s4_dog_7ecf797d:
+# game/v2/scene4.rpy:802
+translate francais v2s4_dog_7ecf797d_1:
 
     # aut "And don't worry, we're both about to do some real work. Ready?"
-    aut ""
+    aut "And don't worry, we're both about to do some real work. Ready?"
 
-# game/v2/scene4.rpy:790
-translate francais v2s4_dog_c7af5253:
+# game/v2/scene4.rpy:807
+translate francais v2s4_dog_c7af5253_1:
 
     # u "As I'll ever be."
-    u ""
+    u "As I'll ever be."
 
-# game/v2/scene4.rpy:800
-translate francais v2s4_dog_1b868044:
+# game/v2/scene4.rpy:817
+translate francais v2s4_dog_1b868044_1:
 
     # u "(I mean, how could you pass on an opportunity like this?)"
-    u ""
+    u "(I mean, how could you pass on an opportunity like this?)"
 
-# game/v2/scene4.rpy:811
-translate francais v2s4_dog_a3599b6e:
+# game/v2/scene4.rpy:828
+translate francais v2s4_dog_a3599b6e_1:
 
     # aut "Hey! Eyes up, horn dog! Are you just here to enjoy the view?"
-    aut ""
+    aut "Hey! Eyes up, horn dog! Are you just here to enjoy the view?"
 
-# game/v2/scene4.rpy:816
-translate francais v2s4_dog_b6423138:
+# game/v2/scene4.rpy:833
+translate francais v2s4_dog_b6423138_1:
 
     # u "(Can you blame me?) Sorry, I got distracted."
-    u ""
+    u "(Can you blame me?) Sorry, I got distracted."
 
-# game/v2/scene4.rpy:822
-translate francais v2s4_dog_72810c5f:
+# game/v2/scene4.rpy:839
+translate francais v2s4_dog_ee02749d_1:
 
-    # aut "I hope you don't act like this around my sister. *Scoffs*"
-    aut ""
+    # aut "I hope you don't act like this around my sister."
+    aut "I hope you don't act like this around my sister."
 
-# game/v2/scene4.rpy:827
-translate francais v2s4_dog_8ffe0f0b:
+# game/v2/scene4.rpy:844
+translate francais v2s4_dog_8ffe0f0b_1:
 
     # u "No, I-"
-    u ""
+    u "No, I-"
 
-# game/v2/scene4.rpy:832
-translate francais v2s4_dog_5fecbd69:
+# game/v2/scene4.rpy:849
+translate francais v2s4_dog_5fecbd69_1:
 
     # aut "*Sighs* Let's just forget about it and get back to decorating."
-    aut ""
+    aut "*Sighs* Let's just forget about it and get back to decorating."
 
-# game/v2/scene4.rpy:867
-translate francais v2s4_dog_68b2ffad:
+# game/v2/scene4.rpy:884
+translate francais v2s4_dog_68b2ffad_1:
 
     # aut "That looks pretty good, yeah?"
-    aut ""
+    aut "That looks pretty good, yeah?"
 
-# game/v2/scene4.rpy:872
-translate francais v2s4_dog_fa112fec:
+# game/v2/scene4.rpy:889
+translate francais v2s4_dog_fa112fec_1:
 
     # u "Yeah, it looks cozy."
-    u ""
+    u "Yeah, it looks cozy."
 
-# game/v2/scene4.rpy:887
-translate francais v2s4_dog_ad04b3d0:
+# game/v2/scene4.rpy:904
+translate francais v2s4_dog_37dc02cf_1:
 
-    # u "Okay... *Panting* Now I'm sweating."
-    u ""
+    # u "Okay... *panting* now I'm sweating."
+    u "Okay... *panting* now I'm sweating."
 
-# game/v2/scene4.rpy:892
-translate francais v2s4_dog_bd481542:
+# game/v2/scene4.rpy:909
+translate francais v2s4_dog_eef71c9d_1:
 
-    # aut "*Chuckles* You can relax a little. I saved the least physical task for last..."
-    aut ""
+    # aut "You can relax a little. I saved the least physical task for last..."
+    aut "You can relax a little. I saved the least physical task for last..."
 
-# game/v2/scene4.rpy:897
-translate francais v2s4_dog_5b69e2a6:
+# game/v2/scene4.rpy:914
+translate francais v2s4_dog_5b69e2a6_1:
 
     # u "Oh, no. It can't be worse than a two-hundred-pound potted plant, can it?"
-    u ""
+    u "Oh, no. It can't be worse than a two-hundred-pound potted plant, can it?"
 
-# game/v2/scene4.rpy:902
-translate francais v2s4_dog_4dd3d81f:
+# game/v2/scene4.rpy:919
+translate francais v2s4_dog_c65ab12b_1:
 
-    # aut "No, haha. It's the lightest thing ever, actually..."
-    aut ""
+    # aut "No, ha. It's the lightest thing ever, actually..."
+    aut "No, ha. It's the lightest thing ever, actually..."
 
-# game/v2/scene4.rpy:912
-translate francais v2s4_dog_1849623b:
+# game/v2/scene4.rpy:929
+translate francais v2s4_dog_1849623b_1:
 
     # aut "Balloons!"
-    aut ""
+    aut "Balloons!"
 
-# game/v2/scene4.rpy:917
-translate francais v2s4_dog_6c42e018:
+# game/v2/scene4.rpy:934
+translate francais v2s4_dog_17e910b2_1:
 
-    # u "*Chuckles* Okay, that works. I can do balloons."
-    u ""
+    # u "That works. I can do balloons."
+    u "That works. I can do balloons."
 
-# game/v2/scene4.rpy:937
-translate francais v2s4_dog_d7c2a0c6:
+# game/v2/scene4.rpy:954
+translate francais v2s4_dog_d7c2a0c6_1:
 
     # u "(Hmm... I could give her a good scare right now...)"
-    u ""
+    u "(Hmm... I could give her a good scare right now...)"
 
-# game/v2/scene4.rpy:959
-translate francais v2s4_dog_c1dd1b7c:
+# game/v2/scene4.rpy:975
+translate francais v2s4_dog_c1dd1b7c_1:
 
     # aut "*Gasps* You-"
-    aut ""
+    aut "*Gasps* You-"
 
-# game/v2/scene4.rpy:964
-translate francais v2s4_dog_1eb77fb8:
+# game/v2/scene4.rpy:980
+translate francais v2s4_dog_e095c0ac_1:
 
-    # aut "You fucker! *Laughs*"
-    aut ""
+    # aut "You fucker!"
+    aut "You fucker!"
 
-# game/v2/scene4.rpy:969
-translate francais v2s4_dog_9f11c83a:
+# game/v2/scene4.rpy:985
+translate francais v2s4_dog_61c2b483_1:
 
-    # u "*Laughs* That was too easy."
-    u ""
+    # u "That was too easy."
+    u "That was too easy."
 
-# game/v2/scene4.rpy:974
-translate francais v2s4_dog_c9dae216:
+# game/v2/scene4.rpy:990
+translate francais v2s4_dog_112daca5_1:
 
-    # aut "Oh, okay... Go ahead."
-    aut ""
+    # aut "Oh, okay... go ahead."
+    aut "Oh, okay... go ahead."
 
-# game/v2/scene4.rpy:976
-translate francais v2s4_dog_0c64a211:
+# game/v2/scene4.rpy:992
+translate francais v2s4_dog_0c64a211_1:
 
     # aut "Laugh all you want now, but I'll get my revenge, [name]. You better learn how to sleep with one eye open."
-    aut ""
+    aut "Laugh all you want now, but I'll get my revenge, [name]. You better learn how to sleep with one eye open."
 
-# game/v2/scene4.rpy:981
-translate francais v2s4_dog_2aa685cc:
+# game/v2/scene4.rpy:997
+translate francais v2s4_dog_a95454e3_1:
 
-    # u "I always sleep with one eye open. *Chuckles*"
-    u ""
+    # u "I always sleep with one eye open."
+    u "I always sleep with one eye open."
 
-# game/v2/scene4.rpy:986
-translate francais v2s4_dog_32790dbc:
+# game/v2/scene4.rpy:1002
+translate francais v2s4_dog_dadb1403_1:
 
-    # aut "*Laughs* You're so annoying."
-    aut ""
+    # aut "You're so annoying."
+    aut "You're so annoying."
 
-# game/v2/scene4.rpy:991
-translate francais v2s4_dog_29f7943c:
+# game/v2/scene4.rpy:1007
+translate francais v2s4_dog_29f7943c_1:
 
     # u "(Not worth the chance of getting accidentally punched in the face...)"
-    u ""
+    u "(Not worth the chance of getting accidentally punched in the face...)"
 
-# game/v2/scene4.rpy:1008
-translate francais v2s4_dog_f26619a3:
+# game/v2/scene4.rpy:1024
+translate francais v2s4_dog_f26619a3_1:
 
     # u "Agh! What the-"
-    u ""
+    u "Agh! What the-"
 
-# game/v2/scene4.rpy:1013
-translate francais v2s4_dog_6d9a08ea:
+# game/v2/scene4.rpy:1029
+translate francais v2s4_dog_a51368bf_1:
 
-    # aut "Haha! That was the saddest scream I've ever heard! *Laughs*"
-    aut ""
+    # aut "Ha! That was the saddest scream I've ever heard!"
+    aut "Ha! That was the saddest scream I've ever heard!"
 
-# game/v2/scene4.rpy:1018
-translate francais v2s4_dog_e21ce1a0:
+# game/v2/scene4.rpy:1034
+translate francais v2s4_dog_8cfe61c9_1:
 
-    # u "You... Little shit. *Chuckles* You're dead to me."
-    u ""
+    # u "You little... shit. You're dead to me."
+    u "You little... shit. You're dead to me."
 
-# game/v2/scene4.rpy:1023
-translate francais v2s4_dog_62ea4099:
+# game/v2/scene4.rpy:1039
+translate francais v2s4_dog_2339d4fe_1:
 
-    # aut "That's fine, I can die happily after witnessing that. Haha! Phew..."
-    aut ""
+    # aut "That's fine. I can die happy after witnessing that. Ha!"
+    aut "That's fine. I can die happy after witnessing that. Ha!"
 
-# game/v2/scene4.rpy:1028
-translate francais v2s4_dog_d552c137:
+# game/v2/scene4.rpy:1044
+translate francais v2s4_dog_d552c137_1:
 
     # u "Get back to work."
-    u ""
+    u "Get back to work."
 
-# game/v2/scene4.rpy:1033
-translate francais v2s4_dog_703f31c3:
+# game/v2/scene4.rpy:1049
+translate francais v2s4_dog_703f31c3_1:
 
     # aut "Okay, okay... back to work."
-    aut ""
+    aut "Okay, okay... back to work."
 
-# game/v2/scene4.rpy:1038
-translate francais v2s4_dog_5c36b6f0:
+# game/v2/scene4.rpy:1054
+translate francais v2s4_dog_5c36b6f0_1:
 
     # u "Alrighty..."
-    u ""
+    u "Alrighty..."
 
-# game/v2/scene4.rpy:1043
-translate francais v2s4_dog_e445910c:
+# game/v2/scene4.rpy:1059
+translate francais v2s4_dog_e445910c_1:
 
     # aut "That's it?"
-    aut ""
+    aut "That's it?"
 
-# game/v2/scene4.rpy:1048
-translate francais v2s4_dog_44be8ad0:
+# game/v2/scene4.rpy:1064
+translate francais v2s4_dog_44be8ad0_1:
 
     # u "That's it! Let's have a look."
-    u ""
+    u "That's it! Let's have a look."
 
-# game/v2/scene4.rpy:1058
-translate francais v2s4_dog_79029504:
+# game/v2/scene4.rpy:1074
+translate francais v2s4_dog_79029504_1:
 
     # u "Great job! Seriously, you're really good at this."
-    u ""
+    u "Great job! Seriously, you're really good at this."
 
-# game/v2/scene4.rpy:1063
-translate francais v2s4_dog_9f53b619:
+# game/v2/scene4.rpy:1079
+translate francais v2s4_dog_930a31ed_1:
 
-    # aut "Haha, thank you. I appreciate your help."
-    aut ""
+    # aut "Thank you. I appreciate your help."
+    aut "Thank you. I appreciate your help."
 
-# game/v2/scene4.rpy:1068
-translate francais v2s4_dog_11906579:
+# game/v2/scene4.rpy:1084
+translate francais v2s4_dog_3d7a9fc7_1:
 
-    # u "I can see why you're President of the Deer. *Chuckles*"
-    u ""
+    # u "I can see why you're President of the Deer."
+    u "I can see why you're President of the Deer."
 
-# game/v2/scene4.rpy:1073
-translate francais v2s4_dog_25e23825:
+# game/v2/scene4.rpy:1089
+translate francais v2s4_dog_25e23825_1:
 
     # aut "Oh, yeah. It's a lot of work, but it's rewarding. I have fun and I learn a lot."
-    aut ""
+    aut "Oh, yeah. It's a lot of work, but it's rewarding. I have fun and I learn a lot."
 
-# game/v2/scene4.rpy:1078
-translate francais v2s4_dog_4a4aae74:
+# game/v2/scene4.rpy:1094
+translate francais v2s4_dog_790c37ee_1:
 
-    # u "For sure, it looks super stressful."
-    u ""
+    # u "It looks super stressful."
+    u "It looks super stressful."
 
-# game/v2/scene4.rpy:1083
-translate francais v2s4_dog_c444c47f:
+# game/v2/scene4.rpy:1099
+translate francais v2s4_dog_f6d938c0_1:
 
-    # aut "It definitely can be, but not as stressful as the Chicks make it seem, haha."
-    aut ""
+    # aut "It definitely can be, but not as stressful as the Chicks make it seem."
+    aut "It definitely can be, but not as stressful as the Chicks make it seem."
 
-# game/v2/scene4.rpy:1088
-translate francais v2s4_dog_16985f90:
+# game/v2/scene4.rpy:1104
+translate francais v2s4_dog_6bb90d3c_1:
 
-    # u "Haha, that's good to hear. It's crazy out there right now... Who do you think will win?"
-    u ""
+    # u "Ha, that's good to hear. It's crazy out there right now. Who do you think will win?"
+    u "Ha, that's good to hear. It's crazy out there right now. Who do you think will win?"
 
-# game/v2/scene4.rpy:1093
-translate francais v2s4_dog_2d77b23d:
+# game/v2/scene4.rpy:1109
+translate francais v2s4_dog_d7dc63ee_1:
 
-    # aut "The strongest candidate. *Laughs* That seems like such a shit answer, but honestly..."
-    aut ""
+    # aut "The strongest candidate. That seems like such a shit answer, but honestly..."
+    aut "The strongest candidate. That seems like such a shit answer, but honestly..."
 
-# game/v2/scene4.rpy:1095
-translate francais v2s4_dog_65596d7f:
+# game/v2/scene4.rpy:1111
+translate francais v2s4_dog_65596d7f_1:
 
     # aut "Whoever deserves it the most will end up being President. Let the voters speak!"
-    aut ""
+    aut "Whoever deserves it the most will end up being President. Let the voters speak!"
 
-# game/v2/scene4.rpy:1100
-translate francais v2s4_dog_f86afa9a:
+# game/v2/scene4.rpy:1116
+translate francais v2s4_dog_80a8566e_1:
 
-    # u "That's a very diplomatic way of putting it. *Chuckles*"
-    u ""
+    # u "Yeah! Shout-out democracy! You dork."
+    u "Yeah! Shout-out democracy! You dork."
 
-# game/v2/scene4.rpy:1105
-translate francais v2s4_dog_f294d18d:
+# game/v2/scene4.rpy:1121
+translate francais v2s4_dog_f294d18d_1:
 
     # aut "Hey, I didn't get to where I am today without these amazing diplomacy skills."
-    aut ""
+    aut "Hey, I didn't get to where I am today without these amazing diplomacy skills."
 
-# game/v2/scene4.rpy:1110
-translate francais v2s4_dog_cc245033:
+# game/v2/scene4.rpy:1126
+translate francais v2s4_dog_d1849edb_1:
 
-    # u "I can see that, haha. It just makes me wonder what you're really thinking."
-    u ""
+    # u "I can see that. It just makes me wonder what you're really thinking."
+    u "I can see that. It just makes me wonder what you're really thinking."
 
-# game/v2/scene4.rpy:1115
-translate francais v2s4_dog_4633ea3f:
+# game/v2/scene4.rpy:1131
+translate francais v2s4_dog_ec7f44fe_1:
 
-    # aut "*Laughs* Maybe you'll find out one day."
-    aut ""
+    # aut "Maybe you'll find out one day."
+    aut "Maybe you'll find out one day."
 
-# game/v2/scene4.rpy:1120
-translate francais v2s4_dog_1d2179f5:
+# game/v2/scene4.rpy:1136
+translate francais v2s4_dog_71119bcf_1:
 
-    # u "Hmm... Maybe..."
-    u ""
-
-# game/v2/scene4.rpy:1135
-translate francais v2s4_dog_e5f35e85:
-
-    # aut "Oh, hello! Wait, it's Oscar!"
-    aut ""
-
-# game/v2/scene4.rpy:1140
-translate francais v2s4_dog_8aebf7b2:
-
-    # aut "Hey, little guy..."
-    aut ""
-
-# game/v2/scene4.rpy:1145
-translate francais v2s4_dog_110f37f6:
-
-    # u "I haven't seen you in a while, bud. Lookin' good!"
-    u ""
+    # u "Hmm... maybe..."
+    u "Hmm... maybe..."
 
 # game/v2/scene4.rpy:1151
-translate francais v2s4_dog_e6e27072:
+translate francais v2s4_dog_e5f35e85_1:
 
-    # aut "I think he remembers you! Haha, that's so cute..."
-    aut ""
+    # aut "Oh, hello! Wait, it's Oscar!"
+    aut "Oh, hello! Wait, it's Oscar!"
 
-# game/v2/scene4.rpy:1162
-translate francais v2s4_dog_9ac6a974:
+# game/v2/scene4.rpy:1156
+translate francais v2s4_dog_8aebf7b2_1:
 
-    # u "*Chuckles* How are you, buddy? Good?"
-    u ""
+    # aut "Hey, little guy..."
+    aut "Hey, little guy..."
+
+# game/v2/scene4.rpy:1161
+translate francais v2s4_dog_110f37f6_1:
+
+    # u "I haven't seen you in a while, bud. Lookin' good!"
+    u "I haven't seen you in a while, bud. Lookin' good!"
 
 # game/v2/scene4.rpy:1167
-translate francais v2s4_dog_49e63b2e:
+translate francais v2s4_dog_f6a597bb_1:
+
+    # aut "I think he remembers you! Ha, that's so cute..."
+    aut "I think he remembers you! Ha, that's so cute..."
+
+# game/v2/scene4.rpy:1178
+translate francais v2s4_dog_142e9531_1:
+
+    # u "How are you, buddy? Good?"
+    u "How are you, buddy? Good?"
+
+# game/v2/scene4.rpy:1183
+translate francais v2s4_dog_49e63b2e_1:
 
     # aut "And hello Mr... Um, Oscar's owner..."
-    aut ""
+    aut "And hello Mr... Um, Oscar's owner..."
 
-# game/v2/scene4.rpy:1169
-translate francais v2s4_dog_ec13eac6:
+# game/v2/scene4.rpy:1185
+translate francais v2s4_dog_ec13eac6_1:
 
     # aut "How are you guys?"
-    aut ""
+    aut "How are you guys?"
 
-# game/v2/scene4.rpy:1174
-translate francais v2s4_dog_67fdb0b3:
+# game/v2/scene4.rpy:1190
+translate francais v2s4_dog_67fdb0b3_1:
 
     # oscars_owner "Actually... I'm sorry I have to do this, but I'm here to give Oscar back."
-    oscars_owner ""
+    oscars_owner "Actually... I'm sorry I have to do this, but I'm here to give Oscar back."
 
-# game/v2/scene4.rpy:1179
-translate francais v2s4_dog_8001cbfc:
+# game/v2/scene4.rpy:1195
+translate francais v2s4_dog_402310c5_1:
 
-    # aut "Wha- Give back?! I... Why?"
-    aut ""
+    # aut "What? Give back?! I don't... why?"
+    aut "What? Give back?! I don't... why?"
 
-# game/v2/scene4.rpy:1184
-translate francais v2s4_dog_ac0c6fde:
+# game/v2/scene4.rpy:1200
+translate francais v2s4_dog_ac0c6fde_1:
 
     # oscars_owner "Long story short, I'm moving upstate to take over my grandpa's farm."
-    oscars_owner ""
+    oscars_owner "Long story short, I'm moving upstate to take over my grandpa's farm."
 
-# game/v2/scene4.rpy:1186
-translate francais v2s4_dog_287ff216:
+# game/v2/scene4.rpy:1202
+translate francais v2s4_dog_287ff216_1:
 
     # u "(And?)"
-    u ""
+    u "(And?)"
 
-# game/v2/scene4.rpy:1188
-translate francais v2s4_dog_80edd601:
+# game/v2/scene4.rpy:1204
+translate francais v2s4_dog_80edd601_1:
 
     # oscars_owner "It's not exactly the best place for Oscar."
-    oscars_owner ""
+    oscars_owner "It's not exactly the best place for Oscar."
 
-# game/v2/scene4.rpy:1193
-translate francais v2s4_dog_ba896756:
+# game/v2/scene4.rpy:1209
+translate francais v2s4_dog_666cee5f_1:
 
-    # u "What do you mean? Ha, a farm is one the most ideal places for a dog to live... Right?"
-    u ""
+    # u "What do you mean? A farm is one the most ideal places for a dog to live... right?"
+    u "What do you mean? A farm is one the most ideal places for a dog to live... right?"
 
-# game/v2/scene4.rpy:1198
-translate francais v2s4_dog_099bd13a:
+# game/v2/scene4.rpy:1214
+translate francais v2s4_dog_099bd13a_1:
 
     # aut "Exactly."
-    aut ""
+    aut "Exactly."
 
-# game/v2/scene4.rpy:1203
-translate francais v2s4_dog_61faf18c:
+# game/v2/scene4.rpy:1219
+translate francais v2s4_dog_61faf18c_1:
 
     # oscars_owner "Yeah, except this is a weed farm..."
-    oscars_owner ""
+    oscars_owner "Yeah, except this is a weed farm..."
 
-# game/v2/scene4.rpy:1208
-translate francais v2s4_dog_d846d1b8:
+# game/v2/scene4.rpy:1224
+translate francais v2s4_dog_d846d1b8_1:
 
     # aut "Oh, well-"
-    aut ""
+    aut "Oh, well-"
 
-# game/v2/scene4.rpy:1213
-translate francais v2s4_dog_ed2ae59a:
+# game/v2/scene4.rpy:1229
+translate francais v2s4_dog_ed2ae59a_1:
 
     # oscars_owner "And he likes weed. Like, a lot. So-"
-    oscars_owner ""
+    oscars_owner "And he likes weed. Like, a lot. So-"
 
-# game/v2/scene4.rpy:1218
-translate francais v2s4_dog_c2ed496d:
+# game/v2/scene4.rpy:1234
+translate francais v2s4_dog_0ddb0658_1:
 
-    # aut "What do you mean he... How do you... Huh?"
-    aut ""
+    # aut "What do you mean he... how do you... huh?"
+    aut "What do you mean he... how do you... huh?"
 
-# game/v2/scene4.rpy:1223
-translate francais v2s4_dog_dbfab048:
+# game/v2/scene4.rpy:1239
+translate francais v2s4_dog_dbfab048_1:
 
     # u "You gave him weed!?"
-    u ""
+    u "You gave him weed!?"
 
-# game/v2/scene4.rpy:1228
-translate francais v2s4_dog_b28b2d7c:
+# game/v2/scene4.rpy:1244
+translate francais v2s4_dog_f12ad7af_1:
 
-    # oscars_owner "I didn't exactly give it to him, no... It was an accident."
-    oscars_owner ""
+    # oscars_owner "I didn't exactly give it to him, no... uh... it was an accident."
+    oscars_owner "I didn't exactly give it to him, no... uh... it was an accident."
 
-# game/v2/scene4.rpy:1233
-translate francais v2s4_dog_eb77c291:
+# game/v2/scene4.rpy:1249
+translate francais v2s4_dog_eb77c291_1:
 
     # aut "Say no more. Just, go. Please go."
-    aut ""
+    aut "Say no more. Just, go. Please go."
 
-# game/v2/scene4.rpy:1243
-translate francais v2s4_dog_510950b4:
+# game/v2/scene4.rpy:1259
+translate francais v2s4_dog_510950b4_1:
 
     # aut "*Sighs* My poor little Oscar..."
-    aut ""
+    aut "*Sighs* My poor little Oscar..."
 
-# game/v2/scene4.rpy:1245
-translate francais v2s4_dog_0c95859a:
+# game/v2/scene4.rpy:1261
+translate francais v2s4_dog_0c95859a_1:
 
     # aut "What did he do to you, huh? Are you okay?"
-    aut ""
+    aut "What did he do to you, huh? Are you okay?"
 
-# game/v2/scene4.rpy:1250
-translate francais v2s4_dog_f1b7a9b1:
+# game/v2/scene4.rpy:1266
+translate francais v2s4_dog_d3a9ae3d_1:
 
-    # u "He looks alright, thankfully."
-    u ""
+    # u "He looks all right, thankfully."
+    u "He looks all right, thankfully."
 
-# game/v2/scene4.rpy:1255
-translate francais v2s4_dog_83f94790:
+# game/v2/scene4.rpy:1271
+translate francais v2s4_dog_83f94790_1:
 
     # aut "Yeah, but look at this face, [name]. He doesn't even know what just happened."
-    aut ""
+    aut "Yeah, but look at this face, [name]. He doesn't even know what just happened."
 
-# game/v2/scene4.rpy:1257
-translate francais v2s4_dog_4b6c5504:
+# game/v2/scene4.rpy:1273
+translate francais v2s4_dog_4b6c5504_1:
 
     # aut "You're not alone, bud. It might feel like it, but you aren't."
-    aut ""
+    aut "You're not alone, bud. It might feel like it, but you aren't."
 
-# game/v2/scene4.rpy:1262
-translate francais v2s4_dog_5e4981d1:
+# game/v2/scene4.rpy:1278
+translate francais v2s4_dog_5e4981d1_1:
 
     # u "(She's really torn up about this...)"
-    u ""
-
-# game/v2/scene4.rpy:1272
-translate francais v2s4_dog_863c2806:
-
-    # u "You know, he was most likely lying about that whole weed farm story. I can catch up with him and fuck him up if you-"
-    u ""
-
-# game/v2/scene4.rpy:1277
-translate francais v2s4_dog_7ad0f20f:
-
-    # aut "No, no... Please don't do that, ha. It's okay."
-    aut ""
-
-# game/v2/scene4.rpy:1282
-translate francais v2s4_dog_f15cadce:
-
-    # u "You sure?"
-    u ""
+    u "(She's really torn up about this...)"
 
 # game/v2/scene4.rpy:1287
-translate francais v2s4_dog_9844576d:
+translate francais v2s4_dog_cf827ee5_1:
+
+    # u "You know, he was probably lying about that whole weed farm story. I can catch up with him and fuck him up if you-"
+    u "You know, he was probably lying about that whole weed farm story. I can catch up with him and fuck him up if you-"
+
+# game/v2/scene4.rpy:1292
+translate francais v2s4_dog_3a87b639_1:
+
+    # aut "No, no... please don't do that, ha. It's okay."
+    aut "No, no... please don't do that, ha. It's okay."
+
+# game/v2/scene4.rpy:1297
+translate francais v2s4_dog_f15cadce_1:
+
+    # u "You sure?"
+    u "You sure?"
+
+# game/v2/scene4.rpy:1302
+translate francais v2s4_dog_9844576d_1:
 
     # aut "Yeah, I'm sure. I mean, thanks for offering, but this kind of thing happens every day."
-    aut ""
+    aut "Yeah, I'm sure. I mean, thanks for offering, but this kind of thing happens every day."
 
-# game/v2/scene4.rpy:1288
-translate francais v2s4_dog_8dde1a77:
+# game/v2/scene4.rpy:1303
+translate francais v2s4_dog_8dde1a77_1:
 
     # aut "Some people just can't handle the responsibility when it comes down to it."
-    aut ""
-
-# game/v2/scene4.rpy:1293
-translate francais v2s4_dog_c0091de1:
-
-    # u "If only they'd realize that before they chose to adopt..."
-    u ""
-
-# game/v2/scene4.rpy:1298
-translate francais v2s4_dog_b585cc4e:
-
-    # aut "Hopefully we can find the perfect owner for him at the re-opening."
-    aut ""
-
-# game/v2/scene4.rpy:1306
-translate francais v2s4_dog_24515cea:
-
-    # u "You're honestly better off without that guy, bud. *Laughs* You'll find your forever home soon."
-    u ""
+    aut "Some people just can't handle the responsibility when it comes down to it."
 
 # game/v2/scene4.rpy:1308
-translate francais v2s4_dog_dcffd5c5:
+translate francais v2s4_dog_c0091de1_1:
 
-    # aut "Ha, yeah. He will."
-    aut ""
+    # u "If only they'd realize that before they chose to adopt..."
+    u "If only they'd realize that before they chose to adopt..."
 
-# game/v2/scene4.rpy:1310
-translate francais v2s4_dog_e1e1af52:
-
-    # u "Are you hungry? Want some food?"
-    u ""
-
-# game/v2/scene4.rpy:1320
-translate francais v2s4_dog_9490c687:
-
-    # aut "I think he likes you..."
-    aut ""
-
-# game/v2/scene4.rpy:1325
-translate francais v2s4_dog_c526155f:
-
-    # u "*Chuckles* Too bad I can't take you back to campus with me."
-    u ""
-
-# game/v2/scene4.rpy:1330
-translate francais v2s4_dog_9334fac7:
-
-    # aut "Ugh, I know right. That's the only downside of working here, haha."
-    aut ""
-
-# game/v2/scene4.rpy:1332
-translate francais v2s4_dog_b585cc4e_1:
+# game/v2/scene4.rpy:1313
+translate francais v2s4_dog_b585cc4e_2:
 
     # aut "Hopefully we can find the perfect owner for him at the re-opening."
-    aut ""
+    aut "Hopefully we can find the perfect owner for him at the re-opening."
 
-# game/v2/scene4.rpy:1337
-translate francais v2s4_dog_0eca355e:
+# game/v2/scene4.rpy:1321
+translate francais v2s4_dog_f7a2637d_1:
+
+    # u "You're honestly better off without that guy, bud. You'll find your forever home soon."
+    u "You're honestly better off without that guy, bud. You'll find your forever home soon."
+
+# game/v2/scene4.rpy:1323
+translate francais v2s4_dog_dcffd5c5_1:
+
+    # aut "Ha, yeah. He will."
+    aut "Ha, yeah. He will."
+
+# game/v2/scene4.rpy:1325
+translate francais v2s4_dog_e1e1af52_1:
+
+    # u "Are you hungry? Want some food?"
+    u "Are you hungry? Want some food?"
+
+# game/v2/scene4.rpy:1335
+translate francais v2s4_dog_9490c687_1:
+
+    # aut "I think he likes you..."
+    aut "I think he likes you..."
+
+# game/v2/scene4.rpy:1340
+translate francais v2s4_dog_4a7d6da9_1:
+
+    # u "Too bad I can't take you back to campus with me."
+    u "Too bad I can't take you back to campus with me."
+
+# game/v2/scene4.rpy:1345
+translate francais v2s4_dog_357f4dad_1:
+
+    # aut "Ugh, I know, right? That's the only downside of working here."
+    aut "Ugh, I know, right? That's the only downside of working here."
+
+# game/v2/scene4.rpy:1347
+translate francais v2s4_dog_b585cc4e_3:
+
+    # aut "Hopefully we can find the perfect owner for him at the re-opening."
+    aut "Hopefully we can find the perfect owner for him at the re-opening."
+
+# game/v2/scene4.rpy:1352
+translate francais v2s4_dog_0eca355e_1:
 
     # u "I'm sure we will."
-    u ""
-
-# game/v2/scene4.rpy:1343
-translate francais v2s4_dog_3f7316fb:
-
-    # aut "Alright, well... I'm gonna go put him in a cozy spot with some fresh food and water, but I think we've earned a break. Don't you?"
-    aut ""
-
-# game/v2/scene4.rpy:1348
-translate francais v2s4_dog_8633728c:
-
-    # u "I'd have to agree."
-    u ""
-
-# game/v2/scene4.rpy:1353
-translate francais v2s4_dog_a5e939fb:
-
-    # aut "Great, just wait for me in the parking lot."
-    aut ""
+    u "I'm sure we will."
 
 # game/v2/scene4.rpy:1358
-translate francais v2s4_dog_5dcad1e0:
+translate francais v2s4_dog_0d98c14a_1:
 
-    # u "Can do."
-    u ""
+    # aut "All right, well... I'm gonna go put him in a cozy spot with some fresh food and water, but I think we've earned a break. Don't you?"
+    aut "All right, well... I'm gonna go put him in a cozy spot with some fresh food and water, but I think we've earned a break. Don't you?"
+
+# game/v2/scene4.rpy:1363
+translate francais v2s4_dog_8633728c_1:
+
+    # u "I'd have to agree."
+    u "I'd have to agree."
 
 # game/v2/scene4.rpy:1368
-translate francais v2s4_dog_4ad2bd7b:
+translate francais v2s4_dog_a5e939fb_1:
 
-    # u "(Got a pretty good workout this morning. Almost as good as the gym, haha.)"
-    u ""
+    # aut "Great, just wait for me in the parking lot."
+    aut "Great, just wait for me in the parking lot."
 
-# game/v2/scene4.rpy:1370
-translate francais v2s4_dog_758f3f64:
+# game/v2/scene4.rpy:1373
+translate francais v2s4_dog_5dcad1e0_1:
+
+    # u "Can do."
+    u "Can do."
+
+# game/v2/scene4.rpy:1383
+translate francais v2s4_dog_9399bda7_1:
+
+    # u "(Got a pretty good workout this morning. Almost as good as the gym.)"
+    u "(Got a pretty good workout this morning. Almost as good as the gym.)"
+
+# game/v2/scene4.rpy:1385
+translate francais v2s4_dog_758f3f64_1:
 
     # aut "Hey, weirdo! Over here!"
-    aut ""
-
-# game/v2/scene4.rpy:1375
-translate francais v2s4_dog_441e2e2b:
-
-    # aut "Come on!"
-    aut ""
+    aut "Hey, weirdo! Over here!"
 
 # game/v2/scene4.rpy:1390
-translate francais v2s4_dog_cac540d7:
+translate francais v2s4_dog_441e2e2b_1:
 
-    # u "Where are we going?"
-    u ""
-
-# game/v2/scene4.rpy:1395
-translate francais v2s4_dog_0e066f3f:
-
-    # aut "Nowhere, haha. Just getting some peace and quiet..."
-    aut ""
+    # aut "Come on!"
+    aut "Come on!"
 
 # game/v2/scene4.rpy:1405
-translate francais v2s4_dog_3d8c22db:
+translate francais v2s4_dog_cac540d7_1:
 
-    # u "Oh, I see. *Chuckles* Wow, that's kinda surprising."
-    u ""
+    # u "Where are we going?"
+    u "Where are we going?"
 
 # game/v2/scene4.rpy:1410
-translate francais v2s4_dog_3499a149:
+translate francais v2s4_dog_ba57cfc3_1:
 
-    # aut "What is?"
-    aut ""
-
-# game/v2/scene4.rpy:1415
-translate francais v2s4_dog_f481d55e:
-
-    # u "I had no idea you were a stoner. *Laughs*"
-    u ""
+    # aut "Nowhere. Just getting some peace and quiet..."
+    aut "Nowhere. Just getting some peace and quiet..."
 
 # game/v2/scene4.rpy:1420
-translate francais v2s4_dog_418fbbc2:
+translate francais v2s4_dog_1fe2b388_1:
 
-    # aut "*Chuckles* Yeah... No one has any idea what I am."
-    aut ""
+    # u "Oh, I see. That's kinda surprising."
+    u "Oh, I see. That's kinda surprising."
 
 # game/v2/scene4.rpy:1425
-translate francais v2s4_dog_c5a8cc6c:
+translate francais v2s4_dog_3499a149_1:
 
-    # u "Ha... (I wonder what she means by that?)"
-    u ""
+    # aut "What is?"
+    aut "What is?"
 
 # game/v2/scene4.rpy:1430
-translate francais v2s4_dog_720efaf7:
+translate francais v2s4_dog_67520fb9_1:
 
-    # aut "Want a hit?"
-    aut ""
+    # u "I had no idea you were a stoner."
+    u "I had no idea you were a stoner."
+
+# game/v2/scene4.rpy:1435
+translate francais v2s4_dog_17f7246f_1:
+
+    # aut "Yeah... no one has any idea what I am."
+    aut "Yeah... no one has any idea what I am."
 
 # game/v2/scene4.rpy:1440
-translate francais v2s4_dog_2c66ecf0:
+translate francais v2s4_dog_c5a8cc6c_1:
+
+    # u "Ha... (I wonder what she means by that?)"
+    u "Ha... (I wonder what she means by that?)"
+
+# game/v2/scene4.rpy:1445
+translate francais v2s4_dog_720efaf7_1:
+
+    # aut "Want a hit?"
+    aut "Want a hit?"
+
+# game/v2/scene4.rpy:1455
+translate francais v2s4_dog_2c66ecf0_1:
 
     # u "Yeah, thanks."
-    u ""
-
-# game/v2/scene4.rpy:1475
-translate francais v2s4_dog_2558c1a6:
-
-    # u "*Inhaling* This is a nice bonding experience... Haha."
-    u ""
-
-# game/v2/scene4.rpy:1485
-translate francais v2s4_dog_d2ba1c53:
-
-    # u "You do this a lot on break?"
-    u ""
+    u "Yeah, thanks."
 
 # game/v2/scene4.rpy:1490
-translate francais v2s4_dog_c607beea:
+translate francais v2s4_dog_1be7b1cb_1:
 
-    # aut "You said it yourself, [name]. Being President is stressful. *Chuckles*"
-    aut ""
-
-# game/v2/scene4.rpy:1495
-translate francais v2s4_dog_21648737:
-
-    # u "Ahhh... So, the key to being the perfect President is marijuana?"
-    u ""
+    # u "*Inhaling* This is a nice bonding experience..."
+    u "*Inhaling* This is a nice bonding experience..."
 
 # game/v2/scene4.rpy:1500
-translate francais v2s4_dog_da86f058:
-
-    # aut "*Laughs* Sure, yeah. Let's go with that..."
-    aut ""
-
-# game/v2/scene4.rpy:1553
-translate francais v2s4_dog_2bb35d1a:
-
-    # u "Ah, no thanks. Need to stay clean for fighting."
-    u ""
-
-# game/v2/scene4.rpy:1558
-translate francais v2s4_dog_b7d83aff:
-
-    # aut "Hey, no judgment here. More for me, hehe."
-    aut ""
-
-# game/v2/scene4.rpy:1568
-translate francais v2s4_dog_d2ba1c53_1:
+translate francais v2s4_dog_d2ba1c53_2:
 
     # u "You do this a lot on break?"
-    u ""
+    u "You do this a lot on break?"
+
+# game/v2/scene4.rpy:1505
+translate francais v2s4_dog_2a108909_2:
+
+    # aut "You said it yourself, [name]. Being President is stressful."
+    aut "You said it yourself, [name]. Being President is stressful."
+
+# game/v2/scene4.rpy:1510
+translate francais v2s4_dog_3ddb8600_2:
+
+    # u "Ahhh... so, the key to being the perfect President is marijuana?"
+    u "Ahhh... so, the key to being the perfect President is marijuana?"
+
+# game/v2/scene4.rpy:1515
+translate francais v2s4_dog_515fba86_2:
+
+    # aut "Sure, yeah. Let's go with that..."
+    aut "Sure, yeah. Let's go with that..."
+
+# game/v2/scene4.rpy:1568
+translate francais v2s4_dog_2bb35d1a_1:
+
+    # u "Ah, no thanks. Need to stay clean for fighting."
+    u "Ah, no thanks. Need to stay clean for fighting."
 
 # game/v2/scene4.rpy:1573
-translate francais v2s4_dog_c607beea_1:
+translate francais v2s4_dog_6a8dfebb_1:
 
-    # aut "You said it yourself, [name]. Being President is stressful. *Chuckles*"
-    aut ""
-
-# game/v2/scene4.rpy:1578
-translate francais v2s4_dog_21648737_1:
-
-    # u "Ahhh... So, the key to being the perfect President is marijuana?"
-    u ""
+    # aut "Hey, no judgment here. More for me!"
+    aut "Hey, no judgment here. More for me!"
 
 # game/v2/scene4.rpy:1583
-translate francais v2s4_dog_da86f058_1:
+translate francais v2s4_dog_d2ba1c53_3:
 
-    # aut "*Laughs* Sure, yeah. Let's go with that..."
-    aut ""
+    # u "You do this a lot on break?"
+    u "You do this a lot on break?"
+
+# game/v2/scene4.rpy:1588
+translate francais v2s4_dog_2a108909_3:
+
+    # aut "You said it yourself, [name]. Being President is stressful."
+    aut "You said it yourself, [name]. Being President is stressful."
+
+# game/v2/scene4.rpy:1593
+translate francais v2s4_dog_3ddb8600_3:
+
+    # u "Ahhh... so, the key to being the perfect President is marijuana?"
+    u "Ahhh... so, the key to being the perfect President is marijuana?"
 
 # game/v2/scene4.rpy:1598
-translate francais v2s4_dog_abc2379a:
+translate francais v2s4_dog_515fba86_3:
 
-    # aut "So, I assume you're coming to Lauren's party tonight?"
-    aut ""
-
-# game/v2/scene4.rpy:1603
-translate francais v2s4_dog_572edbc2:
-
-    # u "Oh, yeah! I'm kind of looking forward to it..."
-    u ""
-
-# game/v2/scene4.rpy:1608
-translate francais v2s4_dog_7802f561:
-
-    # aut "Me too, I need a fun night."
-    aut ""
+    # aut "Sure, yeah. Let's go with that..."
+    aut "Sure, yeah. Let's go with that..."
 
 # game/v2/scene4.rpy:1613
-translate francais v2s4_dog_69c2dab0:
+translate francais v2s4_dog_abc2379a_1:
 
-    # u "Actually, you might be able to help me with something..."
-    u ""
+    # aut "So, I assume you're coming to Lauren's party tonight?"
+    aut "So, I assume you're coming to Lauren's party tonight?"
 
 # game/v2/scene4.rpy:1618
-translate francais v2s4_dog_a94d3b66:
+translate francais v2s4_dog_572edbc2_1:
 
-    # aut "Well, after today I definitely owe you one... So, what is it?"
-    aut ""
+    # u "Oh, yeah! I'm kind of looking forward to it..."
+    u "Oh, yeah! I'm kind of looking forward to it..."
 
 # game/v2/scene4.rpy:1623
-translate francais v2s4_dog_4ffcf284:
+translate francais v2s4_dog_d628b315_1:
 
-    # u "I have a few ideas already, but do you have any birthday gift suggestions?"
-    u ""
+    # aut "Me too. I need a fun night."
+    aut "Me too. I need a fun night."
 
 # game/v2/scene4.rpy:1628
-translate francais v2s4_dog_7f7a1471:
+translate francais v2s4_dog_69c2dab0_1:
 
-    # aut "Hmm... Good question."
-    aut ""
+    # u "Actually, you might be able to help me with something..."
+    u "Actually, you might be able to help me with something..."
 
 # game/v2/scene4.rpy:1633
-translate francais v2s4_dog_a9cf5c9b:
+translate francais v2s4_dog_dbd92c0f_1:
 
-    # u "I know, thanks."
-    u ""
+    # aut "Well, after today I definitely owe you one, so, what is it?"
+    aut "Well, after today I definitely owe you one, so, what is it?"
 
 # game/v2/scene4.rpy:1638
-translate francais v2s4_dog_db6e0802:
+translate francais v2s4_dog_4ffcf284_1:
+
+    # u "I have a few ideas already, but do you have any birthday gift suggestions?"
+    u "I have a few ideas already, but do you have any birthday gift suggestions?"
+
+# game/v2/scene4.rpy:1643
+translate francais v2s4_dog_0cdb950f_1:
+
+    # aut "Hmm... good question."
+    aut "Hmm... good question."
+
+# game/v2/scene4.rpy:1648
+translate francais v2s4_dog_a9cf5c9b_1:
+
+    # u "I know, thanks."
+    u "I know, thanks."
+
+# game/v2/scene4.rpy:1653
+translate francais v2s4_dog_db6e0802_1:
 
     # aut "Ha... I remember when we were young, she had this little toy horse that she would take everywhere."
-    aut ""
-
-# game/v2/scene4.rpy:1639
-translate francais v2s4_dog_429e51f8:
-
-    # aut "I don't think we have any family photos where she isn't holding it... *Chuckles*"
-    aut ""
-
-# game/v2/scene4.rpy:1644
-translate francais v2s4_dog_d0cfc07d:
-
-    # u "*Laughs* That's cute."
-    u ""
-
-# game/v2/scene4.rpy:1649
-translate francais v2s4_dog_cae4f042:
-
-    # aut "It was brown, with light golden hair on its mane. She had this dream of owning a real horse just like it when she got older."
-    aut ""
+    aut "Ha... I remember when we were young, she had this little toy horse that she would take everywhere."
 
 # game/v2/scene4.rpy:1654
-translate francais v2s4_dog_f45d0db0:
+translate francais v2s4_dog_4cc6f6f6_1:
 
-    # u "You're suggesting that I buy your sister a horse?"
-    u ""
+    # aut "I don't think we have any family photos where she isn't holding it..."
+    aut "I don't think we have any family photos where she isn't holding it..."
 
 # game/v2/scene4.rpy:1659
-translate francais v2s4_dog_429632f1:
+translate francais v2s4_dog_925d6944_1:
 
-    # aut "*Laughs* What? Is that impossible or something?"
-    aut ""
+    # u "That's cute."
+    u "That's cute."
 
 # game/v2/scene4.rpy:1664
-translate francais v2s4_dog_0238517d:
+translate francais v2s4_dog_cae4f042_1:
 
-    # u "I-"
-    u ""
+    # aut "It was brown, with light golden hair on its mane. She had this dream of owning a real horse just like it when she got older."
+    aut "It was brown, with light golden hair on its mane. She had this dream of owning a real horse just like it when she got older."
 
 # game/v2/scene4.rpy:1669
-translate francais v2s4_dog_b5aa1091:
+translate francais v2s4_dog_f45d0db0_1:
 
-    # aut "I'm kidding, haha. No, not a real horse, a toy one."
-    aut ""
+    # u "You're suggesting that I buy your sister a horse?"
+    u "You're suggesting that I buy your sister a horse?"
 
-# game/v2/scene4.rpy:1671
-translate francais v2s4_dog_d5e908af:
+# game/v2/scene4.rpy:1674
+translate francais v2s4_dog_04857533_1:
 
-    # aut "When we moved out of our childhood home it ended up getting lost somewhere along the way."
-    aut ""
+    # aut "What? Is that impossible or something?"
+    aut "What? Is that impossible or something?"
 
-# game/v2/scene4.rpy:1673
-translate francais v2s4_dog_d80c3294:
+# game/v2/scene4.rpy:1679
+translate francais v2s4_dog_0238517d_1:
 
-    # aut "So, If you found something similar to that, she'd probably die. *Laughs*"
-    aut ""
+    # u "I-"
+    u "I-"
 
-# game/v2/scene4.rpy:1676
-translate francais v2s4_dog_8c249081:
+# game/v2/scene4.rpy:1684
+translate francais v2s4_dog_823fc4b7_1:
 
-    # aut "But she's never gotten jewelry from a boyfriend before, and she's always mentioning that. So, either way I think you're good."
-    aut ""
-
-# game/v2/scene4.rpy:1681
-translate francais v2s4_dog_16cc366c:
-
-    # u "That's really helpful. Thanks, Autumn."
-    u ""
+    # aut "I'm kidding. No, not a real horse, a toy one."
+    aut "I'm kidding. No, not a real horse, a toy one."
 
 # game/v2/scene4.rpy:1686
-translate francais v2s4_dog_7e1c1d63:
+translate francais v2s4_dog_d5e908af_1:
 
-    # aut "For sure. I've enjoyed spending time with you more than I thought I would. *Chuckles*"
-    aut ""
+    # aut "When we moved out of our childhood home it ended up getting lost somewhere along the way."
+    aut "When we moved out of our childhood home it ended up getting lost somewhere along the way."
+
+# game/v2/scene4.rpy:1688
+translate francais v2s4_dog_25c323a9_1:
+
+    # aut "So, if you found something similar to that, she'd probably die."
+    aut "So, if you found something similar to that, she'd probably die."
 
 # game/v2/scene4.rpy:1691
-translate francais v2s4_dog_9248f806:
+translate francais v2s4_dog_0555ef9e_1:
 
-    # u "Haha, thank you. I think..."
-    u ""
+    # aut "But she's never gotten jewelry from a boyfriend before, and she's always mentioning that. So, either way, I think you're good."
+    aut "But she's never gotten jewelry from a boyfriend before, and she's always mentioning that. So, either way, I think you're good."
 
 # game/v2/scene4.rpy:1696
-translate francais v2s4_dog_04ed8c9a:
+translate francais v2s4_dog_16cc366c_1:
 
-    # aut "You're so welcome. *Laughs*"
-    aut ""
+    # u "That's really helpful. Thanks, Autumn."
+    u "That's really helpful. Thanks, Autumn."
 
 # game/v2/scene4.rpy:1701
-translate francais v2s4_dog_6f42f07e:
+translate francais v2s4_dog_82e90351_1:
 
-    # u "I better start heading to campus, see you later?"
-    u ""
+    # aut "For sure. I've enjoyed spending time with you more than I thought I would."
+    aut "For sure. I've enjoyed spending time with you more than I thought I would."
 
 # game/v2/scene4.rpy:1706
-translate francais v2s4_dog_b5ddb077:
+translate francais v2s4_dog_ff242813_1:
+
+    # u "Ha, thank you... I think."
+    u "Ha, thank you... I think."
+
+# game/v2/scene4.rpy:1711
+translate francais v2s4_dog_217e7503_1:
+
+    # aut "You're so welcome."
+    aut "You're so welcome."
+
+# game/v2/scene4.rpy:1716
+translate francais v2s4_dog_6f42f07e_1:
+
+    # u "I better start heading to campus, see you later?"
+    u "I better start heading to campus, see you later?"
+
+# game/v2/scene4.rpy:1721
+translate francais v2s4_dog_b5ddb077_1:
 
     # aut "Yeah, I'll see you tonight! Bye, [name]."
-    aut ""
-
-# game/v2/scene4.rpy:1722
-translate francais v2s4_dog_a3604eca:
-
-    # aut "Alright, I better get him fed and bathed before I go on break. I'm due for some \"me time\" *Laughs*"
-    aut ""
-
-# game/v2/scene4.rpy:1727
-translate francais v2s4_dog_e937f748:
-
-    # u "Yeah, you deserve a break at the very least, haha."
-    u ""
-
-# game/v2/scene4.rpy:1732
-translate francais v2s4_dog_7d585566:
-
-    # aut "Thanks again for all your help today."
-    aut ""
+    aut "Yeah, I'll see you tonight! Bye, [name]."
 
 # game/v2/scene4.rpy:1737
-translate francais v2s4_dog_d3c72411:
+translate francais v2s4_dog_696a56fa_1:
 
-    # u "Oh, sure thing. It wasn't a bad start to my day, so thank you as well."
-    u ""
+    # aut "All right, I better get him fed and bathed before I go on break. I'm due for some \"me time.\""
+    aut "All right, I better get him fed and bathed before I go on break. I'm due for some \"me time.\""
+
+# game/v2/scene4.rpy:1742
+translate francais v2s4_dog_9bd30be3_1:
+
+    # u "Yeah, you deserve a break at the very least."
+    u "Yeah, you deserve a break at the very least."
 
 # game/v2/scene4.rpy:1747
-translate francais v2s4_dog_85bcacb4:
+translate francais v2s4_dog_7d585566_1:
 
-    # aut "I'll see you later at Lauren's party, right?"
-    aut ""
+    # aut "Thanks again for all your help today."
+    aut "Thanks again for all your help today."
 
 # game/v2/scene4.rpy:1752
-translate francais v2s4_dog_6bac72c8:
+translate francais v2s4_dog_d3c72411_1:
+
+    # u "Oh, sure thing. It wasn't a bad start to my day, so thank you as well."
+    u "Oh, sure thing. It wasn't a bad start to my day, so thank you as well."
+
+# game/v2/scene4.rpy:1762
+translate francais v2s4_dog_85bcacb4_1:
+
+    # aut "I'll see you later at Lauren's party, right?"
+    aut "I'll see you later at Lauren's party, right?"
+
+# game/v2/scene4.rpy:1767
+translate francais v2s4_dog_6bac72c8_1:
 
     # u "Yeah! See you there."
-    u ""
+    u "Yeah! See you there."
 
 translate francais strings:
 
-    # game/v2/scene4.rpy:29
-    old "Offer to help"
-    new ""
-
-    # game/v2/scene4.rpy:29
+    # game/v2/scene4.rpy:27
     old "Say hello"
-    new ""
+    new "Say hello"
 
     # game/v2/scene4.rpy:100
     old "You think you're funny?"
-    new ""
+    new "You think you're funny?"
 
     # game/v2/scene4.rpy:100
     old "I want one"
-    new ""
+    new "I want one"
 
-    # game/v2/scene4.rpy:197
+    # game/v2/scene4.rpy:200
     old "Just breathe"
-    new ""
+    new "Just breathe"
 
-    # game/v2/scene4.rpy:375
+    # game/v2/scene4.rpy:381
     old "Good luck"
-    new ""
+    new "Good luck"
 
-    # game/v2/scene4.rpy:375
+    # game/v2/scene4.rpy:381
     old "We will"
-    new ""
+    new "We will"
 
-    # game/v2/scene4.rpy:529
+    # game/v2/scene4.rpy:534
     old "No, don't change it"
-    new ""
+    new "No, don't change it"
 
-    # game/v2/scene4.rpy:529
+    # game/v2/scene4.rpy:534
     old "Yeah, let's change it"
-    new ""
+    new "Yeah, let's change it"
 
-    # game/v2/scene4.rpy:571
+    # game/v2/scene4.rpy:576
     old "Choose the dog's name:"
-    new ""
+    new "Choose the dog's name:"
 
-    # game/v2/scene4.rpy:571
+    # game/v2/scene4.rpy:576
     old "Blue"
-    new ""
+    new "Blue"
 
-    # game/v2/scene4.rpy:718
+    # game/v2/scene4.rpy:735
     old "Look at her ass"
-    new ""
+    new "Look at her ass"
 
-    # game/v2/scene4.rpy:939
+    # game/v2/scene4.rpy:956
     old "Pop a balloon"
-    new ""
+    new "Pop a balloon"
 
-    # game/v2/scene4.rpy:939
+    # game/v2/scene4.rpy:956
     old "Keep working"
-    new ""
+    new "Keep working"
 
-    # game/v2/scene4.rpy:1264
+    # game/v2/scene4.rpy:1280
     old "Threaten Oscar's owner"
-    new ""
+    new "Threaten Oscar's owner"
 
-    # game/v2/scene4.rpy:1264
+    # game/v2/scene4.rpy:1280
     old "Comfort Oscar"
-    new ""
+    new "Comfort Oscar"
 
-    # game/v2/scene4.rpy:1432
+    # game/v2/scene4.rpy:1447
     old "Smoke weed"
-    new ""
+    new "Smoke weed"
 
-    # game/v2/scene4.rpy:1432
+    # game/v2/scene4.rpy:1447
     old "Don't smoke"
-    new ""
+    new "Don't smoke"
 

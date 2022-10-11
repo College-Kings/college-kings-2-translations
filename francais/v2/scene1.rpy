@@ -1,674 +1,674 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v2/scene1.rpy:236
-translate francais v2s1_0979a483:
+# game/v2/scene1.rpy:245
+translate francais v2s1_0979a483_1:
 
     # u "Imre, listen to me..."
-    u ""
+    u "Imre, listen to me..."
 
-# game/v2/scene1.rpy:246
-translate francais v2s1_e776e773:
+# game/v2/scene1.rpy:255
+translate francais v2s1_e776e773_1:
 
     # u "There's absolutely no way that I'm telling Chris about me and Nora! How is that going to help anything or anyone?"
-    u ""
+    u "There's absolutely no way that I'm telling Chris about me and Nora! How is that going to help anything or anyone?"
 
-# game/v2/scene1.rpy:251
-translate francais v2s1_59acce17:
+# game/v2/scene1.rpy:260
+translate francais v2s1_59acce17_1:
 
     # imre "Loyalty, fucker! Chris has no idea that the real reason why he and Nora broke up is because you were interfering with their relationship."
-    imre ""
+    imre "Loyalty, fucker! Chris has no idea that the real reason why he and Nora broke up is because you were interfering with their relationship."
 
-# game/v2/scene1.rpy:256
-translate francais v2s1_56ceea53:
+# game/v2/scene1.rpy:265
+translate francais v2s1_56ceea53_1:
 
     # u "That's not true, man."
-    u ""
+    u "That's not true, man."
 
-# game/v2/scene1.rpy:261
-translate francais v2s1_8d55f3e3:
+# game/v2/scene1.rpy:270
+translate francais v2s1_8d55f3e3_1:
 
     # imre "How is it not?!"
-    imre ""
+    imre "How is it not?!"
 
-# game/v2/scene1.rpy:266
-translate francais v2s1_a6a43c33:
+# game/v2/scene1.rpy:275
+translate francais v2s1_a6a43c33_1:
 
     # u "The only person to blame for their breakup is..."
-    u ""
+    u "The only person to blame for their breakup is..."
 
-# game/v2/scene1.rpy:276
-translate francais v2s1_8fbc9166:
+# game/v2/scene1.rpy:285
+translate francais v2s1_8fbc9166_1:
 
     # u "Chris."
-    u ""
-
-# game/v2/scene1.rpy:281
-translate francais v2s1_53a4f9e9:
-
-    # imre "*Scoffs*"
-    imre ""
-
-# game/v2/scene1.rpy:286
-translate francais v2s1_44389135:
-
-    # u "They broke up because Nora felt ignored. Worthless. Alone."
-    u ""
-
-# game/v2/scene1.rpy:288
-translate francais v2s1_9f365d24:
-
-    # u "Everyone knows that. Ask around, dude."
-    u ""
+    u "Chris."
 
 # game/v2/scene1.rpy:290
-translate francais v2s1_befddc45:
+translate francais v2s1_53a4f9e9_1:
+
+    # imre "*Scoffs*"
+    imre "*Scoffs*"
+
+# game/v2/scene1.rpy:295
+translate francais v2s1_44389135_1:
+
+    # u "They broke up because Nora felt ignored. Worthless. Alone."
+    u "They broke up because Nora felt ignored. Worthless. Alone."
+
+# game/v2/scene1.rpy:297
+translate francais v2s1_9f365d24_1:
+
+    # u "Everyone knows that. Ask around, dude."
+    u "Everyone knows that. Ask around, dude."
+
+# game/v2/scene1.rpy:299
+translate francais v2s1_befddc45_1:
 
     # u "Even when she took the time to tell Chris exactly what she needed from him..."
-    u ""
-
-# game/v2/scene1.rpy:291
-translate francais v2s1_e5404c4a:
-
-    # u "He still didn't give her the love or affection that she was asking for."
-    u ""
+    u "Even when she took the time to tell Chris exactly what she needed from him..."
 
 # game/v2/scene1.rpy:300
-translate francais v2s1_11081429:
+translate francais v2s1_e5404c4a_1:
+
+    # u "He still didn't give her the love or affection that she was asking for."
+    u "He still didn't give her the love or affection that she was asking for."
+
+# game/v2/scene1.rpy:309
+translate francais v2s1_11081429_1:
 
     # u "Nora. It's not my problem that she didn't have enough patience to wait until Chris was \"less busy\" for her."
-    u ""
-
-# game/v2/scene1.rpy:305
-translate francais v2s1_8d8da763:
-
-    # imre "So, the fact that you stood on the side lines looking like a knight in shining armor, that has nothing to do with why they broke up?"
-    imre ""
-
-# game/v2/scene1.rpy:307
-translate francais v2s1_3270258f:
-
-    # imre "Ha! That's what you're trying to say to me?"
-    imre ""
-
-# game/v2/scene1.rpy:312
-translate francais v2s1_c0599f8e:
-
-    # u "Nora just wanted things to get better. She wanted it to feel like nothing was changing, but it was, and still is. So..."
-    u ""
+    u "Nora. It's not my problem that she didn't have enough patience to wait until Chris was \"less busy\" for her."
 
 # game/v2/scene1.rpy:314
-translate francais v2s1_7621799a:
+translate francais v2s1_79465600_1:
+
+    # imre "So, the fact that you stood on the side lines looking like a knight in shining armor. That has nothing to do with why they broke up?"
+    imre "So, the fact that you stood on the side lines looking like a knight in shining armor. That has nothing to do with why they broke up?"
+
+# game/v2/scene1.rpy:316
+translate francais v2s1_3270258f_1:
+
+    # imre "Ha! That's what you're trying to say to me?"
+    imre "Ha! That's what you're trying to say to me?"
+
+# game/v2/scene1.rpy:321
+translate francais v2s1_c0599f8e_1:
+
+    # u "Nora just wanted things to get better. She wanted it to feel like nothing was changing, but it was, and still is. So..."
+    u "Nora just wanted things to get better. She wanted it to feel like nothing was changing, but it was, and still is. So..."
+
+# game/v2/scene1.rpy:323
+translate francais v2s1_7621799a_1:
 
     # u "Whatever the official reasons are, the bottom line is that they grew apart. That's why it's over between them."
-    u ""
+    u "Whatever the official reasons are, the bottom line is that they grew apart. That's why it's over between them."
 
-# game/v2/scene1.rpy:319
-translate francais v2s1_4de5f804:
+# game/v2/scene1.rpy:328
+translate francais v2s1_4de5f804_2:
 
     # imre "*Sighs*"
-    imre ""
+    imre "*Sighs*"
 
-# game/v2/scene1.rpy:325
-translate francais v2s1_37db0da0:
+# game/v2/scene1.rpy:334
+translate francais v2s1_37db0da0_1:
 
     # imre "This is so fucked, [name]. This is so fucking fucked, bro!"
-    imre ""
+    imre "This is so fucked, [name]. This is so fucking fucked, bro!"
 
-# game/v2/scene1.rpy:330
-translate francais v2s1_09d79376:
+# game/v2/scene1.rpy:339
+translate francais v2s1_09d79376_1:
 
     # u "Imre, I know, and I'm sorry that you got dragged in, but you have to realize the truth."
-    u ""
+    u "Imre, I know, and I'm sorry that you got dragged in, but you have to realize the truth."
 
-# game/v2/scene1.rpy:335
-translate francais v2s1_54c21895:
+# game/v2/scene1.rpy:344
+translate francais v2s1_54c21895_1:
 
     # imre "None of us even know the truth!"
-    imre ""
+    imre "None of us even know the truth!"
 
-# game/v2/scene1.rpy:340
-translate francais v2s1_8e8226fc:
+# game/v2/scene1.rpy:349
+translate francais v2s1_ed76dbb2_1:
 
-    # u "Alright, that's fair..."
-    u ""
+    # u "All right, that's fair..."
+    u "All right, that's fair..."
 
-# game/v2/scene1.rpy:346
-translate francais v2s1_d5f0ddb8:
+# game/v2/scene1.rpy:355
+translate francais v2s1_d5f0ddb8_1:
 
     # u "Just take some time to really think about it, Imre."
-    u ""
+    u "Just take some time to really think about it, Imre."
 
-# game/v2/scene1.rpy:351
-translate francais v2s1_63b7fb6b:
+# game/v2/scene1.rpy:360
+translate francais v2s1_63b7fb6b_1:
 
     # imre "I already have taken some time."
-    imre ""
+    imre "I already have taken some time."
 
-# game/v2/scene1.rpy:356
-translate francais v2s1_0fdb43a4:
+# game/v2/scene1.rpy:365
+translate francais v2s1_0fdb43a4_1:
 
     # u "Telling Chris about Nora and I will only tear the Wolves apart and make things even worse."
-    u ""
+    u "Telling Chris about Nora and I will only tear the Wolves apart and make things even worse."
 
-# game/v2/scene1.rpy:361
-translate francais v2s1_9f8d5c57:
+# game/v2/scene1.rpy:370
+translate francais v2s1_9f8d5c57_1:
 
     # imre "..."
-    imre ""
-
-# game/v2/scene1.rpy:366
-translate francais v2s1_57fae774:
-
-    # u "We need to lay low and let them work out their shit or else this drama never ends, Imre."
-    u ""
+    imre "..."
 
 # game/v2/scene1.rpy:375
-translate francais v2s1_a86f55f7:
+translate francais v2s1_57fae774_1:
+
+    # u "We need to lay low and let them work out their shit or else this drama never ends, Imre."
+    u "We need to lay low and let them work out their shit or else this drama never ends, Imre."
+
+# game/v2/scene1.rpy:384
+translate francais v2s1_a86f55f7_1:
 
     # imre "*Sighs* Yeah..."
-    imre ""
+    imre "*Sighs* Yeah..."
 
-# game/v2/scene1.rpy:377
-translate francais v2s1_60908d73:
+# game/v2/scene1.rpy:386
+translate francais v2s1_60908d73_1:
 
     # imre "You're right."
-    imre ""
+    imre "You're right."
 
-# game/v2/scene1.rpy:382
-translate francais v2s1_7b252755:
+# game/v2/scene1.rpy:391
+translate francais v2s1_7b252755_1:
 
     # u "(I am?)"
-    u ""
+    u "(I am?)"
 
-# game/v2/scene1.rpy:387
-translate francais v2s1_b679b9f7:
+# game/v2/scene1.rpy:396
+translate francais v2s1_b74efbbf_1:
 
-    # imre "I don't like that you're right but... You are."
-    imre ""
+    # imre "I don't like that you're right, but... you are."
+    imre "I don't like that you're right, but... you are."
 
-# game/v2/scene1.rpy:392
-translate francais v2s1_7816e1e3:
+# game/v2/scene1.rpy:401
+translate francais v2s1_7816e1e3_1:
 
     # u "(I am!)"
-    u ""
+    u "(I am!)"
 
-# game/v2/scene1.rpy:394
-translate francais v2s1_db865a01:
+# game/v2/scene1.rpy:403
+translate francais v2s1_db865a01_1:
 
     # u "Imre, I really-"
-    u ""
+    u "Imre, I really-"
 
-# game/v2/scene1.rpy:399
-translate francais v2s1_2ba40cff:
+# game/v2/scene1.rpy:408
+translate francais v2s1_79c95ef3_1:
 
-    # imre "You're lucky I came to talk to you first, man... 'Cause I was more than ready to tell him everything I know."
-    imre ""
+    # imre "You're lucky I came to talk to you first, man... 'cause I was more than ready to tell him everything I know."
+    imre "You're lucky I came to talk to you first, man... 'cause I was more than ready to tell him everything I know."
 
-# game/v2/scene1.rpy:404
-translate francais v2s1_9ea26a60:
+# game/v2/scene1.rpy:413
+translate francais v2s1_9ea26a60_1:
 
     # u "Well, thank you. Really, I'm glad you came to talk to me first."
-    u ""
+    u "Well, thank you. Really, I'm glad you came to talk to me first."
 
-# game/v2/scene1.rpy:406
-translate francais v2s1_c89e75f8:
+# game/v2/scene1.rpy:415
+translate francais v2s1_c89e75f8_1:
 
     # u "The consequences would have been shit for all of us."
-    u ""
+    u "The consequences would have been shit for all of us."
 
-# game/v2/scene1.rpy:411
-translate francais v2s1_b1a55a11:
+# game/v2/scene1.rpy:420
+translate francais v2s1_b1a55a11_1:
 
     # imre "I know, but this doesn't mean I'm okay with what you're doing."
-    imre ""
+    imre "I know, but this doesn't mean I'm okay with what you're doing."
 
-# game/v2/scene1.rpy:416
-translate francais v2s1_97fdf198:
+# game/v2/scene1.rpy:425
+translate francais v2s1_2f5b741c_1:
 
-    # u "I know, trust me."
-    u ""
+    # u "I know, trust me. It's a delicate situation."
+    u "I know, trust me. It's a delicate situation."
 
-# game/v2/scene1.rpy:421
-translate francais v2s1_33d8167b:
+# game/v2/scene1.rpy:430
+translate francais v2s1_33d8167b_1:
 
     # imre "Dammit man, this feels just like when Ross and Rachel broke up..."
-    imre ""
+    imre "Dammit man, this feels just like when Ross and Rachel broke up..."
 
-# game/v2/scene1.rpy:434
-translate francais v2s1_bcb30917:
+# game/v2/scene1.rpy:441
+translate francais v2s1_bcb30917_1:
 
     # u "They were on a break, bro..."
-    u ""
+    u "They were on a break, bro..."
 
-# game/v2/scene1.rpy:439
-translate francais v2s1_14185d23:
+# game/v2/scene1.rpy:446
+translate francais v2s1_c4cb76d2_1:
 
-    # imre "*Laughs* My man..."
-    imre ""
+    # imre "My man..."
+    imre "My man..."
 
-# game/v2/scene1.rpy:444
-translate francais v2s1_b54e4039:
+# game/v2/scene1.rpy:451
+translate francais v2s1_96771fca_1:
 
-    # u "Haha."
-    u ""
+    # u "I pick up what you're putting down."
+    u "I pick up what you're putting down."
 
-# game/v2/scene1.rpy:452
-translate francais v2s1_53c0db1c:
+# game/v2/scene1.rpy:458
+translate francais v2s1_53c0db1c_1:
 
     # u "Who?"
-    u ""
+    u "Who?"
 
-# game/v2/scene1.rpy:457
-translate francais v2s1_29364748:
+# game/v2/scene1.rpy:463
+translate francais v2s1_29364748_1:
 
     # imre "*Sighs* Nothing, you boomer..."
-    imre ""
+    imre "*Sighs* Nothing, you boomer..."
 
-# game/v2/scene1.rpy:462
-translate francais v2s1_cb390720:
+# game/v2/scene1.rpy:468
+translate francais v2s1_42eb0bdf_1:
 
-    # u "*Chuckles* Alright."
-    u ""
+    # u "Okay, bud."
+    u "Okay, bud."
 
-# game/v2/scene1.rpy:470
-translate francais v2s1_6ed212f2:
+# game/v2/scene1.rpy:476
+translate francais v2s1_c087bd3a_1:
 
-    # imre "I need to talk to someone about Chris and Nora... This is like when Ross and Rachel broke up, dude!"
-    imre ""
+    # imre "I need to talk to someone about Chris and Nora... this is like when Ross and Rachel broke up, dude!"
+    imre "I need to talk to someone about Chris and Nora... this is like when Ross and Rachel broke up, dude!"
 
-# game/v2/scene1.rpy:475
-translate francais v2s1_c7fd94ac:
+# game/v2/scene1.rpy:481
+translate francais v2s1_c7fd94ac_1:
 
     # u "Ross and Rachel?"
-    u ""
+    u "Ross and Rachel?"
 
-# game/v2/scene1.rpy:480
-translate francais v2s1_31d52cc6:
+# game/v2/scene1.rpy:486
+translate francais v2s1_31d52cc6_1:
 
     # imre "Yeah. You know, that show about the group of friends? They fall in love, out of love, and there's a monkey..."
-    imre ""
-
-# game/v2/scene1.rpy:492
-translate francais v2s1_c96a55ba:
-
-    # u "*Laughs* Yeah, of course I know"
-    u ""
+    imre "Yeah. You know, that show about the group of friends? They fall in love, out of love, and there's a monkey..."
 
 # game/v2/scene1.rpy:497
-translate francais v2s1_53530c3b:
+translate francais v2s1_0eeeb6fe_1:
 
-    # imre "Ah, man... My heart is being torn all over again."
-    imre ""
+    # u "Yeah, of course I know."
+    u "Yeah, of course I know."
 
 # game/v2/scene1.rpy:502
-translate francais v2s1_5651688f:
+translate francais v2s1_632c9c26_1:
 
-    # u "I didn't know how important their relationship was to you... *Chuckles*"
-    u ""
+    # imre "Ah, man... my heart is being torn all over again."
+    imre "Ah, man... my heart is being torn all over again."
 
 # game/v2/scene1.rpy:507
-translate francais v2s1_4de5f804_1:
+translate francais v2s1_b446761c_1:
+
+    # u "I didn't know how important their relationship was to you..."
+    u "I didn't know how important their relationship was to you..."
+
+# game/v2/scene1.rpy:512
+translate francais v2s1_4de5f804_3:
 
     # imre "*Sighs*"
-    imre ""
+    imre "*Sighs*"
 
-# game/v2/scene1.rpy:515
-translate francais v2s1_edd6c763:
+# game/v2/scene1.rpy:519
+translate francais v2s1_61df2c2d_1:
 
-    # u "A monkey? What? *Laughs*"
-    u ""
+    # u "A monkey? What?"
+    u "A monkey? What?"
 
-# game/v2/scene1.rpy:520
-translate francais v2s1_748a437f:
+# game/v2/scene1.rpy:524
+translate francais v2s1_2ea66136_1:
 
-    # imre "You're kidding, right? Man... Girls love that shit."
-    imre ""
+    # imre "You're kidding, right? Man... girls love that shit."
+    imre "You're kidding, right? Man... girls love that shit."
 
-# game/v2/scene1.rpy:522
-translate francais v2s1_a07ee527:
+# game/v2/scene1.rpy:526
+translate francais v2s1_1dcc3d3a_1:
 
-    # imre "That's the only reason I watch it... So, I have something in common with girls, you know."
-    imre ""
+    # imre "That's the only reason I watch it... so, I have something in common with girls. You know?"
+    imre "That's the only reason I watch it... so, I have something in common with girls. You know?"
 
-# game/v2/scene1.rpy:527
-translate francais v2s1_cc757f66:
+# game/v2/scene1.rpy:531
+translate francais v2s1_d4ecdc58_1:
 
-    # u "*Chuckles* Right... Yeah, no. I guess I don't watch a lot of television."
-    u ""
+    # u "Riiight... yeah, uh, I guess I don't watch a lot of television."
+    u "Riiight... yeah, uh, I guess I don't watch a lot of television."
 
-# game/v2/scene1.rpy:532
-translate francais v2s1_f75fc1a1:
+# game/v2/scene1.rpy:536
+translate francais v2s1_f75fc1a1_1:
 
     # imre "*Sighs* Boomer..."
-    imre ""
+    imre "*Sighs* Boomer..."
 
-# game/v2/scene1.rpy:537
-translate francais v2s1_6452b6f0:
+# game/v2/scene1.rpy:541
+translate francais v2s1_6452b6f0_1:
 
     # imre "So, what are we going to do?"
-    imre ""
+    imre "So, what are we going to do?"
 
-# game/v2/scene1.rpy:542
-translate francais v2s1_8135f968:
+# game/v2/scene1.rpy:546
+translate francais v2s1_8135f968_1:
 
     # u "About what? Chris and Nora?"
-    u ""
+    u "About what? Chris and Nora?"
 
-# game/v2/scene1.rpy:547
-translate francais v2s1_3856f261:
+# game/v2/scene1.rpy:551
+translate francais v2s1_3856f261_1:
 
     # imre "Yeah. I mean, I know this whole break up is totally on Nora because she's been acting like a bitch, but..."
-    imre ""
+    imre "Yeah. I mean, I know this whole break up is totally on Nora because she's been acting like a bitch, but..."
 
-# game/v2/scene1.rpy:560
-translate francais v2s1_859a91f4:
+# game/v2/scene1.rpy:564
+translate francais v2s1_859a91f4_1:
 
     # u "Wait, this isn't all on Nora. Haha, what are you talking about?"
-    u ""
+    u "Wait, this isn't all on Nora. Haha, what are you talking about?"
 
-# game/v2/scene1.rpy:565
-translate francais v2s1_65717bc3:
+# game/v2/scene1.rpy:569
+translate francais v2s1_65717bc3_1:
 
     # imre "How is it not? Chris did nothing wrong. Not a single-"
-    imre ""
+    imre "How is it not? Chris did nothing wrong. Not a single-"
 
-# game/v2/scene1.rpy:570
-translate francais v2s1_8a95e4c1:
+# game/v2/scene1.rpy:574
+translate francais v2s1_5c5670ca_1:
 
-    # u "Yikes, man... You really gotta start paying more attention around here."
-    u ""
+    # u "Yikes, man... you really gotta start paying more attention around here."
+    u "Yikes, man... you really gotta start paying more attention around here."
 
-# game/v2/scene1.rpy:575
-translate francais v2s1_c240f979:
+# game/v2/scene1.rpy:579
+translate francais v2s1_c240f979_1:
 
     # imre "What the fuck is that supposed to mean? I pay plenty of attention."
-    imre ""
+    imre "What the fuck is that supposed to mean? I pay plenty of attention."
 
-# game/v2/scene1.rpy:580
-translate francais v2s1_f98e6ffd:
+# game/v2/scene1.rpy:584
+translate francais v2s1_f98e6ffd_1:
 
     # u "If that was true then you'd know that Nora has felt alone, worthless, and unappreciated for months leading up to the breakup."
-    u ""
+    u "If that was true then you'd know that Nora has felt alone, worthless, and unappreciated for months leading up to the breakup."
 
-# game/v2/scene1.rpy:585
-translate francais v2s1_91c61131:
+# game/v2/scene1.rpy:589
+translate francais v2s1_91c61131_1:
 
     # imre "Yeah, but she-"
-    imre ""
+    imre "Yeah, but she-"
 
-# game/v2/scene1.rpy:590
-translate francais v2s1_f6567628:
+# game/v2/scene1.rpy:594
+translate francais v2s1_06e28b31_1:
 
-    # u "I don't care if she looks like a bitch or acts like one. She kind of has every right to."
-    u ""
+    # u "I don't care if she looks like a bitch or acts like one. She has every right to."
+    u "I don't care if she looks like a bitch or acts like one. She has every right to."
 
-# game/v2/scene1.rpy:595
-translate francais v2s1_ad9a88a2:
+# game/v2/scene1.rpy:599
+translate francais v2s1_ad9a88a2_1:
 
     # imre "How-"
-    imre ""
+    imre "How-"
 
-# game/v2/scene1.rpy:600
-translate francais v2s1_fca94b6a:
+# game/v2/scene1.rpy:604
+translate francais v2s1_fca94b6a_1:
 
     # u "She's put up with Chris' bullshit for longer than either of us are even aware of."
-    u ""
+    u "She's put up with Chris' bullshit for longer than either of us are even aware of."
 
-# game/v2/scene1.rpy:602
-translate francais v2s1_bd586ec4:
+# game/v2/scene1.rpy:606
+translate francais v2s1_bd586ec4_1:
 
     # u "So, we have no room to judge, but I know damn well that all of this isn't just because of Nora."
-    u ""
+    u "So, we have no room to judge, but I know damn well that all of this isn't just because of Nora."
 
-# game/v2/scene1.rpy:610
-translate francais v2s1_saynothing_6bcd435f:
+# game/v2/scene1.rpy:614
+translate francais v2s1_saynothing_6bcd435f_1:
 
     # u "Yeah?"
-    u ""
+    u "Yeah?"
 
-# game/v2/scene1.rpy:615
-translate francais v2s1_saynothing_f88a1b94:
+# game/v2/scene1.rpy:619
+translate francais v2s1_saynothing_f88a1b94_1:
 
     # imre "I just don't like seeing Chris upset."
-    imre ""
+    imre "I just don't like seeing Chris upset."
 
-# game/v2/scene1.rpy:620
-translate francais v2s1_saynothing_c060c941:
+# game/v2/scene1.rpy:624
+translate francais v2s1_saynothing_c060c941_1:
 
     # u "It's none of our business, Imre."
-    u ""
+    u "It's none of our business, Imre."
 
-# game/v2/scene1.rpy:625
-translate francais v2s1_saynothing_6d0d4f36:
+# game/v2/scene1.rpy:629
+translate francais v2s1_saynothing_6d0d4f36_1:
 
     # imre "But-"
-    imre ""
+    imre "But-"
 
-# game/v2/scene1.rpy:630
-translate francais v2s1_saynothing_1dfff365:
+# game/v2/scene1.rpy:634
+translate francais v2s1_saynothing_1dfff365_1:
 
     # u "If we get involved, you can bet your ass that someone's going to end up getting angry at us for doing exactly that."
-    u ""
+    u "If we get involved, you can bet your ass that someone's going to end up getting angry at us for doing exactly that."
 
-# game/v2/scene1.rpy:632
-translate francais v2s1_saynothing_01bb38bb:
+# game/v2/scene1.rpy:636
+translate francais v2s1_saynothing_01bb38bb_1:
 
     # u "I really think we should just let the two of them work it out on their own."
-    u ""
+    u "I really think we should just let the two of them work it out on their own."
 
-# game/v2/scene1.rpy:637
-translate francais v2s1_saynothing_9bc01e0c:
+# game/v2/scene1.rpy:641
+translate francais v2s1_saynothing_9bc01e0c_1:
 
     # imre "Ah, man... but it feels weird! We should really be trying to help Chris get her back."
-    imre ""
+    imre "Ah, man... but it feels weird! We should really be trying to help Chris get her back."
 
-# game/v2/scene1.rpy:642
-translate francais v2s1_saynothing_6132d62d:
+# game/v2/scene1.rpy:646
+translate francais v2s1_saynothing_6132d62d_1:
 
     # u "I don't think there's any chance of that happening."
-    u ""
+    u "I don't think there's any chance of that happening."
 
-# game/v2/scene1.rpy:647
-translate francais v2s1_saynothing_b61ad683:
+# game/v2/scene1.rpy:651
+translate francais v2s1_saynothing_b61ad683_1:
 
     # imre "But there's always a chance, dude. Just like Ross and Rachel."
-    imre ""
+    imre "But there's always a chance, dude. Just like Ross and Rachel."
 
-# game/v2/scene1.rpy:659
-translate francais v2s1_saynothing_57ae9944:
+# game/v2/scene1.rpy:656
+translate francais v2s1_saynothing_57ae9944_1:
 
     # u "*Sighs*"
-    u ""
+    u "*Sighs*"
 
-# game/v2/scene1.rpy:664
-translate francais v2s1_saynothing_0e8dfefb:
+# game/v2/scene1.rpy:661
+translate francais v2s1_saynothing_0e8dfefb_1:
 
     # imre "If we don't do something, Nora's going to hook up with a random fuckboy and then that'll be the end of it forever."
-    imre ""
+    imre "If we don't do something, Nora's going to hook up with a random fuckboy and then that'll be the end of it forever."
 
-# game/v2/scene1.rpy:669
-translate francais v2s1_saynothing_a05c7dba:
+# game/v2/scene1.rpy:666
+translate francais v2s1_saynothing_a05c7dba_1:
 
     # u "It's not our place to decide what happens here, Imre."
-    u ""
+    u "It's not our place to decide what happens here, Imre."
 
-# game/v2/scene1.rpy:674
-translate francais v2s1_saynothing_9f8d5c57:
+# game/v2/scene1.rpy:671
+translate francais v2s1_saynothing_9f8d5c57_1:
 
     # imre "..."
-    imre ""
+    imre "..."
 
-# game/v2/scene1.rpy:679
-translate francais v2s1_saynothing_fd98ae37:
+# game/v2/scene1.rpy:676
+translate francais v2s1_saynothing_fd98ae37_1:
 
     # u "Imre..."
-    u ""
+    u "Imre..."
 
-# game/v2/scene1.rpy:684
-translate francais v2s1_saynothing_06bb9277:
+# game/v2/scene1.rpy:681
+translate francais v2s1_saynothing_06bb9277_1:
 
     # imre "Okay, fine..."
-    imre ""
+    imre "Okay, fine..."
 
-# game/v2/scene1.rpy:686
-translate francais v2s1_saynothing_74c04dd6:
+# game/v2/scene1.rpy:683
+translate francais v2s1_saynothing_74c04dd6_1:
 
     # imre "I guess you're right. I just don't like it when things change around here, you know?"
-    imre ""
+    imre "I guess you're right. I just don't like it when things change around here, you know?"
 
-# game/v2/scene1.rpy:691
-translate francais v2s1_saynothing_af62c9bf:
+# game/v2/scene1.rpy:688
+translate francais v2s1_saynothing_2d38aae1_1:
 
-    # u "I know. You'll grow up one day. *Laughs*"
-    u ""
+    # u "I know. You'll grow up one day."
+    u "I know. You'll grow up one day."
 
-# game/v2/scene1.rpy:696
-translate francais v2s1_saynothing_14fb3986:
+# game/v2/scene1.rpy:693
+translate francais v2s1_saynothing_c18c8d9e_1:
 
-    # imre "Eh, not likely. *Chuckles*"
-    imre ""
+    # imre "Eh, not likely."
+    imre "Eh, not likely."
 
-# game/v2/scene1.rpy:701
-translate francais v2s1_saynothing_e21da88e:
+# game/v2/scene1.rpy:698
+translate francais v2s1_saynothing_b814ec38_1:
 
-    # imre "I'm heading out then, thanks for the chat."
-    imre ""
+    # imre "I'm heading out, then. Thanks for the chat."
+    imre "I'm heading out, then. Thanks for the chat."
 
-# game/v2/scene1.rpy:706
-translate francais v2s1_saynothing_22860604:
+# game/v2/scene1.rpy:703
+translate francais v2s1_saynothing_22860604_1:
 
     # u "Yeah, of course. You too, man."
-    u ""
+    u "Yeah, of course. You too, man."
 
-# game/v2/scene1.rpy:735
-translate francais v2s1_saynothing_5a82d93c:
+# game/v2/scene1.rpy:732
+translate francais v2s1_saynothing_5a82d93c_1:
 
     # u "*Sighs* (Where the hell is Nora?)"
-    u ""
+    u "*Sighs* (Where the hell is Nora?)"
 
-# game/v2/scene1.rpy:737
-translate francais v2s1_saynothing_4c3fca2a:
+# game/v2/scene1.rpy:734
+translate francais v2s1_saynothing_4c3fca2a_1:
 
     # u "(Maybe she lost her phone? Or it ran out of battery?)"
-    u ""
+    u "(Maybe she lost her phone? Or it ran out of battery?)"
 
-# game/v2/scene1.rpy:739
-translate francais v2s1_saynothing_36ba8610:
+# game/v2/scene1.rpy:736
+translate francais v2s1_saynothing_36ba8610_1:
 
     # u "(Hopefully I can find out some more tomorrow...)"
-    u ""
+    u "(Hopefully I can find out some more tomorrow...)"
 
-# game/v2/scene1.rpy:746
-translate francais v2s1_saynothing_652cc562:
+# game/v2/scene1.rpy:743
+translate francais v2s1_saynothing_652cc562_1:
 
     # u "(No way that's her...)"
-    u ""
+    u "(No way that's her...)"
 
-# game/v2/scene1.rpy:769
-translate francais v2s1_PhoneContinueChl_e4edb176:
+# game/v2/scene1.rpy:766
+translate francais v2s1_PhoneContinueChl_e4edb176_1:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(I should reply to Chloe.)"
 
-# game/v2/scene1.rpy:776
-translate francais v2s1_PhoneContinueAut_cc6e6768:
+# game/v2/scene1.rpy:773
+translate francais v2s1_PhoneContinueAut_cc6e6768_1:
 
     # u "(I should reply to Autumn.)"
-    u ""
+    u "(I should reply to Autumn.)"
 
-# game/v2/scene1.rpy:782
-translate francais v2s1_PhoneContinueAut_b7b0c8a3:
+# game/v2/scene1.rpy:779
+translate francais v2s1_PhoneContinueAut_b7b0c8a3_1:
 
     # u "(Almost forgot about that... It'll be interesting to spend one on one time with Autumn.)"
-    u ""
+    u "(Almost forgot about that... It'll be interesting to spend one on one time with Autumn.)"
 
-# game/v2/scene1.rpy:784
-translate francais v2s1_PhoneContinueAut_1c0447be:
+# game/v2/scene1.rpy:781
+translate francais v2s1_PhoneContinueAut_1c0447be_1:
 
     # u "(I'd better set an alarm so I'm not late.)"
-    u ""
+    u "(I'd better set an alarm so I'm not late.)"
 
-# game/v2/scene1.rpy:789
-translate francais v2s1_PhoneContinueAut_13fff0aa:
+# game/v2/scene1.rpy:786
+translate francais v2s1_PhoneContinueAut_13fff0aa_1:
 
     # u "(And done. Now, it's time for be-)"
-    u ""
+    u "(And done. Now, it's time for be-)"
 
-# game/v2/scene1.rpy:794
-translate francais v2s1_PhoneContinueAut_83c30440:
+# game/v2/scene1.rpy:791
+translate francais v2s1_PhoneContinueAut_83c30440_1:
 
     # u "(The hell?)"
-    u ""
+    u "(The hell?)"
 
-# game/v2/scene1.rpy:804
-translate francais v2s1_PhoneContinueAut_6aaf1b96:
+# game/v2/scene1.rpy:801
+translate francais v2s1_PhoneContinueAut_74b1820e_1:
 
-    # u "(\"Dress to impress your ghoulish empress...\") *Chuckles*"
-    u ""
+    # u "(\"Dress to impress your ghoulish empress...\")"
+    u "(\"Dress to impress your ghoulish empress...\")"
 
-# game/v2/scene1.rpy:806
-translate francais v2s1_PhoneContinueAut_8f08b4ad:
+# game/v2/scene1.rpy:803
+translate francais v2s1_PhoneContinueAut_0b8d9d08_1:
 
-    # u "(Guess I need to go gift shopping... Maybe Autumn can give me ideas on what Lauren would like?)"
-    u ""
+    # u "(Guess I need to go gift shopping. Maybe Autumn can give me ideas on what Lauren would like?)"
+    u "(Guess I need to go gift shopping. Maybe Autumn can give me ideas on what Lauren would like?)"
 
-# game/v2/scene1.rpy:808
-translate francais v2s1_PhoneContinueAut_a8b03d06:
+# game/v2/scene1.rpy:805
+translate francais v2s1_PhoneContinueAut_0dbad9bb_1:
 
-    # u "(Or I can just get her some kind of gift card... She likes books, I think?)"
-    u ""
+    # u "(Or I can just get her some kind of gift card, 'cause... she likes books, I think?)"
+    u "(Or I can just get her some kind of gift card, 'cause... she likes books, I think?)"
 
-# game/v2/scene1.rpy:813
-translate francais v2s1_PhoneContinueAut_744e02a2:
+# game/v2/scene1.rpy:810
+translate francais v2s1_PhoneContinueAut_744e02a2_1:
 
     # u "(Now it's really time for bed...)"
-    u ""
+    u "(Now it's really time for bed...)"
 
-# game/v2/scene1.rpy:838
-translate francais v2s1_PhoneContinueAut_dcc66eae:
+# game/v2/scene1.rpy:835
+translate francais v2s1_PhoneContinueAut_dac778a7_1:
 
-    # u "*Groans* (No time for snoozing today... Need to get up.)"
-    u ""
+    # u "*Groans* (No time for snoozing today. Need to get up.)"
+    u "*Groans* (No time for snoozing today. Need to get up.)"
 
 translate francais strings:
 
-    # game/v2/scene1.rpy:268
+    # game/v2/scene1.rpy:277
     old "Blame Chris"
-    new ""
+    new "Blame Chris"
 
-    # game/v2/scene1.rpy:268
+    # game/v2/scene1.rpy:277
     old "Blame Nora"
-    new ""
+    new "Blame Nora"
 
-    # game/v2/scene1.rpy:426
+    # game/v2/scene1.rpy:435
     old "They were on a break"
-    new ""
+    new "They were on a break"
 
-    # game/v2/scene1.rpy:426
+    # game/v2/scene1.rpy:435
     old "Who?"
-    new ""
+    new "Who?"
 
-    # game/v2/scene1.rpy:485
+    # game/v2/scene1.rpy:491
     old "Of course I know"
-    new ""
+    new "Of course I know"
 
-    # game/v2/scene1.rpy:485
+    # game/v2/scene1.rpy:491
     old "A monkey?"
-    new ""
+    new "A monkey?"
 
-    # game/v2/scene1.rpy:555
+    # game/v2/scene1.rpy:559
     old "Stick up for Nora"
-    new ""
+    new "Stick up for Nora"
 
-    # game/v2/scene1.rpy:555
+    # game/v2/scene1.rpy:559
     old "Say nothing"
-    new ""
+    new "Say nothing"
 
-    # game/v2/scene1.rpy:758
+    # game/v2/scene1.rpy:755
     old "Thank you."
-    new ""
+    new "Thank you."
 
-    # game/v2/scene1.rpy:759
+    # game/v2/scene1.rpy:756
     old "It's not fair, no."
-    new ""
+    new "It's not fair, no."
 

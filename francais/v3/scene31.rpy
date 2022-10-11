@@ -1,354 +1,378 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene31.rpy:17
-translate francais v3s31_4627c21e:
+translate francais v3s31_4627c21e_1:
 
     # gr "It's definitely switched off."
-    gr ""
+    gr "It's definitely switched off."
 
 # game/v3/scene31.rpy:22
-translate francais v3s31_7405aa18:
+translate francais v3s31_7405aa18_1:
 
     # sa "Have you checked the plug?"
-    sa ""
+    sa "Have you checked the plug?"
 
 # game/v3/scene31.rpy:27
-translate francais v3s31_7f606ef8:
+translate francais v3s31_7f606ef8_1:
 
     # gr "*Sighs* Of course I've checked the fucking plug."
-    gr ""
+    gr "*Sighs* Of course I've checked the fucking plug."
 
 # game/v3/scene31.rpy:32
-translate francais v3s31_3b5fa03c:
+translate francais v3s31_fc678441_1:
 
-    # u "What's going on in here?"
-    u ""
+    # u "Hey, what's going on in here?"
+    u "Hey, what's going on in here?"
 
 # game/v3/scene31.rpy:37
-translate francais v3s31_21e46ead:
+translate francais v3s31_21e46ead_1:
 
     # sa "Grayson forgot to pay the electricity bill."
-    sa ""
+    sa "Grayson forgot to pay the electricity bill."
 
 # game/v3/scene31.rpy:42
-translate francais v3s31_1e220fc8:
+translate francais v3s31_1e220fc8_1:
 
     # gr "No, I haven't! Stop saying that, Sam. The power just went out, I think."
-    gr ""
+    gr "No, I haven't! Stop saying that, Sam. The power just went out, I think."
 
 # game/v3/scene31.rpy:47
-translate francais v3s31_dbaecaad:
+translate francais v3s31_dbaecaad_1:
 
     # u "Oh yeah, Aubrey told me there's been a lot of blackouts lately."
-    u ""
+    u "Oh yeah, Aubrey told me there's been a lot of blackouts lately."
 
 # game/v3/scene31.rpy:52
-translate francais v3s31_0d962f58:
+translate francais v3s31_0d962f58_1:
 
     # sa "Well, hopefully it won't take too long to come back on."
-    sa ""
+    sa "Well, hopefully it won't take too long to come back on."
 
 # game/v3/scene31.rpy:57
-translate francais v3s31_e85a4a14:
+translate francais v3s31_e85a4a14_1:
 
     # sa "'Cause Grayson can't sleep without his nightlight. *Laughs*"
-    sa ""
+    sa "'Cause Grayson can't sleep without his nightlight. *Laughs*"
 
 # game/v3/scene31.rpy:62
-translate francais v3s31_c6f839ba:
+translate francais v3s31_c6f839ba_1:
 
     # gr "How did you know about my- *Sighs*"
-    gr ""
+    gr "How did you know about my- *Sighs*"
 
 # game/v3/scene31.rpy:64
-translate francais v3s31_84e4e0e8:
+translate francais v3s31_84e4e0e8_1:
 
     # gr "You're really starting to piss me off, Sam!"
-    gr ""
+    gr "You're really starting to piss me off, Sam!"
 
 # game/v3/scene31.rpy:69
-translate francais v3s31_1ae8e39c:
+translate francais v3s31_1ae8e39c_1:
 
     # sa "Oh, calm down, Grayson. You know I'm just messing with you."
-    sa ""
+    sa "Oh, calm down, Grayson. You know I'm just messing with you."
 
 # game/v3/scene31.rpy:74
-translate francais v3s31_a8f96ec8:
+translate francais v3s31_bd7d487f_1:
 
-    # gr "You know what? This little arrangement with you living here? It needs to end."
-    gr ""
+    # gr "Always just fucking picking away at everything. Like, shut the fuck up."
+    gr "Always just fucking picking away at everything. Like, shut the fuck up."
 
-# game/v3/scene31.rpy:76
-translate francais v3s31_ff7abe37:
+# game/v3/scene31.rpy:79
+translate francais v3s31_b02816b2_1:
+
+    # sa "Jesus, I was teasing you! I didn't realize you were such a sensitive fucking babe."
+    sa "Jesus, I was teasing you! I didn't realize you were such a sensitive fucking babe."
+
+# game/v3/scene31.rpy:84
+translate francais v3s31_b2e28f31_1:
+
+    # gr "All right, you know what? This little arrangement with you living here? It needs to end."
+    gr "All right, you know what? This little arrangement with you living here? It needs to end."
+
+# game/v3/scene31.rpy:89
+translate francais v3s31_baae9609_1:
+
+    # sa "What? Are you serious right now? Where's this coming from?"
+    sa "What? Are you serious right now? Where's this coming from?"
+
+# game/v3/scene31.rpy:94
+translate francais v3s31_ff7abe37_1:
 
     # gr "You're not an Ape. You shouldn't be here."
-    gr ""
+    gr "You're not an Ape. You shouldn't be here."
 
-# game/v3/scene31.rpy:81
-translate francais v3s31_28ef11c4:
+# game/v3/scene31.rpy:99
+translate francais v3s31_3e5257e5_1:
 
-    # sa "Tell that to my brother, meathead. I don't want to be here any longer than I have to!"
-    sa ""
+    # sa "Ugh, tell that to my brother, meathead. I don't want to be here any longer than I have to!"
+    sa "Ugh, tell that to my brother, meathead. I don't want to be here any longer than I have to!"
 
-# game/v3/scene31.rpy:87
-translate francais v3s31_a4ada4a4:
+# game/v3/scene31.rpy:105
+translate francais v3s31_a4ada4a4_1:
 
     # gr "Yeah, well maybe have some self-control with the drugs, then Cameron wouldn't have to babysit you."
-    gr ""
+    gr "Yeah, well maybe have some self-control with the drugs, then Cameron wouldn't have to babysit you."
 
-# game/v3/scene31.rpy:92
-translate francais v3s31_1d1de48a:
+# game/v3/scene31.rpy:110
+translate francais v3s31_1d1de48a_1:
 
     # sa "Oh, fuck off, Grayson."
-    sa ""
+    sa "Oh, fuck off, Grayson."
 
-# game/v3/scene31.rpy:97
-translate francais v3s31_3ec2e1c9:
+# game/v3/scene31.rpy:115
+translate francais v3s31_3ec2e1c9_1:
 
     # gr "Don't talk to me like that. I'm serious."
-    gr ""
+    gr "Don't talk to me like that. I'm serious."
 
-# game/v3/scene31.rpy:102
-translate francais v3s31_975f95e6:
+# game/v3/scene31.rpy:120
+translate francais v3s31_975f95e6_1:
 
     # sa "*Laughs* Whatever."
-    sa ""
+    sa "*Laughs* Whatever."
 
-# game/v3/scene31.rpy:108
-translate francais v3s31_802f2173:
+# game/v3/scene31.rpy:126
+translate francais v3s31_be0538c1_1:
 
-    # sa "I've been good lately, no drugs or alcohol. I'm hoping to be gone soon."
-    sa ""
+    # sa "I've been good lately, no drugs or alcohol. I'm hoping to be out soon."
+    sa "I've been good lately, no drugs or alcohol. I'm hoping to be out soon."
 
-# game/v3/scene31.rpy:113
-translate francais v3s31_d1153244:
+# game/v3/scene31.rpy:131
+translate francais v3s31_d1153244_1:
 
     # gr "Good! I'm sick of seeing you here."
-    gr ""
-
-# game/v3/scene31.rpy:118
-translate francais v3s31_d8b9cb5d:
-
-    # u "Grayson, come on."
-    u ""
-
-# game/v3/scene31.rpy:123
-translate francais v3s31_b6a2f540:
-
-    # gr "This is a fucking frat! Not a halfway house, [name]."
-    gr ""
-
-# game/v3/scene31.rpy:130
-translate francais v3s31_f95fccd1:
-
-    # u "I do see where Grayson is coming from, Sam. Not many frats have girls living on their couches."
-    u ""
+    gr "Good! I'm sick of seeing you here."
 
 # game/v3/scene31.rpy:136
-translate francais v3s31_b602be72:
+translate francais v3s31_5c6316d9_1:
 
-    # sa "Well, fuck you too, then."
-    sa ""
+    # sa "*Scoffs*"
+    sa "*Scoffs*"
 
 # game/v3/scene31.rpy:141
-translate francais v3s31_f4324f99:
+translate francais v3s31_d8b9cb5d_1:
 
-    # gr "*Scoffs* Do you see what I have to deal with?"
-    gr ""
+    # u "Grayson, come on."
+    u "Grayson, come on."
 
 # game/v3/scene31.rpy:146
-translate francais v3s31_89d7bcbc:
+translate francais v3s31_b6a2f540_1:
+
+    # gr "This is a fucking frat! Not a halfway house, [name]."
+    gr "This is a fucking frat! Not a halfway house, [name]."
+
+# game/v3/scene31.rpy:154
+translate francais v3s31_98dc37c2_1:
+
+    # u "I mean, you gotta see where Grayson's coming from, Sam. Most frats don't have a girl living on their couch."
+    u "I mean, you gotta see where Grayson's coming from, Sam. Most frats don't have a girl living on their couch."
+
+# game/v3/scene31.rpy:160
+translate francais v3s31_b602be72_1:
+
+    # sa "Well, fuck you too, then."
+    sa "Well, fuck you too, then."
+
+# game/v3/scene31.rpy:165
+translate francais v3s31_f4324f99_1:
+
+    # gr "*Scoffs* Do you see what I have to deal with?"
+    gr "*Scoffs* Do you see what I have to deal with?"
+
+# game/v3/scene31.rpy:170
+translate francais v3s31_89d7bcbc_1:
 
     # u "*Sighs* Sam-"
-    u ""
+    u "*Sighs* Sam-"
 
-# game/v3/scene31.rpy:151
-translate francais v3s31_469474c2:
+# game/v3/scene31.rpy:175
+translate francais v3s31_9084dcc4_1:
 
-    # sa "Like I said, talk to Cameron about it!"
-    sa ""
+    # sa "Both of you assholes feel free to talk to Cameron about it!"
+    sa "Both of you assholes feel free to talk to Cameron about it!"
 
-# game/v3/scene31.rpy:157
-translate francais v3s31_cff19eb8:
+# game/v3/scene31.rpy:181
+translate francais v3s31_cff19eb8_1:
 
     # sa "You know why I'm here, though. This isn't exactly what I want either, remember?"
-    sa ""
-
-# game/v3/scene31.rpy:163
-translate francais v3s31_7821b389:
-
-    # u "Grayson, go easy on her."
-    u ""
-
-# game/v3/scene31.rpy:168
-translate francais v3s31_d7f57b90:
-
-    # gr "Here we fucking go."
-    gr ""
-
-# game/v3/scene31.rpy:173
-translate francais v3s31_25bd73e0:
-
-    # sa "*Giggles*"
-    sa ""
-
-# game/v3/scene31.rpy:178
-translate francais v3s31_9dfc6243:
-
-    # u "I know it's frustrating, I get it. But this is Cameron's sister. By helping Sam, we're helping one of the Apes."
-    u ""
-
-# game/v3/scene31.rpy:183
-translate francais v3s31_fa41a964:
-
-    # gr "You sound like you've been watching too many daytime talk shows, [name]."
-    gr ""
+    sa "You know why I'm here, though. This isn't exactly what I want either, remember?"
 
 # game/v3/scene31.rpy:188
-translate francais v3s31_7b633c6c:
+translate francais v3s31_7821b389_1:
 
-    # u "(What?)"
-    u ""
+    # u "Grayson, go easy on her."
+    u "Grayson, go easy on her."
 
 # game/v3/scene31.rpy:193
-translate francais v3s31_3189a427:
+translate francais v3s31_d7f57b90_1:
 
-    # gr "I don't care what it looks like or how it makes people feel. This is the Apes fraternity house, I am the president of the Apes, and I want her out of here!"
-    gr ""
+    # gr "Here we fucking go."
+    gr "Here we fucking go."
 
-# game/v3/scene31.rpy:199
-translate francais v3s31_76379e0c:
+# game/v3/scene31.rpy:198
+translate francais v3s31_07cd6b38_1:
 
-    # sa "*Whispers* I think he's angry because he wants to bang me. That's what this is."
-    sa ""
+    # sa "..."
+    sa "..."
 
-# game/v3/scene31.rpy:204
-translate francais v3s31_47737368:
+# game/v3/scene31.rpy:203
+translate francais v3s31_9dfc6243_1:
+
+    # u "I know it's frustrating, I get it. But this is Cameron's sister. By helping Sam, we're helping one of the Apes."
+    u "I know it's frustrating, I get it. But this is Cameron's sister. By helping Sam, we're helping one of the Apes."
+
+# game/v3/scene31.rpy:208
+translate francais v3s31_848a4f5c_1:
+
+    # gr "You sound like a fucking after school special, [name]. We're not a fucking charity."
+    gr "You sound like a fucking after school special, [name]. We're not a fucking charity."
+
+# game/v3/scene31.rpy:213
+translate francais v3s31_d653b00c_1:
+
+    # u "(Okay...)"
+    u "(Okay...)"
+
+# game/v3/scene31.rpy:218
+translate francais v3s31_15af15cf_1:
+
+    # gr "I don't care what it looks like or how it makes people feel. This is the Apes fraternity house, I am the President of the Apes, and I want her out of here!"
+    gr "I don't care what it looks like or how it makes people feel. This is the Apes fraternity house, I am the President of the Apes, and I want her out of here!"
+
+# game/v3/scene31.rpy:224
+translate francais v3s31_b94c95d0_1:
+
+    # sa "*Whispers* Think he's angry because he wants to bang me? That's probably what this is."
+    sa "*Whispers* Think he's angry because he wants to bang me? That's probably what this is."
+
+# game/v3/scene31.rpy:229
+translate francais v3s31_47737368_1:
 
     # gr "I wouldn't even touch you with someone else's dick!"
-    gr ""
-
-# game/v3/scene31.rpy:210
-translate francais v3s31_d0e7ed67:
-
-    # sa "Okay, message received. Thanks for putting it so delicately! Dickhead."
-    sa ""
-
-# game/v3/scene31.rpy:215
-translate francais v3s31_cef97370:
-
-    # gr "Haha, great! It's finally sinking into that ugly little head of yours!"
-    gr ""
-
-# game/v3/scene31.rpy:220
-translate francais v3s31_f36331b9:
-
-    # gr "Now, I'm done with this conversation."
-    gr ""
-
-# game/v3/scene31.rpy:225
-translate francais v3s31_dd4439d5:
-
-    # gr "I'm going to go buy some candles in case this power outage happens again."
-    gr ""
-
-# game/v3/scene31.rpy:230
-translate francais v3s31_7ea67e75:
-
-    # sa "You know, a lot of kids grow out of their fear of the dark at a young age!"
-    sa ""
+    gr "I wouldn't even touch you with someone else's dick!"
 
 # game/v3/scene31.rpy:235
-translate francais v3s31_1ab7d1fc:
+translate francais v3s31_d0e7ed67_1:
 
-    # gr "Fuck off, Sam!"
-    gr ""
+    # sa "Okay, message received. Thanks for putting it so delicately! Dickhead."
+    sa "Okay, message received. Thanks for putting it so delicately! Dickhead."
 
 # game/v3/scene31.rpy:240
-translate francais v3s31_1f0d9272:
+translate francais v3s31_b2a9edb8_1:
+
+    # gr "Fuckin' A! Something's finally sinking into that tiny fucking brain of yours!"
+    gr "Fuckin' A! Something's finally sinking into that tiny fucking brain of yours!"
+
+# game/v3/scene31.rpy:245
+translate francais v3s31_f36331b9_1:
+
+    # gr "Now, I'm done with this conversation."
+    gr "Now, I'm done with this conversation."
+
+# game/v3/scene31.rpy:250
+translate francais v3s31_9e220db7_1:
+
+    # gr "We need some fucking flashlights in case this power outage happens again."
+    gr "We need some fucking flashlights in case this power outage happens again."
+
+# game/v3/scene31.rpy:255
+translate francais v3s31_7ea67e75_1:
+
+    # sa "You know, a lot of kids grow out of their fear of the dark at a young age!"
+    sa "You know, a lot of kids grow out of their fear of the dark at a young age!"
+
+# game/v3/scene31.rpy:260
+translate francais v3s31_2ec162ff_1:
+
+    # gr "Fuck right off, Sam!"
+    gr "Fuck right off, Sam!"
+
+# game/v3/scene31.rpy:265
+translate francais v3s31_1f0d9272_1:
 
     # sa "He's such an asshole sometimes."
-    sa ""
+    sa "He's such an asshole sometimes."
 
-# game/v3/scene31.rpy:242
-translate francais v3s31_15952378:
+# game/v3/scene31.rpy:267
+translate francais v3s31_15952378_1:
 
     # sa "Actually, no. He's an asshole all the time."
-    sa ""
+    sa "Actually, no. He's an asshole all the time."
 
-# game/v3/scene31.rpy:247
-translate francais v3s31_8a042b3a:
+# game/v3/scene31.rpy:272
+translate francais v3s31_b7014502_1:
 
-    # u "Haha, yeah. He definitely lets you know when he's pissed off."
-    u ""
+    # u "Uh... yeah. He definitely lets you know when he's pissed off."
+    u "Uh... yeah. He definitely lets you know when he's pissed off."
 
-# game/v3/scene31.rpy:249
-translate francais v3s31_60804cf9:
+# game/v3/scene31.rpy:274
+translate francais v3s31_60804cf9_1:
 
     # u "And he is pissed off a LOT."
-    u ""
+    u "And he is pissed off a LOT."
 
-# game/v3/scene31.rpy:254
-translate francais v3s31_a109b79e:
+# game/v3/scene31.rpy:279
+translate francais v3s31_e970720e_1:
 
-    # sa "Ha, a true Ape. Always angry and ready for a fight."
-    sa ""
+    # sa "Yup, a true Ape. Always angry and ready for a fight."
+    sa "Yup, a true Ape. Always angry and ready for a fight."
 
-# game/v3/scene31.rpy:259
-translate francais v3s31_9f268b2d:
+# game/v3/scene31.rpy:284
+translate francais v3s31_9f268b2d_1:
 
     # sa "*Sighs* Power outages are so boring! There's nothing to do."
-    sa ""
+    sa "*Sighs* Power outages are so boring! There's nothing to do."
 
-# game/v3/scene31.rpy:264
-translate francais v3s31_851db2bd:
+# game/v3/scene31.rpy:289
+translate francais v3s31_851db2bd_1:
 
     # u "Maybe do some studying?"
-    u ""
+    u "Maybe do some studying?"
 
-# game/v3/scene31.rpy:269
-translate francais v3s31_99778e3e:
+# game/v3/scene31.rpy:294
+translate francais v3s31_c13d9b9e_1:
 
-    # sa "Haha! Good one you weirdo."
-    sa ""
+    # sa "HA! Good one, you weirdo."
+    sa "HA! Good one, you weirdo."
 
-# game/v3/scene31.rpy:271
-translate francais v3s31_9a6343c2:
+# game/v3/scene31.rpy:296
+translate francais v3s31_9a6343c2_1:
 
     # sa "I'm gonna head out and see what people are up to. Catch you later, [name]."
-    sa ""
+    sa "I'm gonna head out and see what people are up to. Catch you later, [name]."
 
-# game/v3/scene31.rpy:276
-translate francais v3s31_1ca3846e:
+# game/v3/scene31.rpy:301
+translate francais v3s31_1ca3846e_1:
 
     # u "Yeah, okay. Later, Sam."
-    u ""
+    u "Yeah, okay. Later, Sam."
 
-# game/v3/scene31.rpy:287
-translate francais v3s31_0ce8694f:
+# game/v3/scene31.rpy:312
+translate francais v3s31_c8152cc7_1:
 
-    # sa "Oh, and my memory of us fucking... it's kinda fading. So, let's refresh that soon."
-    sa ""
+    # sa "Oh yeah, my memory of us fucking... it's kinda fading. So, let's refresh that soon."
+    sa "Oh yeah, my memory of us fucking... it's kinda fading. So, let's refresh that soon."
 
-# game/v3/scene31.rpy:297
-translate francais v3s31_48cf1793:
+# game/v3/scene31.rpy:322
+translate francais v3s31_48cf1793_1:
 
     # u "(Deal.)"
-    u ""
+    u "(Deal.)"
 
-# game/v3/scene31.rpy:302
-translate francais v3s31_1bc20b69:
+# game/v3/scene31.rpy:327
+translate francais v3s31_750ae611_1:
 
-    # u "(I guess I'll go to my room...)"
-    u ""
+    # u "(I guess I can go study, not much else to do...)"
+    u "(I guess I can go study, not much else to do...)"
 
 translate francais strings:
 
-    # game/v3/scene31.rpy:125
+    # game/v3/scene31.rpy:148
     old "Agree with Grayson"
-    new ""
+    new "Agree with Grayson"
 
-    # game/v3/scene31.rpy:125
+    # game/v3/scene31.rpy:148
     old "Defend Samantha"
-    new ""
+    new "Defend Samantha"
 

@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene66.rpy:21
-translate francais v3s66_a784cfdb:
+translate francais v3s66_a784cfdb_1:
 
     # u "(I hope I haven't missed the start of Polly's performance...)"
-    u ""
+    u "(I hope I haven't missed the start of Polly's performance...)"
 

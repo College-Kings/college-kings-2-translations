@@ -1,2484 +1,2502 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene21.rpy:24
-translate francais v2s21_69621a86:
+translate francais v2s21_69621a86_1:
 
     # cl "Here he is."
-    cl ""
+    cl "Here he is."
 
 # game/v2/scene21.rpy:30
-translate francais v2s21_2bac9c8a:
+translate francais v2s21_2bac9c8a_1:
 
     # lee "Good morning, Chloe and [name]."
-    lee ""
+    lee "Good morning, Chloe and [name]."
 
 # game/v2/scene21.rpy:35
-translate francais v2s21_39cbfbac:
+translate francais v2s21_39cbfbac_1:
 
     # cl "Good morning, Mr. Lee."
-    cl ""
+    cl "Good morning, Mr. Lee."
 
 # game/v2/scene21.rpy:40
-translate francais v2s21_0408dccb:
+translate francais v2s21_0408dccb_1:
 
     # u "Hello."
-    u ""
+    u "Hello."
 
 # game/v2/scene21.rpy:45
-translate francais v2s21_34d119ab:
+translate francais v2s21_34d119ab_1:
 
     # lee "I'm glad to see you're both on time. That shows not only intelligence, but great respect for your guest."
-    lee ""
+    lee "I'm glad to see you're both on time. That shows not only intelligence, but great respect for your guest."
 
 # game/v2/scene21.rpy:50
-translate francais v2s21_9e146e49:
+translate francais v2s21_68f885c8_1:
 
-    # u "(Straight in with the life lessons, haha.)"
-    u ""
+    # u "(Straight in with the life lessons, as usual.)"
+    u "(Straight in with the life lessons, as usual.)"
 
 # game/v2/scene21.rpy:52
-translate francais v2s21_7c847ae0:
+translate francais v2s21_7c847ae0_1:
 
     # u "Of course, your time is very valuable, as is ours."
-    u ""
+    u "Of course, your time is very valuable, as is ours."
 
 # game/v2/scene21.rpy:57
-translate francais v2s21_df3c3537:
+translate francais v2s21_df3c3537_1:
 
     # cl "Yes, thank you for agreeing to this, Mr. Lee."
-    cl ""
+    cl "Yes, thank you for agreeing to this, Mr. Lee."
 
 # game/v2/scene21.rpy:59
-translate francais v2s21_dafaa475:
+translate francais v2s21_dafaa475_1:
 
     # cl "If you would like to follow me, I've booked a room for us to meet."
-    cl ""
+    cl "If you would like to follow me, I've booked a room for us to meet."
 
 # game/v2/scene21.rpy:64
-translate francais v2s21_9a45c292:
+translate francais v2s21_9a45c292_1:
 
     # lee "Punctual and organized. Very good."
-    lee ""
+    lee "Punctual and organized. Very good."
 
 # game/v2/scene21.rpy:69
-translate francais v2s21_381ee43c:
+translate francais v2s21_381ee43c_1:
 
     # u "(I think we're scoring points already.)"
-    u ""
+    u "(I think we're scoring points already.)"
 
 # game/v2/scene21.rpy:84
-translate francais v2s21_25d434e6:
+translate francais v2s21_25d434e6_1:
 
     # lee "So, I understand you have a proposal that you would like my support on?"
-    lee ""
+    lee "So, I understand you have a proposal that you would like my support on?"
 
 # game/v2/scene21.rpy:91
-translate francais v2s21_d60d5799:
+translate francais v2s21_d60d5799_1:
 
     # cl "Yeah, it's part of my election campaign. I'm being challenged for the presidency of the Chicks."
-    cl ""
+    cl "Yeah, it's part of my election campaign. I'm being challenged for the presidency of the Chicks."
 
 # game/v2/scene21.rpy:96
-translate francais v2s21_3c02b221:
+translate francais v2s21_3c02b221_1:
 
     # lee "We've all seen the posters, they're everywhere. Lindsey is shaping up to be quite a formidable rival."
-    lee ""
+    lee "We've all seen the posters, they're everywhere. Lindsey is shaping up to be quite a formidable rival."
 
 # game/v2/scene21.rpy:112
-translate francais v2s21_589f43a8:
+translate francais v2s21_589f43a8_1:
 
     # u "I think it's irresponsible to waste so much paper, does she not care about the environment?"
-    u ""
+    u "I think it's irresponsible to waste so much paper, does she not care about the environment?"
 
 # game/v2/scene21.rpy:117
-translate francais v2s21_2d29b9bf:
+translate francais v2s21_2d29b9bf_1:
 
     # cl "*Whispers* [name]..."
-    cl ""
+    cl "*Whispers* [name]..."
 
 # game/v2/scene21.rpy:122
-translate francais v2s21_7e925363:
+translate francais v2s21_7e925363_1:
 
     # u "They should all be taken down as punishment in my opinion."
-    u ""
+    u "They should all be taken down as punishment in my opinion."
 
 # game/v2/scene21.rpy:127
-translate francais v2s21_65545c4b:
+translate francais v2s21_65545c4b_1:
 
     # lee "I agree with your global deforestation concerns, but punishing Lindsey for simply putting up posters would be a bit too far, don't you think?"
-    lee ""
+    lee "I agree with your global deforestation concerns, but punishing Lindsey for simply putting up posters would be a bit too far, don't you think?"
 
 # game/v2/scene21.rpy:132
-translate francais v2s21_8d58561b:
+translate francais v2s21_6d883d22_1:
 
-    # cl "Of course, we don't want that. *Nervous chuckles*"
-    cl ""
+    # cl "Of course, we don't want that."
+    cl "Of course, we don't want that."
 
 # game/v2/scene21.rpy:137
-translate francais v2s21_d16d2264:
+translate francais v2s21_d16d2264_1:
 
     # u "(*Sighs*)"
-    u ""
+    u "(*Sighs*)"
 
 # game/v2/scene21.rpy:142
-translate francais v2s21_0eb8888e:
+translate francais v2s21_0eb8888e_1:
 
     # lee "There is honor in fighting fair, [name], and Lindsey is doing nothing wrong."
-    lee ""
+    lee "There is honor in fighting fair, [name], and Lindsey is doing nothing wrong."
 
 # game/v2/scene21.rpy:147
-translate francais v2s21_8bde1f36:
+translate francais v2s21_8bde1f36_1:
 
     # u "Yeah. You're right, I'm sorry."
-    u ""
+    u "Yeah. You're right, I'm sorry."
 
 # game/v2/scene21.rpy:158
-translate francais v2s21_958ebc39:
+translate francais v2s21_958ebc39_1:
 
     # u "(It's best to keep my mouth shut... Don't want to risk pissing him off.)"
-    u ""
+    u "(It's best to keep my mouth shut... Don't want to risk pissing him off.)"
 
 # game/v2/scene21.rpy:163
-translate francais v2s21_67c2e176:
+translate francais v2s21_67c2e176_1:
 
     # cl "I have to agree, she is. Which is why I'm doing whatever it takes to prove to my peers that I'm a better fit for President."
-    cl ""
+    cl "I have to agree, she is. Which is why I'm doing whatever it takes to prove to my peers that I'm a better fit for President."
 
 # game/v2/scene21.rpy:168
-translate francais v2s21_299f5ef4:
+translate francais v2s21_299f5ef4_1:
 
     # lee "Excellent. Then, let's begin."
-    lee ""
+    lee "Excellent. Then, let's begin."
 
 # game/v2/scene21.rpy:173
-translate francais v2s21_412435f6:
+translate francais v2s21_412435f6_1:
 
     # cl "So, the reason I've asked you to meet with us today is to hopefully gain your support for my proposal."
-    cl ""
+    cl "So, the reason I've asked you to meet with us today is to hopefully gain your support for my proposal."
 
 # game/v2/scene21.rpy:188
-translate francais v2s21_510e1a4a:
+translate francais v2s21_510e1a4a_1:
 
     # cl "If I'm successful, I can then take our approved idea to the Dean and get it implemented."
-    cl ""
+    cl "If I'm successful, I can then take our approved idea to the Dean and get it implemented."
 
 # game/v2/scene21.rpy:193
-translate francais v2s21_5a73e8f9:
+translate francais v2s21_5a73e8f9_1:
 
     # lee "Hmm."
-    lee ""
+    lee "Hmm."
 
 # game/v2/scene21.rpy:198
-translate francais v2s21_6af18a82:
+translate francais v2s21_6af18a82_1:
 
     # u "(Who is this smart person and what did she do with Chloe?)"
-    u ""
+    u "(Who is this smart person and what did she do with Chloe?)"
 
 # game/v2/scene21.rpy:213
-translate francais v2s21_bf8fae9c:
+translate francais v2s21_bf8fae9c_1:
 
     # lee "That's a bold proposal. You'll certainly gain a majority of votes if you succeed."
-    lee ""
+    lee "That's a bold proposal. You'll certainly gain a majority of votes if you succeed."
 
 # game/v2/scene21.rpy:218
-translate francais v2s21_aac0bbae:
+translate francais v2s21_aac0bbae_1:
 
     # cl "Thank you."
-    cl ""
+    cl "Thank you."
 
 # game/v2/scene21.rpy:228
-translate francais v2s21_3831867b:
+translate francais v2s21_3831867b_1:
 
     # lee "Now, I have a few questions..."
-    lee ""
+    lee "Now, I have a few questions..."
 
 # game/v2/scene21.rpy:233
-translate francais v2s21_191b0635:
+translate francais v2s21_191b0635_1:
 
     # u "(Here we go...)"
-    u ""
+    u "(Here we go...)"
 
 # game/v2/scene21.rpy:239
-translate francais v2s21_a461c707:
+translate francais v2s21_a461c707_1:
 
     # u "(At least we brought the notes with us. We can refer to them whenever.)"
-    u ""
+    u "(At least we brought the notes with us. We can refer to them whenever.)"
 
 # game/v2/scene21.rpy:245
-translate francais v2s21_ae87d323:
-
-    # u "(I hope I don't regret not bringing those notes.)"
-    u ""
-
-# game/v2/scene21.rpy:250
-translate francais v2s21_7d1180fd:
-
-    # lee "Naturally, my initial feelings are to fight strongly against this."
-    lee ""
-
-# game/v2/scene21.rpy:252
-translate francais v2s21_1ee097a3:
-
-    # lee "How can you justify one group having lower tuition fees and not the others?"
-    lee ""
-
-# game/v2/scene21.rpy:254
-translate francais v2s21_16c00253:
-
-    # lee "What will your fellow students think when they see the Chicks being favored over the other frats and sororities?"
-    lee ""
-
-# game/v2/scene21.rpy:269
-translate francais v2s21_b049045d:
-
-    # u "In all fairness, they have every right to walk in here and ask for lower tuition fees. They just have to ask. This isn't favoritism."
-    u ""
-
-# game/v2/scene21.rpy:274
-translate francais v2s21_0070e693:
-
-    # u "Chloe might just be the first person who's brave enough to make it happen."
-    u ""
-
-# game/v2/scene21.rpy:279
-translate francais v2s21_a946572b:
-
-    # cl "It's true. If they want the same treatment, they just have to try."
-    cl ""
-
-# game/v2/scene21.rpy:284
-translate francais v2s21_572af2b7:
-
-    # lee "Yes, that is true. I'm all for students taking the initiative and owning responsibility."
-    lee ""
-
-# game/v2/scene21.rpy:286
-translate francais v2s21_a94c70e6:
-
-    # lee "They are indeed free to ask for the same treatment if they want it."
-    lee ""
-
-# game/v2/scene21.rpy:287
-translate francais v2s21_27bd70e7:
-
-    # lee "And I'm certain they will if your plan goes through. So we should consider the implications of that carefully."
-    lee ""
-
-# game/v2/scene21.rpy:299
-translate francais v2s21_3663a1b8:
-
-    # u "Chloe came up with this idea, that's not her fault."
-    u ""
-
-# game/v2/scene21.rpy:304
-translate francais v2s21_467f3372:
-
-    # u "Why should the future of the Chicks have to suffer because others are sad that they didn't think of it first?"
-    u ""
-
-# game/v2/scene21.rpy:309
-translate francais v2s21_4c94f691:
-
-    # cl "Yeah, that's true..."
-    cl ""
-
-# game/v2/scene21.rpy:314
-translate francais v2s21_a80755b3:
-
-    # lee "It is not that they didn't think of it, it may just seem out of order for an entire sorority to receive tuition benefits, and not the others."
-    lee ""
-
-# game/v2/scene21.rpy:319
-translate francais v2s21_64f9ec48:
-
-    # u "Chloe's the one putting in all the hard work to make a change. If it's awarded, then the Chicks deserve it, plain and simple."
-    u ""
-
-# game/v2/scene21.rpy:324
-translate francais v2s21_68191c09:
-
-    # lee "Hard work does not mean others should lose out, nor does it make them any less smart."
-    lee ""
-
-# game/v2/scene21.rpy:329
-translate francais v2s21_047c0dee:
-
-    # cl "Whether it's just the Chicks or all the other frats and sororities too that benefit, reduced tuition equals more students coming to SVC."
-    cl ""
-
-# game/v2/scene21.rpy:334
-translate francais v2s21_0f2b53dd:
-
-    # lee "Please explain."
-    lee ""
-
-# game/v2/scene21.rpy:339
-translate francais v2s21_ccbda282:
-
-    # cl "Well, it's obvious more students would come here for that. Everyone would love lower tuition fees, wouldn't they?"
-    cl ""
-
-# game/v2/scene21.rpy:344
-translate francais v2s21_0a66ace6:
-
-    # lee "*Sighs* Yes, money attracts."
-    lee ""
-
-# game/v2/scene21.rpy:349
-translate francais v2s21_58fb18fa:
-
-    # u "(I should jump in here and expand on that.)"
-    u ""
-
-# game/v2/scene21.rpy:351
-translate francais v2s21_fd454d5c:
-
-    # u "I think what's most important about Chloe's proposal is that this will..."
-    u ""
-
-# game/v2/scene21.rpy:366
-translate francais v2s21_2d53bb80:
-
-    # u "Overall, increase SVC's annual income."
-    u ""
-
-# game/v2/scene21.rpy:371
-translate francais v2s21_ad33b9ed:
-
-    # u "With lower fees you can have a lot more students applying each year, so in the end it pays off for the school."
-    u ""
-
-# game/v2/scene21.rpy:376
-translate francais v2s21_bf6b12e5:
-
-    # u "You might even get a pay raise from all that sweet money coming in. In the long run, it's all about profit."
-    u ""
-
-# game/v2/scene21.rpy:381
-translate francais v2s21_1a788f61:
-
-    # lee "*Scoffs*"
-    lee ""
-
-# game/v2/scene21.rpy:383
-translate francais v2s21_3a9314a2:
-
-    # lee "I have to disagree with you there, [name]. Education should never be valued solely on its ability to generate profit."
-    lee ""
-
-# game/v2/scene21.rpy:385
-translate francais v2s21_f68b4d4f:
-
-    # lee "And I do thank you for your concern, but I'm very happy with my current salary... If you must know."
-    lee ""
-
-# game/v2/scene21.rpy:390
-translate francais v2s21_6d907fee:
-
-    # u "Of course, s-sorry."
-    u ""
-
-# game/v2/scene21.rpy:401
-translate francais v2s21_729f31b5:
-
-    # u "Improve the livelihood of your students. Mentally and physically."
-    u ""
-
-# game/v2/scene21.rpy:406
-translate francais v2s21_d36adef0:
-
-    # u "College is a huge financial burden, Mr. Lee."
-    u ""
-
-# game/v2/scene21.rpy:407
-translate francais v2s21_8206de6d:
-
-    # u "With lower fees, students may be more free to enjoy extracurricular activities around campus, rather than working in between classes."
-    u ""
-
-# game/v2/scene21.rpy:412
-translate francais v2s21_a2fb9a3c:
-
-    # cl "Not having to work would be amazing..."
-    cl ""
-
-# game/v2/scene21.rpy:422
-translate francais v2s21_972af727:
-
-    # cl "I mean, for everyone..."
-    cl ""
-
-# game/v2/scene21.rpy:427
-translate francais v2s21_7587e6d2:
-
-    # u "Right."
-    u ""
-
-# game/v2/scene21.rpy:432
-translate francais v2s21_42b36683:
-
-    # cl "I can't keep count of how many times my friends were so stressed about affording tuition, that they started failing their classes..."
-    cl ""
-
-# game/v2/scene21.rpy:437
-translate francais v2s21_2b51eb1b:
-
-    # u "(Nice save... *Chuckles*)"
-    u ""
-
-# game/v2/scene21.rpy:442
-translate francais v2s21_e83a8839:
-
-    # u "And let's not forget about those who can't even afford college in the first place."
-    u ""
-
-# game/v2/scene21.rpy:447
-translate francais v2s21_1536b856:
-
-    # u "If SVC subsidized their fees, even by a little, it would encourage many people from low-income households to invest in their education."
-    u ""
-
-# game/v2/scene21.rpy:452
-translate francais v2s21_89fcd763:
-
-    # lee "Hmph... Yes, those are some very valid points, [name]."
-    lee ""
-
-# game/v2/scene21.rpy:454
-translate francais v2s21_62f38064:
-
-    # lee "Finding ways to help the less privileged should always be a priority."
-    lee ""
-
-# game/v2/scene21.rpy:456
-translate francais v2s21_f4f06b9d:
-
-    # lee "And it would be a shame for anyone to miss out on the opportunity to have a college education here at SVC."
-    lee ""
-
-# game/v2/scene21.rpy:461
-translate francais v2s21_6743f61d:
-
-    # cl "Absolutely it would."
-    cl ""
-
-# game/v2/scene21.rpy:471
-translate francais v2s21_42a4ff01:
-
-    # lee "But let's not forget, Chloe..."
-    lee ""
-
-# game/v2/scene21.rpy:481
-translate francais v2s21_6672c99e:
-
-    # lee "That the Chicks already have a scholarship in place where their President pays absolutely nothing for tuition."
-    lee ""
-
-# game/v2/scene21.rpy:486
-translate francais v2s21_0b166ace:
-
-    # cl "Um, y-yes... That started the year I became President."
-    cl ""
-
-# game/v2/scene21.rpy:491
-translate francais v2s21_664cc5ed:
-
-    # lee "I'm aware."
-    lee ""
-
-# game/v2/scene21.rpy:493
-translate francais v2s21_228844c5:
-
-    # lee "This is something I was against at the time, but nevertheless..."
-    lee ""
-
-# game/v2/scene21.rpy:495
-translate francais v2s21_135be2a5:
-
-    # lee "It was approved by the Dean."
-    lee ""
-
-# game/v2/scene21.rpy:500
-translate francais v2s21_232cfc2b:
-
-    # cl "Well, surely the Dean approved it for a good reason."
-    cl ""
-
-# game/v2/scene21.rpy:505
-translate francais v2s21_85fb710d:
-
-    # lee "It's quite a grey area still... Though, I understand I may be in the minority with my opinion on that."
-    lee ""
-
-# game/v2/scene21.rpy:507
-translate francais v2s21_f7a67470:
-
-    # lee "I'm sure that being President requires a good amount of hard work."
-    lee ""
-
-# game/v2/scene21.rpy:508
-translate francais v2s21_5b81a8be:
-
-    # lee "But I still feel that it's unfair to give a free ride to someone just because they won a popularity contest."
-    lee ""
-
-# game/v2/scene21.rpy:513
-translate francais v2s21_14b7447e:
-
-    # cl "But that's not my fault."
-    cl ""
-
-# game/v2/scene21.rpy:518
-translate francais v2s21_624e397e:
-
-    # lee "Nobody is saying it's your fault, Chloe."
-    lee ""
-
-# game/v2/scene21.rpy:533
-translate francais v2s21_3e00fb5d:
-
-    # u "I think the Dean made a wise decision with the scholarship."
-    u ""
-
-# game/v2/scene21.rpy:538
-translate francais v2s21_5c68e79f:
-
-    # u "Since she is the Dean, her decisions are probably what's most beneficial for the school."
-    u ""
-
-# game/v2/scene21.rpy:543
-translate francais v2s21_92b13d1b:
-
-    # cl "Yes, that's what she said."
-    cl ""
-
-# game/v2/scene21.rpy:548
-translate francais v2s21_b02426ef:
-
-    # u "So, I don't see how Chloe could be undeserving of the benefits."
-    u ""
-
-# game/v2/scene21.rpy:553
-translate francais v2s21_b392b8a1:
-
-    # lee "It would require you to see things from another perspective, [name]. A skill that you're clearly struggling to demonstrate at the moment."
-    lee ""
-
-# game/v2/scene21.rpy:564
-translate francais v2s21_b3ce7988:
-
-    # u "I can see your point of view. It may seem unbalanced."
-    u ""
-
-# game/v2/scene21.rpy:569
-translate francais v2s21_ea6d8e6f:
-
-    # u "To others."
-    u ""
-
-# game/v2/scene21.rpy:574
-translate francais v2s21_b1964cf6:
-
-    # lee "Exactly, I'm glad one of you can at least see that this might upset a few people."
-    lee ""
-
-# game/v2/scene21.rpy:579
-translate francais v2s21_03bec225:
-
-    # cl "Okay, and...?"
-    cl ""
-
-# game/v2/scene21.rpy:584
-translate francais v2s21_8e51972c:
-
-    # u "Do you have any suggestions for us?"
-    u ""
-
-# game/v2/scene21.rpy:589
-translate francais v2s21_113e8860:
-
-    # lee "I'm glad you asked, [name]. I do have a suggestion, and I believe it'd work."
-    lee ""
-
-# game/v2/scene21.rpy:590
-translate francais v2s21_c4b3e585:
-
-    # lee "But I'll keep it to myself until I've decided if I'm going to support this idea."
-    lee ""
-
-# game/v2/scene21.rpy:595
-translate francais v2s21_93b95ce5:
-
-    # u "*Sighs* Okay, is there anything else?"
-    u ""
-
-# game/v2/scene21.rpy:602
-translate francais v2s21_edaee8b1:
-
-    # lee "[name], I appreciate that you came prepared and did your research..."
-    lee ""
-
-# game/v2/scene21.rpy:607
-translate francais v2s21_7c15fbf0:
-
-    # u "(Shit...) I-"
-    u ""
-
-# game/v2/scene21.rpy:612
-translate francais v2s21_5498108d:
-
-    # lee "Please, just take this as an important life lesson. Keep your eyes in the meeting as well as your head."
-    lee ""
-
-# game/v2/scene21.rpy:617
-translate francais v2s21_aab925c1:
-
-    # u "Yeah, of course. Sorry."
-    u ""
-
-# game/v2/scene21.rpy:622
-translate francais v2s21_f23020f9:
-
-    # lee "Mmhmm..."
-    lee ""
-
-# game/v2/scene21.rpy:627
-translate francais v2s21_3f824705:
-
-    # lee "Is that everything that you guys wanted to discuss?"
-    lee ""
-
-# game/v2/scene21.rpy:635
-translate francais v2s21_d025b71e:
-
-    # u "I believe so... Chloe?"
-    u ""
-
-# game/v2/scene21.rpy:640
-translate francais v2s21_2cd6ad3f:
-
-    # cl "I'm finished as well."
-    cl ""
-
-# game/v2/scene21.rpy:645
-translate francais v2s21_8a04a1f6:
-
-    # lee "Very well, I-"
-    lee ""
-
-# game/v2/scene21.rpy:650
-translate francais v2s21_66441d7c:
-
-    # lee "Oh! I almost forgot to mention!"
-    lee ""
-
-# game/v2/scene21.rpy:654
-translate francais v2s21_575690a4:
-
-    # lee "The bonsai tree you gifted to me is absolutely thriving alongside the others in my office."
-    lee ""
-
-# game/v2/scene21.rpy:656
-translate francais v2s21_dbc14bcf:
-
-    # lee "If you're ever interested, swing by sometime and I'll teach you how to look after them."
-    lee ""
-
-# game/v2/scene21.rpy:661
-translate francais v2s21_5e3d4f72:
-
-    # u "Oh, that's... a very kind offer. Thanks, haha."
-    u ""
-
-# game/v2/scene21.rpy:666
-translate francais v2s21_01ed9510:
-
-    # cl "Are they difficult to care for?"
-    cl ""
-
-# game/v2/scene21.rpy:671
-translate francais v2s21_31a1ed51:
-
-    # lee "Indeed. Their temperaments require endless patience and care from their owner, qualities that we should all practice."
-    lee ""
-
-# game/v2/scene21.rpy:676
-translate francais v2s21_ec911bb2:
-
-    # cl "Huh..."
-    cl ""
-
-# game/v2/scene21.rpy:681
-translate francais v2s21_933ee89f:
-
-    # u "Ha, yeah. Well..."
-    u ""
-
-# game/v2/scene21.rpy:689
-translate francais v2s21_5156f133:
-
-    # u "Yeah, I think so. But, also..."
-    u ""
-
-# game/v2/scene21.rpy:691
-translate francais v2s21_5555602c:
-
-    # u "I just wanted to say that, a wise man once taught me about the importance of personal responsibility."
-    u ""
-
-# game/v2/scene21.rpy:698
-translate francais v2s21_2a097ff1:
-
-    # u "And, I think Chloe is taking huge responsibility in her Presidency role by using her influence to benefit others."
-    u ""
-
-# game/v2/scene21.rpy:703
-translate francais v2s21_165c30e4:
-
-    # cl "*Chuckles* Thank you, [name]."
-    cl ""
-
-# game/v2/scene21.rpy:708
-translate francais v2s21_989764af:
-
-    # lee "Haha, very good, [name]."
-    lee ""
-
-# game/v2/scene21.rpy:713
-translate francais v2s21_6596d255:
-
-    # lee "I might be inclined to question the motives of your flattery, but I can see in your eyes that you're being sincere."
-    lee ""
-
-# game/v2/scene21.rpy:718
-translate francais v2s21_fcc18885:
-
-    # u "*Laughs*"
-    u ""
-
-# game/v2/scene21.rpy:723
-translate francais v2s21_bc0fa5ae:
-
-    # lee "You're a good student when you want to be."
-    lee ""
-
-# game/v2/scene21.rpy:728
-translate francais v2s21_8d3d2728:
-
-    # u "Honestly, the conversation we had in London has stuck with me. I appreciate it."
-    u ""
-
-# game/v2/scene21.rpy:733
-translate francais v2s21_3e2726d6:
-
-    # lee "I'm happy to hear it."
-    lee ""
-
-# game/v2/scene21.rpy:738
-translate francais v2s21_f0398495:
-
-    # cl "*Whispers* I don't know what you guys are talking about..."
-    cl ""
-
-# game/v2/scene21.rpy:743
-translate francais v2s21_7b2dc368:
-
-    # u "Haha, it's nothing."
-    u ""
-
-# game/v2/scene21.rpy:748
-translate francais v2s21_2068debd:
-
-    # u "I think we're all finished, then."
-    u ""
-
-# game/v2/scene21.rpy:753
-translate francais v2s21_b63cdc80:
-
-    # cl "Yeah. We've covered all the main points that we wanted to discuss."
-    cl ""
-
-# game/v2/scene21.rpy:755
-translate francais v2s21_5e4e7acd:
-
-    # cl "I just have a paper here for you to sign, if you're willing to support our plans."
-    cl ""
-
-# game/v2/scene21.rpy:765
-translate francais v2s21_ce0637e8:
-
-    # cl "Then I can just present it to the Dean when we meet with her."
-    cl ""
-
-# game/v2/scene21.rpy:783
-translate francais v2s21_193cf49e:
-
-    # lee "Well..."
-    lee ""
-
-# game/v2/scene21.rpy:788
-translate francais v2s21_4c14bf21:
-
-    # lee "You're clearly passionate about this, and I'm convinced that both of your intentions are honest."
-    lee ""
-
-# game/v2/scene21.rpy:793
-translate francais v2s21_be9c36cf:
-
-    # cl "Wait, so-"
-    cl ""
-
-# game/v2/scene21.rpy:798
-translate francais v2s21_ef2e28b6:
-
-    # u "(We did it?!)"
-    u ""
-
-# game/v2/scene21.rpy:803
-translate francais v2s21_e033e4fe:
-
-    # lee "You should be very proud. This was an excellent proposal."
-    lee ""
-
-# game/v2/scene21.rpy:814
-translate francais v2s21_711b577b:
-
-    # lee "Well, I'll be honest..."
-    lee ""
-
-# game/v2/scene21.rpy:819
-translate francais v2s21_d71037c3:
-
-    # lee "You weren't 100%% convincing throughout the meeting..."
-    lee ""
-
-# game/v2/scene21.rpy:824
-translate francais v2s21_1fc0e609:
-
-    # u "(Oh no...)"
-    u ""
-
-# game/v2/scene21.rpy:829
-translate francais v2s21_3fbe6366:
-
-    # lee "But you still did a very nice job."
-    lee ""
-
-# game/v2/scene21.rpy:834
-translate francais v2s21_0100def5:
-
-    # cl "Really?!"
-    cl ""
-
-# game/v2/scene21.rpy:839
-translate francais v2s21_97a36866:
-
-    # lee "Of course. You were both responsible individuals, who didn't waste my time, and made valid arguments."
-    lee ""
-
-# game/v2/scene21.rpy:841
-translate francais v2s21_3784084a:
-
-    # lee "You've earned my support."
-    lee ""
-
-# game/v2/scene21.rpy:855
-translate francais v2s21_a2c7ddf8:
-
-    # lee "I can't say that I'm completely convinced..."
-    lee ""
-
-# game/v2/scene21.rpy:860
-translate francais v2s21_8c347702:
-
-    # lee "But I do believe that the two of you have good intentions, although you've chosen to communicate poorly today."
-    lee ""
-
-# game/v2/scene21.rpy:865
-translate francais v2s21_de053b3b:
-
-    # u "I'm sorry, so..."
-    u ""
-
-# game/v2/scene21.rpy:870
-translate francais v2s21_30436e80:
-
-    # cl "You'll sign?"
-    cl ""
-
-# game/v2/scene21.rpy:879
-translate francais v2s21_f88967c9:
-
-    # lee "Oh, alright. Well..."
-    lee ""
-
-# game/v2/scene21.rpy:881
-translate francais v2s21_2f4a132e:
-
-    # lee "To be honest, I'm not fully satisfied. I can't tell your intentions are pure."
-    lee ""
-
-# game/v2/scene21.rpy:886
-translate francais v2s21_7b633c6c:
-
-    # u "(What?)"
-    u ""
-
-# game/v2/scene21.rpy:891
-translate francais v2s21_c84add26:
-
-    # lee "I almost get the sense that you both need to do work on realigning your moral compasses."
-    lee ""
-
-# game/v2/scene21.rpy:896
-translate francais v2s21_b45f40e0:
-
-    # u "I'm sorry?"
-    u ""
-
-# game/v2/scene21.rpy:901
-translate francais v2s21_608410b3:
-
-    # cl "So, you're not going to sign?"
-    cl ""
-
-# game/v2/scene21.rpy:906
-translate francais v2s21_930897f1:
-
-    # lee "On this occasion, no. I'm sorry to say I must decline."
-    lee ""
-
-# game/v2/scene21.rpy:908
-translate francais v2s21_01a31209:
-
-    # lee "But thank you for the meeting. It has been enlightening at the very least."
-    lee ""
-
-# game/v2/scene21.rpy:913
-translate francais v2s21_e49e770b:
-
-    # lee "And I wish you good luck for your meeting with the Dean."
-    lee ""
-
-# game/v2/scene21.rpy:918
-translate francais v2s21_5e77c0c0:
-
-    # cl "..."
-    cl ""
-
-# game/v2/scene21.rpy:923
-translate francais v2s21_8eb7f5ad:
-
-    # u "Thanks..."
-    u ""
-
-# game/v2/scene21.rpy:937
-translate francais v2s21_f3341882:
-
-    # lee "I'll sign the paper and all, but on one condition."
-    lee ""
-
-# game/v2/scene21.rpy:942
-translate francais v2s21_97ca93bf:
-
-    # cl "Umm, okay. What is it?"
-    cl ""
-
-# game/v2/scene21.rpy:947
-translate francais v2s21_ccb9678b:
-
-    # lee "I advise that you adjust your proposal, offering to dissolve the President's scholarship."
-    lee ""
-
-# game/v2/scene21.rpy:952
-translate francais v2s21_f84a1332:
-
-    # cl "What-"
-    cl ""
-
-# game/v2/scene21.rpy:957
-translate francais v2s21_c523391e:
-
-    # lee "The money used to cover your tuition, can go towards reducing the tuition fees for all Chicks."
-    lee ""
-
-# game/v2/scene21.rpy:962
-translate francais v2s21_3c16c7f4:
-
-    # lee "And the President, which is you in this circumstance..."
-    lee ""
-
-# game/v2/scene21.rpy:967
-translate francais v2s21_4965b1e9:
-
-    # cl "Yes..."
-    cl ""
-
-# game/v2/scene21.rpy:972
-translate francais v2s21_8e1b01e7:
-
-    # lee "From then on, you'll pay the same amount for tuition as all the other Chicks do."
-    lee ""
-
-# game/v2/scene21.rpy:977
-translate francais v2s21_e9c96e1e:
-
-    # u "(Oh...)"
-    u ""
-
-# game/v2/scene21.rpy:982
-translate francais v2s21_e79ca1fa:
-
-    # cl "You're suggesting that I... give up my scholarship?"
-    cl ""
-
-# game/v2/scene21.rpy:987
-translate francais v2s21_dbe26bcf:
-
-    # lee "You can't expect to have the best of both worlds, Chloe. The school is not made of money, we have to be smart about this financially."
-    lee ""
-
-# game/v2/scene21.rpy:989
-translate francais v2s21_27d53daa:
-
-    # lee "Are you willing to give up your special privileges for the greater good of your peers?"
-    lee ""
-
-# game/v2/scene21.rpy:994
-translate francais v2s21_7031f263:
-
-    # cl "I mean... It's just-"
-    cl ""
-
-# game/v2/scene21.rpy:999
-translate francais v2s21_131f86a0:
-
-    # u "It's your decision, Chloe."
-    u ""
-
-# game/v2/scene21.rpy:1004
-translate francais v2s21_5e77c0c0_1:
-
-    # cl "..."
-    cl ""
-
-# game/v2/scene21.rpy:1009
-translate francais v2s21_e08d248d:
-
-    # u "(Can she even afford to pay for tuition...?)"
-    u ""
-
-# game/v2/scene21.rpy:1014
-translate francais v2s21_df321a12:
-
-    # cl "Let's do it."
-    cl ""
-
-# game/v2/scene21.rpy:1019
-translate francais v2s21_de3c61bf:
-
-    # u "You-"
-    u ""
-
-# game/v2/scene21.rpy:1024
-translate francais v2s21_e8b55b9b:
-
-    # lee "Wonderful! What a bold decision, Chloe. I admire your bravery today."
-    lee ""
-
-# game/v2/scene21.rpy:1029
-translate francais v2s21_4f0ab82e:
-
-    # cl "Thank you, Mr. Lee."
-    cl ""
-
-# game/v2/scene21.rpy:1034
-translate francais v2s21_7b1c1392:
-
-    # u "..."
-    u ""
-
-# game/v2/scene21.rpy:1044
-translate francais v2s21_d3013979:
-
-    # lee "I shall make a note here of the conditions of my support..."
-    lee ""
-
-# game/v2/scene21.rpy:1046
-translate francais v2s21_4d3d9c5c:
-
-    # lee "And lastly, my autograph! Haha."
-    lee ""
-
-# game/v2/scene21.rpy:1051
-translate francais v2s21_6ec4bf2f:
-
-    # cl "Ha..."
-    cl ""
-
-# game/v2/scene21.rpy:1056
-translate francais v2s21_8b4aabeb:
-
-    # u "You okay?"
-    u ""
-
-# game/v2/scene21.rpy:1061
-translate francais v2s21_1df84c5d:
-
-    # cl "Umm... I-"
-    cl ""
-
-# game/v2/scene21.rpy:1066
-translate francais v2s21_8c56556a:
-
-    # lee "Here we are!"
-    lee ""
-
-# game/v2/scene21.rpy:1071
-translate francais v2s21_becc4190:
-
-    # cl "Thank you so much. I really appreciate your time today."
-    cl ""
-
-# game/v2/scene21.rpy:1076
-translate francais v2s21_13aed973:
-
-    # u "Yeah, thanks for meeting with us Mr. Lee."
-    u ""
-
-# game/v2/scene21.rpy:1081
-translate francais v2s21_8406e59e:
-
-    # lee "You're both very welcome."
-    lee ""
-
-# game/v2/scene21.rpy:1083
-translate francais v2s21_2d7430ea:
-
-    # lee "And I wish you the best of luck!"
-    lee ""
-
-# game/v2/scene21.rpy:1108
-translate francais v2s21_bcb6d1a6:
-
-    # cl "Here she comes, look alive."
-    cl ""
-
-# game/v2/scene21.rpy:1119
-translate francais v2s21_591de913:
-
-    # u "(I have to put my emotions to the side during this meeting, I can't let my anger get in the way.)"
-    u ""
-
-# game/v2/scene21.rpy:1125
-translate francais v2s21_d99629f0:
-
-    # u "(Don't think about sex, don't think about sex, don't think abou-)"
-    u ""
-
-# game/v2/scene21.rpy:1131
-translate francais v2s21_42d39110:
-
-    # ro "Hi, Chloe. Hello [name]. It's nice to see you both."
-    ro ""
-
-# game/v2/scene21.rpy:1136
-translate francais v2s21_a41defdd:
-
-    # u "Hi, Ms. Rose."
-    u ""
-
-# game/v2/scene21.rpy:1141
-translate francais v2s21_727a937b:
-
-    # cl "Yes, hello! Thank you so much for agreeing to see me..."
-    cl ""
-
-# game/v2/scene21.rpy:1143
-translate francais v2s21_58b6b4a3:
-
-    # cl "If you'd like to follow me, I've set up a meeting room for us."
-    cl ""
-
-# game/v2/scene21.rpy:1148
-translate francais v2s21_cdc58e67:
-
-    # ro "Oh! Very organized... Impressive."
-    ro ""
-
-# game/v2/scene21.rpy:1176
-translate francais v2s21_901288c4:
-
-    # ro "So, how can I help you two out today?"
-    ro ""
-
-# game/v2/scene21.rpy:1181
-translate francais v2s21_77e5aee8:
-
-    # cl "As I'm sure you know, I'm being challenged for the presidency of the Chicks."
-    cl ""
-
-# game/v2/scene21.rpy:1186
-translate francais v2s21_30f67d07:
-
-    # ro "Yes, I've heard it's been... quite a stormy time in the Chicks house lately."
-    ro ""
-
-# game/v2/scene21.rpy:1191
-translate francais v2s21_48bc5045:
-
-    # u "(That's one way to put it)"
-    u ""
-
-# game/v2/scene21.rpy:1196
-translate francais v2s21_5779526c:
-
-    # cl "Right, and I want it all to be over. As soon as possible."
-    cl ""
-
-# game/v2/scene21.rpy:1201
-translate francais v2s21_00d7e4df:
-
-    # ro "Very well."
-    ro ""
-
-# game/v2/scene21.rpy:1206
-translate francais v2s21_6aaaff21:
-
-    # cl "So, I've thought of a proposal that I'd love to have your support on."
-    cl ""
-
-# game/v2/scene21.rpy:1219
-translate francais v2s21_16a0fa0c:
-
-    # u "I'm sure you're aware of the issues between Chloe and Nora at the moment, but-"
-    u ""
-
-# game/v2/scene21.rpy:1224
-translate francais v2s21_fea3d640:
-
-    # cl "*Sighs*"
-    cl ""
-
-# game/v2/scene21.rpy:1238
-translate francais v2s21_90675932:
-
-    # ro "Personally, I think Nora has already made up her mind about Chloe's ability to lead."
-    ro ""
-
-# game/v2/scene21.rpy:1239
-translate francais v2s21_bec81212:
-
-    # ro "And I'm not here to discuss that or take any part in the ongoing feud."
-    ro ""
-
-# game/v2/scene21.rpy:1244
-translate francais v2s21_64999c3f:
-
-    # cl "No, of course not. We can move on."
-    cl ""
-
-# game/v2/scene21.rpy:1249
-translate francais v2s21_25598b5c:
-
-    # u "(Not off to a great start... Should've kept my mouth shut, fuck.)"
-    u ""
-
-# game/v2/scene21.rpy:1259
-translate francais v2s21_7512eeee:
-
-    # u "(I'll keep quiet for now. It's best to not start out on the wrong foot.)"
-    u ""
-
-# game/v2/scene21.rpy:1264
-translate francais v2s21_e44017bd:
-
-    # ro "Alright, you have my attention."
-    ro ""
-
-# game/v2/scene21.rpy:1269
-translate francais v2s21_d5879dce:
-
-    # cl "You know how much I care about the Chicks, and I think with your support we could become bigger and better than ever before."
-    cl ""
-
-# game/v2/scene21.rpy:1274
-translate francais v2s21_621d6370:
-
-    # ro "Hmm... Well, I'm intrigued. What is your proposal?"
-    ro ""
-
-# game/v2/scene21.rpy:1279
-translate francais v2s21_80eeb941:
-
-    # u "(She is just... impossible to read.)"
-    u ""
-
-# game/v2/scene21.rpy:1284
-translate francais v2s21_e0a962ef:
-
-    # cl "I would like to lower the cost of tuition for all Chicks, and with your signature I can take my proposal to the Dean."
-    cl ""
-
-# game/v2/scene21.rpy:1289
-translate francais v2s21_a4792f60:
-
-    # ro "Ha..."
-    ro ""
-
-# game/v2/scene21.rpy:1294
-translate francais v2s21_8729994f:
-
-    # ro "Well, that's certainly one way of bringing the peace back to the Chicks house."
-    ro ""
-
-# game/v2/scene21.rpy:1299
-translate francais v2s21_831f875b:
-
-    # cl "Yes, I... I hope so."
-    cl ""
-
-# game/v2/scene21.rpy:1310
-translate francais v2s21_b3442f68:
-
-    # u "(Don't forget, I brought notes! We can refer to them whenever.)"
-    u ""
-
-# game/v2/scene21.rpy:1316
 translate francais v2s21_ae87d323_1:
 
     # u "(I hope I don't regret not bringing those notes.)"
-    u ""
+    u "(I hope I don't regret not bringing those notes.)"
 
-# game/v2/scene21.rpy:1321
-translate francais v2s21_e348eb5d:
+# game/v2/scene21.rpy:250
+translate francais v2s21_7d1180fd_1:
+
+    # lee "Naturally, my initial feelings are to fight strongly against this."
+    lee "Naturally, my initial feelings are to fight strongly against this."
+
+# game/v2/scene21.rpy:252
+translate francais v2s21_1ee097a3_1:
+
+    # lee "How can you justify one group having lower tuition fees and not the others?"
+    lee "How can you justify one group having lower tuition fees and not the others?"
+
+# game/v2/scene21.rpy:254
+translate francais v2s21_16c00253_1:
+
+    # lee "What will your fellow students think when they see the Chicks being favored over the other frats and sororities?"
+    lee "What will your fellow students think when they see the Chicks being favored over the other frats and sororities?"
+
+# game/v2/scene21.rpy:269
+translate francais v2s21_b049045d_1:
+
+    # u "In all fairness, they have every right to walk in here and ask for lower tuition fees. They just have to ask. This isn't favoritism."
+    u "In all fairness, they have every right to walk in here and ask for lower tuition fees. They just have to ask. This isn't favoritism."
+
+# game/v2/scene21.rpy:274
+translate francais v2s21_0070e693_1:
+
+    # u "Chloe might just be the first person who's brave enough to make it happen."
+    u "Chloe might just be the first person who's brave enough to make it happen."
+
+# game/v2/scene21.rpy:279
+translate francais v2s21_a946572b_1:
+
+    # cl "It's true. If they want the same treatment, they just have to try."
+    cl "It's true. If they want the same treatment, they just have to try."
+
+# game/v2/scene21.rpy:284
+translate francais v2s21_572af2b7_1:
+
+    # lee "Yes, that is true. I'm all for students taking the initiative and owning responsibility."
+    lee "Yes, that is true. I'm all for students taking the initiative and owning responsibility."
+
+# game/v2/scene21.rpy:286
+translate francais v2s21_a94c70e6_1:
+
+    # lee "They are indeed free to ask for the same treatment if they want it."
+    lee "They are indeed free to ask for the same treatment if they want it."
+
+# game/v2/scene21.rpy:287
+translate francais v2s21_27bd70e7_1:
+
+    # lee "And I'm certain they will if your plan goes through. So we should consider the implications of that carefully."
+    lee "And I'm certain they will if your plan goes through. So we should consider the implications of that carefully."
+
+# game/v2/scene21.rpy:299
+translate francais v2s21_3663a1b8_1:
+
+    # u "Chloe came up with this idea, that's not her fault."
+    u "Chloe came up with this idea, that's not her fault."
+
+# game/v2/scene21.rpy:304
+translate francais v2s21_467f3372_1:
+
+    # u "Why should the future of the Chicks have to suffer because others are sad that they didn't think of it first?"
+    u "Why should the future of the Chicks have to suffer because others are sad that they didn't think of it first?"
+
+# game/v2/scene21.rpy:309
+translate francais v2s21_4c94f691_1:
+
+    # cl "Yeah, that's true..."
+    cl "Yeah, that's true..."
+
+# game/v2/scene21.rpy:314
+translate francais v2s21_a80755b3_1:
+
+    # lee "It is not that they didn't think of it, it may just seem out of order for an entire sorority to receive tuition benefits, and not the others."
+    lee "It is not that they didn't think of it, it may just seem out of order for an entire sorority to receive tuition benefits, and not the others."
+
+# game/v2/scene21.rpy:319
+translate francais v2s21_64f9ec48_1:
+
+    # u "Chloe's the one putting in all the hard work to make a change. If it's awarded, then the Chicks deserve it, plain and simple."
+    u "Chloe's the one putting in all the hard work to make a change. If it's awarded, then the Chicks deserve it, plain and simple."
+
+# game/v2/scene21.rpy:324
+translate francais v2s21_68191c09_1:
+
+    # lee "Hard work does not mean others should lose out, nor does it make them any less smart."
+    lee "Hard work does not mean others should lose out, nor does it make them any less smart."
+
+# game/v2/scene21.rpy:329
+translate francais v2s21_047c0dee_1:
+
+    # cl "Whether it's just the Chicks or all the other frats and sororities too that benefit, reduced tuition equals more students coming to SVC."
+    cl "Whether it's just the Chicks or all the other frats and sororities too that benefit, reduced tuition equals more students coming to SVC."
+
+# game/v2/scene21.rpy:334
+translate francais v2s21_0f2b53dd_1:
+
+    # lee "Please explain."
+    lee "Please explain."
+
+# game/v2/scene21.rpy:339
+translate francais v2s21_ccbda282_1:
+
+    # cl "Well, it's obvious more students would come here for that. Everyone would love lower tuition fees, wouldn't they?"
+    cl "Well, it's obvious more students would come here for that. Everyone would love lower tuition fees, wouldn't they?"
+
+# game/v2/scene21.rpy:344
+translate francais v2s21_0a66ace6_1:
+
+    # lee "*Sighs* Yes, money attracts."
+    lee "*Sighs* Yes, money attracts."
+
+# game/v2/scene21.rpy:349
+translate francais v2s21_58fb18fa_1:
+
+    # u "(I should jump in here and expand on that.)"
+    u "(I should jump in here and expand on that.)"
+
+# game/v2/scene21.rpy:351
+translate francais v2s21_fd454d5c_1:
+
+    # u "I think what's most important about Chloe's proposal is that this will..."
+    u "I think what's most important about Chloe's proposal is that this will..."
+
+# game/v2/scene21.rpy:366
+translate francais v2s21_2d53bb80_1:
+
+    # u "Overall, increase SVC's annual income."
+    u "Overall, increase SVC's annual income."
+
+# game/v2/scene21.rpy:371
+translate francais v2s21_ad33b9ed_1:
+
+    # u "With lower fees you can have a lot more students applying each year, so in the end it pays off for the school."
+    u "With lower fees you can have a lot more students applying each year, so in the end it pays off for the school."
+
+# game/v2/scene21.rpy:376
+translate francais v2s21_bf6b12e5_1:
+
+    # u "You might even get a pay raise from all that sweet money coming in. In the long run, it's all about profit."
+    u "You might even get a pay raise from all that sweet money coming in. In the long run, it's all about profit."
+
+# game/v2/scene21.rpy:381
+translate francais v2s21_1a788f61_1:
+
+    # lee "*Scoffs*"
+    lee "*Scoffs*"
+
+# game/v2/scene21.rpy:383
+translate francais v2s21_3a9314a2_1:
+
+    # lee "I have to disagree with you there, [name]. Education should never be valued solely on its ability to generate profit."
+    lee "I have to disagree with you there, [name]. Education should never be valued solely on its ability to generate profit."
+
+# game/v2/scene21.rpy:385
+translate francais v2s21_f68b4d4f_1:
+
+    # lee "And I do thank you for your concern, but I'm very happy with my current salary... If you must know."
+    lee "And I do thank you for your concern, but I'm very happy with my current salary... If you must know."
+
+# game/v2/scene21.rpy:390
+translate francais v2s21_6d907fee_1:
+
+    # u "Of course, s-sorry."
+    u "Of course, s-sorry."
+
+# game/v2/scene21.rpy:401
+translate francais v2s21_729f31b5_1:
+
+    # u "Improve the livelihood of your students. Mentally and physically."
+    u "Improve the livelihood of your students. Mentally and physically."
+
+# game/v2/scene21.rpy:406
+translate francais v2s21_d36adef0_1:
+
+    # u "College is a huge financial burden, Mr. Lee."
+    u "College is a huge financial burden, Mr. Lee."
+
+# game/v2/scene21.rpy:407
+translate francais v2s21_8206de6d_1:
+
+    # u "With lower fees, students may be more free to enjoy extracurricular activities around campus, rather than working in between classes."
+    u "With lower fees, students may be more free to enjoy extracurricular activities around campus, rather than working in between classes."
+
+# game/v2/scene21.rpy:412
+translate francais v2s21_6f81b904_1:
+
+    # cl "Not having to work a part-time job would be amazing..."
+    cl "Not having to work a part-time job would be amazing..."
+
+# game/v2/scene21.rpy:422
+translate francais v2s21_972af727_1:
+
+    # cl "I mean, for everyone..."
+    cl "I mean, for everyone..."
+
+# game/v2/scene21.rpy:427
+translate francais v2s21_7587e6d2_1:
+
+    # u "Right."
+    u "Right."
+
+# game/v2/scene21.rpy:432
+translate francais v2s21_7dfd08d5_1:
+
+    # cl "I can't keep count of how many times my friends were so stressed about affording tuition and expenses..."
+    cl "I can't keep count of how many times my friends were so stressed about affording tuition and expenses..."
+
+# game/v2/scene21.rpy:434
+translate francais v2s21_e6c55e4e_1:
+
+    # cl "Their studies fall off and they started failing their classes..."
+    cl "Their studies fall off and they started failing their classes..."
+
+# game/v2/scene21.rpy:439
+translate francais v2s21_2b51eb1b_1:
+
+    # u "(Nice save... *Chuckles*)"
+    u "(Nice save... *Chuckles*)"
+
+# game/v2/scene21.rpy:444
+translate francais v2s21_e83a8839_1:
+
+    # u "And let's not forget about those who can't even afford college in the first place."
+    u "And let's not forget about those who can't even afford college in the first place."
+
+# game/v2/scene21.rpy:449
+translate francais v2s21_1536b856_1:
+
+    # u "If SVC subsidized their fees, even by a little, it would encourage many people from low-income households to invest in their education."
+    u "If SVC subsidized their fees, even by a little, it would encourage many people from low-income households to invest in their education."
+
+# game/v2/scene21.rpy:454
+translate francais v2s21_89fcd763_1:
+
+    # lee "Hmph... Yes, those are some very valid points, [name]."
+    lee "Hmph... Yes, those are some very valid points, [name]."
+
+# game/v2/scene21.rpy:456
+translate francais v2s21_62f38064_1:
+
+    # lee "Finding ways to help the less privileged should always be a priority."
+    lee "Finding ways to help the less privileged should always be a priority."
+
+# game/v2/scene21.rpy:458
+translate francais v2s21_f4f06b9d_1:
+
+    # lee "And it would be a shame for anyone to miss out on the opportunity to have a college education here at SVC."
+    lee "And it would be a shame for anyone to miss out on the opportunity to have a college education here at SVC."
+
+# game/v2/scene21.rpy:463
+translate francais v2s21_6743f61d_1:
+
+    # cl "Absolutely it would."
+    cl "Absolutely it would."
+
+# game/v2/scene21.rpy:473
+translate francais v2s21_42a4ff01_1:
+
+    # lee "But let's not forget, Chloe..."
+    lee "But let's not forget, Chloe..."
+
+# game/v2/scene21.rpy:483
+translate francais v2s21_6672c99e_1:
+
+    # lee "That the Chicks already have a scholarship in place where their President pays absolutely nothing for tuition."
+    lee "That the Chicks already have a scholarship in place where their President pays absolutely nothing for tuition."
+
+# game/v2/scene21.rpy:488
+translate francais v2s21_0b166ace_1:
+
+    # cl "Um, y-yes... That started the year I became President."
+    cl "Um, y-yes... That started the year I became President."
+
+# game/v2/scene21.rpy:493
+translate francais v2s21_664cc5ed_1:
+
+    # lee "I'm aware."
+    lee "I'm aware."
+
+# game/v2/scene21.rpy:495
+translate francais v2s21_228844c5_1:
+
+    # lee "This is something I was against at the time, but nevertheless..."
+    lee "This is something I was against at the time, but nevertheless..."
+
+# game/v2/scene21.rpy:497
+translate francais v2s21_135be2a5_1:
+
+    # lee "It was approved by the Dean."
+    lee "It was approved by the Dean."
+
+# game/v2/scene21.rpy:502
+translate francais v2s21_232cfc2b_1:
+
+    # cl "Well, surely the Dean approved it for a good reason."
+    cl "Well, surely the Dean approved it for a good reason."
+
+# game/v2/scene21.rpy:507
+translate francais v2s21_85fb710d_1:
+
+    # lee "It's quite a grey area still... Though, I understand I may be in the minority with my opinion on that."
+    lee "It's quite a grey area still... Though, I understand I may be in the minority with my opinion on that."
+
+# game/v2/scene21.rpy:509
+translate francais v2s21_f7a67470_1:
+
+    # lee "I'm sure that being President requires a good amount of hard work."
+    lee "I'm sure that being President requires a good amount of hard work."
+
+# game/v2/scene21.rpy:510
+translate francais v2s21_5b81a8be_1:
+
+    # lee "But I still feel that it's unfair to give a free ride to someone just because they won a popularity contest."
+    lee "But I still feel that it's unfair to give a free ride to someone just because they won a popularity contest."
+
+# game/v2/scene21.rpy:515
+translate francais v2s21_14b7447e_1:
+
+    # cl "But that's not my fault."
+    cl "But that's not my fault."
+
+# game/v2/scene21.rpy:520
+translate francais v2s21_624e397e_1:
+
+    # lee "Nobody is saying it's your fault, Chloe."
+    lee "Nobody is saying it's your fault, Chloe."
+
+# game/v2/scene21.rpy:535
+translate francais v2s21_3e00fb5d_1:
+
+    # u "I think the Dean made a wise decision with the scholarship."
+    u "I think the Dean made a wise decision with the scholarship."
+
+# game/v2/scene21.rpy:540
+translate francais v2s21_5c68e79f_1:
+
+    # u "Since she is the Dean, her decisions are probably what's most beneficial for the school."
+    u "Since she is the Dean, her decisions are probably what's most beneficial for the school."
+
+# game/v2/scene21.rpy:545
+translate francais v2s21_92b13d1b_1:
+
+    # cl "Yes, that's what she said."
+    cl "Yes, that's what she said."
+
+# game/v2/scene21.rpy:550
+translate francais v2s21_b02426ef_1:
+
+    # u "So, I don't see how Chloe could be undeserving of the benefits."
+    u "So, I don't see how Chloe could be undeserving of the benefits."
+
+# game/v2/scene21.rpy:555
+translate francais v2s21_b392b8a1_1:
+
+    # lee "It would require you to see things from another perspective, [name]. A skill that you're clearly struggling to demonstrate at the moment."
+    lee "It would require you to see things from another perspective, [name]. A skill that you're clearly struggling to demonstrate at the moment."
+
+# game/v2/scene21.rpy:566
+translate francais v2s21_b3ce7988_1:
+
+    # u "I can see your point of view. It may seem unbalanced."
+    u "I can see your point of view. It may seem unbalanced."
+
+# game/v2/scene21.rpy:571
+translate francais v2s21_ea6d8e6f_1:
+
+    # u "To others."
+    u "To others."
+
+# game/v2/scene21.rpy:576
+translate francais v2s21_b1964cf6_1:
+
+    # lee "Exactly, I'm glad one of you can at least see that this might upset a few people."
+    lee "Exactly, I'm glad one of you can at least see that this might upset a few people."
+
+# game/v2/scene21.rpy:581
+translate francais v2s21_03bec225_1:
+
+    # cl "Okay, and...?"
+    cl "Okay, and...?"
+
+# game/v2/scene21.rpy:586
+translate francais v2s21_8e51972c_1:
+
+    # u "Do you have any suggestions for us?"
+    u "Do you have any suggestions for us?"
+
+# game/v2/scene21.rpy:591
+translate francais v2s21_113e8860_1:
+
+    # lee "I'm glad you asked, [name]. I do have a suggestion, and I believe it'd work."
+    lee "I'm glad you asked, [name]. I do have a suggestion, and I believe it'd work."
+
+# game/v2/scene21.rpy:592
+translate francais v2s21_c4b3e585_1:
+
+    # lee "But I'll keep it to myself until I've decided if I'm going to support this idea."
+    lee "But I'll keep it to myself until I've decided if I'm going to support this idea."
+
+# game/v2/scene21.rpy:597
+translate francais v2s21_93b95ce5_1:
+
+    # u "*Sighs* Okay, is there anything else?"
+    u "*Sighs* Okay, is there anything else?"
+
+# game/v2/scene21.rpy:604
+translate francais v2s21_edaee8b1_1:
+
+    # lee "[name], I appreciate that you came prepared and did your research..."
+    lee "[name], I appreciate that you came prepared and did your research..."
+
+# game/v2/scene21.rpy:609
+translate francais v2s21_7c15fbf0_1:
+
+    # u "(Shit...) I-"
+    u "(Shit...) I-"
+
+# game/v2/scene21.rpy:614
+translate francais v2s21_5498108d_1:
+
+    # lee "Please, just take this as an important life lesson. Keep your eyes in the meeting as well as your head."
+    lee "Please, just take this as an important life lesson. Keep your eyes in the meeting as well as your head."
+
+# game/v2/scene21.rpy:619
+translate francais v2s21_aab925c1_1:
+
+    # u "Yeah, of course. Sorry."
+    u "Yeah, of course. Sorry."
+
+# game/v2/scene21.rpy:624
+translate francais v2s21_f23020f9_1:
+
+    # lee "Mmhmm..."
+    lee "Mmhmm..."
+
+# game/v2/scene21.rpy:629
+translate francais v2s21_85b42d5e_1:
+
+    # lee "Is that everything that you two wanted to discuss?"
+    lee "Is that everything that you two wanted to discuss?"
+
+# game/v2/scene21.rpy:637
+translate francais v2s21_d025b71e_1:
+
+    # u "I believe so... Chloe?"
+    u "I believe so... Chloe?"
+
+# game/v2/scene21.rpy:642
+translate francais v2s21_3615877c_1:
+
+    # cl "That's everything from me."
+    cl "That's everything from me."
+
+# game/v2/scene21.rpy:647
+translate francais v2s21_8a04a1f6_1:
+
+    # lee "Very well, I-"
+    lee "Very well, I-"
+
+# game/v2/scene21.rpy:652
+translate francais v2s21_66441d7c_1:
+
+    # lee "Oh! I almost forgot to mention!"
+    lee "Oh! I almost forgot to mention!"
+
+# game/v2/scene21.rpy:656
+translate francais v2s21_575690a4_1:
+
+    # lee "The bonsai tree you gifted to me is absolutely thriving alongside the others in my office."
+    lee "The bonsai tree you gifted to me is absolutely thriving alongside the others in my office."
+
+# game/v2/scene21.rpy:658
+translate francais v2s21_dbc14bcf_1:
+
+    # lee "If you're ever interested, swing by sometime and I'll teach you how to look after them."
+    lee "If you're ever interested, swing by sometime and I'll teach you how to look after them."
+
+# game/v2/scene21.rpy:663
+translate francais v2s21_134d5471_1:
+
+    # u "Oh, that's... a very kind offer. Thanks, Mr. Lee."
+    u "Oh, that's... a very kind offer. Thanks, Mr. Lee."
+
+# game/v2/scene21.rpy:668
+translate francais v2s21_01ed9510_1:
+
+    # cl "Are they difficult to care for?"
+    cl "Are they difficult to care for?"
+
+# game/v2/scene21.rpy:673
+translate francais v2s21_31a1ed51_1:
+
+    # lee "Indeed. Their temperaments require endless patience and care from their owner, qualities that we should all practice."
+    lee "Indeed. Their temperaments require endless patience and care from their owner, qualities that we should all practice."
+
+# game/v2/scene21.rpy:678
+translate francais v2s21_ec911bb2_1:
+
+    # cl "Huh..."
+    cl "Huh..."
+
+# game/v2/scene21.rpy:683
+translate francais v2s21_933ee89f_1:
+
+    # u "Ha, yeah. Well..."
+    u "Ha, yeah. Well..."
+
+# game/v2/scene21.rpy:691
+translate francais v2s21_5156f133_1:
+
+    # u "Yeah, I think so. But, also..."
+    u "Yeah, I think so. But, also..."
+
+# game/v2/scene21.rpy:693
+translate francais v2s21_5555602c_1:
+
+    # u "I just wanted to say that, a wise man once taught me about the importance of personal responsibility."
+    u "I just wanted to say that, a wise man once taught me about the importance of personal responsibility."
+
+# game/v2/scene21.rpy:700
+translate francais v2s21_2a097ff1_1:
+
+    # u "And, I think Chloe is taking huge responsibility in her Presidency role by using her influence to benefit others."
+    u "And, I think Chloe is taking huge responsibility in her Presidency role by using her influence to benefit others."
+
+# game/v2/scene21.rpy:705
+translate francais v2s21_85faa2d1_1:
+
+    # cl "Aww, thank you, [name]."
+    cl "Aww, thank you, [name]."
+
+# game/v2/scene21.rpy:710
+translate francais v2s21_7d883d24_1:
+
+    # lee "Very good, [name]."
+    lee "Very good, [name]."
+
+# game/v2/scene21.rpy:715
+translate francais v2s21_6596d255_1:
+
+    # lee "I might be inclined to question the motives of your flattery, but I can see in your eyes that you're being sincere."
+    lee "I might be inclined to question the motives of your flattery, but I can see in your eyes that you're being sincere."
+
+# game/v2/scene21.rpy:720
+translate francais v2s21_e8ae7c6e_1:
+
+    # u "Always!"
+    u "Always!"
+
+# game/v2/scene21.rpy:725
+translate francais v2s21_bc0fa5ae_1:
+
+    # lee "You're a good student when you want to be."
+    lee "You're a good student when you want to be."
+
+# game/v2/scene21.rpy:730
+translate francais v2s21_8d3d2728_1:
+
+    # u "Honestly, the conversation we had in London has stuck with me. I appreciate it."
+    u "Honestly, the conversation we had in London has stuck with me. I appreciate it."
+
+# game/v2/scene21.rpy:735
+translate francais v2s21_3e2726d6_1:
+
+    # lee "I'm happy to hear it."
+    lee "I'm happy to hear it."
+
+# game/v2/scene21.rpy:740
+translate francais v2s21_f0398495_1:
+
+    # cl "*Whispers* I don't know what you guys are talking about..."
+    cl "*Whispers* I don't know what you guys are talking about..."
+
+# game/v2/scene21.rpy:745
+translate francais v2s21_31495f81_1:
+
+    # u "It's nothing."
+    u "It's nothing."
+
+# game/v2/scene21.rpy:750
+translate francais v2s21_2068debd_1:
+
+    # u "I think we're all finished, then."
+    u "I think we're all finished, then."
+
+# game/v2/scene21.rpy:755
+translate francais v2s21_b63cdc80_1:
+
+    # cl "Yeah. We've covered all the main points that we wanted to discuss."
+    cl "Yeah. We've covered all the main points that we wanted to discuss."
+
+# game/v2/scene21.rpy:757
+translate francais v2s21_5e4e7acd_1:
+
+    # cl "I just have a paper here for you to sign, if you're willing to support our plans."
+    cl "I just have a paper here for you to sign, if you're willing to support our plans."
+
+# game/v2/scene21.rpy:767
+translate francais v2s21_ce0637e8_1:
+
+    # cl "Then I can just present it to the Dean when we meet with her."
+    cl "Then I can just present it to the Dean when we meet with her."
+
+# game/v2/scene21.rpy:785
+translate francais v2s21_193cf49e_1:
+
+    # lee "Well..."
+    lee "Well..."
+
+# game/v2/scene21.rpy:790
+translate francais v2s21_4c14bf21_1:
+
+    # lee "You're clearly passionate about this, and I'm convinced that both of your intentions are honest."
+    lee "You're clearly passionate about this, and I'm convinced that both of your intentions are honest."
+
+# game/v2/scene21.rpy:795
+translate francais v2s21_be9c36cf_1:
+
+    # cl "Wait, so-"
+    cl "Wait, so-"
+
+# game/v2/scene21.rpy:800
+translate francais v2s21_ef2e28b6_1:
+
+    # u "(We did it?!)"
+    u "(We did it?!)"
+
+# game/v2/scene21.rpy:805
+translate francais v2s21_e033e4fe_1:
+
+    # lee "You should be very proud. This was an excellent proposal."
+    lee "You should be very proud. This was an excellent proposal."
+
+# game/v2/scene21.rpy:816
+translate francais v2s21_711b577b_1:
+
+    # lee "Well, I'll be honest..."
+    lee "Well, I'll be honest..."
+
+# game/v2/scene21.rpy:821
+translate francais v2s21_d71037c3_1:
+
+    # lee "You weren't 100%% convincing throughout the meeting..."
+    lee "You weren't 100%% convincing throughout the meeting..."
+
+# game/v2/scene21.rpy:826
+translate francais v2s21_1fc0e609_1:
+
+    # u "(Oh no...)"
+    u "(Oh no...)"
+
+# game/v2/scene21.rpy:831
+translate francais v2s21_3fbe6366_1:
+
+    # lee "But you still did a very nice job."
+    lee "But you still did a very nice job."
+
+# game/v2/scene21.rpy:836
+translate francais v2s21_0100def5_1:
+
+    # cl "Really?!"
+    cl "Really?!"
+
+# game/v2/scene21.rpy:841
+translate francais v2s21_97a36866_1:
+
+    # lee "Of course. You were both responsible individuals, who didn't waste my time, and made valid arguments."
+    lee "Of course. You were both responsible individuals, who didn't waste my time, and made valid arguments."
+
+# game/v2/scene21.rpy:843
+translate francais v2s21_3784084a_1:
+
+    # lee "You've earned my support."
+    lee "You've earned my support."
+
+# game/v2/scene21.rpy:857
+translate francais v2s21_a2c7ddf8_1:
+
+    # lee "I can't say that I'm completely convinced..."
+    lee "I can't say that I'm completely convinced..."
+
+# game/v2/scene21.rpy:862
+translate francais v2s21_8c347702_1:
+
+    # lee "But I do believe that the two of you have good intentions, although you've chosen to communicate poorly today."
+    lee "But I do believe that the two of you have good intentions, although you've chosen to communicate poorly today."
+
+# game/v2/scene21.rpy:867
+translate francais v2s21_de053b3b_1:
+
+    # u "I'm sorry, so..."
+    u "I'm sorry, so..."
+
+# game/v2/scene21.rpy:872
+translate francais v2s21_30436e80_1:
+
+    # cl "You'll sign?"
+    cl "You'll sign?"
+
+# game/v2/scene21.rpy:881
+translate francais v2s21_e4ddd23a_1:
+
+    # lee "Oh, all right. Well..."
+    lee "Oh, all right. Well..."
+
+# game/v2/scene21.rpy:883
+translate francais v2s21_2f4a132e_1:
+
+    # lee "To be honest, I'm not fully satisfied. I can't tell your intentions are pure."
+    lee "To be honest, I'm not fully satisfied. I can't tell your intentions are pure."
+
+# game/v2/scene21.rpy:888
+translate francais v2s21_7b633c6c_1:
+
+    # u "(What?)"
+    u "(What?)"
+
+# game/v2/scene21.rpy:893
+translate francais v2s21_c84add26_1:
+
+    # lee "I almost get the sense that you both need to do work on realigning your moral compasses."
+    lee "I almost get the sense that you both need to do work on realigning your moral compasses."
+
+# game/v2/scene21.rpy:898
+translate francais v2s21_b45f40e0_1:
+
+    # u "I'm sorry?"
+    u "I'm sorry?"
+
+# game/v2/scene21.rpy:903
+translate francais v2s21_608410b3_1:
+
+    # cl "So, you're not going to sign?"
+    cl "So, you're not going to sign?"
+
+# game/v2/scene21.rpy:908
+translate francais v2s21_930897f1_1:
+
+    # lee "On this occasion, no. I'm sorry to say I must decline."
+    lee "On this occasion, no. I'm sorry to say I must decline."
+
+# game/v2/scene21.rpy:910
+translate francais v2s21_01a31209_1:
+
+    # lee "But thank you for the meeting. It has been enlightening at the very least."
+    lee "But thank you for the meeting. It has been enlightening at the very least."
+
+# game/v2/scene21.rpy:915
+translate francais v2s21_e49e770b_1:
+
+    # lee "And I wish you good luck for your meeting with the Dean."
+    lee "And I wish you good luck for your meeting with the Dean."
+
+# game/v2/scene21.rpy:920
+translate francais v2s21_5e77c0c0_3:
+
+    # cl "..."
+    cl "..."
+
+# game/v2/scene21.rpy:925
+translate francais v2s21_8eb7f5ad_1:
+
+    # u "Thanks..."
+    u "Thanks..."
+
+# game/v2/scene21.rpy:939
+translate francais v2s21_f3341882_1:
+
+    # lee "I'll sign the paper and all, but on one condition."
+    lee "I'll sign the paper and all, but on one condition."
+
+# game/v2/scene21.rpy:944
+translate francais v2s21_97ca93bf_1:
+
+    # cl "Umm, okay. What is it?"
+    cl "Umm, okay. What is it?"
+
+# game/v2/scene21.rpy:949
+translate francais v2s21_ccb9678b_1:
+
+    # lee "I advise that you adjust your proposal, offering to dissolve the President's scholarship."
+    lee "I advise that you adjust your proposal, offering to dissolve the President's scholarship."
+
+# game/v2/scene21.rpy:954
+translate francais v2s21_f84a1332_1:
+
+    # cl "What-"
+    cl "What-"
+
+# game/v2/scene21.rpy:959
+translate francais v2s21_c523391e_1:
+
+    # lee "The money used to cover your tuition, can go towards reducing the tuition fees for all Chicks."
+    lee "The money used to cover your tuition, can go towards reducing the tuition fees for all Chicks."
+
+# game/v2/scene21.rpy:964
+translate francais v2s21_3c16c7f4_1:
+
+    # lee "And the President, which is you in this circumstance..."
+    lee "And the President, which is you in this circumstance..."
+
+# game/v2/scene21.rpy:969
+translate francais v2s21_2e5e0b95_1:
+
+    # cl "Yeah..."
+    cl "Yeah..."
+
+# game/v2/scene21.rpy:974
+translate francais v2s21_8e1b01e7_1:
+
+    # lee "From then on, you'll pay the same amount for tuition as all the other Chicks do."
+    lee "From then on, you'll pay the same amount for tuition as all the other Chicks do."
+
+# game/v2/scene21.rpy:979
+translate francais v2s21_e9c96e1e_1:
+
+    # u "(Oh...)"
+    u "(Oh...)"
+
+# game/v2/scene21.rpy:984
+translate francais v2s21_e79ca1fa_1:
+
+    # cl "You're suggesting that I... give up my scholarship?"
+    cl "You're suggesting that I... give up my scholarship?"
+
+# game/v2/scene21.rpy:989
+translate francais v2s21_dbe26bcf_1:
+
+    # lee "You can't expect to have the best of both worlds, Chloe. The school is not made of money, we have to be smart about this financially."
+    lee "You can't expect to have the best of both worlds, Chloe. The school is not made of money, we have to be smart about this financially."
+
+# game/v2/scene21.rpy:991
+translate francais v2s21_27d53daa_1:
+
+    # lee "Are you willing to give up your special privileges for the greater good of your peers?"
+    lee "Are you willing to give up your special privileges for the greater good of your peers?"
+
+# game/v2/scene21.rpy:996
+translate francais v2s21_7031f263_1:
+
+    # cl "I mean... It's just-"
+    cl "I mean... It's just-"
+
+# game/v2/scene21.rpy:1001
+translate francais v2s21_131f86a0_1:
+
+    # u "It's your decision, Chloe."
+    u "It's your decision, Chloe."
+
+# game/v2/scene21.rpy:1006
+translate francais v2s21_5e77c0c0_4:
+
+    # cl "..."
+    cl "..."
+
+# game/v2/scene21.rpy:1011
+translate francais v2s21_e08d248d_1:
+
+    # u "(Can she even afford to pay for tuition...?)"
+    u "(Can she even afford to pay for tuition...?)"
+
+# game/v2/scene21.rpy:1016
+translate francais v2s21_df321a12_1:
+
+    # cl "Let's do it."
+    cl "Let's do it."
+
+# game/v2/scene21.rpy:1021
+translate francais v2s21_de3c61bf_1:
+
+    # u "You-"
+    u "You-"
+
+# game/v2/scene21.rpy:1026
+translate francais v2s21_e8b55b9b_1:
+
+    # lee "Wonderful! What a bold decision, Chloe. I admire your bravery today."
+    lee "Wonderful! What a bold decision, Chloe. I admire your bravery today."
+
+# game/v2/scene21.rpy:1031
+translate francais v2s21_4f0ab82e_1:
+
+    # cl "Thank you, Mr. Lee."
+    cl "Thank you, Mr. Lee."
+
+# game/v2/scene21.rpy:1036
+translate francais v2s21_7b1c1392_1:
+
+    # u "..."
+    u "..."
+
+# game/v2/scene21.rpy:1046
+translate francais v2s21_d3013979_1:
+
+    # lee "I shall make a note here of the conditions of my support..."
+    lee "I shall make a note here of the conditions of my support..."
+
+# game/v2/scene21.rpy:1048
+translate francais v2s21_39deb666_1:
+
+    # lee "And lastly, my autograph! There we go."
+    lee "And lastly, my autograph! There we go."
+
+# game/v2/scene21.rpy:1053
+translate francais v2s21_100b4ae1_1:
+
+    # cl "Great..."
+    cl "Great..."
+
+# game/v2/scene21.rpy:1058
+translate francais v2s21_8b4aabeb_1:
+
+    # u "You okay?"
+    u "You okay?"
+
+# game/v2/scene21.rpy:1063
+translate francais v2s21_1df84c5d_1:
+
+    # cl "Umm... I-"
+    cl "Umm... I-"
+
+# game/v2/scene21.rpy:1068
+translate francais v2s21_60930faf_1:
+
+    # lee "And here we are!"
+    lee "And here we are!"
+
+# game/v2/scene21.rpy:1073
+translate francais v2s21_becc4190_1:
+
+    # cl "Thank you so much. I really appreciate your time today."
+    cl "Thank you so much. I really appreciate your time today."
+
+# game/v2/scene21.rpy:1078
+translate francais v2s21_13aed973_1:
+
+    # u "Yeah, thanks for meeting with us Mr. Lee."
+    u "Yeah, thanks for meeting with us Mr. Lee."
+
+# game/v2/scene21.rpy:1083
+translate francais v2s21_8406e59e_1:
+
+    # lee "You're both very welcome."
+    lee "You're both very welcome."
+
+# game/v2/scene21.rpy:1085
+translate francais v2s21_2d7430ea_1:
+
+    # lee "And I wish you the best of luck!"
+    lee "And I wish you the best of luck!"
+
+# game/v2/scene21.rpy:1110
+translate francais v2s21_bcb6d1a6_1:
+
+    # cl "Here she comes, look alive."
+    cl "Here she comes, look alive."
+
+# game/v2/scene21.rpy:1121
+translate francais v2s21_591de913_1:
+
+    # u "(I have to put my emotions to the side during this meeting, I can't let my anger get in the way.)"
+    u "(I have to put my emotions to the side during this meeting, I can't let my anger get in the way.)"
+
+# game/v2/scene21.rpy:1127
+translate francais v2s21_d99629f0_1:
+
+    # u "(Don't think about sex, don't think about sex, don't think abou-)"
+    u "(Don't think about sex, don't think about sex, don't think abou-)"
+
+# game/v2/scene21.rpy:1133
+translate francais v2s21_42d39110_1:
+
+    # ro "Hi, Chloe. Hello [name]. It's nice to see you both."
+    ro "Hi, Chloe. Hello [name]. It's nice to see you both."
+
+# game/v2/scene21.rpy:1138
+translate francais v2s21_a41defdd_1:
+
+    # u "Hi, Ms. Rose."
+    u "Hi, Ms. Rose."
+
+# game/v2/scene21.rpy:1143
+translate francais v2s21_727a937b_1:
+
+    # cl "Yes, hello! Thank you so much for agreeing to see me..."
+    cl "Yes, hello! Thank you so much for agreeing to see me..."
+
+# game/v2/scene21.rpy:1145
+translate francais v2s21_58b6b4a3_1:
+
+    # cl "If you'd like to follow me, I've set up a meeting room for us."
+    cl "If you'd like to follow me, I've set up a meeting room for us."
+
+# game/v2/scene21.rpy:1150
+translate francais v2s21_cdc58e67_1:
+
+    # ro "Oh! Very organized... Impressive."
+    ro "Oh! Very organized... Impressive."
+
+# game/v2/scene21.rpy:1178
+translate francais v2s21_901288c4_1:
+
+    # ro "So, how can I help you two out today?"
+    ro "So, how can I help you two out today?"
+
+# game/v2/scene21.rpy:1183
+translate francais v2s21_77e5aee8_1:
+
+    # cl "As I'm sure you know, I'm being challenged for the presidency of the Chicks."
+    cl "As I'm sure you know, I'm being challenged for the presidency of the Chicks."
+
+# game/v2/scene21.rpy:1188
+translate francais v2s21_30f67d07_1:
+
+    # ro "Yes, I've heard it's been... quite a stormy time in the Chicks house lately."
+    ro "Yes, I've heard it's been... quite a stormy time in the Chicks house lately."
+
+# game/v2/scene21.rpy:1193
+translate francais v2s21_48bc5045_1:
+
+    # u "(That's one way to put it)"
+    u "(That's one way to put it)"
+
+# game/v2/scene21.rpy:1198
+translate francais v2s21_9b99e9df_1:
+
+    # cl "Right, and I want to smooth things over for everyone. As soon as possible."
+    cl "Right, and I want to smooth things over for everyone. As soon as possible."
+
+# game/v2/scene21.rpy:1203
+translate francais v2s21_00d7e4df_1:
+
+    # ro "Very well."
+    ro "Very well."
+
+# game/v2/scene21.rpy:1208
+translate francais v2s21_6aaaff21_1:
+
+    # cl "So, I've thought of a proposal that I'd love to have your support on."
+    cl "So, I've thought of a proposal that I'd love to have your support on."
+
+# game/v2/scene21.rpy:1213
+translate francais v2s21_fc1ef15b_1:
+
+    # u "(Shit, she hinted at Nora's issues with Chloe. But we discussed not bringing Nora up.)"
+    u "(Shit, she hinted at Nora's issues with Chloe. But we discussed not bringing Nora up.)"
+
+# game/v2/scene21.rpy:1215
+translate francais v2s21_bbe0ea77_1:
+
+    # u "(But maybe it's better to address it and clear the air? Think fast [name]."
+    u "(But maybe it's better to address it and clear the air? Think fast [name]."
+
+# game/v2/scene21.rpy:1228
+translate francais v2s21_16a0fa0c_1:
+
+    # u "I'm sure you're aware of the issues between Chloe and Nora at the moment, but-"
+    u "I'm sure you're aware of the issues between Chloe and Nora at the moment, but-"
+
+# game/v2/scene21.rpy:1233
+translate francais v2s21_fea3d640_3:
+
+    # cl "*Sighs*"
+    cl "*Sighs*"
+
+# game/v2/scene21.rpy:1247
+translate francais v2s21_90675932_1:
+
+    # ro "Personally, I think Nora has already made up her mind about Chloe's ability to lead."
+    ro "Personally, I think Nora has already made up her mind about Chloe's ability to lead."
+
+# game/v2/scene21.rpy:1248
+translate francais v2s21_5ff6e496_1:
+
+    # ro "And I'm not here to discuss that or take any part in any grudges."
+    ro "And I'm not here to discuss that or take any part in any grudges."
+
+# game/v2/scene21.rpy:1253
+translate francais v2s21_64999c3f_1:
+
+    # cl "No, of course not. We can move on."
+    cl "No, of course not. We can move on."
+
+# game/v2/scene21.rpy:1258
+translate francais v2s21_25598b5c_1:
+
+    # u "(Not off to a great start... Should've kept my mouth shut, fuck.)"
+    u "(Not off to a great start... Should've kept my mouth shut, fuck.)"
+
+# game/v2/scene21.rpy:1268
+translate francais v2s21_f8cd26bf_1:
+
+    # u "(I'll keep quiet for now. Might be starting out on the wrong foot to bring up Chicks problems.)"
+    u "(I'll keep quiet for now. Might be starting out on the wrong foot to bring up Chicks problems.)"
+
+# game/v2/scene21.rpy:1273
+translate francais v2s21_dd3d5098_1:
+
+    # ro "All right, you have my attention."
+    ro "All right, you have my attention."
+
+# game/v2/scene21.rpy:1278
+translate francais v2s21_d5879dce_1:
+
+    # cl "You know how much I care about the Chicks, and I think with your support we could become bigger and better than ever before."
+    cl "You know how much I care about the Chicks, and I think with your support we could become bigger and better than ever before."
+
+# game/v2/scene21.rpy:1283
+translate francais v2s21_621d6370_1:
+
+    # ro "Hmm... Well, I'm intrigued. What is your proposal?"
+    ro "Hmm... Well, I'm intrigued. What is your proposal?"
+
+# game/v2/scene21.rpy:1288
+translate francais v2s21_80eeb941_1:
+
+    # u "(She is just... impossible to read.)"
+    u "(She is just... impossible to read.)"
+
+# game/v2/scene21.rpy:1293
+translate francais v2s21_e0a962ef_1:
+
+    # cl "I would like to lower the cost of tuition for all Chicks, and with your signature I can take my proposal to the Dean."
+    cl "I would like to lower the cost of tuition for all Chicks, and with your signature I can take my proposal to the Dean."
+
+# game/v2/scene21.rpy:1298
+translate francais v2s21_ccd95024_1:
+
+    # ro "Wow..."
+    ro "Wow..."
+
+# game/v2/scene21.rpy:1303
+translate francais v2s21_8729994f_1:
+
+    # ro "Well, that's certainly one way of bringing the peace back to the Chicks house."
+    ro "Well, that's certainly one way of bringing the peace back to the Chicks house."
+
+# game/v2/scene21.rpy:1308
+translate francais v2s21_831f875b_1:
+
+    # cl "Yes, I... I hope so."
+    cl "Yes, I... I hope so."
+
+# game/v2/scene21.rpy:1319
+translate francais v2s21_b3442f68_1:
+
+    # u "(Don't forget, I brought notes! We can refer to them whenever.)"
+    u "(Don't forget, I brought notes! We can refer to them whenever.)"
+
+# game/v2/scene21.rpy:1325
+translate francais v2s21_4b11487a_1:
+
+    # u "(I hope I don't regret leaving our notes.)"
+    u "(I hope I don't regret leaving our notes.)"
+
+# game/v2/scene21.rpy:1330
+translate francais v2s21_e348eb5d_1:
 
     # ro "So I guess now all I'm wondering is, why do you want my support on this?"
-    ro ""
+    ro "So I guess now all I'm wondering is, why do you want my support on this?"
 
-# game/v2/scene21.rpy:1326
-translate francais v2s21_f56c5647:
+# game/v2/scene21.rpy:1335
+translate francais v2s21_f56c5647_1:
 
     # ro "Why come to me, instead of someone like Mr. Lee?"
-    ro ""
+    ro "Why come to me, instead of someone like Mr. Lee?"
 
-# game/v2/scene21.rpy:1331
-translate francais v2s21_fb4ee93f:
+# game/v2/scene21.rpy:1340
+translate francais v2s21_fb4ee93f_1:
 
     # u "(Oof, straight to the truth... Okay.)"
-    u ""
+    u "(Oof, straight to the truth... Okay.)"
 
-# game/v2/scene21.rpy:1336
-translate francais v2s21_8756a33b:
+# game/v2/scene21.rpy:1345
+translate francais v2s21_8756a33b_1:
 
     # ro "Did you both think that I'd be easier to persuade?"
-    ro ""
+    ro "Did you both think that I'd be easier to persuade?"
 
-# game/v2/scene21.rpy:1341
-translate francais v2s21_37ab5b58:
+# game/v2/scene21.rpy:1350
+translate francais v2s21_37ab5b58_1:
 
     # cl "No, of course not! I mean, yes... I-"
-    cl ""
+    cl "No, of course not! I mean, yes... I-"
 
-# game/v2/scene21.rpy:1356
-translate francais v2s21_d44f643e:
+# game/v2/scene21.rpy:1365
+translate francais v2s21_d44f643e_1:
 
     # u "We need the opinion of someone who understands the inner workings of sorority life."
-    u ""
+    u "We need the opinion of someone who understands the inner workings of sorority life."
 
-# game/v2/scene21.rpy:1361
-translate francais v2s21_1126ef87:
+# game/v2/scene21.rpy:1370
+translate francais v2s21_1126ef87_1:
 
     # u "Mr. Lee doesn't know what college is like for girls, or how it can be improved... Neither do I."
-    u ""
+    u "Mr. Lee doesn't know what college is like for girls, or how it can be improved... Neither do I."
 
-# game/v2/scene21.rpy:1363
-translate francais v2s21_7cd73eed:
+# game/v2/scene21.rpy:1372
+translate francais v2s21_7cd73eed_1:
 
     # u "Who better to ask than one of our female role models?"
-    u ""
+    u "Who better to ask than one of our female role models?"
 
-# game/v2/scene21.rpy:1368
-translate francais v2s21_7bb26ee7:
+# game/v2/scene21.rpy:1377
+translate francais v2s21_7bb26ee7_1:
 
     # cl "You're more sympathetic to our needs too, and basically just... awesome at supporting women, y'know?"
-    cl ""
+    cl "You're more sympathetic to our needs too, and basically just... awesome at supporting women, y'know?"
 
-# game/v2/scene21.rpy:1373
-translate francais v2s21_aea37f9e:
+# game/v2/scene21.rpy:1382
+translate francais v2s21_0b83dc03_1:
 
-    # ro "Haha... Well, I'm glad that you both feel that way. Thank you."
-    ro ""
+    # ro "Aww, you two... Well, I'm glad that you both feel that way. Thank you, that means a lot to me."
+    ro "Aww, you two... Well, I'm glad that you both feel that way. Thank you, that means a lot to me."
 
-# game/v2/scene21.rpy:1384
-translate francais v2s21_d6faa7db:
+# game/v2/scene21.rpy:1393
+translate francais v2s21_d6faa7db_1:
 
     # u "Mr. Lee only listens to what Mr. Lee wants to hear, he doesn't listen to opposing views."
-    u ""
+    u "Mr. Lee only listens to what Mr. Lee wants to hear, he doesn't listen to opposing views."
 
-# game/v2/scene21.rpy:1394
-translate francais v2s21_bfe7d5cc:
+# game/v2/scene21.rpy:1403
+translate francais v2s21_bfe7d5cc_1:
 
     # cl "We wanted to gain a female perspective."
-    cl ""
+    cl "We wanted to gain a female perspective."
 
-# game/v2/scene21.rpy:1399
-translate francais v2s21_d6f2771f:
+# game/v2/scene21.rpy:1408
+translate francais v2s21_d6f2771f_1:
 
     # u "Right. Besides, he can be a bit harsh sometimes."
-    u ""
+    u "Right. Besides, he can be a bit harsh sometimes."
 
-# game/v2/scene21.rpy:1404
-translate francais v2s21_b827f8ea:
+# game/v2/scene21.rpy:1413
+translate francais v2s21_b827f8ea_1:
 
     # ro "Hmm, I think both of you are underestimating Mr. Lee."
-    ro ""
+    ro "Hmm, I think both of you are underestimating Mr. Lee."
 
-# game/v2/scene21.rpy:1409
-translate francais v2s21_6017d086:
+# game/v2/scene21.rpy:1418
+translate francais v2s21_6017d086_1:
 
     # ro "He's a brilliant man and... believe it or not, he's incredibly understanding of women in today's modern society."
-    ro ""
+    ro "He's a brilliant man and... believe it or not, he's incredibly understanding of women in today's modern society."
 
-# game/v2/scene21.rpy:1411
-translate francais v2s21_9587296e:
+# game/v2/scene21.rpy:1420
+translate francais v2s21_9587296e_1:
 
     # ro "I'm sure he would've been difficult to persuade on something like this, but he always stays considerate and fair."
-    ro ""
+    ro "I'm sure he would've been difficult to persuade on something like this, but he always stays considerate and fair."
 
-# game/v2/scene21.rpy:1416
-translate francais v2s21_ed53e299:
+# game/v2/scene21.rpy:1425
+translate francais v2s21_ed53e299_1:
 
     # cl "Yeah. Of course."
-    cl ""
+    cl "Yeah. Of course."
 
-# game/v2/scene21.rpy:1421
-translate francais v2s21_b57b72d8:
+# game/v2/scene21.rpy:1430
+translate francais v2s21_b57b72d8_1:
 
     # ro "Now, I have another question."
-    ro ""
+    ro "Now, I have another question."
 
-# game/v2/scene21.rpy:1426
-translate francais v2s21_1ee5e84e:
+# game/v2/scene21.rpy:1435
+translate francais v2s21_1ee5e84e_1:
 
     # cl "We're happy to answer."
-    cl ""
+    cl "We're happy to answer."
 
-# game/v2/scene21.rpy:1431
-translate francais v2s21_f021d446:
+# game/v2/scene21.rpy:1440
+translate francais v2s21_f021d446_1:
 
     # ro "How do you think the other sororities and frats will react, if they hear the Chicks are getting special treatment with reduced tuition fees?"
-    ro ""
+    ro "How do you think the other sororities and frats will react, if they hear the Chicks are getting special treatment with reduced tuition fees?"
 
-# game/v2/scene21.rpy:1436
-translate francais v2s21_07c612b3:
+# game/v2/scene21.rpy:1445
+translate francais v2s21_07c612b3_1:
 
     # u "Well..."
-    u ""
+    u "Well..."
 
-# game/v2/scene21.rpy:1449
-translate francais v2s21_01fc6e75:
+# game/v2/scene21.rpy:1458
+translate francais v2s21_01fc6e75_1:
 
     # u "It'd be like lighting a match underneath them."
-    u ""
+    u "It'd be like lighting a match underneath them."
 
-# game/v2/scene21.rpy:1454
-translate francais v2s21_ab585696:
+# game/v2/scene21.rpy:1463
+translate francais v2s21_228d06fa_1:
 
-    # cl "Ha, yeah. A wake-up call almost."
-    cl ""
+    # cl "Oh yeah. A wake-up call almost."
+    cl "Oh yeah. A wake-up call almost."
 
-# game/v2/scene21.rpy:1459
-translate francais v2s21_684704fc:
+# game/v2/scene21.rpy:1468
+translate francais v2s21_684704fc_1:
 
     # ro "How so?"
-    ro ""
+    ro "How so?"
 
-# game/v2/scene21.rpy:1464
-translate francais v2s21_4edcdb9a:
+# game/v2/scene21.rpy:1473
+translate francais v2s21_4edcdb9a_1:
 
     # u "I think it would motivate them to want to achieve similar goals as the Chicks when they see what kind of things Chloe can achieve."
-    u ""
+    u "I think it would motivate them to want to achieve similar goals as the Chicks when they see what kind of things Chloe can achieve."
 
-# game/v2/scene21.rpy:1466
-translate francais v2s21_fa4dcf96:
+# game/v2/scene21.rpy:1475
+translate francais v2s21_fa4dcf96_1:
 
     # u "Hopefully people will begin to look at the Chicks and realize that these young women are ambitious, determined, and aren't afraid to try."
-    u ""
+    u "Hopefully people will begin to look at the Chicks and realize that these young women are ambitious, determined, and aren't afraid to try."
 
-# game/v2/scene21.rpy:1481
-translate francais v2s21_30dcfa91:
+# game/v2/scene21.rpy:1490
+translate francais v2s21_30dcfa91_1:
 
     # ro "Very well said, [name]."
-    ro ""
+    ro "Very well said, [name]."
 
-# game/v2/scene21.rpy:1486
-translate francais v2s21_d9962b76:
+# game/v2/scene21.rpy:1495
+translate francais v2s21_482201d1_1:
 
-    # cl "Girl power! *Giggles*"
-    cl ""
+    # cl "Yeah, girl power!"
+    cl "Yeah, girl power!"
 
-# game/v2/scene21.rpy:1488
-translate francais v2s21_4a267a45:
+# game/v2/scene21.rpy:1497
+translate francais v2s21_4a267a45_1:
 
     # cl "Honestly though, we can be the first to lead the way on this, and all the others can meet with the Dean once I'm finished."
-    cl ""
+    cl "Honestly though, we can be the first to lead the way on this, and all the others can meet with the Dean once I'm finished."
 
-# game/v2/scene21.rpy:1493
-translate francais v2s21_21e4cbba:
+# game/v2/scene21.rpy:1502
+translate francais v2s21_5bad7212_1:
 
-    # ro "Ha. Alright, noted."
-    ro ""
+    # ro "All right, noted."
+    ro "All right, noted."
 
-# game/v2/scene21.rpy:1504
-translate francais v2s21_07db0713:
+# game/v2/scene21.rpy:1513
+translate francais v2s21_07db0713_1:
 
     # u "They can get over it. With all due respect, just because they didn't think of the idea, doesn't mean the idea should get turned down."
-    u ""
+    u "They can get over it. With all due respect, just because they didn't think of the idea, doesn't mean the idea should get turned down."
 
-# game/v2/scene21.rpy:1509
-translate francais v2s21_96397ef1:
+# game/v2/scene21.rpy:1518
+translate francais v2s21_96397ef1_1:
 
     # ro "Yes, I agree... But like it or not, we have to consider how this decision affects everyone, not just how it affects the Chicks."
-    ro ""
+    ro "Yes, I agree... But like it or not, we have to consider how this decision affects everyone, not just how it affects the Chicks."
 
-# game/v2/scene21.rpy:1514
-translate francais v2s21_a9dbfa2d:
+# game/v2/scene21.rpy:1523
+translate francais v2s21_a9dbfa2d_1:
 
     # cl "Of course."
-    cl ""
+    cl "Of course."
 
-# game/v2/scene21.rpy:1519
-translate francais v2s21_04eda208:
+# game/v2/scene21.rpy:1528
+translate francais v2s21_c873c64e_1:
 
-    # ro "We must be fair, always."
-    ro ""
+    # ro "We have to be fair, always."
+    ro "We have to be fair, always."
 
-# game/v2/scene21.rpy:1524
-translate francais v2s21_aca53fdb:
+# game/v2/scene21.rpy:1533
+translate francais v2s21_aca53fdb_1:
 
     # ro "There is the matter of your scholarship, too. That's also something we need to factor in here."
-    ro ""
+    ro "There is the matter of your scholarship, too. That's also something we need to factor in here."
 
-# game/v2/scene21.rpy:1529
-translate francais v2s21_f0799efd:
+# game/v2/scene21.rpy:1538
+translate francais v2s21_f0799efd_1:
 
     # cl "How is my scholarship relevant to this?"
-    cl ""
+    cl "How is my scholarship relevant to this?"
 
-# game/v2/scene21.rpy:1534
-translate francais v2s21_7aeb4a5b:
+# game/v2/scene21.rpy:1543
+translate francais v2s21_10bcca80_1:
 
-    # ro "I think it is, considering you get a free ride, just for winning an election."
-    ro ""
+    # ro "I think it is, considering you get your tuition covered. You work hard, but so do all the other Presidents."
+    ro "I think it is, considering you get your tuition covered. You work hard, but so do all the other Presidents."
 
-# game/v2/scene21.rpy:1539
-translate francais v2s21_6d6b4fc3:
+# game/v2/scene21.rpy:1548
+translate francais v2s21_6d6b4fc3_1:
 
     # cl "I guess..."
-    cl ""
+    cl "I guess..."
 
-# game/v2/scene21.rpy:1544
-translate francais v2s21_4426c5f8:
+# game/v2/scene21.rpy:1553
+translate francais v2s21_4426c5f8_1:
 
     # ro "Would you even consider sacrificing those special benefits as a bargaining chip?"
-    ro ""
+    ro "Would you even consider sacrificing those special benefits as a bargaining chip?"
 
-# game/v2/scene21.rpy:1549
-translate francais v2s21_0da5d347:
+# game/v2/scene21.rpy:1558
+translate francais v2s21_0da5d347_1:
 
     # cl "But that's not the plan that we-"
-    cl ""
+    cl "But that's not the plan that we-"
 
-# game/v2/scene21.rpy:1554
-translate francais v2s21_9e2fcc5a:
+# game/v2/scene21.rpy:1563
+translate francais v2s21_9e2fcc5a_1:
 
     # ro "Right, but what's the phrase? \"All for one and one for all\"?"
-    ro ""
+    ro "Right, but what's the phrase? \"All for one and one for all\"?"
 
-# game/v2/scene21.rpy:1559
-translate francais v2s21_51ece22a:
+# game/v2/scene21.rpy:1568
+translate francais v2s21_51ece22a_1:
 
     # u "(Chloe sacrificing her free tuition for the sake of all of the Chicks?)"
-    u ""
+    u "(Chloe sacrificing her free tuition for the sake of all of the Chicks?)"
 
-# game/v2/scene21.rpy:1572
-translate francais v2s21_0deed551:
+# game/v2/scene21.rpy:1581
+translate francais v2s21_0deed551_1:
 
     # u "That's ridiculous, she shouldn't do that!"
-    u ""
+    u "That's ridiculous, she shouldn't do that!"
 
-# game/v2/scene21.rpy:1577
-translate francais v2s21_ec9d1d57:
+# game/v2/scene21.rpy:1586
+translate francais v2s21_ec9d1d57_1:
 
     # u "Chloe can't afford to sacrifice her scholarship, so we can't even consider that."
-    u ""
+    u "Chloe can't afford to sacrifice her scholarship, so we can't even consider that."
 
-# game/v2/scene21.rpy:1582
-translate francais v2s21_64f2f736:
+# game/v2/scene21.rpy:1591
+translate francais v2s21_64f2f736_1:
 
     # ro "So, that's a point-blank refusal? Because that's what's best for Chloe?"
-    ro ""
+    ro "So, that's a point-blank refusal? Because that's what's best for Chloe?"
 
-# game/v2/scene21.rpy:1587
-translate francais v2s21_3c7a03e2:
+# game/v2/scene21.rpy:1596
+translate francais v2s21_3c7a03e2_1:
 
     # cl "*Scoffs*"
-    cl ""
+    cl "*Scoffs*"
 
-# game/v2/scene21.rpy:1597
-translate francais v2s21_dff75082:
+# game/v2/scene21.rpy:1606
+translate francais v2s21_dff75082_1:
 
     # cl "How could I..."
-    cl ""
+    cl "How could I..."
 
-# game/v2/scene21.rpy:1599
-translate francais v2s21_c31dd68e:
+# game/v2/scene21.rpy:1608
+translate francais v2s21_c31dd68e_1:
 
     # cl "Even continue studying... without the scholarship?"
-    cl ""
+    cl "Even continue studying... without the scholarship?"
 
-# game/v2/scene21.rpy:1604
-translate francais v2s21_e8ce929b:
+# game/v2/scene21.rpy:1613
+translate francais v2s21_e8ce929b_1:
 
     # ro "Unfortunately, Chloe... that's the only way I see the Dean going forward with this proposal."
-    ro ""
+    ro "Unfortunately, Chloe... that's the only way I see the Dean going forward with this proposal."
 
-# game/v2/scene21.rpy:1620
-translate francais v2s21_65f2c2e9:
+# game/v2/scene21.rpy:1629
+translate francais v2s21_65f2c2e9_1:
 
     # u "It would depend on all the details... What exactly would that mean?"
-    u ""
+    u "It would depend on all the details... What exactly would that mean?"
 
-# game/v2/scene21.rpy:1630
-translate francais v2s21_2716a5ef:
+# game/v2/scene21.rpy:1639
+translate francais v2s21_2716a5ef_1:
 
     # ro "I have an idea, I'm just working it through in my head, but... it might work if you're willing to make sacrifices."
-    ro ""
+    ro "I have an idea, I'm just working it through in my head, but... it might work if you're willing to make sacrifices."
 
-# game/v2/scene21.rpy:1635
-translate francais v2s21_ac964e83:
+# game/v2/scene21.rpy:1644
+translate francais v2s21_ac964e83_1:
 
     # u "Okay. Well..."
-    u ""
+    u "Okay. Well..."
 
-# game/v2/scene21.rpy:1642
-translate francais v2s21_c5a72b50:
+# game/v2/scene21.rpy:1651
+translate francais v2s21_db5de044_1:
 
-    # ro "[name], If you stare at your notes for too long, you're going to end up missing the meeting. *Chuckles*"
-    ro ""
+    # ro "[name], If you stare at your notes for too long, you're going to end up missing the meeting."
+    ro "[name], If you stare at your notes for too long, you're going to end up missing the meeting."
 
-# game/v2/scene21.rpy:1647
-translate francais v2s21_ae49d95b:
+# game/v2/scene21.rpy:1656
+translate francais v2s21_ae49d95b_1:
 
     # u "(Oh, shit...) Sorry, Ms. Rose."
-    u ""
+    u "(Oh, shit...) Sorry, Ms. Rose."
 
-# game/v2/scene21.rpy:1652
-translate francais v2s21_d5d5c8a0:
+# game/v2/scene21.rpy:1661
+translate francais v2s21_d5d5c8a0_1:
 
     # ro "Just focus on the job at hand, young man."
-    ro ""
+    ro "Just focus on the job at hand, young man."
 
-# game/v2/scene21.rpy:1657
-translate francais v2s21_e57ebea1:
+# game/v2/scene21.rpy:1666
+translate francais v2s21_e57ebea1_1:
 
     # u "(Oh, I'm trying to.)"
-    u ""
+    u "(Oh, I'm trying to.)"
 
-# game/v2/scene21.rpy:1662
-translate francais v2s21_e3d959b9:
+# game/v2/scene21.rpy:1671
+translate francais v2s21_e3d959b9_1:
 
     # ro "Is there anything else we need to talk about?"
-    ro ""
+    ro "Is there anything else we need to talk about?"
 
-# game/v2/scene21.rpy:1670
-translate francais v2s21_225a3b62:
+# game/v2/scene21.rpy:1679
+translate francais v2s21_225a3b62_1:
 
     # cl "Not really, no. But..."
-    cl ""
+    cl "Not really, no. But..."
 
-# game/v2/scene21.rpy:1675
-translate francais v2s21_e3b42c44:
+# game/v2/scene21.rpy:1684
+translate francais v2s21_e3b42c44_1:
 
     # cl "What is that perfume that you're wearing? *Sniffs*"
-    cl ""
+    cl "What is that perfume that you're wearing? *Sniffs*"
 
-# game/v2/scene21.rpy:1680
-translate francais v2s21_41676d97:
+# game/v2/scene21.rpy:1689
+translate francais v2s21_0aac640c_1:
 
-    # ro "Haha... Excuse me?"
-    ro ""
+    # ro "Excuse me?"
+    ro "Excuse me?"
 
-# game/v2/scene21.rpy:1685
+# game/v2/scene21.rpy:1694
 translate francais v2s21_fcc18885_1:
 
     # u "*Laughs*"
-    u ""
-
-# game/v2/scene21.rpy:1690
-translate francais v2s21_fe396ba1:
-
-    # cl "Sorry, it just smells amazing, I had to ask."
-    cl ""
+    u "*Laughs*"
 
 # game/v2/scene21.rpy:1699
-translate francais v2s21_bc88b45e:
+translate francais v2s21_fe396ba1_1:
+
+    # cl "Sorry, it just smells amazing, I had to ask."
+    cl "Sorry, it just smells amazing, I had to ask."
+
+# game/v2/scene21.rpy:1708
+translate francais v2s21_bc88b45e_1:
 
     # ro "Oh, it's okay! Thank you. It was actually a gift that [name] and Nora gave to me before we left Europe."
-    ro ""
+    ro "Oh, it's okay! Thank you. It was actually a gift that [name] and Nora gave to me before we left Europe."
 
-# game/v2/scene21.rpy:1707
-translate francais v2s21_7b1a73db:
-
-    # cl "Oh, really?"
-    cl ""
-
-# game/v2/scene21.rpy:1713
-translate francais v2s21_7b1a73db_1:
+# game/v2/scene21.rpy:1716
+translate francais v2s21_7b1a73db_2:
 
     # cl "Oh, really?"
-    cl ""
+    cl "Oh, really?"
 
-# game/v2/scene21.rpy:1718
-translate francais v2s21_42ed00df:
+# game/v2/scene21.rpy:1722
+translate francais v2s21_7b1a73db_3:
 
-    # u "Oh yeah, ha. I'm glad you like it."
-    u ""
+    # cl "Oh, really?"
+    cl "Oh, really?"
 
-# game/v2/scene21.rpy:1723
-translate francais v2s21_f5cded42:
+# game/v2/scene21.rpy:1727
+translate francais v2s21_f6d9981c_1:
+
+    # u "Oh yeah. I'm glad you like it."
+    u "Oh yeah. I'm glad you like it."
+
+# game/v2/scene21.rpy:1732
+translate francais v2s21_f5cded42_1:
 
     # ro "Yes, I do! I get compliments every time."
-    ro ""
+    ro "Yes, I do! I get compliments every time."
 
-# game/v2/scene21.rpy:1733
-translate francais v2s21_9936e3c2:
+# game/v2/scene21.rpy:1742
+translate francais v2s21_9936e3c2_1:
 
     # cl "I think that's it. Right, [name]?"
-    cl ""
+    cl "I think that's it. Right, [name]?"
 
-# game/v2/scene21.rpy:1738
-translate francais v2s21_df43affa:
+# game/v2/scene21.rpy:1747
+translate francais v2s21_df43affa_1:
 
     # u "Yeah. So, what do you think?"
-    u ""
+    u "Yeah. So, what do you think?"
 
-# game/v2/scene21.rpy:1756
-translate francais v2s21_f29d1695:
+# game/v2/scene21.rpy:1765
+translate francais v2s21_f29d1695_1:
 
     # ro "I have to say, you both answered my questions honestly, and there's not much more I can ask for."
-    ro ""
+    ro "I have to say, you both answered my questions honestly, and there's not much more I can ask for."
 
-# game/v2/scene21.rpy:1761
-translate francais v2s21_06544d14:
+# game/v2/scene21.rpy:1770
+translate francais v2s21_06544d14_1:
 
     # ro "I think you have good intentions, so I'm happy to support you."
-    ro ""
+    ro "I think you have good intentions, so I'm happy to support you."
 
-# game/v2/scene21.rpy:1766
-translate francais v2s21_aae29b30:
+# game/v2/scene21.rpy:1775
+translate francais v2s21_aae29b30_1:
 
     # cl "*Gasps*"
-    cl ""
+    cl "*Gasps*"
 
-# game/v2/scene21.rpy:1771
-translate francais v2s21_0a734d18:
+# game/v2/scene21.rpy:1780
+translate francais v2s21_0a734d18_1:
 
     # u "Holy shi-"
-    u ""
+    u "Holy shi-"
 
-# game/v2/scene21.rpy:1782
-translate francais v2s21_06fdb937:
+# game/v2/scene21.rpy:1791
+translate francais v2s21_fdd74188_1:
 
-    # ro "I still have a few uncertainties when it comes to your intentions..."
-    ro ""
+    # ro "I still have a few uncertainties when it comes to your plan..."
+    ro "I still have a few uncertainties when it comes to your plan..."
 
-# game/v2/scene21.rpy:1787
-translate francais v2s21_fea3d640_1:
+# game/v2/scene21.rpy:1796
+translate francais v2s21_fea3d640_4:
 
     # cl "*Sighs*"
-    cl ""
+    cl "*Sighs*"
 
-# game/v2/scene21.rpy:1792
-translate francais v2s21_a28654da:
+# game/v2/scene21.rpy:1801
+translate francais v2s21_81572659_1:
 
-    # ro "But you did well. This is a great plan, and well executed."
-    ro ""
+    # ro "But you did well. This is a great idea, and well executed."
+    ro "But you did well. This is a great idea, and well executed."
 
-# game/v2/scene21.rpy:1797
-translate francais v2s21_e6fec326:
+# game/v2/scene21.rpy:1806
+translate francais v2s21_e6fec326_1:
 
     # cl "Wait, you're on board?!"
-    cl ""
+    cl "Wait, you're on board?!"
 
-# game/v2/scene21.rpy:1802
-translate francais v2s21_e0053186:
+# game/v2/scene21.rpy:1811
+translate francais v2s21_e0053186_1:
 
     # ro "I am."
-    ro ""
+    ro "I am."
 
-# game/v2/scene21.rpy:1807
-translate francais v2s21_8a0d9688:
+# game/v2/scene21.rpy:1816
+translate francais v2s21_8a0d9688_1:
 
     # u "(Yes!)"
-    u ""
+    u "(Yes!)"
 
-# game/v2/scene21.rpy:1821
-translate francais v2s21_77f93c87:
+# game/v2/scene21.rpy:1830
+translate francais v2s21_77f93c87_1:
 
     # ro "I'm not sure if you're both just feeling nervous today, or whatever it is..."
-    ro ""
+    ro "I'm not sure if you're both just feeling nervous today, or whatever it is..."
 
-# game/v2/scene21.rpy:1823
-translate francais v2s21_c99158ab:
+# game/v2/scene21.rpy:1832
+translate francais v2s21_c99158ab_1:
 
     # ro "Either way, I know how much you want this for the Chicks, I can see it."
-    ro ""
+    ro "Either way, I know how much you want this for the Chicks, I can see it."
 
-# game/v2/scene21.rpy:1828
-translate francais v2s21_b216b68f:
+# game/v2/scene21.rpy:1837
+translate francais v2s21_b216b68f_1:
 
     # cl "I really do..."
-    cl ""
+    cl "I really do..."
 
-# game/v2/scene21.rpy:1833
-translate francais v2s21_012220ac:
+# game/v2/scene21.rpy:1842
+translate francais v2s21_012220ac_1:
 
     # ro "So I'm going to give you a fighting chance with the Dean."
-    ro ""
+    ro "So I'm going to give you a fighting chance with the Dean."
 
-# game/v2/scene21.rpy:1838
-translate francais v2s21_a38ef09c:
+# game/v2/scene21.rpy:1847
+translate francais v2s21_a38ef09c_1:
 
     # u "Oh my... Thank you."
-    u ""
+    u "Oh my... Thank you."
 
-# game/v2/scene21.rpy:1843
-translate francais v2s21_3e485c6f:
+# game/v2/scene21.rpy:1852
+translate francais v2s21_3e485c6f_1:
 
     # cl "Yes, I-"
-    cl ""
+    cl "Yes, I-"
 
-# game/v2/scene21.rpy:1845
-translate francais v2s21_22c32e38:
+# game/v2/scene21.rpy:1854
+translate francais v2s21_22c32e38_1:
 
     # cl "Thank you. Thank you so much."
-    cl ""
+    cl "Thank you. Thank you so much."
 
-# game/v2/scene21.rpy:1859
-translate francais v2s21_e9b78725:
+# game/v2/scene21.rpy:1868
+translate francais v2s21_3886d5b3_1:
 
-    # ro "I'm sorry you guys."
-    ro ""
+    # ro "I'm sorry you two."
+    ro "I'm sorry you two."
 
-# game/v2/scene21.rpy:1864
-translate francais v2s21_57ae9944:
+# game/v2/scene21.rpy:1873
+translate francais v2s21_57ae9944_2:
 
     # u "*Sighs*"
-    u ""
+    u "*Sighs*"
 
-# game/v2/scene21.rpy:1869
-translate francais v2s21_f00773a8:
+# game/v2/scene21.rpy:1878
+translate francais v2s21_f00773a8_1:
 
     # ro "I just don't think I can support you at this time, Chloe. It's disappointing to have to say that, but..."
-    ro ""
+    ro "I just don't think I can support you at this time, Chloe. It's disappointing to have to say that, but..."
 
-# game/v2/scene21.rpy:1871
-translate francais v2s21_f519841f:
+# game/v2/scene21.rpy:1880
+translate francais v2s21_8f14887b_1:
 
-    # ro "I can't trust your true intentions here."
-    ro ""
+    # ro "I can't trust what you're doing isn't just motivated by winning. I didn't see that today."
+    ro "I can't trust what you're doing isn't just motivated by winning. I didn't see that today."
 
-# game/v2/scene21.rpy:1876
-translate francais v2s21_6d7e092a:
+# game/v2/scene21.rpy:1885
+translate francais v2s21_6d7e092a_1:
 
     # cl "So, what? You're not going to sign?"
-    cl ""
+    cl "So, what? You're not going to sign?"
 
-# game/v2/scene21.rpy:1881
-translate francais v2s21_f61c9d45:
+# game/v2/scene21.rpy:1890
+translate francais v2s21_f61c9d45_1:
 
     # ro "I can't support something I don't believe in. But good luck with it. Maybe the Dean will feel differently."
-    ro ""
+    ro "I can't support something I don't believe in. But good luck with it. Maybe the Dean will feel differently."
 
-# game/v2/scene21.rpy:1886
-translate francais v2s21_5d0d0bb3:
+# game/v2/scene21.rpy:1895
+translate francais v2s21_b940d8af_1:
 
-    # cl "Ha... Okay."
-    cl ""
+    # cl "Oh... Okay."
+    cl "Oh... Okay."
 
-# game/v2/scene21.rpy:1891
-translate francais v2s21_ebc73038:
+# game/v2/scene21.rpy:1900
+translate francais v2s21_ebc73038_1:
 
     # ro "Have a good day, you two."
-    ro ""
+    ro "Have a good day, you two."
 
-# game/v2/scene21.rpy:1896
-translate francais v2s21_300a2ddc:
+# game/v2/scene21.rpy:1905
+translate francais v2s21_300a2ddc_1:
 
     # u "Yeah, you as well."
-    u ""
+    u "Yeah, you as well."
 
-# game/v2/scene21.rpy:1901
-translate francais v2s21_fea3d640_2:
+# game/v2/scene21.rpy:1910
+translate francais v2s21_fea3d640_5:
 
     # cl "*Sighs*"
-    cl ""
+    cl "*Sighs*"
 
-# game/v2/scene21.rpy:1920
-translate francais v2s21_d05ac6aa:
+# game/v2/scene21.rpy:1929
+translate francais v2s21_d05ac6aa_1:
 
     # ro "Now, here's exactly what I'm thinking."
-    ro ""
+    ro "Now, here's exactly what I'm thinking."
 
-# game/v2/scene21.rpy:1922
-translate francais v2s21_c2334499:
+# game/v2/scene21.rpy:1931
+translate francais v2s21_c2334499_1:
 
     # ro "Chloe, if you offer to sacrifice your scholarship, the money from that can be used towards reducing the fees for all Chicks."
-    ro ""
+    ro "Chloe, if you offer to sacrifice your scholarship, the money from that can be used towards reducing the fees for all Chicks."
 
-# game/v2/scene21.rpy:1924
-translate francais v2s21_d27ad92d:
+# game/v2/scene21.rpy:1933
+translate francais v2s21_d27ad92d_1:
 
     # ro "You'll have to start paying something, yes, but it will be reduced. The same as all the other Chicks."
-    ro ""
+    ro "You'll have to start paying something, yes, but it will be reduced. The same as all the other Chicks."
 
-# game/v2/scene21.rpy:1934
-translate francais v2s21_e207a8bb:
+# game/v2/scene21.rpy:1943
+translate francais v2s21_e207a8bb_1:
 
     # cl "I just-"
-    cl ""
+    cl "I just-"
 
-# game/v2/scene21.rpy:1944
-translate francais v2s21_ace55749:
+# game/v2/scene21.rpy:1953
+translate francais v2s21_ace55749_1:
 
     # cl "I'm not sure I can give up my scholarship just like that."
-    cl ""
+    cl "I'm not sure I can give up my scholarship just like that."
 
-# game/v2/scene21.rpy:1949
-translate francais v2s21_44f47f9a:
+# game/v2/scene21.rpy:1958
+translate francais v2s21_44f47f9a_1:
 
     # u "I know."
-    u ""
+    u "I know."
 
-# game/v2/scene21.rpy:1954
-translate francais v2s21_4ffda37c:
+# game/v2/scene21.rpy:1963
+translate francais v2s21_4ffda37c_1:
 
     # ro "I think it's the only way forward, truly."
-    ro ""
+    ro "I think it's the only way forward, truly."
 
-# game/v2/scene21.rpy:1956
-translate francais v2s21_ef665ab8:
+# game/v2/scene21.rpy:1965
+translate francais v2s21_ef665ab8_1:
 
     # ro "The Dean will have to consider the financial implications."
-    ro ""
+    ro "The Dean will have to consider the financial implications."
 
-# game/v2/scene21.rpy:1957
-translate francais v2s21_0c68e644:
+# game/v2/scene21.rpy:1966
+translate francais v2s21_0c68e644_1:
 
     # ro "There's no point in me signing off my support if we can't afford to go through with it."
-    ro ""
+    ro "There's no point in me signing off my support if we can't afford to go through with it."
 
-# game/v2/scene21.rpy:1967
-translate francais v2s21_5e77c0c0_2:
+# game/v2/scene21.rpy:1976
+translate francais v2s21_5e77c0c0_5:
 
     # cl "..."
-    cl ""
+    cl "..."
 
-# game/v2/scene21.rpy:1972
-translate francais v2s21_bf1f7e84:
+# game/v2/scene21.rpy:1981
+translate francais v2s21_bf1f7e84_1:
 
     # cl "Okay..."
-    cl ""
+    cl "Okay..."
 
-# game/v2/scene21.rpy:1977
-translate francais v2s21_01b38180:
+# game/v2/scene21.rpy:1986
+translate francais v2s21_01b38180_1:
 
     # u "Okay?!"
-    u ""
-
-# game/v2/scene21.rpy:1982
-translate francais v2s21_518c9814:
-
-    # cl "Let's try it."
-    cl ""
-
-# game/v2/scene21.rpy:1987
-translate francais v2s21_2a870042:
-
-    # u "Chloe..."
-    u ""
-
-# game/v2/scene21.rpy:1990
-translate francais v2s21_efac4dae:
-
-    # u "(I won't feel great about it, but if I can get Chloe to give me a few moments alone with Ms. Rose...)"
-    u ""
+    u "Okay?!"
 
 # game/v2/scene21.rpy:1991
-translate francais v2s21_e0d6d597:
+translate francais v2s21_518c9814_1:
+
+    # cl "Let's try it."
+    cl "Let's try it."
+
+# game/v2/scene21.rpy:1996
+translate francais v2s21_2a870042_1:
+
+    # u "Chloe..."
+    u "Chloe..."
+
+# game/v2/scene21.rpy:1999
+translate francais v2s21_efac4dae_1:
+
+    # u "(I won't feel great about it, but if I can get Chloe to give me a few moments alone with Ms. Rose...)"
+    u "(I won't feel great about it, but if I can get Chloe to give me a few moments alone with Ms. Rose...)"
+
+# game/v2/scene21.rpy:2000
+translate francais v2s21_e0d6d597_1:
 
     # u "(...I might be able to get exactly what we want from her. No special conditions.)"
-    u ""
+    u "(...I might be able to get exactly what we want from her. No special conditions.)"
 
-# game/v2/scene21.rpy:2001
-translate francais v2s21_779d5415:
+# game/v2/scene21.rpy:2010
+translate francais v2s21_779d5415_1:
 
     # u "*Whispers* Okay, this might sound weird, but... trust me, okay?"
-    u ""
+    u "*Whispers* Okay, this might sound weird, but... trust me, okay?"
 
-# game/v2/scene21.rpy:2006
-translate francais v2s21_7a4a6990:
+# game/v2/scene21.rpy:2015
+translate francais v2s21_7a4a6990_1:
 
     # cl "Okay...?"
-    cl ""
+    cl "Okay...?"
 
-# game/v2/scene21.rpy:2011
-translate francais v2s21_45881683:
+# game/v2/scene21.rpy:2020
+translate francais v2s21_45881683_1:
 
     # u "*Whispers* Can you leave me alone with Ms. Rose for a few minutes? I think there's a way you can keep your scholarship."
-    u ""
+    u "*Whispers* Can you leave me alone with Ms. Rose for a few minutes? I think there's a way you can keep your scholarship."
 
-# game/v2/scene21.rpy:2016
-translate francais v2s21_9a1b5477:
+# game/v2/scene21.rpy:2025
+translate francais v2s21_d06a3051_1:
 
-    # cl "That's... a weird request, [name]. *Nervous chuckles*"
-    cl ""
-
-# game/v2/scene21.rpy:2021
-translate francais v2s21_85f5345b:
-
-    # u "I know. Trust me."
-    u ""
+    # cl "That's... a weird request, [name]."
+    cl "That's... a weird request, [name]."
 
 # game/v2/scene21.rpy:2030
-translate francais v2s21_c76e3b40:
+translate francais v2s21_85f5345b_1:
+
+    # u "I know. Trust me."
+    u "I know. Trust me."
+
+# game/v2/scene21.rpy:2039
+translate francais v2s21_c76e3b40_1:
 
     # cl "Okay, I trust you."
-    cl ""
+    cl "Okay, I trust you."
 
-# game/v2/scene21.rpy:2035
-translate francais v2s21_a5b7ac8d:
+# game/v2/scene21.rpy:2044
+translate francais v2s21_a5b7ac8d_1:
 
     # cl "Please, excuse me for a minute, Ms. Rose. I'm just going to run to the restroom."
-    cl ""
+    cl "Please, excuse me for a minute, Ms. Rose. I'm just going to run to the restroom."
 
-# game/v2/scene21.rpy:2040
-translate francais v2s21_f057284d:
+# game/v2/scene21.rpy:2049
+translate francais v2s21_f057284d_1:
 
     # ro "Oh, sure. No problem."
-    ro ""
+    ro "Oh, sure. No problem."
 
-# game/v2/scene21.rpy:2055
-translate francais v2s21_39451343:
+# game/v2/scene21.rpy:2064
+translate francais v2s21_39451343_1:
 
     # u "(Okay, how do we want to do this?"
-    u ""
+    u "(Okay, how do we want to do this?"
 
-# game/v2/scene21.rpy:2060
-translate francais v2s21_9539f099:
+# game/v2/scene21.rpy:2069
+translate francais v2s21_9539f099_1:
 
     # u "(Seduce her the easy way, or...?)"
-    u ""
+    u "(Seduce her the easy way, or...?)"
 
-# game/v2/scene21.rpy:2065
-translate francais v2s21_f616ec60:
+# game/v2/scene21.rpy:2074
+translate francais v2s21_f616ec60_1:
 
     # u "(Should we take this relationship to a new... dark, level? *Chuckles*)"
-    u ""
+    u "(Should we take this relationship to a new... dark, level? *Chuckles*)"
 
-# game/v2/scene21.rpy:2083
-translate francais v2s21_b2737c58:
+# game/v2/scene21.rpy:2092
+translate francais v2s21_b2737c58_1:
 
     # u "Lorraine... We really need you to sign the paper, without it affecting Chloe's scholarship."
-    u ""
+    u "Lorraine... We really need you to sign the paper, without it affecting Chloe's scholarship."
 
-# game/v2/scene21.rpy:2088
-translate francais v2s21_efc55270:
+# game/v2/scene21.rpy:2097
+translate francais v2s21_b4db9cfc_1:
 
-    # ro "Of course you do, [name]... *Laughs* But, I don't think that's the right way to go."
-    ro ""
+    # ro "Of course you do, [name]... But, I don't think that's the right way to go."
+    ro "Of course you do, [name]... But, I don't think that's the right way to go."
 
-# game/v2/scene21.rpy:2093
-translate francais v2s21_e2b885e1:
+# game/v2/scene21.rpy:2102
+translate francais v2s21_e2b885e1_1:
 
     # u "Y'know... I'd be truly grateful if, just this once... you went along with it."
-    u ""
+    u "Y'know... I'd be truly grateful if, just this once... you went along with it."
 
-# game/v2/scene21.rpy:2103
-translate francais v2s21_af15e7c3:
+# game/v2/scene21.rpy:2112
+translate francais v2s21_af15e7c3_1:
 
     # ro "Oh... Really?"
-    ro ""
+    ro "Oh... Really?"
 
-# game/v2/scene21.rpy:2108
-translate francais v2s21_3f05b674:
+# game/v2/scene21.rpy:2117
+translate francais v2s21_3f05b674_1:
 
     # u "Mhmm..."
-    u ""
+    u "Mhmm..."
 
-# game/v2/scene21.rpy:2113
-translate francais v2s21_6bed251b:
+# game/v2/scene21.rpy:2122
+translate francais v2s21_6bed251b_1:
 
     # ro "How grateful are we talking?"
-    ro ""
+    ro "How grateful are we talking?"
 
-# game/v2/scene21.rpy:2118
-translate francais v2s21_a5519af5:
+# game/v2/scene21.rpy:2127
+translate francais v2s21_a5519af5_1:
 
     # u "How about..."
-    u ""
+    u "How about..."
 
-# game/v2/scene21.rpy:2120
-translate francais v2s21_e409c545:
+# game/v2/scene21.rpy:2129
+translate francais v2s21_e409c545_1:
 
     # u "I'll do whatever you want."
-    u ""
+    u "I'll do whatever you want."
 
-# game/v2/scene21.rpy:2130
-translate francais v2s21_ed327793:
+# game/v2/scene21.rpy:2139
+translate francais v2s21_ed327793_1:
 
     # u "You name it."
-    u ""
+    u "You name it."
 
-# game/v2/scene21.rpy:2135
-translate francais v2s21_5ddbc988:
+# game/v2/scene21.rpy:2144
+translate francais v2s21_2f03d9e9_1:
 
-    # ro "Hmm, that could take a while. *Laughs*"
-    ro ""
+    # ro "Mmm, that could take a while."
+    ro "Mmm, that could take a while."
 
-# game/v2/scene21.rpy:2140
-translate francais v2s21_a3b37a28:
+# game/v2/scene21.rpy:2149
+translate francais v2s21_a3b37a28_1:
 
     # u "Good. I can't wait to hear what you ask for."
-    u ""
+    u "Good. I can't wait to hear what you ask for."
 
-# game/v2/scene21.rpy:2145
-translate francais v2s21_a4792f60_1:
+# game/v2/scene21.rpy:2154
+translate francais v2s21_adbb882b_1:
 
-    # ro "Ha..."
-    ro ""
+    # ro "Oh my God..."
+    ro "Oh my God..."
 
-# game/v2/scene21.rpy:2150
-translate francais v2s21_2430254e:
+# game/v2/scene21.rpy:2159
+translate francais v2s21_fa191904_1:
 
-    # ro "[name], stop... You're making me horny."
-    ro ""
+    # ro "[name], stop... You're making me wet just thinking about it."
+    ro "[name], stop... You're making me wet just thinking about it."
 
-# game/v2/scene21.rpy:2162
-translate francais v2s21_03f65b9e:
+# game/v2/scene21.rpy:2171
+translate francais v2s21_8e6f430e_1:
 
-    # ro "Such a naughty boy, [name]! *Chuckles*"
-    ro ""
+    # ro "Such a naughty boy, [name]!"
+    ro "Such a naughty boy, [name]!"
 
-# game/v2/scene21.rpy:2167
-translate francais v2s21_66c08b4a:
+# game/v2/scene21.rpy:2176
+translate francais v2s21_667b4e87_1:
 
-    # u "Ha, yeah, maybe."
-    u ""
+    # u "Mmm, yeah, maybe."
+    u "Mmm, yeah, maybe."
 
-# game/v2/scene21.rpy:2177
-translate francais v2s21_5077ac60:
+# game/v2/scene21.rpy:2186
+translate francais v2s21_5077ac60_1:
 
     # ro "So..."
-    ro ""
+    ro "So..."
 
-# game/v2/scene21.rpy:2182
-translate francais v2s21_8ad9c24f:
+# game/v2/scene21.rpy:2191
+translate francais v2s21_8ad9c24f_1:
 
     # ro "Anything I want?"
-    ro ""
+    ro "Anything I want?"
 
-# game/v2/scene21.rpy:2187
-translate francais v2s21_cfe9ff40:
+# game/v2/scene21.rpy:2196
+translate francais v2s21_cfe9ff40_1:
 
     # u "Yeah. Anything."
-    u ""
+    u "Yeah. Anything."
 
-# game/v2/scene21.rpy:2197
-translate francais v2s21_2d9c49d6:
+# game/v2/scene21.rpy:2206
+translate francais v2s21_2d9c49d6_1:
 
     # ro "Deal."
-    ro ""
+    ro "Deal."
 
-# game/v2/scene21.rpy:2207
-translate francais v2s21_c62cb7af:
+# game/v2/scene21.rpy:2216
+translate francais v2s21_c62cb7af_1:
 
     # ro "I'll see you soon, handsome."
-    ro ""
+    ro "I'll see you soon, handsome."
 
-# game/v2/scene21.rpy:2222
-translate francais v2s21_087397cc:
+# game/v2/scene21.rpy:2231
+translate francais v2s21_087397cc_1:
 
     # u "Lorraine, look..."
-    u ""
+    u "Lorraine, look..."
 
-# game/v2/scene21.rpy:2227
-translate francais v2s21_d16b90a7:
+# game/v2/scene21.rpy:2236
+translate francais v2s21_d16b90a7_1:
 
     # u "We really need your signature in support of this whole thing, and I can't allow Chloe to give up her scholarship for the sake of it."
-    u ""
-
-# game/v2/scene21.rpy:2232
-translate francais v2s21_67110975:
-
-    # ro "I can't support that, [name]. I think I'm being fair with what I'm suggesting."
-    ro ""
-
-# game/v2/scene21.rpy:2237
-translate francais v2s21_ab54cc15:
-
-    # u "Okay, I don't feel great about saying this..."
-    u ""
-
-# game/v2/scene21.rpy:2239
-translate francais v2s21_f7a2bd76:
-
-    # u "But if you can't support what I'm asking..."
-    u ""
+    u "We really need your signature in support of this whole thing, and I can't allow Chloe to give up her scholarship for the sake of it."
 
 # game/v2/scene21.rpy:2241
-translate francais v2s21_7a4e37cb:
+translate francais v2s21_67110975_1:
+
+    # ro "I can't support that, [name]. I think I'm being fair with what I'm suggesting."
+    ro "I can't support that, [name]. I think I'm being fair with what I'm suggesting."
+
+# game/v2/scene21.rpy:2246
+translate francais v2s21_ab54cc15_1:
+
+    # u "Okay, I don't feel great about saying this..."
+    u "Okay, I don't feel great about saying this..."
+
+# game/v2/scene21.rpy:2248
+translate francais v2s21_f7a2bd76_1:
+
+    # u "But if you can't support what I'm asking..."
+    u "But if you can't support what I'm asking..."
+
+# game/v2/scene21.rpy:2250
+translate francais v2s21_7a4e37cb_1:
 
     # u "I'm not sure how much longer I can stay quiet about our relationship."
-    u ""
+    u "I'm not sure how much longer I can stay quiet about our relationship."
 
-# game/v2/scene21.rpy:2251
-translate francais v2s21_67ebe868:
+# game/v2/scene21.rpy:2260
+translate francais v2s21_67ebe868_1:
 
     # ro "What...?"
-    ro ""
-
-# game/v2/scene21.rpy:2256
-translate francais v2s21_74da7e94:
-
-    # u "You heard me. It's quite simple."
-    u ""
-
-# game/v2/scene21.rpy:2261
-translate francais v2s21_591cbc91:
-
-    # ro "You... wouldn't."
-    ro ""
-
-# game/v2/scene21.rpy:2263
-translate francais v2s21_5cdc17ac:
-
-    # ro "It would ruin everything, I'd-"
-    ro ""
+    ro "What...?"
 
 # game/v2/scene21.rpy:2265
-translate francais v2s21_454e466a:
+translate francais v2s21_74da7e94_1:
+
+    # u "You heard me. It's quite simple."
+    u "You heard me. It's quite simple."
+
+# game/v2/scene21.rpy:2270
+translate francais v2s21_591cbc91_1:
+
+    # ro "You... wouldn't."
+    ro "You... wouldn't."
+
+# game/v2/scene21.rpy:2272
+translate francais v2s21_5cdc17ac_1:
+
+    # ro "It would ruin everything, I'd-"
+    ro "It would ruin everything, I'd-"
+
+# game/v2/scene21.rpy:2274
+translate francais v2s21_454e466a_1:
 
     # ro "I'd lose my job, [name]. It would ruin my life."
-    ro ""
+    ro "I'd lose my job, [name]. It would ruin my life."
 
-# game/v2/scene21.rpy:2275
-translate francais v2s21_32a76fa1:
+# game/v2/scene21.rpy:2284
+translate francais v2s21_32a76fa1_1:
 
     # u "It would. You're right."
-    u ""
+    u "It would. You're right."
 
-# game/v2/scene21.rpy:2285
-translate francais v2s21_f4f38927:
+# game/v2/scene21.rpy:2294
+translate francais v2s21_f4f38927_1:
 
     # u "And all I want is a tiny little signature."
-    u ""
+    u "And all I want is a tiny little signature."
 
-# game/v2/scene21.rpy:2295
-translate francais v2s21_a4792f60_2:
+# game/v2/scene21.rpy:2304
+translate francais v2s21_5034e570_1:
 
-    # ro "Ha..."
-    ro ""
+    # ro "God..."
+    ro "God..."
 
-# game/v2/scene21.rpy:2300
-translate francais v2s21_b0012637:
+# game/v2/scene21.rpy:2309
+translate francais v2s21_b0012637_1:
 
     # u "It's not too much to ask for, is it?"
-    u ""
+    u "It's not too much to ask for, is it?"
 
-# game/v2/scene21.rpy:2310
-translate francais v2s21_a35a98de:
+# game/v2/scene21.rpy:2319
+translate francais v2s21_a35a98de_1:
 
     # ro "[name]...?"
-    ro ""
+    ro "[name]...?"
 
-# game/v2/scene21.rpy:2320
-translate francais v2s21_e914c727:
+# game/v2/scene21.rpy:2329
+translate francais v2s21_e914c727_1:
 
     # ro "I can't believe you're doing this."
-    ro ""
+    ro "I can't believe you're doing this."
 
-# game/v2/scene21.rpy:2325
-translate francais v2s21_77a77bfa:
+# game/v2/scene21.rpy:2334
+translate francais v2s21_77a77bfa_1:
 
     # u "(Fuck... Me neither...)"
-    u ""
+    u "(Fuck... Me neither...)"
 
-# game/v2/scene21.rpy:2330
-translate francais v2s21_4b9b5fd8:
+# game/v2/scene21.rpy:2339
+translate francais v2s21_4b9b5fd8_1:
 
     # ro "..."
-    ro ""
+    ro "..."
 
-# game/v2/scene21.rpy:2335
-translate francais v2s21_cd9736da:
+# game/v2/scene21.rpy:2344
+translate francais v2s21_cd9736da_1:
 
     # ro "*Sniffles* Fine."
-    ro ""
+    ro "*Sniffles* Fine."
 
-# game/v2/scene21.rpy:2350
-translate francais v2s21_57ae9944_1:
+# game/v2/scene21.rpy:2359
+translate francais v2s21_57ae9944_3:
 
     # u "*Sighs*"
-    u ""
+    u "*Sighs*"
 
-# game/v2/scene21.rpy:2352
-translate francais v2s21_25175313:
+# game/v2/scene21.rpy:2361
+translate francais v2s21_25175313_1:
 
     # u "Holy shit... What did I just do?"
-    u ""
+    u "Holy shit... What did I just do?"
 
-# game/v2/scene21.rpy:2369
-translate francais v2s21_51137adc:
+# game/v2/scene21.rpy:2378
+translate francais v2s21_51137adc_1:
 
     # cl "*Whispers* I don't think she's not going to change her mind, okay? Let's just get her signature and leave."
-    cl ""
+    cl "*Whispers* I don't think she's not going to change her mind, okay? Let's just get her signature and leave."
 
-# game/v2/scene21.rpy:2374
-translate francais v2s21_c892cbb7:
-
-    # u "(Yeah, let's not rock the boat any more... We got the signature, that's what we came for.)"
-    u ""
-
-# game/v2/scene21.rpy:2382
-translate francais v2s21_c892cbb7_1:
+# game/v2/scene21.rpy:2383
+translate francais v2s21_c892cbb7_2:
 
     # u "(Yeah, let's not rock the boat any more... We got the signature, that's what we came for.)"
-    u ""
+    u "(Yeah, let's not rock the boat any more... We got the signature, that's what we came for.)"
 
-# game/v2/scene21.rpy:2387
-translate francais v2s21_34380528:
+# game/v2/scene21.rpy:2391
+translate francais v2s21_c892cbb7_3:
+
+    # u "(Yeah, let's not rock the boat any more... We got the signature, that's what we came for.)"
+    u "(Yeah, let's not rock the boat any more... We got the signature, that's what we came for.)"
+
+# game/v2/scene21.rpy:2396
+translate francais v2s21_34380528_1:
 
     # cl "Thank you, Ms. Rose."
-    cl ""
+    cl "Thank you, Ms. Rose."
 
-# game/v2/scene21.rpy:2392
-translate francais v2s21_fd26535c:
+# game/v2/scene21.rpy:2401
+translate francais v2s21_fd26535c_1:
 
     # ro "No, Chloe. Thank you. This is extremely brave and selfless of you, I'm proud."
-    ro ""
+    ro "No, Chloe. Thank you. This is extremely brave and selfless of you, I'm proud."
 
-# game/v2/scene21.rpy:2402
-translate francais v2s21_1bc525d5:
+# game/v2/scene21.rpy:2411
+translate francais v2s21_1bc525d5_1:
 
     # ro "I'll just add something about what we've agreed."
-    ro ""
+    ro "I'll just add something about what we've agreed."
 
-# game/v2/scene21.rpy:2412
-translate francais v2s21_d6fc3a97:
+# game/v2/scene21.rpy:2421
+translate francais v2s21_d6fc3a97_1:
 
     # ro "And... there. Signed!"
-    ro ""
+    ro "And... there. Signed!"
 
-# game/v2/scene21.rpy:2422
-translate francais v2s21_b38b7ae3:
+# game/v2/scene21.rpy:2431
+translate francais v2s21_b38b7ae3_1:
 
     # cl "You're the best. Really."
-    cl ""
+    cl "You're the best. Really."
 
-# game/v2/scene21.rpy:2427
-translate francais v2s21_4cec4ac8:
+# game/v2/scene21.rpy:2436
+translate francais v2s21_4cec4ac8_1:
 
     # u "Yeah, thanks for that."
-    u ""
+    u "Yeah, thanks for that."
 
-# game/v2/scene21.rpy:2432
-translate francais v2s21_b6759d75:
+# game/v2/scene21.rpy:2441
+translate francais v2s21_b6759d75_1:
 
     # ro "Any time, I'm always happy to help."
-    ro ""
+    ro "Any time, I'm always happy to help."
 
-# game/v2/scene21.rpy:2434
-translate francais v2s21_a58dadfc:
+# game/v2/scene21.rpy:2443
+translate francais v2s21_a58dadfc_1:
 
     # ro "I hope your meeting with the Dean goes well."
-    ro ""
+    ro "I hope your meeting with the Dean goes well."
 
-# game/v2/scene21.rpy:2439
-translate francais v2s21_37be4e38:
+# game/v2/scene21.rpy:2448
+translate francais v2s21_37be4e38_1:
 
     # cl "Thank you!"
-    cl ""
+    cl "Thank you!"
 
 translate francais strings:
 
     # game/v2/scene21.rpy:102
     old "Lindsey's wasting paper"
-    new ""
+    new "Lindsey's wasting paper"
 
     # game/v2/scene21.rpy:259
     old "They just have to ask"
-    new ""
+    new "They just have to ask"
 
     # game/v2/scene21.rpy:259
     old "This is Chloe's idea"
-    new ""
+    new "This is Chloe's idea"
 
     # game/v2/scene21.rpy:356
     old "Make SVC more money"
-    new ""
+    new "Make SVC more money"
 
     # game/v2/scene21.rpy:356
     old "Improve students' livelihood"
-    new ""
+    new "Improve students' livelihood"
 
-    # game/v2/scene21.rpy:523
+    # game/v2/scene21.rpy:525
     old "Defend the Dean's decision"
-    new ""
+    new "Defend the Dean's decision"
 
-    # game/v2/scene21.rpy:523
+    # game/v2/scene21.rpy:525
     old "Defend Mr. Lee's opinion"
-    new ""
+    new "Defend Mr. Lee's opinion"
 
-    # game/v2/scene21.rpy:1211
+    # game/v2/scene21.rpy:1220
     old "Mention Nora"
-    new ""
+    new "Mention Nora"
 
-    # game/v2/scene21.rpy:1346
+    # game/v2/scene21.rpy:1355
     old "You understand sorority life"
-    new ""
+    new "You understand sorority life"
 
-    # game/v2/scene21.rpy:1346
+    # game/v2/scene21.rpy:1355
     old "Mr. Lee doesn't listen"
-    new ""
+    new "Mr. Lee doesn't listen"
 
-    # game/v2/scene21.rpy:1438
+    # game/v2/scene21.rpy:1447
     old "They'll be motivated"
-    new ""
+    new "They'll be motivated"
 
-    # game/v2/scene21.rpy:1438
+    # game/v2/scene21.rpy:1447
     old "They'll get over it"
-    new ""
+    new "They'll get over it"
 
-    # game/v2/scene21.rpy:1561
+    # game/v2/scene21.rpy:1570
     old "She shouldn't do that"
-    new ""
+    new "She shouldn't do that"
 
-    # game/v2/scene21.rpy:1561
+    # game/v2/scene21.rpy:1570
     old "Consider it"
-    new ""
+    new "Consider it"
 
-    # game/v2/scene21.rpy:1993
+    # game/v2/scene21.rpy:2002
     old "Ask Chloe for privacy"
-    new ""
+    new "Ask Chloe for privacy"
 
-    # game/v2/scene21.rpy:2070
+    # game/v2/scene21.rpy:2079
     old "Seduce Ms. Rose"
-    new ""
+    new "Seduce Ms. Rose"
 
-    # game/v2/scene21.rpy:2070
+    # game/v2/scene21.rpy:2079
     old "Threaten Ms. Rose"
-    new ""
+    new "Threaten Ms. Rose"
 

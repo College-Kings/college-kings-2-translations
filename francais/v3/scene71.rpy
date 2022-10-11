@@ -1,660 +1,678 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene71.rpy:24
 translate francais v3s71_581e6b42:
 
     # pe "Good morning, Dean Harrison."
-    pe ""
+    pe "Good morning, Dean Harrison."
 
 # game/v3/scene71.rpy:29
 translate francais v3s71_5f698895:
 
     # u "Hi, Dean Harrison."
-    u ""
+    u "Hi, Dean Harrison."
 
 # game/v3/scene71.rpy:34
 translate francais v3s71_c15001d0:
 
     # de "Good morning. I appreciate you being on time."
-    de ""
+    de "Good morning. I appreciate you being on time."
 
 # game/v3/scene71.rpy:39
 translate francais v3s71_1ca088ce:
 
     # pe "No problem."
-    pe ""
+    pe "No problem."
 
 # game/v3/scene71.rpy:44
 translate francais v3s71_02f5b1d8:
 
     # de "Everything you'll need is right here. I also bought some new toys for Oscar to play with."
-    de ""
+    de "Everything you'll need is right here. I also bought some new toys for Oscar to play with."
 
 # game/v3/scene71.rpy:50
-translate francais v3s71_95a890d5:
+translate francais v3s71_f611800f:
 
-    # de "I need to leave for my meeting now, so."
-    de ""
+    # de "I need to leave for my meeting now."
+    de "I need to leave for my meeting now."
 
 # game/v3/scene71.rpy:55
 translate francais v3s71_33e01dbf:
 
     # de "Thanks again for helping. I'll be back in an hour or so."
-    de ""
+    de "Thanks again for helping. I'll be back in an hour or so."
 
 # game/v3/scene71.rpy:60
 translate francais v3s71_b267ff59:
 
     # pe "Got it."
-    pe ""
+    pe "Got it."
 
 # game/v3/scene71.rpy:65
 translate francais v3s71_3362a70c:
 
     # de "Oh, and please feed him before I come back."
-    de ""
+    de "Oh, and please feed him before I come back."
 
 # game/v3/scene71.rpy:67
 translate francais v3s71_83d1ea0b:
 
     # de "If he doesn't eat once an hour, he'll take matters into his own hands. *Sighs*"
-    de ""
+    de "If he doesn't eat once an hour, he'll take matters into his own hands. *Sighs*"
 
 # game/v3/scene71.rpy:72
 translate francais v3s71_c53c0a19:
 
     # u "(Same.)"
-    u ""
+    u "(Same.)"
 
 # game/v3/scene71.rpy:77
-translate francais v3s71_3dcbab1e:
+translate francais v3s71_52a87c14:
 
-    # pe "Haha, okay. No worries."
-    pe ""
+    # pe "Okay. No worries."
+    pe "Okay. No worries."
 
 # game/v3/scene71.rpy:84
-translate francais v3s71_5f758e80:
+translate francais v3s71_109185f2:
 
-    # de "Okay, Oscar. Be a good boy for Penelope and I'll give you an extra sausage for dinner."
-    de ""
+    # de "All right, Oscar. Be a good boy for Penelope and I'll give you an extra sausage for dinner."
+    de "All right, Oscar. Be a good boy for Penelope and I'll give you an extra sausage for dinner."
 
 # game/v3/scene71.rpy:86
-translate francais v3s71_867c675d:
+translate francais v3s71_99c75cf7:
 
-    # u "(Haha, it's so weird seeing the Dean like this.)"
-    u ""
+    # u "(Ha, it's so weird seeing the Dean like this.)"
+    u "(Ha, it's so weird seeing the Dean like this.)"
 
 # game/v3/scene71.rpy:100
-translate francais v3s71_9e4c4266:
+translate francais v3s71_22a195f9:
 
-    # pe "Hello, Oscar. Pleased to meet you."
-    pe ""
+    # pe "Hello, Oscar. Pleased to meet you. May I interest you in some scritches?"
+    pe "Hello, Oscar. Pleased to meet you. May I interest you in some scritches?"
 
-# game/v3/scene71.rpy:116
-translate francais v3s71_6a99c302:
+# game/v3/scene71.rpy:102
+translate francais v3s71_339800b7:
 
-    # u "*Laughs* Comfortable?"
-    u ""
+    # pe "Let's take this to the couch."
+    pe "Let's take this to the couch."
 
-# game/v3/scene71.rpy:121
+# game/v3/scene71.rpy:107
+translate francais v3s71_e9145940:
+
+    # pe "Lowkey already in love with this little guy."
+    pe "Lowkey already in love with this little guy."
+
+# game/v3/scene71.rpy:120
+translate francais v3s71_3b5e54e0:
+
+    # u "(What the hell did Elijah do?)"
+    u "(What the hell did Elijah do?)"
+
+# game/v3/scene71.rpy:128
+translate francais v3s71_a031ac08:
+
+    # pe "Okay, not to get distracted from Oscar-sitting, but I've got to take this bad boy for a test drive."
+    pe "Okay, not to get distracted from Oscar-sitting, but I've got to take this bad boy for a test drive."
+
+# game/v3/scene71.rpy:138
+translate francais v3s71_aa8ad21f:
+
+    # u "Comfortable?"
+    u "Comfortable?"
+
+# game/v3/scene71.rpy:143
 translate francais v3s71_e9a188d3:
 
     # pe "Yeah, I could get used to this!"
-    pe ""
+    pe "Yeah, I could get used to this!"
 
-# game/v3/scene71.rpy:126
+# game/v3/scene71.rpy:148
 translate francais v3s71_58f2a009:
 
     # u "Dean Penelope at work."
-    u ""
+    u "Dean Penelope at work."
 
-# game/v3/scene71.rpy:131
-translate francais v3s71_613c4dbb:
+# game/v3/scene71.rpy:153
+translate francais v3s71_aa0b7eaf:
 
-    # pe "*Laughs* Maybe one day I'll be running this place."
-    pe ""
+    # pe "Maybe one day I'll be running this place."
+    pe "Maybe one day I'll be running this place."
 
-# game/v3/scene71.rpy:136
+# game/v3/scene71.rpy:158
 translate francais v3s71_0f8d57b6:
 
     # u "You've been in that chair for two seconds and the power has already gone to your head."
-    u ""
-
-# game/v3/scene71.rpy:141
-translate francais v3s71_72ad3c99:
-
-    # pe "Don't talk to your dean like that. Show me some respect!"
-    pe ""
-
-# game/v3/scene71.rpy:146
-translate francais v3s71_36af0093:
-
-    # u "*Laughs* Wow, you're worse than Harrison!"
-    u ""
-
-# game/v3/scene71.rpy:151
-translate francais v3s71_19605ac4:
-
-    # pe "*Laughs*"
-    pe ""
-
-# game/v3/scene71.rpy:158
-translate francais v3s71_d542aa34:
-
-    # u "So, how did you get roped into this anyway?"
-    u ""
+    u "You've been in that chair for two seconds and the power has already gone to your head."
 
 # game/v3/scene71.rpy:163
+translate francais v3s71_c38bf676:
+
+    # pe "Don't talk to your Dean like that. Show me some respect!"
+    pe "Don't talk to your Dean like that. Show me some respect!"
+
+# game/v3/scene71.rpy:168
+translate francais v3s71_0f1c306f:
+
+    # u "Wow, you're worse than Harrison!"
+    u "Wow, you're worse than Harrison!"
+
+# game/v3/scene71.rpy:173
+translate francais v3s71_04314913:
+
+    # pe "Ha, really?"
+    pe "Ha, really?"
+
+# game/v3/scene71.rpy:180
+translate francais v3s71_de526c3b:
+
+    # u "So, how did you get roped into this, anyway?"
+    u "So, how did you get roped into this, anyway?"
+
+# game/v3/scene71.rpy:185
 translate francais v3s71_09e79957:
 
     # pe "Well, I ran into her when she was coming in one day, and she had Oscar."
-    pe ""
+    pe "Well, I ran into her when she was coming in one day, and she had Oscar."
 
-# game/v3/scene71.rpy:165
+# game/v3/scene71.rpy:187
 translate francais v3s71_54bc4875:
 
     # pe "She noticed that he didn't hate me, I guess, and asked if I could stop by sometimes to check on him."
-    pe ""
+    pe "She noticed that he didn't hate me, I guess, and asked if I could stop by sometimes to check on him."
 
-# game/v3/scene71.rpy:170
+# game/v3/scene71.rpy:192
 translate francais v3s71_29a5ff22:
 
     # u "And you said yes?"
-    u ""
+    u "And you said yes?"
 
-# game/v3/scene71.rpy:175
+# game/v3/scene71.rpy:197
 translate francais v3s71_d71fe31b:
 
     # pe "I couldn't just say no! It's best to stay in her good books, isn't it?"
-    pe ""
+    pe "I couldn't just say no! It's best to stay in her good books, isn't it?"
 
-# game/v3/scene71.rpy:180
+# game/v3/scene71.rpy:202
 translate francais v3s71_8472d69f:
 
     # u "Yeah, you're right. Happy Dean, happy life."
-    u ""
+    u "Yeah, you're right. Happy Dean, happy life."
 
-# game/v3/scene71.rpy:188
-translate francais v3s71_8714a56b:
+# game/v3/scene71.rpy:210
+translate francais v3s71_8e9f64ef:
 
-    # pe "Haha, true. Although... What she doesn't know, won't hurt her."
-    pe ""
+    # pe "Exactly. Although... what she doesn't know, won't hurt her."
+    pe "Exactly. Although... what she doesn't know, won't hurt her."
 
-# game/v3/scene71.rpy:193
+# game/v3/scene71.rpy:215
 translate francais v3s71_09332657:
 
     # u "What do you mean?"
-    u ""
+    u "What do you mean?"
 
-# game/v3/scene71.rpy:198
+# game/v3/scene71.rpy:220
 translate francais v3s71_0960e224:
 
     # pe "I mean, we didn't get the chance to do anything fun last night before we fell asleep..."
-    pe ""
+    pe "I mean, we didn't get the chance to do anything fun last night before we fell asleep..."
 
-# game/v3/scene71.rpy:203
+# game/v3/scene71.rpy:225
 translate francais v3s71_611bd981:
 
     # u "Hmm, I suppose you're right."
-    u ""
+    u "Hmm, I suppose you're right."
 
-# game/v3/scene71.rpy:208
+# game/v3/scene71.rpy:230
 translate francais v3s71_e120638e:
 
     # pe "So, let's do something here."
-    pe ""
+    pe "So, let's do something here."
 
-# game/v3/scene71.rpy:213
+# game/v3/scene71.rpy:235
 translate francais v3s71_d98e3f61:
 
     # u "In the Dean's office?"
-    u ""
+    u "In the Dean's office?"
 
-# game/v3/scene71.rpy:218
+# game/v3/scene71.rpy:240
 translate francais v3s71_3d0babc8:
 
     # pe "Maybe even on her desk?"
-    pe ""
+    pe "Maybe even on her desk?"
 
-# game/v3/scene71.rpy:223
+# game/v3/scene71.rpy:245
 translate francais v3s71_34eef147:
 
     # u "With Oscar here?"
-    u ""
+    u "With Oscar here?"
 
-# game/v3/scene71.rpy:228
+# game/v3/scene71.rpy:250
 translate francais v3s71_23640fd2:
 
     # pe "I don't care if you don't."
-    pe ""
+    pe "I don't care if you don't."
 
-# game/v3/scene71.rpy:233
+# game/v3/scene71.rpy:255
 translate francais v3s71_503c77c0:
 
     # u "Goodness me..."
-    u ""
+    u "Goodness me..."
 
-# game/v3/scene71.rpy:238
-translate francais v3s71_feffd56e:
+# game/v3/scene71.rpy:260
+translate francais v3s71_dea19965:
 
-    # pe "Come give your dean a kiss, [name]."
-    pe ""
+    # pe "Come give your Dean a kiss, [name]."
+    pe "Come give your Dean a kiss, [name]."
 
-# game/v3/scene71.rpy:284
+# game/v3/scene71.rpy:308
 translate francais v3s71_5987b0a3:
 
     # u "I think Oscar wants attention..."
-    u ""
+    u "I think Oscar wants attention..."
 
-# game/v3/scene71.rpy:291
+# game/v3/scene71.rpy:315
 translate francais v3s71_3e4899c2:
 
     # u "Should we play with him a little?"
-    u ""
+    u "Should we play with him a little?"
 
-# game/v3/scene71.rpy:296
-translate francais v3s71_dbbc5930:
+# game/v3/scene71.rpy:320
+translate francais v3s71_92654d3e:
 
-    # pe "*Panting* I think you should kiss me again."
-    pe ""
+    # pe "I think you should kiss me again. I want to take care of Oscar and my reputation with the Dean, but first things first..."
+    pe "I think you should kiss me again. I want to take care of Oscar and my reputation with the Dean, but first things first..."
 
-# game/v3/scene71.rpy:308
+# game/v3/scene71.rpy:335
 translate francais v3s71_sg_62114d1d:
 
     # u "I guess he can wait..."
-    u ""
+    u "I guess he can wait..."
 
-# game/v3/scene71.rpy:329
+# game/v3/scene71.rpy:357
 translate francais v3s71_sg_0b2b785a:
 
     # u "I want to, Penelope but-"
-    u ""
+    u "I want to, Penelope but-"
 
-# game/v3/scene71.rpy:331
-translate francais v3s71_sg_a06e73fb:
+# game/v3/scene71.rpy:359
+translate francais v3s71_sg_b8da6d78:
 
-    # u "This seems risky."
-    u ""
+    # u "This seems risky. (Not to mention, way out of line, especially by Penelope's standards...)"
+    u "This seems risky. (Not to mention, way out of line, especially by Penelope's standards...)"
 
-# game/v3/scene71.rpy:333
+# game/v3/scene71.rpy:361
 translate francais v3s71_sg_bfcf1842:
 
     # u "Plus, I'm not sure how I feel about having a watcher..."
-    u ""
+    u "Plus, I'm not sure how I feel about having a watcher..."
 
-# game/v3/scene71.rpy:346
-translate francais v3s71_sg_d9637335:
+# game/v3/scene71.rpy:374
+translate francais v3s71_sg_8ceeed92:
 
-    # pe "*Sighs* You're right."
-    pe ""
+    # pe "*Sighs* You're right. I don't know what came over me. Usually I hold myself to a higher bar than that."
+    pe "*Sighs* You're right. I don't know what came over me. Usually I hold myself to a higher bar than that."
 
-# game/v3/scene71.rpy:351
+# game/v3/scene71.rpy:379
 translate francais v3s71_sg_f1b4b9c5:
 
     # u "Let's see what kind of toys he has, yeah?"
-    u ""
+    u "Let's see what kind of toys he has, yeah?"
 
-# game/v3/scene71.rpy:356
-translate francais v3s71_sg_c4934fab:
+# game/v3/scene71.rpy:384
+translate francais v3s71_sg_e83e9116:
 
-    # pe "Okay, yeah."
-    pe ""
+    # pe "Okay, yeah. And, uh, thanks, [name]. For keeping me in check. I needed that."
+    pe "Okay, yeah. And, uh, thanks, [name]. For keeping me in check. I needed that."
 
-# game/v3/scene71.rpy:361
-translate francais v3s71_sg_7c50a691:
+# game/v3/scene71.rpy:389
+translate francais v3s71_sg_05ff8dc7:
 
-    # u "Besides, could you imagine if the Dean were to walk in on us in her office? On her desk? *Laughs*"
-    u ""
+    # u "Not a problem. Could you imagine if the Dean were to walk in on us in her office, on her desk?"
+    u "Not a problem. Could you imagine if the Dean were to walk in on us in her office, on her desk?"
 
-# game/v3/scene71.rpy:366
-translate francais v3s71_sg_954e0772:
+# game/v3/scene71.rpy:394
+translate francais v3s71_sg_4743aeda:
 
-    # pe "Haha, yeah. I know."
-    pe ""
+    # pe "Ha, yeah. I know. That'd be a disaster I don't need."
+    pe "Ha, yeah. I know. That'd be a disaster I don't need."
 
-# game/v3/scene71.rpy:372
+# game/v3/scene71.rpy:401
 translate francais v3s71_sg_1bbd3e29:
 
     # u "I don't think we should. What if she walks in on us?"
-    u ""
+    u "I don't think we should. What if she walks in on us?"
 
-# game/v3/scene71.rpy:377
-translate francais v3s71_sg_beb3642d:
+# game/v3/scene71.rpy:406
+translate francais v3s71_sg_8c6d3200:
 
-    # pe "That's part of the f-"
-    pe ""
+    # pe "I mean-"
+    pe "I mean-"
 
-# game/v3/scene71.rpy:382
-translate francais v3s71_sg_eb1905e8:
+# game/v3/scene71.rpy:411
+translate francais v3s71_sg_3b5efcd9:
 
-    # pe "*Sighs* Okay... I guess you're right."
-    pe ""
+    # pe "*Sighs* You're right. I wasn't thinking straight. I don't know what came over me."
+    pe "*Sighs* You're right. I wasn't thinking straight. I don't know what came over me."
 
-# game/v3/scene71.rpy:384
+# game/v3/scene71.rpy:413
 translate francais v3s71_sg_4ec7432a:
 
     # pe "She'd murder us."
-    pe ""
+    pe "She'd murder us."
 
-# game/v3/scene71.rpy:389
+# game/v3/scene71.rpy:418
 translate francais v3s71_sg_b66876a9:
 
     # u "Instantly. And we'd both be expelled."
-    u ""
+    u "Instantly. And we'd both be expelled."
 
-# game/v3/scene71.rpy:394
-translate francais v3s71_sg_e7dd48c3:
+# game/v3/scene71.rpy:423
+translate francais v3s71_sg_da37d10f:
 
-    # pe "Alright, let's play with some toys instead."
-    pe ""
+    # pe "Let's play with some toys instead."
+    pe "Let's play with some toys instead."
 
-# game/v3/scene71.rpy:402
+# game/v3/scene71.rpy:431
 translate francais v3s71_sg_84aa6978:
 
     # pe "Look at all the things she bought for him. He's spoiled already!"
-    pe ""
+    pe "Look at all the things she bought for him. He's spoiled already!"
 
-# game/v3/scene71.rpy:407
+# game/v3/scene71.rpy:436
 translate francais v3s71_sg_4c0d2806:
 
     # u "Hey, Oscar! Wanna play fetch?"
-    u ""
+    u "Hey, Oscar! Wanna play fetch?"
 
-# game/v3/scene71.rpy:422
-translate francais v3s71_sg_ba57c496:
+# game/v3/scene71.rpy:451
+translate francais v3s71_sg_a0028ee5:
 
-    # pe "I think that's a yes, haha."
-    pe ""
+    # pe "I think that's a yes."
+    pe "I think that's a yes."
 
-# game/v3/scene71.rpy:427
-translate francais v3s71_sg_7c58d47e:
+# game/v3/scene71.rpy:456
+translate francais v3s71_sg_49b555d6:
 
-    # u "Alright, let's throw..."
-    u ""
+    # u "All right, let's throw..."
+    u "All right, let's throw..."
 
-# game/v3/scene71.rpy:463
+# game/v3/scene71.rpy:492
 translate francais v3s71_sg_c7d1b373:
 
     # pe "Oh. I guess he wasn't a fan..."
-    pe ""
+    pe "Oh. I guess he wasn't a fan..."
 
-# game/v3/scene71.rpy:468
-translate francais v3s71_sg_45dd42d1:
+# game/v3/scene71.rpy:497
+translate francais v3s71_sg_cfef4f0a:
 
-    # u "Depends on your perspective. Maybe he enjoyed it a little too much. *Laughs*"
-    u ""
+    # u "Depends on your perspective. Maybe he enjoyed it a little too much."
+    u "Depends on your perspective. Maybe he enjoyed it a little too much."
 
-# game/v3/scene71.rpy:473
-translate francais v3s71_sg_8294e727:
+# game/v3/scene71.rpy:502
+translate francais v3s71_sg_6fa7fad7:
 
-    # pe "Haha, that's true."
-    pe ""
+    # pe "That's true!"
+    pe "That's true!"
 
-# game/v3/scene71.rpy:475
+# game/v3/scene71.rpy:504
 translate francais v3s71_sg_f16afc35:
 
     # pe "I better hide the evidence."
-    pe ""
+    pe "I better hide the evidence."
 
-# game/v3/scene71.rpy:497
+# game/v3/scene71.rpy:526
 translate francais v3s71_sg_04802f9b:
 
     # u "That's... not how you play fetch, bud."
-    u ""
+    u "That's... not how you play fetch, bud."
 
-# game/v3/scene71.rpy:523
+# game/v3/scene71.rpy:552
 translate francais v3s71_sg_d01abd70:
 
     # pe "Hmm, I don't think he knows how."
-    pe ""
+    pe "Hmm, I don't think he knows how."
 
-# game/v3/scene71.rpy:528
+# game/v3/scene71.rpy:557
 translate francais v3s71_sg_d034a6f2:
 
     # u "Yeah, I guess nobody ever taught him."
-    u ""
+    u "Yeah, I guess nobody ever taught him."
 
-# game/v3/scene71.rpy:533
+# game/v3/scene71.rpy:562
 translate francais v3s71_sg_aa078e23:
 
     # pe "Do you teach a dog to play fetch?"
-    pe ""
+    pe "Do you teach a dog to play fetch?"
 
-# game/v3/scene71.rpy:538
+# game/v3/scene71.rpy:567
 translate francais v3s71_sg_16c4b4f9:
 
     # u "No idea. I just thought they did it automatically."
-    u ""
+    u "No idea. I just thought they did it automatically."
 
-# game/v3/scene71.rpy:543
+# game/v3/scene71.rpy:572
 translate francais v3s71_sg_2c19233e:
 
     # pe "Ha. Apparently not."
-    pe ""
+    pe "Ha. Apparently not."
 
-# game/v3/scene71.rpy:548
+# game/v3/scene71.rpy:577
 translate francais v3s71_sg_d73c904a:
 
     # u "At least he seems to be enjoying himself."
-    u ""
+    u "At least he seems to be enjoying himself."
 
-# game/v3/scene71.rpy:553
-translate francais v3s71_sg_79496904:
+# game/v3/scene71.rpy:582
+translate francais v3s71_sg_e2291482:
 
-    # pe "Yeah, I guess that's enough exercise for now, haha."
-    pe ""
+    # pe "Yeah. I guess that's enough exercise for now."
+    pe "Yeah. I guess that's enough exercise for now."
 
-# game/v3/scene71.rpy:593
+# game/v3/scene71.rpy:622
 translate francais v3s71_sg_04b0feef:
 
     # pe "I think it's time to feed him."
-    pe ""
+    pe "I think it's time to feed him."
 
-# game/v3/scene71.rpy:598
+# game/v3/scene71.rpy:627
 translate francais v3s71_sg_e855e955:
 
     # pe "And on today's menu, we have some delicious beef stew!"
-    pe ""
+    pe "And on today's menu, we have some delicious beef stew!"
 
-# game/v3/scene71.rpy:603
+# game/v3/scene71.rpy:632
 translate francais v3s71_sg_f92b435e:
 
     # pe "Hmm. It smells pretty good, actually."
-    pe ""
+    pe "Hmm. It smells pretty good, actually."
 
-# game/v3/scene71.rpy:608
+# game/v3/scene71.rpy:637
 translate francais v3s71_sg_43ae8e38:
 
     # u "Gonna have a taste?"
-    u ""
+    u "Gonna have a taste?"
 
-# game/v3/scene71.rpy:613
-translate francais v3s71_sg_64642a7c:
+# game/v3/scene71.rpy:642
+translate francais v3s71_sg_64d6340a:
 
-    # pe "Haha, no, but if I was starving and I had to eat dog food, I'd go with this brand."
-    pe ""
+    # pe "No, but if I was starving and I had to eat dog food, I'd go with this brand."
+    pe "No, but if I was starving and I had to eat dog food, I'd go with this brand."
 
-# game/v3/scene71.rpy:618
-translate francais v3s71_sg_f55ccfa2:
+# game/v3/scene71.rpy:647
+translate francais v3s71_sg_832c5f2c:
 
-    # u "Wow, they should put that on the can. *Laughs*"
-    u ""
+    # u "Wow, they should put that on the can."
+    u "Wow, they should put that on the can."
 
-# game/v3/scene71.rpy:625
+# game/v3/scene71.rpy:654
 translate francais v3s71_sg_5fcb855a:
 
     # pe "I dare you to taste it."
-    pe ""
+    pe "I dare you to taste it."
 
-# game/v3/scene71.rpy:630
+# game/v3/scene71.rpy:659
 translate francais v3s71_sg_168f13e5:
 
     # u "Damn, usually I never turn down a dare, but..."
-    u ""
+    u "Damn, usually I never turn down a dare, but..."
 
-# game/v3/scene71.rpy:640
+# game/v3/scene71.rpy:670
 translate francais v3s71_sg_b442a4d9:
 
     # u "Fine, fuck it."
-    u ""
+    u "Fine, fuck it."
 
-# game/v3/scene71.rpy:656
-translate francais v3s71_sg_eb49bbf0:
+# game/v3/scene71.rpy:686
+translate francais v3s71_sg_3cde0d65:
 
-    # pe "Oh, ew! I can't believe you just did that! *Laughs*"
-    pe ""
+    # pe "Oh, ew! I can't believe you just did that!"
+    pe "Oh, ew! I can't believe you just did that!"
 
-# game/v3/scene71.rpy:661
+# game/v3/scene71.rpy:691
 translate francais v3s71_sg_92ddc77d:
 
     # u "You know what? It does taste like beef stew..."
-    u ""
+    u "You know what? It does taste like beef stew..."
 
-# game/v3/scene71.rpy:666
+# game/v3/scene71.rpy:696
 translate francais v3s71_sg_cacbecf5:
 
     # pe "You're so gross! Oh my God. *Giggles*"
-    pe ""
+    pe "You're so gross! Oh my God. *Giggles*"
 
-# game/v3/scene71.rpy:671
+# game/v3/scene71.rpy:701
 translate francais v3s71_sg_edef75c1:
 
     # u "Better than the stuff they serve at the cafeteria, for damn sure."
-    u ""
+    u "Better than the stuff they serve at the cafeteria, for damn sure."
 
-# game/v3/scene71.rpy:676
-translate francais v3s71_sg_e71a52a2:
+# game/v3/scene71.rpy:706
+translate francais v3s71_sg_75f71436:
 
-    # pe "*Laughs* Stop it."
-    pe ""
+    # pe "Ha! Stop it."
+    pe "Ha! Stop it."
 
-# game/v3/scene71.rpy:678
+# game/v3/scene71.rpy:708
 translate francais v3s71_sg_173b6c50:
 
     # pe "I'd better give it to Oscar before you take another bite."
-    pe ""
+    pe "I'd better give it to Oscar before you take another bite."
 
-# game/v3/scene71.rpy:683
-translate francais v3s71_sg_0ce9f551:
+# game/v3/scene71.rpy:713
+translate francais v3s71_sg_f8b8072d:
 
-    # u "Haha, what else is in the basket? I'll have any leftovers."
-    u ""
+    # u "What else is in the basket? I'll have any leftovers."
+    u "What else is in the basket? I'll have any leftovers."
 
-# game/v3/scene71.rpy:688
+# game/v3/scene71.rpy:718
 translate francais v3s71_sg_c8908979:
 
     # pe "Ugh... I'm starting to regret letting you taste it."
-    pe ""
+    pe "Ugh... I'm starting to regret letting you taste it."
 
-# game/v3/scene71.rpy:693
+# game/v3/scene71.rpy:723
 translate francais v3s71_sg_d4dd1bc0:
 
     # u "Letting me? You dared me!"
-    u ""
+    u "Letting me? You dared me!"
 
-# game/v3/scene71.rpy:698
+# game/v3/scene71.rpy:728
 translate francais v3s71_sg_aa88b470:
 
     # pe "You could have said no!"
-    pe ""
+    pe "You could have said no!"
 
-# game/v3/scene71.rpy:703
+# game/v3/scene71.rpy:733
 translate francais v3s71_sg_5e687a12:
 
     # u "Say no to a dare? I have too much honor for that."
-    u ""
+    u "Say no to a dare? I have too much honor for that."
 
-# game/v3/scene71.rpy:709
+# game/v3/scene71.rpy:740
 translate francais v3s71_sg_b5515944:
 
     # u "Fuck no!"
-    u ""
+    u "Fuck no!"
 
-# game/v3/scene71.rpy:714
-translate francais v3s71_sg_8911176e:
+# game/v3/scene71.rpy:745
+translate francais v3s71_sg_57f52648:
 
-    # pe "Aw, come on! Just a tiny bite. *Chuckles*"
-    pe ""
+    # pe "Aw, come on! Just a tiny bite."
+    pe "Aw, come on! Just a tiny bite."
 
-# game/v3/scene71.rpy:719
+# game/v3/scene71.rpy:750
 translate francais v3s71_sg_609ca4b0:
 
     # u "Never in a million years, thanks."
-    u ""
+    u "Never in a million years, thanks."
 
-# game/v3/scene71.rpy:724
-translate francais v3s71_sg_c44790eb:
+# game/v3/scene71.rpy:755
+translate francais v3s71_sg_0566bcf7:
 
-    # pe "*Laughs* Fine, it's probably for the best."
-    pe ""
+    # pe "Fine. It's probably for the best."
+    pe "Fine. It's probably for the best."
 
-# game/v3/scene71.rpy:729
+# game/v3/scene71.rpy:760
 translate francais v3s71_sg_bfa03a52:
 
     # u "If you try it first, then maybe I'll consider it."
-    u ""
+    u "If you try it first, then maybe I'll consider it."
 
-# game/v3/scene71.rpy:734
+# game/v3/scene71.rpy:765
 translate francais v3s71_sg_1f69ba76:
 
     # pe "Yeah, right! I'm not falling for that one."
-    pe ""
+    pe "Yeah, right! I'm not falling for that one."
 
-# game/v3/scene71.rpy:739
-translate francais v3s71_sg_bc04df21:
+# game/v3/scene71.rpy:770
+translate francais v3s71_sg_5105ac4e:
 
-    # u "Haha, worth a try."
-    u ""
+    # u "It was worth a try."
+    u "It was worth a try."
 
-# game/v3/scene71.rpy:757
+# game/v3/scene71.rpy:788
 translate francais v3s71_sg_1d83f8bf:
 
     # pe "Wow, hungry boy!"
-    pe ""
+    pe "Wow, hungry boy!"
 
-# game/v3/scene71.rpy:773
-translate francais v3s71_sg_4af371bf:
+# game/v3/scene71.rpy:804
+translate francais v3s71_sg_4d5d8c7c:
 
-    # u "And now it's time for a nap. *Sighs*I wish I could just play, eat, and sleep all day."
-    u ""
+    # u "And now it's time for a nap. I wish I could just play, eat, and sleep all day."
+    u "And now it's time for a nap. I wish I could just play, eat, and sleep all day."
 
-# game/v3/scene71.rpy:778
-translate francais v3s71_sg_d5a3569e:
+# game/v3/scene71.rpy:809
+translate francais v3s71_sg_e716121b:
 
-    # pe "Haha, yeah. He's got it easy now that he's found a good owner."
-    pe ""
+    # pe "Ha, yep. He's got it easy now that he's found a good owner."
+    pe "Ha, yep. He's got it easy now that he's found a good owner."
 
-# game/v3/scene71.rpy:783
+# game/v3/scene71.rpy:814
 translate francais v3s71_sg_2266a1b2:
 
     # u "He deserves it."
-    u ""
-
-# game/v3/scene71.rpy:800
-translate francais v3s71_sg_3b5e54e0:
-
-    # u "(What the hell did Elijah do?)"
-    u ""
+    u "He deserves it."
 
 translate francais strings:
 
-    # game/v3/scene71.rpy:301
+    # game/v3/scene71.rpy:325
     old "Look after Oscar"
-    new ""
+    new "Look after Oscar"
 
-    # game/v3/scene71.rpy:432
+    # game/v3/scene71.rpy:461
     old "Squeaky toy"
-    new ""
+    new "Squeaky toy"
 
-    # game/v3/scene71.rpy:432
+    # game/v3/scene71.rpy:461
     old "Ball"
-    new ""
+    new "Ball"
 
-    # game/v3/scene71.rpy:635
+    # game/v3/scene71.rpy:664
     old "Taste it"
-    new ""
+    new "Taste it"
 
-    # game/v3/scene71.rpy:635
+    # game/v3/scene71.rpy:664
     old "Fuck no"
-    new ""
+    new "Fuck no"
 

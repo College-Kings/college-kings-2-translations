@@ -1,12 +1,12 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 translate francais strings:
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:123
+    # game/main_menu/scene_gallery/scene_gallery.rpy:150
     old "What's your name?"
-    new ""
+    new "What's your name?"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:123
+    # game/main_menu/scene_gallery/scene_gallery.rpy:150
     old "Alex"
-    new ""
+    new "Alex"
 

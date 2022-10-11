@@ -1,894 +1,894 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v1/scene37.rpy:31
-translate francais v1s37_da0c033f:
+# game/v1/scene37.rpy:29
+translate francais v1s37_da0c033f_1:
 
     # u "Hey, you."
-    u ""
+    u "Hey, you."
 
-# game/v1/scene37.rpy:36
-translate francais v1s37_8efc45d3:
+# game/v1/scene37.rpy:34
+translate francais v1s37_8efc45d3_1:
 
     # pe "Hey, handsome."
-    pe ""
+    pe "Hey, handsome."
 
-# game/v1/scene37.rpy:45
-translate francais v1s37_ac7e8ccf:
+# game/v1/scene37.rpy:42
+translate francais v1s37_ac7e8ccf_1:
 
     # u "Hello, gorgeous."
-    u ""
+    u "Hello, gorgeous."
 
-# game/v1/scene37.rpy:50
-translate francais v1s37_783c05d8:
+# game/v1/scene37.rpy:47
+translate francais v1s37_f73531fe_1:
 
-    # pe "Haha, hi."
-    pe ""
+    # pe "Hi!"
+    pe "Hi!"
 
-# game/v1/scene37.rpy:55
-translate francais v1s37_f3a2cdaa:
+# game/v1/scene37.rpy:52
+translate francais v1s37_f3a2cdaa_1:
 
     # u "You seriously look amazing."
-    u ""
+    u "You seriously look amazing."
 
-# game/v1/scene37.rpy:60
-translate francais v1s37_54edf8c3:
+# game/v1/scene37.rpy:57
+translate francais v1s37_fc420dc3_1:
 
-    # pe "*Chuckles* Thank you. You too. As always."
-    pe ""
+    # pe "Thank you. You too, as always."
+    pe "Thank you. You too, as always."
 
-# game/v1/scene37.rpy:65
-translate francais v1s37_43e202a9:
+# game/v1/scene37.rpy:62
+translate francais v1s37_3a23368f_1:
 
-    # u "*Laughs* I thought I'd get here before you and try to get us a table, didn't think you'd get here so fast."
-    u ""
+    # u "I thought I'd get here before you and try to get us a table. Didn't think you'd get here so fast."
+    u "I thought I'd get here before you and try to get us a table. Didn't think you'd get here so fast."
 
-# game/v1/scene37.rpy:70
-translate francais v1s37_25a73374:
+# game/v1/scene37.rpy:67
+translate francais v1s37_25a73374_1:
 
     # pe "If I'm being honest, I started getting dressed as soon as you called and got here as quickly as I could."
-    pe ""
+    pe "If I'm being honest, I started getting dressed as soon as you called and got here as quickly as I could."
 
-# game/v1/scene37.rpy:75
-translate francais v1s37_dd8e90a2:
+# game/v1/scene37.rpy:72
+translate francais v1s37_70611477_1:
 
-    # u "Wait... Haha, what? You should've told me you were moving at lightning speed. *Laughs* It's too windy out here for you to be waiting."
-    u ""
+    # u "Wait, what? You should've told me you were moving at lightning speed. It's too windy out here for you to be waiting."
+    u "Wait, what? You should've told me you were moving at lightning speed. It's too windy out here for you to be waiting."
 
-# game/v1/scene37.rpy:80
-translate francais v1s37_4389c3c6:
+# game/v1/scene37.rpy:77
+translate francais v1s37_ffe5ab60_1:
 
-    # pe "Haha, no worries. I love this weather. You ready?"
-    pe ""
+    # pe "Oh, no worries. I love this weather. You ready?"
+    pe "Oh, no worries. I love this weather. You ready?"
 
-# game/v1/scene37.rpy:85
-translate francais v1s37_4d81a5fc:
+# game/v1/scene37.rpy:82
+translate francais v1s37_c6e9a2c1_1:
 
-    # u "Yes, please."
-    u ""
+    # u "You bet."
+    u "You bet."
 
-# game/v1/scene37.rpy:90
-translate francais v1s37_7cd3e74f:
+# game/v1/scene37.rpy:87
+translate francais v1s37_7cd3e74f_1:
 
     # u "After you, m'lady."
-    u ""
+    u "After you, m'lady."
 
-# game/v1/scene37.rpy:95
-translate francais v1s37_587c98cc:
+# game/v1/scene37.rpy:92
+translate francais v1s37_d7daadac_1:
 
-    # pe "*Chuckles*"
-    pe ""
+    # pe "Hehe, that's cute."
+    pe "Hehe, that's cute."
 
-# game/v1/scene37.rpy:103
-translate francais v1s37_3415a988:
+# game/v1/scene37.rpy:100
+translate francais v1s37_3415a988_1:
 
     # host "Hello, hello! Just the two of you tonight?"
-    host ""
+    host "Hello, hello! Just the two of you tonight?"
 
-# game/v1/scene37.rpy:108
-translate francais v1s37_7edd122c:
+# game/v1/scene37.rpy:105
+translate francais v1s37_7edd122c_1:
 
     # pe "Just two."
-    pe ""
+    pe "Just two."
 
-# game/v1/scene37.rpy:113
-translate francais v1s37_c710dedb:
+# game/v1/scene37.rpy:110
+translate francais v1s37_e7d3aaa4_1:
 
-    # host "Perfect, follow me if you would please."
-    host ""
+    # host "Perfect. Follow me, please."
+    host "Perfect. Follow me, please."
 
-# game/v1/scene37.rpy:128
-translate francais v1s37_6ad36945:
+# game/v1/scene37.rpy:125
+translate francais v1s37_6ad36945_1:
 
     # host "Can I get you guys started with something to drink?"
-    host ""
+    host "Can I get you guys started with something to drink?"
 
-# game/v1/scene37.rpy:133
-translate francais v1s37_39273597:
+# game/v1/scene37.rpy:130
+translate francais v1s37_39273597_1:
 
     # u "I'll just have water, please."
-    u ""
+    u "I'll just have water, please."
 
-# game/v1/scene37.rpy:138
-translate francais v1s37_9182345e:
+# game/v1/scene37.rpy:135
+translate francais v1s37_9182345e_1:
 
     # pe "Yeah, water for me too."
-    pe ""
+    pe "Yeah, water for me too."
 
-# game/v1/scene37.rpy:143
-translate francais v1s37_ec200782:
+# game/v1/scene37.rpy:140
+translate francais v1s37_09f2ed81_1:
 
-    # host "Got it, and do you guys need a minute to look or are you ready to order now?"
-    host ""
+    # host "Got it, and do you two need a minute to look or are you ready to order?"
+    host "Got it, and do you two need a minute to look or are you ready to order?"
 
-# game/v1/scene37.rpy:148
-translate francais v1s37_d1ce3b27:
+# game/v1/scene37.rpy:145
+translate francais v1s37_d1ce3b27_1:
 
     # pe "I need a few minutes."
-    pe ""
+    pe "I need a few minutes."
 
-# game/v1/scene37.rpy:153
-translate francais v1s37_deed6098:
+# game/v1/scene37.rpy:150
+translate francais v1s37_e0658bf0_1:
 
-    # host "Of course, take your time. I'll be back with two waters."
-    host ""
+    # host "Of course, take your time. I'll be back with water."
+    host "Of course, take your time. I'll be back with water."
 
-# game/v1/scene37.rpy:163
-translate francais v1s37_5cd5d231:
+# game/v1/scene37.rpy:160
+translate francais v1s37_5cd5d231_1:
 
     # pe "I'll be honest... I'm not hungry at all."
-    pe ""
+    pe "I'll be honest... I'm not hungry at all."
 
-# game/v1/scene37.rpy:168
-translate francais v1s37_f799a8f7:
+# game/v1/scene37.rpy:165
+translate francais v1s37_9cd928dd_1:
 
-    # u "Haha, then why'd you suggest coming here?"
-    u ""
+    # u "Then why'd you suggest coming here?"
+    u "Then why'd you suggest coming here?"
 
-# game/v1/scene37.rpy:173
-translate francais v1s37_580e0bf3:
+# game/v1/scene37.rpy:170
+translate francais v1s37_580e0bf3_1:
 
     # pe "I just really like this place! Is it bad if I don't order anything?"
-    pe ""
+    pe "I just really like this place! Is it bad if I don't order anything?"
 
-# game/v1/scene37.rpy:178
-translate francais v1s37_6c52fdd7:
+# game/v1/scene37.rpy:175
+translate francais v1s37_f489aa31_1:
 
-    # u "Haha no, I won't force you to."
-    u ""
+    # u "Nah, I won't force you to."
+    u "Nah, I won't force you to."
 
-# game/v1/scene37.rpy:183
-translate francais v1s37_b267699e:
+# game/v1/scene37.rpy:180
+translate francais v1s37_d0a6f0c3_1:
 
-    # pe "Hehe, good. I'll just leave a big tip for my water. *Laughs*"
-    pe ""
+    # pe "Phew, good. I'll just leave a big tip for my water."
+    pe "Phew, good. I'll just leave a big tip for my water."
 
-# game/v1/scene37.rpy:188
-translate francais v1s37_702d600a:
+# game/v1/scene37.rpy:185
+translate francais v1s37_c82c7029_1:
 
-    # u "*Chuckles* I've never heard anyone say that."
-    u ""
+    # u "Ha! I've never heard anyone say that."
+    u "Ha! I've never heard anyone say that."
 
-# game/v1/scene37.rpy:193
-translate francais v1s37_b918e07d:
+# game/v1/scene37.rpy:190
+translate francais v1s37_b918e07d_1:
 
     # pe "I'm a trendsetter, [name]. You can still order whatever you want, though."
-    pe ""
+    pe "I'm a trendsetter, [name]. You can still order whatever you want, though."
 
-# game/v1/scene37.rpy:198
-translate francais v1s37_7dbedea3:
+# game/v1/scene37.rpy:195
+translate francais v1s37_7dbedea3_1:
 
     # u "It's fine, I'm not gonna eat if you're not."
-    u ""
+    u "It's fine, I'm not gonna eat if you're not."
 
-# game/v1/scene37.rpy:203
-translate francais v1s37_f3903865:
+# game/v1/scene37.rpy:200
+translate francais v1s37_83dc578d_1:
 
-    # pe "Oh... Are you sure?"
-    pe ""
+    # pe "Oh... are you sure?"
+    pe "Oh... are you sure?"
 
-# game/v1/scene37.rpy:208
-translate francais v1s37_554cf0ce:
+# game/v1/scene37.rpy:205
+translate francais v1s37_554cf0ce_1:
 
     # u "Yeah, positive. I'm not really that hungry either, just wanted to be here."
-    u ""
+    u "Yeah, positive. I'm not really that hungry either, just wanted to be here."
 
-# game/v1/scene37.rpy:218
-translate francais v1s37_564077e8:
+# game/v1/scene37.rpy:215
+translate francais v1s37_564077e8_1:
 
     # pe "Guess that makes two of us."
-    pe ""
+    pe "Guess that makes two of us."
 
-# game/v1/scene37.rpy:223
-translate francais v1s37_2e8e2de3:
+# game/v1/scene37.rpy:220
+translate francais v1s37_50a1961f_1:
 
-    # host "Here you go, guys."
-    host ""
+    # host "Here you go."
+    host "Here you go."
 
-# game/v1/scene37.rpy:228
-translate francais v1s37_ccd53b23:
+# game/v1/scene37.rpy:225
+translate francais v1s37_ccd53b23_1:
 
     # u "Thank you."
-    u ""
+    u "Thank you."
 
-# game/v1/scene37.rpy:233
-translate francais v1s37_75daf124:
+# game/v1/scene37.rpy:230
+translate francais v1s37_75daf124_1:
 
     # host "Of course! Still need time or are we ready?"
-    host ""
+    host "Of course! Still need time or are we ready?"
 
-# game/v1/scene37.rpy:238
-translate francais v1s37_4d6cca90:
+# game/v1/scene37.rpy:235
+translate francais v1s37_0b424079_1:
 
-    # pe "We're still deciding if we're even hungry, haha, I hope that's okay."
-    pe ""
+    # pe "We're still deciding if we're even hungry, heh. I hope that's okay."
+    pe "We're still deciding if we're even hungry, heh. I hope that's okay."
 
-# game/v1/scene37.rpy:243
-translate francais v1s37_b3ddf0c6:
+# game/v1/scene37.rpy:240
+translate francais v1s37_df1e9887_1:
 
-    # host "I know what you mean. You two just enjoy your evening and if you want anything, just let me know."
-    host ""
+    # host "I know what you mean. You two just enjoy your evening and if you want anything, let me know."
+    host "I know what you mean. You two just enjoy your evening and if you want anything, let me know."
 
-# game/v1/scene37.rpy:248
-translate francais v1s37_555c5021:
+# game/v1/scene37.rpy:245
+translate francais v1s37_555c5021_1:
 
     # u "We will, thank you."
-    u ""
+    u "We will, thank you."
 
-# game/v1/scene37.rpy:263
-translate francais v1s37_4ef0e267:
+# game/v1/scene37.rpy:260
+translate francais v1s37_4ef0e267_1:
 
     # host "How are you two doing over here? Are we ready to order?"
-    host ""
+    host "How are you two doing over here? Are we ready to order?"
 
-# game/v1/scene37.rpy:268
-translate francais v1s37_f8885478:
+# game/v1/scene37.rpy:265
+translate francais v1s37_f8885478_1:
 
     # gentleman "I apologize, could you give us just a few more-"
-    gentleman ""
+    gentleman "I apologize, could you give us just a few more-"
 
-# game/v1/scene37.rpy:273
-translate francais v1s37_f283a837:
+# game/v1/scene37.rpy:270
+translate francais v1s37_7306ba8c_1:
 
-    # lady "Oh my good god, if you gave him all day, he'd take all day. We're ready to order."
-    lady ""
+    # lady "Oh my God, if you gave him all day, he'd take all day. We're ready to order."
+    lady "Oh my God, if you gave him all day, he'd take all day. We're ready to order."
 
-# game/v1/scene37.rpy:278
-translate francais v1s37_f749113e:
+# game/v1/scene37.rpy:275
+translate francais v1s37_f749113e_1:
 
     # lady "I'll have a house salad and he'll have the same."
-    lady ""
+    lady "I'll have a house salad and he'll have the same."
 
-# game/v1/scene37.rpy:283
-translate francais v1s37_45dba199:
+# game/v1/scene37.rpy:280
+translate francais v1s37_45dba199_1:
 
     # host "Um, okay. Two house salads, with what dressing?"
-    host ""
+    host "Um, okay. Two house salads, with what dressing?"
 
-# game/v1/scene37.rpy:288
-translate francais v1s37_842966b0:
+# game/v1/scene37.rpy:285
+translate francais v1s37_842966b0_1:
 
     # gentleman "Do you have-"
-    gentleman ""
+    gentleman "Do you have-"
 
-# game/v1/scene37.rpy:293
-translate francais v1s37_aca2663a:
+# game/v1/scene37.rpy:290
+translate francais v1s37_aca2663a_1:
 
     # lady "None."
-    lady ""
+    lady "None."
 
-# game/v1/scene37.rpy:298
-translate francais v1s37_af3f3597:
+# game/v1/scene37.rpy:295
+translate francais v1s37_9b2847ea_1:
 
-    # host "Anything for you sir?"
-    host ""
+    # host "Anything for you, sir?"
+    host "Anything for you, sir?"
 
-# game/v1/scene37.rpy:303
-translate francais v1s37_d6ec6b25:
+# game/v1/scene37.rpy:300
+translate francais v1s37_d6ec6b25_1:
 
     # gentleman "Hmm, do you guys have a dessert menu? I didn't find one..."
-    gentleman ""
+    gentleman "Hmm, do you guys have a dessert menu? I didn't find one..."
 
-# game/v1/scene37.rpy:308
-translate francais v1s37_81c94481:
+# game/v1/scene37.rpy:305
+translate francais v1s37_81c94481_1:
 
     # lady "For fuck's sake, you're like a child. That'll be all for now."
-    lady ""
+    lady "For fuck's sake, you're like a child. That'll be all for now."
 
-# game/v1/scene37.rpy:313
-translate francais v1s37_d62f89cf:
+# game/v1/scene37.rpy:310
+translate francais v1s37_d62f89cf_1:
 
     # gentleman "I wanted a-"
-    gentleman ""
+    gentleman "I wanted a-"
 
-# game/v1/scene37.rpy:318
-translate francais v1s37_c8d71eec:
+# game/v1/scene37.rpy:315
+translate francais v1s37_c8d71eec_1:
 
     # lady "If we want dessert, we'll get it later."
-    lady ""
+    lady "If we want dessert, we'll get it later."
 
-# game/v1/scene37.rpy:323
-translate francais v1s37_704fd8e6:
+# game/v1/scene37.rpy:320
+translate francais v1s37_704fd8e6_1:
 
     # host "Okay. Sure."
-    host ""
+    host "Okay. Sure."
 
-# game/v1/scene37.rpy:333
-translate francais v1s37_b57e7d26:
+# game/v1/scene37.rpy:330
+translate francais v1s37_b57e7d26_1:
 
     # pe "*Whispers* That girl is being so mean to her date!"
-    pe ""
+    pe "*Whispers* That girl is being so mean to her date!"
 
-# game/v1/scene37.rpy:338
-translate francais v1s37_0ec3bb3e:
+# game/v1/scene37.rpy:335
+translate francais v1s37_0ec3bb3e_1:
 
     # u "*Whispers* She was pretty rude, yeah. Jeez."
-    u ""
+    u "*Whispers* She was pretty rude, yeah. Jeez."
 
-# game/v1/scene37.rpy:343
-translate francais v1s37_88ee794c:
+# game/v1/scene37.rpy:340
+translate francais v1s37_88ee794c_1:
 
     # pe "*Sighs* Some people..."
-    pe ""
+    pe "*Sighs* Some people..."
 
-# game/v1/scene37.rpy:353
-translate francais v1s37_b6e4a4eb:
+# game/v1/scene37.rpy:350
+translate francais v1s37_b6e4a4eb_1:
 
     # u "So, what did you do today?"
-    u ""
+    u "So, what did you do today?"
 
-# game/v1/scene37.rpy:358
-translate francais v1s37_9c32f2cf:
+# game/v1/scene37.rpy:355
+translate francais v1s37_9c32f2cf_1:
 
     # pe "I actually had an interview for an on-campus job, but it got cancelled."
-    pe ""
+    pe "I actually had an interview for an on-campus job, but it got cancelled."
 
-# game/v1/scene37.rpy:368
-translate francais v1s37_4a005916:
+# game/v1/scene37.rpy:365
+translate francais v1s37_4a005916_1:
 
     # u "Oooh, what job?"
-    u ""
+    u "Oooh, what job?"
 
-# game/v1/scene37.rpy:373
-translate francais v1s37_be6868f4:
+# game/v1/scene37.rpy:370
+translate francais v1s37_be6868f4_1:
 
     # pe "Nope. You're gonna laugh..."
-    pe ""
+    pe "Nope. You're gonna laugh..."
 
-# game/v1/scene37.rpy:378
-translate francais v1s37_9814a0f7:
+# game/v1/scene37.rpy:375
+translate francais v1s37_6a7d0671_1:
 
-    # u "Haha, I promise I won't."
-    u ""
+    # u "Ha! I promise I won't."
+    u "Ha! I promise I won't."
 
-# game/v1/scene37.rpy:383
-translate francais v1s37_cb9cfb3b:
+# game/v1/scene37.rpy:380
+translate francais v1s37_7e437513_1:
 
-    # pe "You already are! *Chuckles*"
-    pe ""
+    # pe "You already are!"
+    pe "You already are!"
 
-# game/v1/scene37.rpy:388
-translate francais v1s37_393cb714:
+# game/v1/scene37.rpy:385
+translate francais v1s37_b0f0a6a4_1:
 
-    # u "Haha, okay, okay... Phew. I'm ready."
-    u ""
+    # u "Okay, okay... heh... phew. I'm ready."
+    u "Okay, okay... heh... phew. I'm ready."
 
-# game/v1/scene37.rpy:393
-translate francais v1s37_aa9cfb48:
+# game/v1/scene37.rpy:390
+translate francais v1s37_aa9cfb48_1:
 
     # pe "*Sighs* Positive?"
-    pe ""
+    pe "*Sighs* Positive?"
 
-# game/v1/scene37.rpy:398
-translate francais v1s37_9f3a6b21:
+# game/v1/scene37.rpy:395
+translate francais v1s37_9f3a6b21_1:
 
     # u "Positive."
-    u ""
+    u "Positive."
 
-# game/v1/scene37.rpy:403
-translate francais v1s37_f0d4f861:
+# game/v1/scene37.rpy:400
+translate francais v1s37_f0d4f861_1:
 
     # pe "I signed up to be a hall monitor."
-    pe ""
+    pe "I signed up to be a hall monitor."
 
-# game/v1/scene37.rpy:411
-translate francais v1s37_54ae38fb:
+# game/v1/scene37.rpy:408
+translate francais v1s37_54ae38fb_1:
 
     # u "Woah, I didn't know that was a thing. Why'd it get cancelled?"
-    u ""
+    u "Woah, I didn't know that was a thing. Why'd it get cancelled?"
 
-# game/v1/scene37.rpy:418
-translate francais v1s37_01617aa4:
+# game/v1/scene37.rpy:415
+translate francais v1s37_8294f718_1:
 
-    # u "*Laughs* I'm sorry... I-"
-    u ""
+    # u "Bahahahaha, ooh, ah, I'm sorry... I-"
+    u "Bahahahaha, ooh, ah, I'm sorry... I-"
 
-# game/v1/scene37.rpy:423
-translate francais v1s37_c5894db9:
+# game/v1/scene37.rpy:420
+translate francais v1s37_c5894db9_1:
 
     # pe "*Sighs*"
-    pe ""
+    pe "*Sighs*"
 
-# game/v1/scene37.rpy:428
-translate francais v1s37_28d2394d:
+# game/v1/scene37.rpy:425
+translate francais v1s37_28d2394d_1:
 
     # u "I'm sorry. I just... I thought of a cartoon I used to watch that had a hall monitor episode, and it made me-"
-    u ""
+    u "I'm sorry. I just... I thought of a cartoon I used to watch that had a hall monitor episode, and it made me-"
 
-# game/v1/scene37.rpy:433
-translate francais v1s37_dba722a1:
+# game/v1/scene37.rpy:430
+translate francais v1s37_3a26df4b_1:
 
-    # u "*Coughs* Ahem, excuse me... So, why'd it get cancelled?"
-    u ""
+    # u "*Coughs* Ahem, excuse me... so, why'd it get cancelled?"
+    u "*Coughs* Ahem, excuse me... so, why'd it get cancelled?"
 
-# game/v1/scene37.rpy:438
-translate francais v1s37_57c60325:
+# game/v1/scene37.rpy:435
+translate francais v1s37_8bd78e87_1:
 
-    # pe "*Sighs* It was the dean, I swear she's out to get me."
-    pe ""
+    # pe "*Sighs* It was the Dean. I swear she's out to get me."
+    pe "*Sighs* It was the Dean. I swear she's out to get me."
 
-# game/v1/scene37.rpy:443
-translate francais v1s37_732c7941:
+# game/v1/scene37.rpy:440
+translate francais v1s37_732c7941_1:
 
     # u "Wait, why?"
-    u ""
+    u "Wait, why?"
 
-# game/v1/scene37.rpy:448
-translate francais v1s37_7546e246:
+# game/v1/scene37.rpy:445
+translate francais v1s37_66bc5eab_1:
 
-    # pe "Because of the case I had, for some reason she thinks I'm the devil now. I tried to-"
-    pe ""
+    # pe "Because of the case I had. For some reason, she thinks I'm the devil now. I tried to-"
+    pe "Because of the case I had. For some reason, she thinks I'm the devil now. I tried to-"
 
-# game/v1/scene37.rpy:453
-translate francais v1s37_dd5a67cc:
+# game/v1/scene37.rpy:450
+translate francais v1s37_dd5a67cc_1:
 
     # lady "Get your elbows off of the table! What part of that seems mature to you?"
-    lady ""
+    lady "Get your elbows off of the table! What part of that seems mature to you?"
 
-# game/v1/scene37.rpy:455
-translate francais v1s37_fd855f57:
+# game/v1/scene37.rpy:452
+translate francais v1s37_fd855f57_1:
 
     # lady "I ask for one nice dinner, no hassle and this is the bullshit you give me. *Whispers* What a fucking loser..."
-    lady ""
+    lady "I ask for one nice dinner, no hassle and this is the bullshit you give me. *Whispers* What a fucking loser..."
 
-# game/v1/scene37.rpy:460
-translate francais v1s37_d4235433:
+# game/v1/scene37.rpy:457
+translate francais v1s37_46ada1c7_1:
 
-    # gentleman "Can you please not speak to me that way? I'm trying to give us a nice evening out."
-    gentleman ""
+    # gentleman "Can you please not speak to me that way? I'm trying to provide us with a nice evening out."
+    gentleman "Can you please not speak to me that way? I'm trying to provide us with a nice evening out."
 
-# game/v1/scene37.rpy:465
-translate francais v1s37_e3256a29:
+# game/v1/scene37.rpy:462
+translate francais v1s37_e3256a29_1:
 
     # lady "Try harder!"
-    lady ""
+    lady "Try harder!"
 
-# game/v1/scene37.rpy:470
-translate francais v1s37_f4ae5f66:
+# game/v1/scene37.rpy:467
+translate francais v1s37_f4ae5f66_1:
 
     # pe "*Scoffs*"
-    pe ""
+    pe "*Scoffs*"
 
-# game/v1/scene37.rpy:475
-translate francais v1s37_0082dcee:
+# game/v1/scene37.rpy:472
+translate francais v1s37_0082dcee_1:
 
     # u "What the hell is her problem?"
-    u ""
+    u "What the hell is her problem?"
 
-# game/v1/scene37.rpy:480
-translate francais v1s37_fa00cd3b:
+# game/v1/scene37.rpy:477
+translate francais v1s37_fa00cd3b_1:
 
     # pe "*Whispers* I'm about to say something."
-    pe ""
+    pe "*Whispers* I'm about to say something."
 
-# game/v1/scene37.rpy:491
-translate francais v1s37_29416cfe:
+# game/v1/scene37.rpy:488
+translate francais v1s37_29416cfe_1:
 
     # u "If she keeps going at him like that, I am too."
-    u ""
+    u "If she keeps going at him like that, I am too."
 
-# game/v1/scene37.rpy:499
-translate francais v1s37_24b2abf7:
+# game/v1/scene37.rpy:496
+translate francais v1s37_24b2abf7_1:
 
     # u "*Sighs* Penelope, look at me."
-    u ""
+    u "*Sighs* Penelope, look at me."
 
-# game/v1/scene37.rpy:501
-translate francais v1s37_b53262dc:
+# game/v1/scene37.rpy:498
+translate francais v1s37_b53262dc_1:
 
     # u "I know she's saying mean things, but we came here for us."
-    u ""
+    u "I know she's saying mean things, but we came here for us."
 
-# game/v1/scene37.rpy:511
-translate francais v1s37_db5d3dde:
+# game/v1/scene37.rpy:508
+translate francais v1s37_db5d3dde_1:
 
     # u "To have a good night on our first real date. I'd like to enjoy that."
-    u ""
+    u "To have a good night on our first real date. I'd like to enjoy that."
 
-# game/v1/scene37.rpy:516
-translate francais v1s37_2fdc9a64:
+# game/v1/scene37.rpy:513
+translate francais v1s37_2fdc9a64_1:
 
     # pe "I'm sorry, you're right. She's just-"
-    pe ""
+    pe "I'm sorry, you're right. She's just-"
 
-# game/v1/scene37.rpy:521
-translate francais v1s37_e85fd877:
+# game/v1/scene37.rpy:518
+translate francais v1s37_e85fd877_1:
 
     # u "Trust me, I understand."
-    u ""
+    u "Trust me, I understand."
 
-# game/v1/scene37.rpy:526
-translate francais v1s37_ebf62523:
+# game/v1/scene37.rpy:523
+translate francais v1s37_ebf62523_1:
 
     # pe "*Sighs* Okay."
-    pe ""
+    pe "*Sighs* Okay."
 
-# game/v1/scene37.rpy:531
-translate francais v1s37_cbd5e797:
+# game/v1/scene37.rpy:528
+translate francais v1s37_cbd5e797_1:
 
     # pe "So, are you happy to be back from the trip? I've noticed everything is already back in full swing."
-    pe ""
+    pe "So, are you happy to be back from the trip? I've noticed everything is already back in full swing."
 
-# game/v1/scene37.rpy:536
-translate francais v1s37_319299a6:
+# game/v1/scene37.rpy:533
+translate francais v1s37_319299a6_1:
 
     # u "Definitely feels like we didn't miss a beat. Classes, frat stuff, Julia across the country... Everything just picked right back up."
-    u ""
+    u "Definitely feels like we didn't miss a beat. Classes, frat stuff, Julia across the country... Everything just picked right back up."
 
-# game/v1/scene37.rpy:541
-translate francais v1s37_5414508d:
+# game/v1/scene37.rpy:538
+translate francais v1s37_5414508d_1:
 
     # pe "Julia...?"
-    pe ""
+    pe "Julia...?"
 
-# game/v1/scene37.rpy:546
-translate francais v1s37_08760a93:
+# game/v1/scene37.rpy:543
+translate francais v1s37_08760a93_1:
 
     # u "Oh! Shit! No, no. It's not what you're thinking. She's my dad's ex. The person who raised me pretty much."
-    u ""
+    u "Oh! Shit! No, no. It's not what you're thinking. She's my dad's ex. The person who raised me pretty much."
 
-# game/v1/scene37.rpy:551
-translate francais v1s37_b82f0fc4:
+# game/v1/scene37.rpy:548
+translate francais v1s37_e398421b_1:
 
-    # pe "Oh! *Laughs* I'm sorry, haha."
-    pe ""
+    # pe "Oh! I'm sorry. Oops."
+    pe "Oh! I'm sorry. Oops."
 
-# game/v1/scene37.rpy:556
-translate francais v1s37_dbcf4224:
+# game/v1/scene37.rpy:553
+translate francais v1s37_c7bb5851_1:
 
-    # u "Haha, no need to apologize. I didn't realize I never really speak about her to anyone."
-    u ""
+    # u "No need to apologize. I didn't realize I never really speak about her to anyone."
+    u "No need to apologize. I didn't realize I never really speak about her to anyone."
 
-# game/v1/scene37.rpy:566
-translate francais v1s37_63e6c33b:
+# game/v1/scene37.rpy:563
+translate francais v1s37_ba79b9f9_1:
 
-    # u "She's in New York for work, and probably won't be back for a while. So with that and school and the frat... Yeah, it's a lot."
-    u ""
+    # u "She's in New York for work and probably won't be back for a while. So with that and school and the frat... yeah, it's a lot."
+    u "She's in New York for work and probably won't be back for a while. So with that and school and the frat... yeah, it's a lot."
 
-# game/v1/scene37.rpy:571
-translate francais v1s37_536ad0cc:
+# game/v1/scene37.rpy:568
+translate francais v1s37_536ad0cc_1:
 
     # pe "It's kinda weird listening to how involved you are in everything and here I am with nothing to do."
-    pe ""
+    pe "It's kinda weird listening to how involved you are in everything and here I am with nothing to do."
 
-# game/v1/scene37.rpy:576
-translate francais v1s37_ffb6c755:
+# game/v1/scene37.rpy:573
+translate francais v1s37_ffb6c755_1:
 
     # u "Join a sorority."
-    u ""
+    u "Join a sorority."
 
-# game/v1/scene37.rpy:581
-translate francais v1s37_4a0dd61f:
+# game/v1/scene37.rpy:578
+translate francais v1s37_4a0dd61f_1:
 
     # pe "..."
-    pe ""
+    pe "..."
 
-# game/v1/scene37.rpy:586
-translate francais v1s37_7d2b106f:
+# game/v1/scene37.rpy:583
+translate francais v1s37_7d2b106f_1:
 
     # u "No?"
-    u ""
+    u "No?"
 
-# game/v1/scene37.rpy:591
-translate francais v1s37_297ff254:
+# game/v1/scene37.rpy:588
+translate francais v1s37_6b3d335e_1:
 
-    # pe "*Laughs* Those girls would eat me alive like a pack of wolves. No pun intended..."
-    pe ""
+    # pe "Those girls would eat me alive like a pack of wolves. No pun intended..."
+    pe "Those girls would eat me alive like a pack of wolves. No pun intended..."
 
-# game/v1/scene37.rpy:596
-translate francais v1s37_cde1996b:
+# game/v1/scene37.rpy:593
+translate francais v1s37_24c80712_1:
 
-    # u "*Laughs* Maybe they'd like you! All they'd want is for you to hack the school and change their grades to at least a passing level."
-    u ""
+    # u "Maybe they'd like you! All they'd want is for you to hack the school and change their grades to at least a passing level."
+    u "Maybe they'd like you! All they'd want is for you to hack the school and change their grades to at least a passing level."
 
-# game/v1/scene37.rpy:601
-translate francais v1s37_97d894b6:
+# game/v1/scene37.rpy:598
+translate francais v1s37_19aad56c_1:
 
-    # pe "*Chuckles* Not funny."
-    pe ""
+    # pe "Har-har, not funny."
+    pe "Har-har, not funny."
 
-# game/v1/scene37.rpy:606
-translate francais v1s37_4c18e731:
+# game/v1/scene37.rpy:603
+translate francais v1s37_f7399835_1:
 
-    # u "Too soon? *Chuckles*"
-    u ""
+    # u "Too soon?"
+    u "Too soon?"
 
-# game/v1/scene37.rpy:611
-translate francais v1s37_ed6d0b2d:
+# game/v1/scene37.rpy:608
+translate francais v1s37_e768ad11_1:
 
-    # pe "No, but it was unexpected. I'm trying to forget that whole experience, ha."
-    pe ""
+    # pe "Nah. It actually was funny, but unexpected. I'm still trying to forget that whole experience, ha."
+    pe "Nah. It actually was funny, but unexpected. I'm still trying to forget that whole experience, ha."
 
-# game/v1/scene37.rpy:616
-translate francais v1s37_89b50861:
+# game/v1/scene37.rpy:613
+translate francais v1s37_fc678168_1:
 
-    # u "The dean obviously isn't letting you forget, so we might as well laugh about it at this point."
-    u ""
+    # u "The Dean obviously isn't letting you forget, so we might as well laugh about it at this point."
+    u "The Dean obviously isn't letting you forget, so we might as well laugh about it at this point."
 
-# game/v1/scene37.rpy:621
-translate francais v1s37_84cfeb2d:
+# game/v1/scene37.rpy:618
+translate francais v1s37_84cfeb2d_1:
 
     # pe "Yeah, you're right. Again. Ugh..."
-    pe ""
+    pe "Yeah, you're right. Again. Ugh..."
 
-# game/v1/scene37.rpy:626
-translate francais v1s37_fcc18885:
+# game/v1/scene37.rpy:623
+translate francais v1s37_093b11fb_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "Heh."
+    u "Heh."
 
-# game/v1/scene37.rpy:636
-translate francais v1s37_8d870131:
+# game/v1/scene37.rpy:633
+translate francais v1s37_8d870131_1:
 
     # u "Remind me again, though. You actually do want the hall monitor job, right?"
-    u ""
+    u "Remind me again, though. You actually do want the hall monitor job, right?"
 
-# game/v1/scene37.rpy:641
-translate francais v1s37_e4696543:
+# game/v1/scene37.rpy:638
+translate francais v1s37_e4696543_1:
 
     # pe "Yeah, I do. It pays really good and literally no one else has applied in the last two weeks that the posting has been up."
-    pe ""
+    pe "Yeah, I do. It pays really good and literally no one else has applied in the last two weeks that the posting has been up."
 
-# game/v1/scene37.rpy:646
-translate francais v1s37_89306b03:
+# game/v1/scene37.rpy:643
+translate francais v1s37_b58b795c_1:
 
-    # u "And the dean is blocking you from having an interview?"
-    u ""
+    # u "And the Dean is blocking you from having an interview?"
+    u "And the Dean is blocking you from having an interview?"
 
-# game/v1/scene37.rpy:651
-translate francais v1s37_a326d260:
+# game/v1/scene37.rpy:648
+translate francais v1s37_a326d260_1:
 
     # pe "Yes. I think she said something to the school board so that they didn't want to give me a chance."
-    pe ""
+    pe "Yes. I think she said something to the school board so that they didn't want to give me a chance."
 
-# game/v1/scene37.rpy:656
-translate francais v1s37_810d8315:
+# game/v1/scene37.rpy:653
+translate francais v1s37_810d8315_1:
 
     # u "Sounds like slander, bullying, all of the above..."
-    u ""
+    u "Sounds like slander, bullying, all of the above..."
 
-# game/v1/scene37.rpy:661
-translate francais v1s37_fc05bac7:
+# game/v1/scene37.rpy:658
+translate francais v1s37_8a3cfab9_1:
 
-    # pe "Feels a lot like it too."
-    pe ""
+    # pe "Feels a lot like it, too."
+    pe "Feels a lot like it, too."
 
-# game/v1/scene37.rpy:666
-translate francais v1s37_1351fe14:
+# game/v1/scene37.rpy:663
+translate francais v1s37_1351fe14_1:
 
     # u "Why don't you say something to the board?"
-    u ""
+    u "Why don't you say something to the board?"
 
-# game/v1/scene37.rpy:671
-translate francais v1s37_599d559b:
+# game/v1/scene37.rpy:668
+translate francais v1s37_599d559b_1:
 
     # pe "I'd rather not get in any more trouble than I already am. Don't need you worrying about running to my defense all over again."
-    pe ""
+    pe "I'd rather not get in any more trouble than I already am. Don't need you worrying about running to my defense all over again."
 
-# game/v1/scene37.rpy:676
-translate francais v1s37_97d108a8:
+# game/v1/scene37.rpy:673
+translate francais v1s37_18ea75d3_1:
 
-    # u "Haha. That was fun, what are you talking about?"
-    u ""
+    # u "You kidding me? That was fun, what are you talking about?"
+    u "You kidding me? That was fun, what are you talking about?"
 
-# game/v1/scene37.rpy:681
-translate francais v1s37_dcb9f545:
+# game/v1/scene37.rpy:678
+translate francais v1s37_3b854053_1:
 
-    # pe "Fun for you maybe."
-    pe ""
+    # pe "Fun for you, maybe."
+    pe "Fun for you, maybe."
 
-# game/v1/scene37.rpy:686
-translate francais v1s37_f21fa873:
+# game/v1/scene37.rpy:683
+translate francais v1s37_f21fa873_1:
 
     # u "For real though, say something to her about what she's doing and go get your job. She may even respect you for sticking up for yourself."
-    u ""
+    u "For real though, say something to her about what she's doing and go get your job. She may even respect you for sticking up for yourself."
 
-# game/v1/scene37.rpy:691
-translate francais v1s37_297374e2:
+# game/v1/scene37.rpy:688
+translate francais v1s37_297374e2_1:
 
     # pe "That's a long shot, but I'll give it a try."
-    pe ""
+    pe "That's a long shot, but I'll give it a try."
 
-# game/v1/scene37.rpy:696
-translate francais v1s37_d2f1309a:
+# game/v1/scene37.rpy:693
+translate francais v1s37_d2f1309a_1:
 
     # u "Good. And if it fails, I will gladly come running to your defense."
-    u ""
+    u "Good. And if it fails, I will gladly come running to your defense."
 
-# game/v1/scene37.rpy:712
-translate francais v1s37_3c336d1e:
+# game/v1/scene37.rpy:709
+translate francais v1s37_3c336d1e_1:
 
     # pe "I love how you're always looking out for me. Makes me feel like I can be completely vulnerable around you..."
-    pe ""
+    pe "I love how you're always looking out for me. Makes me feel like I can be completely vulnerable around you..."
 
-# game/v1/scene37.rpy:717
-translate francais v1s37_e3799553:
+# game/v1/scene37.rpy:714
+translate francais v1s37_e3799553_1:
 
     # u "I'll always be there for you, you know that."
-    u ""
+    u "I'll always be there for you, you know that."
 
-# game/v1/scene37.rpy:722
-translate francais v1s37_b6dfba4c:
+# game/v1/scene37.rpy:719
+translate francais v1s37_b6dfba4c_1:
 
     # pe "Yeah, I do."
-    pe ""
+    pe "Yeah, I do."
 
-# game/v1/scene37.rpy:727
-translate francais v1s37_0ff7c567:
+# game/v1/scene37.rpy:724
+translate francais v1s37_c297c16d_1:
 
-    # lady "And that's also why you can't keep a fucking job, you're a loser!"
-    lady ""
+    # lady "And that's also why you can't keep a fucking job. You're a loser!"
+    lady "And that's also why you can't keep a fucking job. You're a loser!"
 
-# game/v1/scene37.rpy:733
-translate francais v1s37_139e8a92:
+# game/v1/scene37.rpy:730
+translate francais v1s37_139e8a92_1:
 
     # pe "*Sighs* [name]... I don't want to ruin our night, but-"
-    pe ""
+    pe "*Sighs* [name]... I don't want to ruin our night, but-"
 
-# game/v1/scene37.rpy:738
-translate francais v1s37_efddfece:
+# game/v1/scene37.rpy:735
+translate francais v1s37_efddfece_1:
 
     # u "Say no more, let's go. We'll come back another time."
-    u ""
+    u "Say no more, let's go. We'll come back another time."
 
-# game/v1/scene37.rpy:743
-translate francais v1s37_fb5c9743:
+# game/v1/scene37.rpy:740
+translate francais v1s37_fb5c9743_1:
 
     # pe "Thank you."
-    pe ""
+    pe "Thank you."
 
-# game/v1/scene37.rpy:748
-translate francais v1s37_66686979:
+# game/v1/scene37.rpy:745
+translate francais v1s37_66686979_1:
 
     # u "Always."
-    u ""
+    u "Always."
 
-# game/v1/scene37.rpy:753
-translate francais v1s37_1d78c403:
+# game/v1/scene37.rpy:750
+translate francais v1s37_1d78c403_1:
 
     # u "(The nicest human in the entire world.)"
-    u ""
+    u "(The nicest human in the entire world.)"
 
-# game/v1/scene37.rpy:771
-translate francais v1s37_d3eab043:
+# game/v1/scene37.rpy:768
+translate francais v1s37_d3eab043_2:
 
     # pe "That woman was so terrible! How could that man just sit there and take all of her shit?"
-    pe ""
+    pe "That woman was so terrible! How could that man just sit there and take all of her shit?"
 
-# game/v1/scene37.rpy:779
-translate francais v1s37_466e5f8d:
+# game/v1/scene37.rpy:776
+translate francais v1s37_466e5f8d_1:
 
     # pe "Okay, that's it!"
-    pe ""
+    pe "Okay, that's it!"
 
-# game/v1/scene37.rpy:784
-translate francais v1s37_b66d7572:
+# game/v1/scene37.rpy:781
+translate francais v1s37_b66d7572_1:
 
     # u "Wait-"
-    u ""
+    u "Wait-"
 
-# game/v1/scene37.rpy:794
-translate francais v1s37_3135837b:
+# game/v1/scene37.rpy:791
+translate francais v1s37_53e72b49_1:
 
-    # pe "Listen up, Princess! I came here to go on a wonderful date, just like you. And I CAN'T DO THAT because YOU won't stop being a BITCH!"
-    pe ""
+    # pe "Listen up, princess! I came here to go on a wonderful date, just like you. And I CAN'T DO THAT because YOU won't stop being a BITCH!"
+    pe "Listen up, princess! I came here to go on a wonderful date, just like you. And I CAN'T DO THAT because YOU won't stop being a BITCH!"
 
-# game/v1/scene37.rpy:799
-translate francais v1s37_52b798e0:
+# game/v1/scene37.rpy:796
+translate francais v1s37_52b798e0_1:
 
     # pe "Sir, kindly, BE A MAN AND STAND UP FOR YOURSELF."
-    pe ""
+    pe "Sir, kindly, BE A MAN AND STAND UP FOR YOURSELF."
 
-# game/v1/scene37.rpy:804
-translate francais v1s37_f47dcf08:
+# game/v1/scene37.rpy:801
+translate francais v1s37_f47dcf08_1:
 
     # pe "And you."
-    pe ""
+    pe "And you."
 
-# game/v1/scene37.rpy:806
-translate francais v1s37_ebbc9e1d:
+# game/v1/scene37.rpy:803
+translate francais v1s37_59c1991b_1:
 
-    # pe "Keep your shitty attitude, and your miserable life to yourself, okay?"
-    pe ""
+    # pe "Keep your shitty attitude and miserable life to yourself, okay?"
+    pe "Keep your shitty attitude and miserable life to yourself, okay?"
 
-# game/v1/scene37.rpy:807
-translate francais v1s37_ec47a82a:
+# game/v1/scene37.rpy:804
+translate francais v1s37_dbfedc6c_1:
 
-    # pe "This world doesn't revolve around you. If I ever see you again and you're speaking to someone like this, I'll have more than just words to say next time."
-    pe ""
+    # pe "This world doesn't revolve around you. If I ever see you again and you're speaking to someone like this, I'll have more than just words for you next time."
+    pe "This world doesn't revolve around you. If I ever see you again and you're speaking to someone like this, I'll have more than just words for you next time."
 
-# game/v1/scene37.rpy:812
-translate francais v1s37_ac2b4d6b:
+# game/v1/scene37.rpy:809
+translate francais v1s37_ac2b4d6b_1:
 
     # lady "*Gasps*"
-    lady ""
+    lady "*Gasps*"
 
-# game/v1/scene37.rpy:817
-translate francais v1s37_5f6c186b:
+# game/v1/scene37.rpy:814
+translate francais v1s37_5f6c186b_1:
 
     # gentleman "I-..."
-    gentleman ""
+    gentleman "I-..."
 
-# game/v1/scene37.rpy:822
-translate francais v1s37_d04fb843:
+# game/v1/scene37.rpy:819
+translate francais v1s37_d04fb843_1:
 
     # pe "Let's go, [name]."
-    pe ""
+    pe "Let's go, [name]."
 
-# game/v1/scene37.rpy:827
-translate francais v1s37_f15cadce:
+# game/v1/scene37.rpy:824
+translate francais v1s37_f15cadce_1:
 
     # u "You sure?"
-    u ""
+    u "You sure?"
 
-# game/v1/scene37.rpy:832
-translate francais v1s37_5a390422:
+# game/v1/scene37.rpy:829
+translate francais v1s37_5a390422_1:
 
     # pe "Positive."
-    pe ""
+    pe "Positive."
 
-# game/v1/scene37.rpy:846
-translate francais v1s37_2749bb31:
+# game/v1/scene37.rpy:843
+translate francais v1s37_050c4103_1:
 
-    # u "Are you all good?"
-    u ""
+    # u "You all good?"
+    u "You all good?"
 
-# game/v1/scene37.rpy:852
-translate francais v1s37_c35a1de5:
+# game/v1/scene37.rpy:849
+translate francais v1s37_c35a1de5_1:
 
     # pe "Yeah, I'm fine. She just really pissed me off, that's all."
-    pe ""
+    pe "Yeah, I'm fine. She just really pissed me off, that's all."
 
-# game/v1/scene37.rpy:858
-translate francais v1s37_6f1b2d9f:
+# game/v1/scene37.rpy:855
+translate francais v1s37_6f1b2d9f_1:
 
     # u "I understand why."
-    u ""
+    u "I understand why."
 
-# game/v1/scene37.rpy:863
-translate francais v1s37_d3eab043_1:
+# game/v1/scene37.rpy:860
+translate francais v1s37_d3eab043_3:
 
     # pe "That woman was so terrible! How could that man just sit there and take all of her shit?"
-    pe ""
+    pe "That woman was so terrible! How could that man just sit there and take all of her shit?"
 
 translate francais strings:
 
-    # game/v1/scene37.rpy:26
+    # game/v1/scene37.rpy:24
     old "Greet"
-    new ""
+    new "Greet"
 
-    # game/v1/scene37.rpy:26
+    # game/v1/scene37.rpy:24
     old "Greet with a compliment"
-    new ""
+    new "Greet with a compliment"
 
-    # game/v1/scene37.rpy:405
+    # game/v1/scene37.rpy:402
     old "Be serious"
-    new ""
+    new "Be serious"
 
-    # game/v1/scene37.rpy:485
+    # game/v1/scene37.rpy:482
     old "Same here"
-    new ""
+    new "Same here"
 
-    # game/v1/scene37.rpy:485
+    # game/v1/scene37.rpy:482
     old "Focus on us"
-    new ""
+    new "Focus on us"
 

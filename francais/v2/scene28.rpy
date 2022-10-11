@@ -1,1338 +1,1338 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene28.rpy:22
-translate francais v2s28_141b7f2d:
+translate francais v2s28_141b7f2d_1:
 
     # u "Evening, ladies."
-    u ""
+    u "Evening, ladies."
 
 # game/v2/scene28.rpy:27
-translate francais v2s28_7b279da5:
+translate francais v2s28_7b279da5_1:
 
     # jen "Ooh, here he is. Have your ears been burning?"
-    jen ""
+    jen "Ooh, here he is. Have your ears been burning?"
 
 # game/v2/scene28.rpy:32
-translate francais v2s28_4db6aa4a:
+translate francais v2s28_08ac3bcf_1:
 
-    # u "Haha, no. Why should they?"
-    u ""
+    # u "No. Why should they?"
+    u "No. Why should they?"
 
 # game/v2/scene28.rpy:38
-translate francais v2s28_b8a58856:
+translate francais v2s28_605ca965_1:
 
-    # pe "We've just been talking about you, haha"
-    pe ""
+    # pe "We've just been talking about you!"
+    pe "We've just been talking about you!"
 
 # game/v2/scene28.rpy:43
-translate francais v2s28_6ddefb91:
+translate francais v2s28_b8d36db5_1:
 
-    # jen "Yeah, all your sordid secrets are out, [name], *Laughs*"
-    jen ""
+    # jen "Yeah, all your sordid secrets are out, [name]."
+    jen "Yeah, all your sordid secrets are out, [name]."
 
 # game/v2/scene28.rpy:48
-translate francais v2s28_09332657:
+translate francais v2s28_aedb893f_1:
 
-    # u "What do you mean?"
-    u ""
+    # u "(Oh, fuck. There are a lot of those.) What do you mean?"
+    u "(Oh, fuck. There are a lot of those.) What do you mean?"
 
 # game/v2/scene28.rpy:53
-translate francais v2s28_65c28f0e:
+translate francais v2s28_26995d89_1:
 
-    # jen "*Chuckles* She knows."
-    jen ""
+    # jen "She knows."
+    jen "She knows."
 
 # game/v2/scene28.rpy:58
-translate francais v2s28_37780fa3:
+translate francais v2s28_37780fa3_1:
 
     # u "Knows what?"
-    u ""
+    u "Knows what?"
 
 # game/v2/scene28.rpy:63
-translate francais v2s28_840d39d2:
+translate francais v2s28_840d39d2_1:
 
     # jen "About the fun we had at the lagoon, duh!"
-    jen ""
+    jen "About the fun we had at the lagoon, duh!"
 
 # game/v2/scene28.rpy:68
-translate francais v2s28_89f0157e:
+translate francais v2s28_af390006_1:
 
-    # u "Oh... Haha, okay. You told her about that?"
-    u ""
+    # u "Oh... ha, okay. You told her about that?"
+    u "Oh... ha, okay. You told her about that?"
 
 # game/v2/scene28.rpy:73
-translate francais v2s28_e75c3c95:
+translate francais v2s28_7d397f5f_1:
 
-    # jen "We tell each other everything, babe. *Laughs*"
-    jen ""
+    # jen "We tell each other everything, babe."
+    jen "We tell each other everything, babe."
 
 # game/v2/scene28.rpy:79
-translate francais v2s28_88a3579d:
+translate francais v2s28_88a3579d_1:
 
     # pe "Yeah, I mean..."
-    pe ""
+    pe "Yeah, I mean..."
 
 # game/v2/scene28.rpy:84
-translate francais v2s28_bd38d54e:
+translate francais v2s28_bd38d54e_1:
 
     # pe "It's great to hear that you two have a good thing going."
-    pe ""
+    pe "It's great to hear that you two have a good thing going."
 
 # game/v2/scene28.rpy:89
-translate francais v2s28_b3f57c49:
+translate francais v2s28_b3f57c49_1:
 
     # u "Penelope..."
-    u ""
+    u "Penelope..."
 
 # game/v2/scene28.rpy:94
-translate francais v2s28_565262eb:
+translate francais v2s28_565262eb_1:
 
     # pe "No, really. That's extremely romantic. Going to a lagoon like that?"
-    pe ""
+    pe "No, really. That's extremely romantic. Going to a lagoon like that?"
 
 # game/v2/scene28.rpy:99
-translate francais v2s28_5fce6ae4:
+translate francais v2s28_5fce6ae4_1:
 
     # jen "Hey, it was my idea!"
-    jen ""
+    jen "Hey, it was my idea!"
 
 # game/v2/scene28.rpy:104
-translate francais v2s28_7fa5c45c:
+translate francais v2s28_056640e7_1:
 
-    # pe "Well, whoever's idea it was... Nice work. My best friends deserve the best."
-    pe ""
+    # pe "Well, whoever's idea it was... nice work. My best friends deserve the best."
+    pe "Well, whoever's idea it was... nice work. My best friends deserve the best."
 
 # game/v2/scene28.rpy:109
-translate francais v2s28_fbdb3a41:
+translate francais v2s28_fbdb3a41_1:
 
     # u "(That felt bittersweet...)"
-    u ""
+    u "(That felt bittersweet...)"
 
 # game/v2/scene28.rpy:115
-translate francais v2s28_7d275c0f:
+translate francais v2s28_a2bed5f9_1:
 
-    # pe "Haha, yep! My two closest friends are dating, eeeeep! *Chuckles*"
-    pe ""
+    # pe "Ha, yep! My two closest friends are dating, eeeeep!"
+    pe "Ha, yep! My two closest friends are dating, eeeeep!"
 
 # game/v2/scene28.rpy:120
-translate francais v2s28_c7f67757:
+translate francais v2s28_c7f67757_1:
 
     # pe "I think I deserve a pat on the back for playing matchmaker, don't you think?"
-    pe ""
+    pe "I think I deserve a pat on the back for playing matchmaker, don't you think?"
 
 # game/v2/scene28.rpy:125
-translate francais v2s28_d16d2264:
+translate francais v2s28_d16d2264_1:
 
     # u "(*Sighs*)"
-    u ""
+    u "(*Sighs*)"
 
 # game/v2/scene28.rpy:130
-translate francais v2s28_0f174abb:
+translate francais v2s28_e887f3e8_1:
 
-    # u "Calm down, haha. It's not like I'm going to propose or anything."
-    u ""
+    # u "Calm down. It's not like I'm going to propose or anything."
+    u "Calm down. It's not like I'm going to propose or anything."
 
 # game/v2/scene28.rpy:135
-translate francais v2s28_c83251b3:
+translate francais v2s28_21b6ba3d_1:
 
-    # jen "Why? What's wrong with me? *Laughs*"
-    jen ""
+    # jen "Why? What's wrong with me?"
+    jen "Why? What's wrong with me?"
 
 # game/v2/scene28.rpy:140
-translate francais v2s28_d8266c30:
+translate francais v2s28_96e3ef07_1:
 
-    # pe "Nothing! She's a real catch, [name]! *Giggles*"
-    pe ""
+    # pe "Nothing! She's a real catch, [name]!"
+    pe "Nothing! She's a real catch, [name]!"
 
 # game/v2/scene28.rpy:145
-translate francais v2s28_a76699f1:
+translate francais v2s28_39b2e878_1:
 
-    # jen "Oh, my God... Was that sarcasm I heard? Bitch!"
-    jen ""
+    # jen "Oh my God... Was that sarcasm I heard? Bitch!"
+    jen "Oh my God... Was that sarcasm I heard? Bitch!"
 
 # game/v2/scene28.rpy:150
-translate francais v2s28_bb50d40c:
+translate francais v2s28_a0ebc2ac_1:
 
-    # u "Hey, ladies, no need to fight. *Chuckles* Why don't I keep the peace with some drinks?"
-    u ""
+    # u "Hey, ladies, no need to fight. Why don't I keep the peace with some drinks?"
+    u "Hey, ladies, no need to fight. Why don't I keep the peace with some drinks?"
 
 # game/v2/scene28.rpy:155
-translate francais v2s28_5b2791ac:
+translate francais v2s28_41fcac14_1:
 
-    # pe "Hey, yeah... Our glasses are empty!"
-    pe ""
+    # pe "Hey, yeah... our glasses are empty!"
+    pe "Hey, yeah... our glasses are empty!"
 
 # game/v2/scene28.rpy:160
-translate francais v2s28_38219b6d:
+translate francais v2s28_38219b6d_3:
 
     # jen "More drinks!"
-    jen ""
+    jen "More drinks!"
 
 # game/v2/scene28.rpy:165
-translate francais v2s28_a02a10fe:
+translate francais v2s28_a02a10fe_3:
 
     # pe "More drinks!"
-    pe ""
+    pe "More drinks!"
 
 # game/v2/scene28.rpy:170
-translate francais v2s28_dcfe0b08:
+translate francais v2s28_dcfe0b08_1:
 
     # u "Okay! Relax!"
-    u ""
+    u "Okay! Relax!"
 
 # game/v2/scene28.rpy:175
-translate francais v2s28_29a05fa7:
+translate francais v2s28_29a05fa7_1:
 
     # u "Jeez, are you sure you guys haven't had enough already?"
-    u ""
+    u "Jeez, are you sure you guys haven't had enough already?"
 
 # game/v2/scene28.rpy:180
-translate francais v2s28_6b0d787c:
+translate francais v2s28_9f157f05_1:
 
-    # jen "*laughs*"
-    jen ""
+    # jen "Ha, dork!"
+    jen "Ha, dork!"
 
 # game/v2/scene28.rpy:182
-translate francais v2s28_a36df9c2:
+translate francais v2s28_6f9d6659_1:
 
-    # pe "*laughs*"
-    pe ""
+    # pe "Libations, boy! Get 'em!"
+    pe "Libations, boy! Get 'em!"
 
 # game/v2/scene28.rpy:187
-translate francais v2s28_f2b9e568:
+translate francais v2s28_f2b9e568_1:
 
     # pe "Go!"
-    pe ""
+    pe "Go!"
 
 # game/v2/scene28.rpy:192
-translate francais v2s28_80f5248c:
+translate francais v2s28_80f5248c_1:
 
     # u "I'm going!"
-    u ""
+    u "I'm going!"
 
 # game/v2/scene28.rpy:203
-translate francais v2s28_4c524910:
+translate francais v2s28_4c524910_1:
 
     # jen "Penelope's been telling me about your sexy little rendezvous!"
-    jen ""
+    jen "Penelope's been telling me about your sexy little rendezvous!"
 
 # game/v2/scene28.rpy:208
-translate francais v2s28_3ce5d519:
+translate francais v2s28_3ce5d519_1:
 
     # pe "Ugh! Jenny!"
-    pe ""
+    pe "Ugh! Jenny!"
 
 # game/v2/scene28.rpy:213
-translate francais v2s28_465dd5ee:
+translate francais v2s28_465dd5ee_1:
 
     # jen "You cute little cuddle bugs!"
-    jen ""
+    jen "You cute little cuddle bugs!"
 
 # game/v2/scene28.rpy:218
-translate francais v2s28_124eaec7:
+translate francais v2s28_b96e3e65_1:
 
-    # u "Haha, it was a legendary cuddle."
-    u ""
+    # u "It was a legendary cuddle."
+    u "It was a legendary cuddle."
 
 # game/v2/scene28.rpy:223
-translate francais v2s28_946551e1:
+translate francais v2s28_23ded98c_1:
 
-    # pe "Stop it, you two... *Chuckles*"
-    pe ""
+    # pe "Stop it, you two..."
+    pe "Stop it, you two..."
 
 # game/v2/scene28.rpy:228
-translate francais v2s28_efda8b59:
+translate francais v2s28_efda8b59_1:
 
     # jen "Aw, look... she's gone red!"
-    jen ""
+    jen "Aw, look... she's gone red!"
 
 # game/v2/scene28.rpy:233
-translate francais v2s28_16a81b8b:
+translate francais v2s28_16a81b8b_1:
 
     # jen "That means she really likes you."
-    jen ""
+    jen "That means she really likes you."
 
 # game/v2/scene28.rpy:243
-translate francais v2s28_63e64a0b:
+translate francais v2s28_63e64a0b_1:
 
     # u "That's good to know because I really like her too."
-    u ""
+    u "That's good to know because I really like her too."
 
 # game/v2/scene28.rpy:248
-translate francais v2s28_94e3e3cd:
+translate francais v2s28_94e3e3cd_1:
 
     # jen "Eeeeeep!"
-    jen ""
+    jen "Eeeeeep!"
 
 # game/v2/scene28.rpy:253
-translate francais v2s28_994f5f9e:
+translate francais v2s28_994f5f9e_1:
 
     # jen "Okay, that's enough cuteness for one round. More drinks please!"
-    jen ""
+    jen "Okay, that's enough cuteness for one round. More drinks please!"
 
 # game/v2/scene28.rpy:258
-translate francais v2s28_81f1a7e1:
+translate francais v2s28_d5cb42d9_1:
 
-    # u "Yeah, looks like I've got some catching up to do... *Laughs*"
-    u ""
+    # u "Yeah, looks like I've got some catching up to do..."
+    u "Yeah, looks like I've got some catching up to do..."
 
 # game/v2/scene28.rpy:263
-translate francais v2s28_38219b6d_1:
+translate francais v2s28_38219b6d_4:
 
     # jen "More drinks!"
-    jen ""
+    jen "More drinks!"
 
 # game/v2/scene28.rpy:268
-translate francais v2s28_a02a10fe_1:
+translate francais v2s28_a02a10fe_4:
 
     # pe "More drinks!"
-    pe ""
+    pe "More drinks!"
 
 # game/v2/scene28.rpy:273
-translate francais v2s28_8e14986d:
+translate francais v2s28_8e14986d_1:
 
     # u "I'm going! I'm going!"
-    u ""
+    u "I'm going! I'm going!"
 
 # game/v2/scene28.rpy:284
-translate francais v2s28_45920081:
+translate francais v2s28_45920081_1:
 
     # jen "We were just trying to guess who your current bae is. *Giggles*"
-    jen ""
+    jen "We were just trying to guess who your current bae is. *Giggles*"
 
 # game/v2/scene28.rpy:289
-translate francais v2s28_0a9f0c1b:
+translate francais v2s28_0a9f0c1b_1:
 
     # pe "Yeah, I can't actually remember who it is today... Lauren, I think?"
-    pe ""
+    pe "Yeah, I can't actually remember who it is today... Lauren, I think?"
 
 # game/v2/scene28.rpy:294
-translate francais v2s28_81860730:
+translate francais v2s28_4a7df3dc_1:
 
-    # pe "Or wait, the blonde one? Ah... Who knows, hehe."
-    pe ""
+    # pe "Or wait, the blonde one? Ah... who knows."
+    pe "Or wait, the blonde one? Ah... who knows."
 
 # game/v2/scene28.rpy:299
-translate francais v2s28_465aca00:
+translate francais v2s28_465aca00_1:
 
     # u "(Nice joke...)"
-    u ""
+    u "(Nice joke...)"
 
 # game/v2/scene28.rpy:304
-translate francais v2s28_02232d57:
+translate francais v2s28_b27ffa0e_1:
 
-    # pe "These shots have gone straight to my head! *Laughs*"
-    pe ""
+    # pe "These shots have gone straight to my head!"
+    pe "These shots have gone straight to my head!"
 
 # game/v2/scene28.rpy:309
-translate francais v2s28_ba552bdb:
+translate francais v2s28_f8d2d9ce_1:
 
-    # jen "Me too! Haha..."
-    jen ""
+    # jen "Me too! Ha..."
+    jen "Me too! Ha..."
 
 # game/v2/scene28.rpy:314
-translate francais v2s28_29e4a5f1:
+translate francais v2s28_29e4a5f1_1:
 
     # pe "So? Spill it [name]! Who's your current prey?"
-    pe ""
+    pe "So? Spill it [name]! Who's your current prey?"
 
 # game/v2/scene28.rpy:319
-translate francais v2s28_ee94fe2a:
+translate francais v2s28_ee94fe2a_2:
 
     # jen "*Roars*"
-    jen ""
+    jen "*Roars*"
 
 # game/v2/scene28.rpy:324
-translate francais v2s28_2b70762d:
+translate francais v2s28_d7ad3a0a_1:
 
-    # u "Excuse me? *Chuckles*"
-    u ""
+    # u "Excuse me?"
+    u "Excuse me?"
 
 # game/v2/scene28.rpy:329
-translate francais v2s28_d5f1d7a9:
+translate francais v2s28_2ca9fc69_1:
 
-    # pe "Haven't you got a gazelle in your sights, hehe?"
-    pe ""
+    # pe "Haven't you got a gazelle in your sights?"
+    pe "Haven't you got a gazelle in your sights?"
 
 # game/v2/scene28.rpy:334
-translate francais v2s28_ee8ddffe:
+translate francais v2s28_934c92ce_1:
 
-    # u "Haha, umm... You know what?"
-    u ""
+    # u "Ha, umm... you know what?"
+    u "Ha, umm... you know what?"
 
 # game/v2/scene28.rpy:336
-translate francais v2s28_44f2c6cd:
+translate francais v2s28_026649b1_1:
 
-    # u "You ladies keep guessing because a gentleman never tells."
-    u ""
+    # u "You ladies keep guessing, because a gentleman never tells."
+    u "You ladies keep guessing, because a gentleman never tells."
 
 # game/v2/scene28.rpy:341
-translate francais v2s28_719ac954:
+translate francais v2s28_719ac954_1:
 
     # jen "Boooo!"
-    jen ""
+    jen "Boooo!"
 
 # game/v2/scene28.rpy:346
-translate francais v2s28_ac1eb0ee:
+translate francais v2s28_ac1eb0ee_1:
 
     # pe "Yeah, boooo!"
-    pe ""
+    pe "Yeah, boooo!"
 
 # game/v2/scene28.rpy:351
-translate francais v2s28_fcc18885:
+translate francais v2s28_307a3846_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "That's how it has to be!"
+    u "That's how it has to be!"
 
 # game/v2/scene28.rpy:356
-translate francais v2s28_45205f07:
+translate francais v2s28_45205f07_1:
 
     # jen "Give us the juicy gossip! Tell us who you're fucking!"
-    jen ""
+    jen "Give us the juicy gossip! Tell us who you're fucking!"
 
 # game/v2/scene28.rpy:361
-translate francais v2s28_4d4592fc:
+translate francais v2s28_30ea786e_1:
 
-    # u "Wow, haha. Okay, seems like you two have had enough."
-    u ""
+    # u "Woooow. Okay, seems like you two have had enough."
+    u "Woooow. Okay, seems like you two have had enough."
 
 # game/v2/scene28.rpy:366
-translate francais v2s28_9404ac60:
+translate francais v2s28_9404ac60_1:
 
     # pe "Hell no!"
-    pe ""
+    pe "Hell no!"
 
 # game/v2/scene28.rpy:371
-translate francais v2s28_8b74dff4:
+translate francais v2s28_8b74dff4_1:
 
     # jen "Yeah, we've only just begun!"
-    jen ""
+    jen "Yeah, we've only just begun!"
 
 # game/v2/scene28.rpy:376
-translate francais v2s28_38219b6d_2:
+translate francais v2s28_38219b6d_5:
 
     # jen "More drinks!"
-    jen ""
+    jen "More drinks!"
 
 # game/v2/scene28.rpy:381
-translate francais v2s28_a02a10fe_2:
+translate francais v2s28_a02a10fe_5:
 
     # pe "More drinks!"
-    pe ""
+    pe "More drinks!"
 
 # game/v2/scene28.rpy:386
-translate francais v2s28_bacc3d1f:
+translate francais v2s28_bacc3d1f_1:
 
     # u "Girls gone wild... *Sighs*"
-    u ""
+    u "Girls gone wild... *Sighs*"
 
 # game/v2/scene28.rpy:391
-translate francais v2s28_ee94fe2a_1:
+translate francais v2s28_ee94fe2a_3:
 
     # jen "*Roars*"
-    jen ""
+    jen "*Roars*"
 
 # game/v2/scene28.rpy:401
-translate francais v2s28_1c4bc2d0:
+translate francais v2s28_1c4bc2d0_1:
 
     # u "(That was a little scary...)"
-    u ""
+    u "(That was a little scary...)"
 
 # game/v2/scene28.rpy:407
-translate francais v2s28_b203a284:
+translate francais v2s28_b203a284_1:
 
     # bartender "What can I get you?"
-    bartender ""
+    bartender "What can I get you?"
 
 # game/v2/scene28.rpy:412
-translate francais v2s28_6de71728:
+translate francais v2s28_6de71728_1:
 
     # u "(Oh, wow. As easy as that? No ID check at all!)"
-    u ""
+    u "(Oh, wow. As easy as that? No ID check at all!)"
 
 # game/v2/scene28.rpy:414
-translate francais v2s28_7d8ab721:
+translate francais v2s28_7d8ab721_1:
 
     # u "Six tequilas, please."
-    u ""
+    u "Six tequilas, please."
 
 # game/v2/scene28.rpy:419
-translate francais v2s28_b8f29d10:
+translate francais v2s28_b8f29d10_1:
 
     # bartender "Sure thing! Coming right up."
-    bartender ""
+    bartender "Sure thing! Coming right up."
 
 # game/v2/scene28.rpy:424
-translate francais v2s28_b914cf52:
+translate francais v2s28_b914cf52_1:
 
     # sa "Someone's feeling brave..."
-    sa ""
+    sa "Someone's feeling brave..."
 
 # game/v2/scene28.rpy:429
-translate francais v2s28_8b258704:
+translate francais v2s28_8b258704_1:
 
     # u "Huh?"
-    u ""
+    u "Huh?"
 
 # game/v2/scene28.rpy:440
-translate francais v2s28_f853f329:
+translate francais v2s28_3cf73e7c_1:
 
-    # u "(Wait, I think I recognize her... From the poetry thing?)"
-    u ""
+    # u "(Wait, I think I recognize her... from the poetry thing?)"
+    u "(Wait, I think I recognize her... from the poetry thing?)"
 
 # game/v2/scene28.rpy:442
-translate francais v2s28_9b690ad4:
+translate francais v2s28_9b690ad4_1:
 
     # u "Oh, hey. I think I've seen you around campus before, no?"
-    u ""
+    u "Oh, hey. I think I've seen you around campus before, no?"
 
 # game/v2/scene28.rpy:447
-translate francais v2s28_6fd3850a:
+translate francais v2s28_6fd3850a_1:
 
     # sa "Yeah, I'm Samantha. Cameron's sister."
-    sa ""
+    sa "Yeah, I'm Samantha. Cameron's sister."
 
 # game/v2/scene28.rpy:452
-translate francais v2s28_2c377c81:
+translate francais v2s28_4b8697e9_1:
 
-    # u "No fucking way... *Chuckles* Yeah, I know Cameron."
-    u ""
+    # u "No fucking way... I know Cameron."
+    u "No fucking way... I know Cameron."
 
 # game/v2/scene28.rpy:457
-translate francais v2s28_4cd39965:
+translate francais v2s28_4cd39965_1:
 
     # sa "I bet you wish you didn't..."
-    sa ""
+    sa "I bet you wish you didn't..."
 
 # game/v2/scene28.rpy:462
-translate francais v2s28_604ef312:
+translate francais v2s28_604ef312_1:
 
     # sa "I wish I didn't, ha."
-    sa ""
+    sa "I wish I didn't, ha."
 
-# game/v2/scene28.rpy:474
-translate francais v2s28_9d6a6802:
+# game/v2/scene28.rpy:472
+translate francais v2s28_9d6a6802_1:
 
     # u "(I really don't want to get involved in Cameron drama...)"
-    u ""
+    u "(I really don't want to get involved in Cameron drama...)"
 
-# game/v2/scene28.rpy:482
-translate francais v2s28_928e2d9a:
+# game/v2/scene28.rpy:480
+translate francais v2s28_928e2d9a_1:
 
     # u "Do you really mean that? Or is this just a case of your regular sibling rivalry?"
-    u ""
+    u "Do you really mean that? Or is this just a case of your regular sibling rivalry?"
 
-# game/v2/scene28.rpy:487
-translate francais v2s28_7c1e9a4f:
+# game/v2/scene28.rpy:485
+translate francais v2s28_7c1e9a4f_1:
 
     # sa "Ugh, he's a jerk!"
-    sa ""
+    sa "Ugh, he's a jerk!"
 
-# game/v2/scene28.rpy:492
-translate francais v2s28_0f0d7cd6:
+# game/v2/scene28.rpy:490
+translate francais v2s28_0f0d7cd6_1:
 
     # sa "He thinks he knows better than everyone else..."
-    sa ""
+    sa "He thinks he knows better than everyone else..."
 
-# game/v2/scene28.rpy:497
-translate francais v2s28_db5dcf03:
+# game/v2/scene28.rpy:495
+translate francais v2s28_a3615aac_1:
 
-    # sa "You just watch, he'll probably bust through that door and start lecturing me any minute. You too probably. *Sighs*"
-    sa ""
+    # sa "You just watch, he'll probably bust through that door and start lecturing me any minute. You too, probably."
+    sa "You just watch, he'll probably bust through that door and start lecturing me any minute. You too, probably."
 
-# game/v2/scene28.rpy:502
-translate francais v2s28_df150847:
+# game/v2/scene28.rpy:500
+translate francais v2s28_df150847_1:
 
     # u "(Maybe I shouldn't have asked...)"
-    u ""
+    u "(Maybe I shouldn't have asked...)"
 
-# game/v2/scene28.rpy:507
-translate francais v2s28_cb72e126:
+# game/v2/scene28.rpy:505
+translate francais v2s28_76f0564a_1:
 
-    # u "I uh, yeah. That sucks. Family can be tricky sometimes."
-    u ""
+    # u "I, uh, yeah. That sucks. Family can be tricky sometimes."
+    u "I, uh, yeah. That sucks. Family can be tricky sometimes."
 
-# game/v2/scene28.rpy:518
-translate francais v2s28_f9805f1b:
+# game/v2/scene28.rpy:516
+translate francais v2s28_f9805f1b_1:
 
     # sa "You're [name], aren't you?"
-    sa ""
+    sa "You're [name], aren't you?"
 
-# game/v2/scene28.rpy:523
-translate francais v2s28_df3d3b2b:
+# game/v2/scene28.rpy:521
+translate francais v2s28_df3d3b2b_1:
 
     # u "Yeah. That's me."
-    u ""
+    u "Yeah. That's me."
 
-# game/v2/scene28.rpy:528
-translate francais v2s28_b5af187b:
+# game/v2/scene28.rpy:526
+translate francais v2s28_b5af187b_1:
 
     # sa "And you're with the Wolves?"
-    sa ""
+    sa "And you're with the Wolves?"
 
-# game/v2/scene28.rpy:533
-translate francais v2s28_5e205d01:
+# game/v2/scene28.rpy:531
+translate francais v2s28_5e205d01_1:
 
     # u "I am."
-    u ""
+    u "I am."
 
-# game/v2/scene28.rpy:538
-translate francais v2s28_a51eafbe:
+# game/v2/scene28.rpy:536
+translate francais v2s28_a51eafbe_1:
 
     # sa "That's a shame... I don't fuck Wolves."
-    sa ""
+    sa "That's a shame... I don't fuck Wolves."
 
-# game/v2/scene28.rpy:543
-translate francais v2s28_176657dc:
+# game/v2/scene28.rpy:541
+translate francais v2s28_c7c34de7_1:
 
-    # u "(I would hope not-)"
-    u ""
+    # u "(I would hope not? What the hell?)"
+    u "(I would hope not? What the hell?)"
 
-# game/v2/scene28.rpy:548
-translate francais v2s28_84cb8ab1:
+# game/v2/scene28.rpy:546
+translate francais v2s28_84cb8ab1_1:
 
     # sa "Apes all the way, baby! Leave the stinky dogs and join the Apes, then we can talk. Okay?"
-    sa ""
+    sa "Apes all the way, baby! Leave the stinky dogs and join the Apes, then we can talk. Okay?"
 
-# game/v2/scene28.rpy:553
-translate francais v2s28_8f1bb40f:
+# game/v2/scene28.rpy:551
+translate francais v2s28_e71aab5b_1:
 
-    # u "Umm, I don't think it works like that. But good to know, haha."
-    u ""
+    # u "Umm, I don't think it works like that. But good to know."
+    u "Umm, I don't think it works like that. But good to know."
 
-# game/v2/scene28.rpy:558
-translate francais v2s28_4b9c4ef5:
+# game/v2/scene28.rpy:556
+translate francais v2s28_4b9c4ef5_1:
 
     # u "Have a good night."
-    u ""
+    u "Have a good night."
 
-# game/v2/scene28.rpy:563
-translate francais v2s28_593960c2:
+# game/v2/scene28.rpy:561
+translate francais v2s28_593960c2_1:
 
     # sa "Yeah, you too. Enjoy your six tequilas."
-    sa ""
+    sa "Yeah, you too. Enjoy your six tequilas."
 
-# game/v2/scene28.rpy:569
-translate francais v2s28_36e6688f:
+# game/v2/scene28.rpy:564
+translate francais v2s28_36e6688f_1:
 
     # u "Oh hey, Samantha. I didn't even see you there."
-    u ""
+    u "Oh hey, Samantha. I didn't even see you there."
 
-# game/v2/scene28.rpy:574
-translate francais v2s28_6d2c7012:
+# game/v2/scene28.rpy:569
+translate francais v2s28_6d2c7012_1:
 
     # sa "It's okay. No one ever does, ha."
-    sa ""
+    sa "It's okay. No one ever does, ha."
 
-# game/v2/scene28.rpy:579
-translate francais v2s28_75753211:
+# game/v2/scene28.rpy:574
+translate francais v2s28_75753211_1:
 
     # u "I thought you were going to try and quit drinking?"
-    u ""
+    u "I thought you were going to try and quit drinking?"
 
-# game/v2/scene28.rpy:584
-translate francais v2s28_ccebc964:
+# game/v2/scene28.rpy:579
+translate francais v2s28_ccebc964_1:
 
     # sa "I am..."
-    sa ""
+    sa "I am..."
 
-# game/v2/scene28.rpy:589
-translate francais v2s28_10381ef7:
+# game/v2/scene28.rpy:584
+translate francais v2s28_10381ef7_1:
 
     # u "You're literally holding a beer, Sam."
-    u ""
+    u "You're literally holding a beer, Sam."
 
-# game/v2/scene28.rpy:594
-translate francais v2s28_d08a1442:
+# game/v2/scene28.rpy:589
+translate francais v2s28_d08a1442_1:
 
     # sa "It's 0%% alcohol. Look."
-    sa ""
+    sa "It's 0%% alcohol. Look."
+
+# game/v2/scene28.rpy:595
+translate francais v2s28_d4e8e65b_1:
+
+    # u "Oh, wow. Sorry, ha. That's awesome though, Sam."
+    u "Oh, wow. Sorry, ha. That's awesome though, Sam."
 
 # game/v2/scene28.rpy:600
-translate francais v2s28_29c7d2f1:
-
-    # u "Oh, wow... Sorry, haha. That's awesome though, Sam."
-    u ""
-
-# game/v2/scene28.rpy:605
-translate francais v2s28_a00bf675:
+translate francais v2s28_a00bf675_1:
 
     # sa "Yeah, it kinda is..."
-    sa ""
+    sa "Yeah, it kinda is..."
 
-# game/v2/scene28.rpy:610
-translate francais v2s28_f4afdea3:
+# game/v2/scene28.rpy:605
+translate francais v2s28_f4afdea3_1:
 
     # u "Isn't it hard going to bars like this and not drinking?"
-    u ""
+    u "Isn't it hard going to bars like this and not drinking?"
 
-# game/v2/scene28.rpy:615
-translate francais v2s28_f5e46d25:
+# game/v2/scene28.rpy:610
+translate francais v2s28_f5e46d25_1:
 
     # sa "Sometimes, but at least this way I don't have to stay in and die of boredom."
-    sa ""
+    sa "Sometimes, but at least this way I don't have to stay in and die of boredom."
+
+# game/v2/scene28.rpy:615
+translate francais v2s28_5bc421ae_1:
+
+    # sa "I can still go out. I just don't get fucked up, y'know?"
+    sa "I can still go out. I just don't get fucked up, y'know?"
 
 # game/v2/scene28.rpy:620
-translate francais v2s28_7cd4f391:
-
-    # sa "I can still go out, I just don't get fucked up, y'know?"
-    sa ""
-
-# game/v2/scene28.rpy:625
-translate francais v2s28_de535c5b:
+translate francais v2s28_de535c5b_1:
 
     # u "Yeah, that's really cool. Congrats."
-    u ""
+    u "Yeah, that's really cool. Congrats."
+
+# game/v2/scene28.rpy:625
+translate francais v2s28_b4ccd545_1:
+
+    # sa "It's relaxing for a change. I'm making better choices with the guys I hook up with, too..."
+    sa "It's relaxing for a change. I'm making better choices with the guys I hook up with, too..."
 
 # game/v2/scene28.rpy:630
-translate francais v2s28_b2ee9e1b:
+translate francais v2s28_749502d9_1:
 
-    # sa "It's relaxing for a change. I'm making better choices with the guys I hook up with too..."
-    sa ""
+    # sa "No more beer goggles in the bedroom."
+    sa "No more beer goggles in the bedroom."
 
 # game/v2/scene28.rpy:635
-translate francais v2s28_d2f87374:
+translate francais v2s28_15d6aec8_1:
 
-    # sa "No more beer goggles in the bedroom, haha."
-    sa ""
+    # u "Ha, beer goggles have helped ugly guys get laid for generations."
+    u "Ha, beer goggles have helped ugly guys get laid for generations."
 
 # game/v2/scene28.rpy:640
-translate francais v2s28_b0ef609a:
-
-    # u "Haha, beer goggles have helped ugly guys get laid for generations."
-    u ""
-
-# game/v2/scene28.rpy:645
-translate francais v2s28_d01e14f3:
+translate francais v2s28_d01e14f3_1:
 
     # sa "Well, I'll happily give mine up."
-    sa ""
+    sa "Well, I'll happily give mine up."
 
-# game/v2/scene28.rpy:650
-translate francais v2s28_98597f9a:
+# game/v2/scene28.rpy:645
+translate francais v2s28_98597f9a_1:
 
     # u "Cheers to sober sex!"
-    u ""
+    u "Cheers to sober sex!"
 
-# game/v2/scene28.rpy:655
-translate francais v2s28_f68a57f7:
+# game/v2/scene28.rpy:650
+translate francais v2s28_f68a57f7_1:
 
     # sa "Yes!"
-    sa ""
+    sa "Yes!"
 
-# game/v2/scene28.rpy:660
-translate francais v2s28_1f0b9a2a:
+# game/v2/scene28.rpy:655
+translate francais v2s28_755b2c1f_1:
 
-    # sa "*laughs*"
-    sa ""
+    # sa "It's a relief, honestly."
+    sa "It's a relief, honestly."
+
+# game/v2/scene28.rpy:657
+translate francais v2s28_e6dbca32_1:
+
+    # u "Hell yeah."
+    u "Hell yeah."
 
 # game/v2/scene28.rpy:662
-translate francais v2s28_7efd2284:
-
-    # u "*laughs*"
-    u ""
-
-# game/v2/scene28.rpy:667
-translate francais v2s28_bb25d73f:
+translate francais v2s28_bb25d73f_1:
 
     # u "It's good to see you doing well, Sam."
-    u ""
+    u "It's good to see you doing well, Sam."
 
-# game/v2/scene28.rpy:672
-translate francais v2s28_2853d9d4:
+# game/v2/scene28.rpy:667
+translate francais v2s28_2853d9d4_1:
 
     # sa "Ha, thanks [name]."
-    sa ""
+    sa "Ha, thanks [name]."
 
-# game/v2/scene28.rpy:677
-translate francais v2s28_75363f2e:
+# game/v2/scene28.rpy:672
+translate francais v2s28_75363f2e_1:
 
     # sa "Taking the time to talk to me the other night, it really helped me re-evaluate some things."
-    sa ""
+    sa "Taking the time to talk to me the other night, it really helped me re-evaluate some things."
+
+# game/v2/scene28.rpy:677
+translate francais v2s28_c4c2a1cc_1:
+
+    # sa "So, thanks... again."
+    sa "So, thanks... again."
 
 # game/v2/scene28.rpy:682
-translate francais v2s28_2b7952f5:
+translate francais v2s28_dfc1f8ad_1:
 
-    # sa "So, thanks... Again *Awkward laugh*"
-    sa ""
+    # u "Anytime, honestly. For the third time, you're welcome."
+    u "Anytime, honestly. For the third time, you're welcome."
 
 # game/v2/scene28.rpy:687
-translate francais v2s28_c38d0b48:
-
-    # u "Anytime, honestly. For the third time, you're welcome. *Chuckles*"
-    u ""
-
-# game/v2/scene28.rpy:692
-translate francais v2s28_d64d8a86:
+translate francais v2s28_d64d8a86_1:
 
     # sa "Ha. Well, have a good night. I'll be heading home soon to pass out."
-    sa ""
+    sa "Ha. Well, have a good night. I'll be heading home soon to pass out."
 
-# game/v2/scene28.rpy:697
-translate francais v2s28_21d31c7a:
+# game/v2/scene28.rpy:692
+translate francais v2s28_21d31c7a_1:
 
     # u "Yeah, you too. Be safe."
-    u ""
+    u "Yeah, you too. Be safe."
 
-# game/v2/scene28.rpy:703
-translate francais v2s28_faab0144:
+# game/v2/scene28.rpy:700
+translate francais v2s28_312a38b6_1:
 
-    # u "Hey, Sam. Party for one I see?"
-    u ""
+    # u "Hey, Sam. Party for one, I see?"
+    u "Hey, Sam. Party for one, I see?"
 
-# game/v2/scene28.rpy:708
-translate francais v2s28_d8d6cef2:
+# game/v2/scene28.rpy:705
+translate francais v2s28_51a0fb49_1:
 
-    # sa "Haha, for now. Someone will try to swoop in soon enough, they always do."
-    sa ""
+    # sa "Ha, for now. Someone will try to swoop in soon enough; they always do."
+    sa "Ha, for now. Someone will try to swoop in soon enough; they always do."
 
-# game/v2/scene28.rpy:713
-translate francais v2s28_f63776d1:
+# game/v2/scene28.rpy:710
+translate francais v2s28_f63776d1_1:
 
     # u "How have you been since we last spoke?"
-    u ""
+    u "How have you been since we last spoke?"
 
-# game/v2/scene28.rpy:718
-translate francais v2s28_44296d87:
+# game/v2/scene28.rpy:715
+translate francais v2s28_a16f4935_1:
 
-    # sa "Same old shit, ha. You know it is."
-    sa ""
+    # sa "Same old shit. You know it is."
+    sa "Same old shit. You know it is."
 
-# game/v2/scene28.rpy:723
-translate francais v2s28_5aff2ebe:
+# game/v2/scene28.rpy:720
+translate francais v2s28_5aff2ebe_1:
 
     # u "I see..."
-    u ""
+    u "I see..."
 
-# game/v2/scene28.rpy:728
-translate francais v2s28_464991dc:
+# game/v2/scene28.rpy:725
+translate francais v2s28_464991dc_1:
 
     # sa "But thanks again for the chat we had the other night..."
-    sa ""
+    sa "But thanks again for the chat we had the other night..."
 
-# game/v2/scene28.rpy:733
-translate francais v2s28_aaa65078:
+# game/v2/scene28.rpy:730
+translate francais v2s28_aaa65078_1:
 
     # sa "It's really comforting to know that someone accepts me for who I am."
-    sa ""
+    sa "It's really comforting to know that someone accepts me for who I am."
 
-# game/v2/scene28.rpy:738
-translate francais v2s28_e277b170:
+# game/v2/scene28.rpy:735
+translate francais v2s28_314db4b9_1:
 
-    # u "Yeah, of course. It's your choice at the end of the day, I'll support you no matter what."
-    u ""
+    # u "Yeah, of course. It's your choice, at the end of the day. I'll support you no matter what."
+    u "Yeah, of course. It's your choice, at the end of the day. I'll support you no matter what."
 
-# game/v2/scene28.rpy:743
-translate francais v2s28_487d457b:
+# game/v2/scene28.rpy:740
+translate francais v2s28_487d457b_1:
 
     # u "(Even if your psycho brother won't...)"
-    u ""
+    u "(Even if your psycho brother won't...)"
 
-# game/v2/scene28.rpy:748
-translate francais v2s28_309ca814:
+# game/v2/scene28.rpy:745
+translate francais v2s28_889e4c2d_1:
 
-    # sa "Cheers to that, haha."
-    sa ""
+    # sa "Cheers to that."
+    sa "Cheers to that."
 
-# game/v2/scene28.rpy:753
-translate francais v2s28_1b75a08d:
+# game/v2/scene28.rpy:750
+translate francais v2s28_1b75a08d_1:
 
     # u "Cheers. Have a good night."
-    u ""
+    u "Cheers. Have a good night."
 
-# game/v2/scene28.rpy:758
-translate francais v2s28_54a885df:
+# game/v2/scene28.rpy:755
+translate francais v2s28_54a885df_1:
 
     # sa "I will."
-    sa ""
+    sa "I will."
 
-# game/v2/scene28.rpy:764
-translate francais v2s28_a6335765:
+# game/v2/scene28.rpy:758
+translate francais v2s28_a7e69cec_1:
 
-    # u "Oh, hey, Sam. Didn't see you there, haha."
-    u ""
+    # u "Oh, hey, Sam. Didn't see you there."
+    u "Oh, hey, Sam. Didn't see you there."
 
-# game/v2/scene28.rpy:769
-translate francais v2s28_0f0791b1:
+# game/v2/scene28.rpy:763
+translate francais v2s28_74fe01b2_1:
 
-    # sa "A guy fucks me and then acts like I don't exist anymore, what a shocker! Haha..."
-    sa ""
+    # sa "A guy fucks me and then acts like I don't exist anymore, what a shocker! Ha..."
+    sa "A guy fucks me and then acts like I don't exist anymore, what a shocker! Ha..."
 
-# game/v2/scene28.rpy:774
-translate francais v2s28_578367b5:
+# game/v2/scene28.rpy:768
+translate francais v2s28_ef604ea3_1:
 
-    # u "Shit, Sam... I didn't mean it like that, come on."
-    u ""
+    # u "Shit, Sam... I didn't mean it like that. Come on."
+    u "Shit, Sam... I didn't mean it like that. Come on."
 
-# game/v2/scene28.rpy:779
-translate francais v2s28_a28ce1d0:
+# game/v2/scene28.rpy:773
+translate francais v2s28_92bf6af7_1:
 
-    # sa "I know, I know, I'm kidding."
-    sa ""
+    # sa "I know, I know. I'm kidding."
+    sa "I know, I know. I'm kidding."
 
-# game/v2/scene28.rpy:784
-translate francais v2s28_7e6882b4:
+# game/v2/scene28.rpy:778
+translate francais v2s28_7e6882b4_1:
 
     # sa "Seriously, I had fun the other night."
-    sa ""
+    sa "Seriously, I had fun the other night."
 
-# game/v2/scene28.rpy:789
-translate francais v2s28_6bcd435f:
+# game/v2/scene28.rpy:783
+translate francais v2s28_6bcd435f_1:
 
     # u "Yeah?"
-    u ""
+    u "Yeah?"
 
-# game/v2/scene28.rpy:794
-translate francais v2s28_e9d632d4:
+# game/v2/scene28.rpy:788
+translate francais v2s28_e9d632d4_1:
 
     # sa "Mhmm..."
-    sa ""
+    sa "Mhmm..."
 
-# game/v2/scene28.rpy:799
-translate francais v2s28_a955a7dd:
+# game/v2/scene28.rpy:793
+translate francais v2s28_a955a7dd_1:
 
     # u "Good, because I did too. I really enjoy hanging out with you, Sam."
-    u ""
+    u "Good, because I did too. I really enjoy hanging out with you, Sam."
 
-# game/v2/scene28.rpy:804
-translate francais v2s28_95894000:
+# game/v2/scene28.rpy:798
+translate francais v2s28_95894000_1:
 
     # sa "Well, then let's make sure we do it again sometime soon."
-    sa ""
+    sa "Well, then let's make sure we do it again sometime soon."
 
-# game/v2/scene28.rpy:814
-translate francais v2s28_9263bd00:
+# game/v2/scene28.rpy:808
+translate francais v2s28_9263bd00_1:
 
     # u "Definitely. (If Cameron doesn't kill me first.)"
-    u ""
+    u "Definitely. (If Cameron doesn't kill me first.)"
 
-# game/v2/scene28.rpy:819
-translate francais v2s28_45240714:
+# game/v2/scene28.rpy:813
+translate francais v2s28_45240714_1:
 
     # sa "You have a good night, okay?"
-    sa ""
+    sa "You have a good night, okay?"
 
-# game/v2/scene28.rpy:824
-translate francais v2s28_5e44e9e4:
+# game/v2/scene28.rpy:818
+translate francais v2s28_5e44e9e4_1:
 
     # u "Yeah, you too. I'll catch you later."
-    u ""
+    u "Yeah, you too. I'll catch you later."
 
-# game/v2/scene28.rpy:829
-translate francais v2s28_f47aae1d:
+# game/v2/scene28.rpy:823
+translate francais v2s28_f47aae1d_1:
 
     # sa "Yup, I know. *Giggles*"
-    sa ""
+    sa "Yup, I know. *Giggles*"
 
-# game/v2/scene28.rpy:835
-translate francais v2s28_7d51f947:
+# game/v2/scene28.rpy:829
+translate francais v2s28_7d51f947_1:
 
     # bartender "Here are your drinks."
-    bartender ""
+    bartender "Here are your drinks."
 
-# game/v2/scene28.rpy:840
-translate francais v2s28_ee01f9b9:
+# game/v2/scene28.rpy:834
+translate francais v2s28_ee01f9b9_1:
 
     # u "Thanks."
-    u ""
+    u "Thanks."
 
-# game/v2/scene28.rpy:855
-translate francais v2s28_d44f4288:
+# game/v2/scene28.rpy:849
+translate francais v2s28_d44f4288_1:
 
     # jen "You took forever! What the fuck, dude?"
-    jen ""
+    jen "You took forever! What the fuck, dude?"
 
-# game/v2/scene28.rpy:860
-translate francais v2s28_3785a637:
+# game/v2/scene28.rpy:854
+translate francais v2s28_3785a637_1:
 
     # pe "Yeah, I'm sobering up over here!"
-    pe ""
+    pe "Yeah, I'm sobering up over here!"
 
-# game/v2/scene28.rpy:865
-translate francais v2s28_71ee1ac8:
+# game/v2/scene28.rpy:859
+translate francais v2s28_9b0a229c_1:
 
-    # u "Six shots of water for the two wasted women in the corner... *Laughs*"
-    u ""
+    # u "Six shots of water for the two wasted women in the corner..."
+    u "Six shots of water for the two wasted women in the corner..."
 
-# game/v2/scene28.rpy:870
-translate francais v2s28_0fe0ae9d:
+# game/v2/scene28.rpy:864
+translate francais v2s28_0fe0ae9d_1:
 
     # pe "It better not be water, [name]!"
-    pe ""
+    pe "It better not be water, [name]!"
 
-# game/v2/scene28.rpy:875
-translate francais v2s28_c60ab8f5:
+# game/v2/scene28.rpy:869
+translate francais v2s28_c60ab8f5_1:
 
     # jen "He lies!"
-    jen ""
+    jen "He lies!"
 
-# game/v2/scene28.rpy:880
-translate francais v2s28_110c3164:
+# game/v2/scene28.rpy:874
+translate francais v2s28_110c3164_1:
 
     # pe "He lies!"
-    pe ""
+    pe "He lies!"
 
-# game/v2/scene28.rpy:900
-translate francais v2s28_7a2252a9:
+# game/v2/scene28.rpy:894
+translate francais v2s28_7a2252a9_1:
 
     # jen "Eugh! That's one!"
-    jen ""
+    jen "Eugh! That's one!"
 
-# game/v2/scene28.rpy:920
-translate francais v2s28_8dddbccd:
+# game/v2/scene28.rpy:914
+translate francais v2s28_8dddbccd_1:
 
     # pe "*Gags* That's two!"
-    pe ""
+    pe "*Gags* That's two!"
 
-# game/v2/scene28.rpy:925
-translate francais v2s28_fcc18885_1:
+# game/v2/scene28.rpy:919
+translate francais v2s28_d90ec3a1_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "You two are crazy."
+    u "You two are crazy."
 
-# game/v2/scene28.rpy:930
-translate francais v2s28_b064131e:
+# game/v2/scene28.rpy:924
+translate francais v2s28_b064131e_1:
 
     # pe "And..."
-    pe ""
+    pe "And..."
 
-# game/v2/scene28.rpy:935
-translate francais v2s28_170e14ee:
+# game/v2/scene28.rpy:929
+translate francais v2s28_170e14ee_1:
 
     # jen "Hey, we've run out of tequila!"
-    jen ""
+    jen "Hey, we've run out of tequila!"
 
-# game/v2/scene28.rpy:940
-translate francais v2s28_3df0114e:
+# game/v2/scene28.rpy:934
+translate francais v2s28_3df0114e_1:
 
     # pe "What's next?!"
-    pe ""
+    pe "What's next?!"
 
-# game/v2/scene28.rpy:955
-translate francais v2s28_8859d695:
+# game/v2/scene28.rpy:949
+translate francais v2s28_8859d695_1:
 
     # jen "Ooh, lover boy is in the mood tonight!"
-    jen ""
+    jen "Ooh, lover boy is in the mood tonight!"
 
-# game/v2/scene28.rpy:960
-translate francais v2s28_9b646e47:
+# game/v2/scene28.rpy:954
+translate francais v2s28_9b646e47_1:
 
     # pe "Well, that was a nice surprise..."
-    pe ""
+    pe "Well, that was a nice surprise..."
 
-# game/v2/scene28.rpy:965
-translate francais v2s28_ed8b0066:
+# game/v2/scene28.rpy:959
+translate francais v2s28_7d1d4775_1:
 
-    # u "Sorry, I don't know what came over me..."
-    u ""
+    # u "I don't know what came over me..."
+    u "I don't know what came over me..."
 
-# game/v2/scene28.rpy:970
-translate francais v2s28_69b3d25c:
+# game/v2/scene28.rpy:964
+translate francais v2s28_c5115572_1:
 
-    # u "I blame the tequila. *Chuckles*"
-    u ""
+    # u "I blame the tequila."
+    u "I blame the tequila."
 
-# game/v2/scene28.rpy:975
-translate francais v2s28_af07329b:
+# game/v2/scene28.rpy:969
+translate francais v2s28_60ee54bb_1:
 
-    # pe "Why blame anything for such perfection?"
-    pe ""
+    # pe "Why blame anything?"
+    pe "Why blame anything?"
 
-# game/v2/scene28.rpy:987
-translate francais v2s28_392ec999:
+# game/v2/scene28.rpy:981
+translate francais v2s28_087b6a97_1:
 
-    # jen "I can't believe I'm saying this but... Get a room."
-    jen ""
+    # jen "I can't believe I'm saying this, but... get a room."
+    jen "I can't believe I'm saying this, but... get a room."
 
-# game/v2/scene28.rpy:992
-translate francais v2s28_90ce8323:
+# game/v2/scene28.rpy:986
+translate francais v2s28_452705d4_1:
 
-    # u "Ha... We will."
-    u ""
+    # u "Sorry... not."
+    u "Sorry... not."
 
-# game/v2/scene28.rpy:1005
-translate francais v2s28_cd701dde:
+# game/v2/scene28.rpy:999
+translate francais v2s28_cd701dde_1:
 
     # u "(The tequila is trying to take control... Stay strong, [name].)"
-    u ""
+    u "(The tequila is trying to take control... Stay strong, [name].)"
 
-# game/v2/scene28.rpy:1020
-translate francais v2s28_64590b1f:
+# game/v2/scene28.rpy:1014
+translate francais v2s28_b71885d2_1:
 
-    # pe "Woah... Okay, lovebirds!"
-    pe ""
+    # pe "Okay, lovebirds!"
+    pe "Okay, lovebirds!"
 
-# game/v2/scene28.rpy:1025
-translate francais v2s28_51768b93:
+# game/v2/scene28.rpy:1019
+translate francais v2s28_d71776cc_1:
 
-    # pe "That was impulsive... Hehe. I think someone's had enough to drink."
-    pe ""
+    # pe "That was impulsive... I think someone's had enough to drink."
+    pe "That was impulsive... I think someone's had enough to drink."
 
-# game/v2/scene28.rpy:1030
-translate francais v2s28_e73ec650:
+# game/v2/scene28.rpy:1024
+translate francais v2s28_f05af4bf_1:
 
-    # jen "No, let him drink more. *Giggles* I might have to get you another one of those!"
-    jen ""
+    # jen "No, let him drink more. I might have to get you another one of those!"
+    jen "No, let him drink more. I might have to get you another one of those!"
 
-# game/v2/scene28.rpy:1035
-translate francais v2s28_fbb514e3:
+# game/v2/scene28.rpy:1029
+translate francais v2s28_fbb514e3_1:
 
     # u "Sorry, it's the tequila's fault. I just couldn't help myself."
-    u ""
+    u "Sorry, it's the tequila's fault. I just couldn't help myself."
 
-# game/v2/scene28.rpy:1055
-translate francais v2s28_70f116e4:
+# game/v2/scene28.rpy:1049
+translate francais v2s28_0aa27c02_1:
 
-    # u "(This tequila is getting the best of me. Must... Resist...)"
-    u ""
+    # u "(This tequila is getting the best of me. Must... resist...)"
+    u "(This tequila is getting the best of me. Must... resist...)"
 
-# game/v2/scene28.rpy:1077
-translate francais v2s28_042cf6b0:
+# game/v2/scene28.rpy:1071
+translate francais v2s28_042cf6b0_1:
 
     # pe "Oh, shit! They'll be closing in a few minutes. We should probably try to beat the rush."
-    pe ""
+    pe "Oh, shit! They'll be closing in a few minutes. We should probably try to beat the rush."
 
-# game/v2/scene28.rpy:1082
-translate francais v2s28_75c18712:
+# game/v2/scene28.rpy:1076
+translate francais v2s28_75c18712_1:
 
     # u "Time flies when you're getting wasted, ha."
-    u ""
+    u "Time flies when you're getting wasted, ha."
 
-# game/v2/scene28.rpy:1084
-translate francais v2s28_c76e6809:
+# game/v2/scene28.rpy:1078
+translate francais v2s28_c76e6809_1:
 
     # u "Did you guys have a good time?"
-    u ""
+    u "Did you guys have a good time?"
 
-# game/v2/scene28.rpy:1089
-translate francais v2s28_7f51f9ff:
+# game/v2/scene28.rpy:1083
+translate francais v2s28_79d0ae11_1:
 
-    # jen "Yeah, for sure. I'm ready for bed, haha."
-    jen ""
+    # jen "Yeah, for sure. I'm ready for bed, though."
+    jen "Yeah, for sure. I'm ready for bed, though."
 
-# game/v2/scene28.rpy:1094
-translate francais v2s28_75e9f1cb:
+# game/v2/scene28.rpy:1088
+translate francais v2s28_75e9f1cb_1:
 
     # pe "Same... I could fall asleep right now. *Giggles*"
-    pe ""
+    pe "Same... I could fall asleep right now. *Giggles*"
 
-# game/v2/scene28.rpy:1099
-translate francais v2s28_dd1a3a62:
+# game/v2/scene28.rpy:1093
+translate francais v2s28_5ec966a1_1:
 
-    # u "Let's get out of here then, before you make the world's most uncomfortable bed out of this table. *Laughs*"
-    u ""
+    # u "Let's get out of here, then, before you make the world's most uncomfortable bed out of this table."
+    u "Let's get out of here, then, before you make the world's most uncomfortable bed out of this table."
 
-# game/v2/scene28.rpy:1110
-translate francais v2s28_f17e673c:
+# game/v2/scene28.rpy:1104
+translate francais v2s28_f17e673c_1:
 
     # pe "Hey, [name]. Come here for a sec?"
-    pe ""
+    pe "Hey, [name]. Come here for a sec?"
 
-# game/v2/scene28.rpy:1115
-translate francais v2s28_37fe551f:
+# game/v2/scene28.rpy:1109
+translate francais v2s28_37fe551f_1:
 
     # u "Sure."
-    u ""
+    u "Sure."
 
-# game/v2/scene28.rpy:1120
-translate francais v2s28_ac7eaa06:
+# game/v2/scene28.rpy:1114
+translate francais v2s28_ac7eaa06_1:
 
     # pe "I just wanted to say..."
-    pe ""
+    pe "I just wanted to say..."
 
-# game/v2/scene28.rpy:1125
-translate francais v2s28_c5a6220e:
+# game/v2/scene28.rpy:1119
+translate francais v2s28_c5a6220e_1:
 
     # pe "I'm really happy that you've been having a good time with Jenny."
-    pe ""
+    pe "I'm really happy that you've been having a good time with Jenny."
 
-# game/v2/scene28.rpy:1130
-translate francais v2s28_318b2f6d:
+# game/v2/scene28.rpy:1124
+translate francais v2s28_318b2f6d_1:
 
     # pe "I thought there was something more between you and I, and if there was, just..."
-    pe ""
+    pe "I thought there was something more between you and I, and if there was, just..."
 
-# game/v2/scene28.rpy:1135
-translate francais v2s28_618544c7:
+# game/v2/scene28.rpy:1129
+translate francais v2s28_618544c7_1:
 
     # pe "Jenny's awesome and I know you'll be happy with her."
-    pe ""
+    pe "Jenny's awesome and I know you'll be happy with her."
 
-# game/v2/scene28.rpy:1140
-translate francais v2s28_e169a8d2:
+# game/v2/scene28.rpy:1134
+translate francais v2s28_d4e2de5c_1:
 
-    # u "Thanks Penelope. Really. And, if I upset you in any way, I am sorry"
-    u ""
+    # u "Thanks Penelope. Really. And, if I upset you in any way, I am sorry."
+    u "Thanks Penelope. Really. And, if I upset you in any way, I am sorry."
 
-# game/v2/scene28.rpy:1150
-translate francais v2s28_8c934671:
+# game/v2/scene28.rpy:1144
+translate francais v2s28_8c934671_1:
 
     # pe "We're good."
-    pe ""
+    pe "We're good."
 
-# game/v2/scene28.rpy:1156
-translate francais v2s28_92caec46:
+# game/v2/scene28.rpy:1150
+translate francais v2s28_92caec46_1:
 
     # jen "Hey, [name]..."
-    jen ""
+    jen "Hey, [name]..."
 
-# game/v2/scene28.rpy:1161
-translate francais v2s28_a4cede1e:
+# game/v2/scene28.rpy:1155
+translate francais v2s28_a4cede1e_1:
 
     # jen "You know, I'm happy that you and Penelope are getting on so well."
-    jen ""
+    jen "You know, I'm happy that you and Penelope are getting on so well."
 
-# game/v2/scene28.rpy:1166
-translate francais v2s28_1459faae:
+# game/v2/scene28.rpy:1160
+translate francais v2s28_875ce590_1:
 
-    # u "Yes, thank you. *Laughs*"
-    u ""
+    # u "Yes, thank you."
+    u "Yes, thank you."
 
-# game/v2/scene28.rpy:1171
-translate francais v2s28_d4342c3f:
+# game/v2/scene28.rpy:1165
+translate francais v2s28_d4342c3f_1:
 
     # jen "She likes to take things slow. You already know that, but..."
-    jen ""
+    jen "She likes to take things slow. You already know that, but..."
 
-# game/v2/scene28.rpy:1176
-translate francais v2s28_ff7c85bf:
+# game/v2/scene28.rpy:1170
+translate francais v2s28_893e7a9d_1:
 
-    # jen "I promise you, if you keep doing whatever you're doing to her, one day she'll give you every ounce of her."
-    jen ""
+    # jen "I promise you, if you keep doing whatever you're doing with her, she'll reward your dedication."
+    jen "I promise you, if you keep doing whatever you're doing with her, she'll reward your dedication."
 
-# game/v2/scene28.rpy:1186
-translate francais v2s28_df69420f:
+# game/v2/scene28.rpy:1180
+translate francais v2s28_df69420f_1:
 
     # u "She's worth the wait."
-    u ""
+    u "She's worth the wait."
 
-# game/v2/scene28.rpy:1191
-translate francais v2s28_2592e2dc:
+# game/v2/scene28.rpy:1185
+translate francais v2s28_2592e2dc_1:
 
     # jen "Yes! She is! Say it louder!"
-    jen ""
+    jen "Yes! She is! Say it louder!"
 
-# game/v2/scene28.rpy:1196
-translate francais v2s28_eb94bb8b:
+# game/v2/scene28.rpy:1190
+translate francais v2s28_220ab4a9_1:
 
-    # u "Haha, I will."
-    u ""
+    # u "Ha, I will."
+    u "Ha, I will."
 
-# game/v2/scene28.rpy:1216
-translate francais v2s28_04196313:
+# game/v2/scene28.rpy:1210
+translate francais v2s28_04196313_1:
 
     # jen "Come on, guys!"
-    jen ""
+    jen "Come on, guys!"
 
-# game/v2/scene28.rpy:1221
-translate francais v2s28_5248c32e:
+# game/v2/scene28.rpy:1215
+translate francais v2s28_5248c32e_1:
 
     # jen "Let's sing a song! Please?"
-    jen ""
+    jen "Let's sing a song! Please?"
 
-# game/v2/scene28.rpy:1226
-translate francais v2s28_e771a453:
+# game/v2/scene28.rpy:1220
+translate francais v2s28_e771a453_1:
 
     # pe "What shall we sing?"
-    pe ""
+    pe "What shall we sing?"
 
-# game/v2/scene28.rpy:1231
-translate francais v2s28_2e888ec5:
+# game/v2/scene28.rpy:1225
+translate francais v2s28_2e888ec5_1:
 
     # u "I know one."
-    u ""
+    u "I know one."
 
-# game/v2/scene28.rpy:1236
-translate francais v2s28_d89dfd82:
+# game/v2/scene28.rpy:1230
+translate francais v2s28_a1053faf_1:
 
-    # pe "Go on then!"
-    pe ""
+    # pe "Go on, then!"
+    pe "Go on, then!"
 
-# game/v2/scene28.rpy:1248
-translate francais v2s28_2026858b:
+# game/v2/scene28.rpy:1242
+translate francais v2s28_2026858b_1:
 
     # u "Twinkle twinkle, little star..."
-    u ""
+    u "Twinkle twinkle, little star..."
 
-# game/v2/scene28.rpy:1253
-translate francais v2s28_29dcd1c6:
+# game/v2/scene28.rpy:1247
+translate francais v2s28_29dcd1c6_1:
 
     # u "Take me to the nearest bar..."
-    u ""
+    u "Take me to the nearest bar..."
 
-# game/v2/scene28.rpy:1258
-translate francais v2s28_b4911875:
+# game/v2/scene28.rpy:1252
+translate francais v2s28_0ca60e73_1:
 
-    # pe "Good one, Grandpa!"
-    pe ""
+    # pe "Good one, grandpa!"
+    pe "Good one, grandpa!"
 
-# game/v2/scene28.rpy:1263
-translate francais v2s28_ab093160:
+# game/v2/scene28.rpy:1257
+translate francais v2s28_ab093160_1:
 
     # jen "You're so stupid... *Giggles*"
-    jen ""
+    jen "You're so stupid... *Giggles*"
 
-# game/v2/scene28.rpy:1271
-translate francais v2s28_cf80f10c:
+# game/v2/scene28.rpy:1265
+translate francais v2s28_cf80f10c_1:
 
     # u "*Whistles*"
-    u ""
+    u "*Whistles*"
 
-# game/v2/scene28.rpy:1281
-translate francais v2s28_424165d3:
+# game/v2/scene28.rpy:1275
+translate francais v2s28_424165d3_1:
 
     # pe "That's not singing!"
-    pe ""
+    pe "That's not singing!"
 
-# game/v2/scene28.rpy:1286
-translate francais v2s28_a90d6daf:
+# game/v2/scene28.rpy:1280
+translate francais v2s28_c48ae75c_1:
 
-    # u "I'm using my voice, aren't I? ."
-    u ""
+    # u "I'm using my voice, aren't I?"
+    u "I'm using my voice, aren't I?"
 
-# game/v2/scene28.rpy:1291
-translate francais v2s28_f503efec:
+# game/v2/scene28.rpy:1285
+translate francais v2s28_f503efec_1:
 
     # jen "What even is that?"
-    jen ""
+    jen "What even is that?"
 
-# game/v2/scene28.rpy:1296
-translate francais v2s28_bce7acb4:
+# game/v2/scene28.rpy:1290
+translate francais v2s28_bce7acb4_1:
 
     # u "I was singing Happy Birthday..."
-    u ""
+    u "I was singing Happy Birthday..."
 
-# game/v2/scene28.rpy:1301
-translate francais v2s28_050a9900:
+# game/v2/scene28.rpy:1295
+translate francais v2s28_050a9900_1:
 
     # jen "..."
-    jen ""
+    jen "..."
 
-# game/v2/scene28.rpy:1306
-translate francais v2s28_c4978eba:
+# game/v2/scene28.rpy:1300
+translate francais v2s28_c4978eba_1:
 
     # pe "Wow, you're so talented..."
-    pe ""
+    pe "Wow, you're so talented..."
 
 translate francais strings:
 
     # game/v2/scene28.rpy:467
     old "Ask why"
-    new ""
+    new "Ask why"
 
-    # game/v2/scene28.rpy:946
+    # game/v2/scene28.rpy:940
     old "Kiss Penelope"
-    new ""
+    new "Kiss Penelope"
 
-    # game/v2/scene28.rpy:1011
+    # game/v2/scene28.rpy:1005
     old "Kiss Jenny"
-    new ""
+    new "Kiss Jenny"
 
-    # game/v2/scene28.rpy:1241
+    # game/v2/scene28.rpy:1235
     old "Sing a silly song"
-    new ""
+    new "Sing a silly song"
 
-    # game/v2/scene28.rpy:1241
+    # game/v2/scene28.rpy:1235
     old "Whistle instead"
-    new ""
+    new "Whistle instead"
 

@@ -1,2810 +1,2882 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene35.rpy:30
-translate francais v2s35_32945cc1:
+translate francais v2s35_73ea2922:
 
-    # li "Hey, [name], you're right on time. We're about to start!"
-    li ""
+    # li "Hey, [name], you're right on time. We're about to get started!"
+    li "Hey, [name], you're right on time. We're about to get started!"
 
-# game/v2/scene35.rpy:43
+# game/v2/scene35.rpy:42
 translate francais v2s35_3dadfc8f:
 
     # u "Good, I was worried I would be late. Thanks for inviting me."
-    u ""
+    u "Good, I was worried I would be late. Thanks for inviting me."
 
-# game/v2/scene35.rpy:48
+# game/v2/scene35.rpy:47
 translate francais v2s35_f0e60e32:
 
     # li "Of course! It should be a fun night!"
-    li ""
+    li "Of course! It should be a fun night!"
 
-# game/v2/scene35.rpy:57
+# game/v2/scene35.rpy:55
 translate francais v2s35_4e08c9ce:
 
     # u "I hope you're ready to lose!"
-    u ""
+    u "I hope you're ready to lose!"
 
-# game/v2/scene35.rpy:62
+# game/v2/scene35.rpy:60
 translate francais v2s35_c5dc2ff1:
 
     # li "No way! I think I have a pretty good chance at winning tonight."
-    li ""
+    li "No way! I think I have a pretty good chance at winning tonight."
 
-# game/v2/scene35.rpy:67
+# game/v2/scene35.rpy:65
 translate francais v2s35_426126ab:
 
     # u "You seem confident."
-    u ""
+    u "You seem confident."
 
-# game/v2/scene35.rpy:72
+# game/v2/scene35.rpy:70
 translate francais v2s35_79460f1f:
 
     # li "Well, I may have rigged them."
-    li ""
+    li "Well, I may have rigged them."
 
-# game/v2/scene35.rpy:77
-translate francais v2s35_19538ded:
+# game/v2/scene35.rpy:75
+translate francais v2s35_1b1129cb:
 
-    # u "Ha! Okay, so cheating is completely fair tonight. Got it."
-    u ""
+    # u "So cheating is completely fair tonight. Got it."
+    u "So cheating is completely fair tonight. Got it."
 
-# game/v2/scene35.rpy:82
-translate francais v2s35_f719eea4:
+# game/v2/scene35.rpy:80
+translate francais v2s35_629d9150:
 
-    # li "Haha, we shouldn't need to cheat tonight, but... Whatever happens, happens."
-    li ""
+    # li "We shouldn't need to cheat tonight, but... Whatever happens, happens."
+    li "We shouldn't need to cheat tonight, but... Whatever happens, happens."
 
-# game/v2/scene35.rpy:97
+# game/v2/scene35.rpy:95
 translate francais v2s35_4d2f7892:
 
     # u "Hey. What're you drinking?"
-    u ""
+    u "Hey. What're you drinking?"
 
-# game/v2/scene35.rpy:103
+# game/v2/scene35.rpy:101
 translate francais v2s35_bea90cc9:
 
     # aut "It's called a liquid marijuana. Lindsey made them, they're not bad!"
-    aut ""
+    aut "It's called a liquid marijuana. Lindsey made them, they're not bad!"
 
-# game/v2/scene35.rpy:108
+# game/v2/scene35.rpy:106
 translate francais v2s35_41ef5caa:
 
     # au "They're amazing, Lindsey. I'm already feeling it."
-    au ""
+    au "They're amazing, Lindsey. I'm already feeling it."
 
-# game/v2/scene35.rpy:114
-translate francais v2s35_e0c298cf:
+# game/v2/scene35.rpy:112
+translate francais v2s35_b023bcc0:
 
-    # aut "They're virgin Sangrias. They taste great. You don't even realize that it's a mocktail, haha."
-    aut ""
+    # aut "They're virgin Sangrias. They taste great. You don't even realize that it's a mocktail."
+    aut "They're virgin Sangrias. They taste great. You don't even realize that it's a mocktail."
 
-# game/v2/scene35.rpy:119
+# game/v2/scene35.rpy:117
 translate francais v2s35_d81572df:
 
     # au "Yeah, Lindsey, I would never have known if you hadn't told me."
-    au ""
+    au "Yeah, Lindsey, I would never have known if you hadn't told me."
 
-# game/v2/scene35.rpy:124
+# game/v2/scene35.rpy:122
 translate francais v2s35_680614c0:
 
     # li "Thanks! I've been studying a lot of recipes lately. I even bought a book."
-    li ""
+    li "Thanks! I've been studying a lot of recipes lately. I even bought a book."
 
-# game/v2/scene35.rpy:129
+# game/v2/scene35.rpy:127
 translate francais v2s35_60e73218:
 
     # aut "Really? Can I see?"
-    aut ""
+    aut "Really? Can I see?"
 
-# game/v2/scene35.rpy:134
+# game/v2/scene35.rpy:132
 translate francais v2s35_c24edf85:
 
     # li "It's over here. I need to make one for [name] now."
-    li ""
+    li "It's over here. I need to make one for [name] now."
 
-# game/v2/scene35.rpy:139
+# game/v2/scene35.rpy:137
 translate francais v2s35_b6250d75:
 
     # aut "Oh, I can help you."
-    aut ""
+    aut "Oh, I can help you."
+
+# game/v2/scene35.rpy:148
+translate francais v2s35_98ec279f:
+
+    # au "Can we skip the awkward shit tonight?"
+    au "Can we skip the awkward shit tonight?"
 
 # game/v2/scene35.rpy:150
-translate francais v2s35_c8b037a6:
+translate francais v2s35_050b0838:
 
-    # au "Can we try to not be awkward tonight? I'm still dealing with what you did with Naomi, but I'll try to act as normal as I can."
-    au ""
+    # au "I'm still pissed about what you did with Naomi, but I'll try to act as normal as I can."
+    au "I'm still pissed about what you did with Naomi, but I'll try to act as normal as I can."
 
 # game/v2/scene35.rpy:155
 translate francais v2s35_d29a993c:
 
     # u "Okay, yeah. Again, I'm really sorry, I-"
-    u ""
+    u "Okay, yeah. Again, I'm really sorry, I-"
 
 # game/v2/scene35.rpy:157
 translate francais v2s35_4d5eb551:
 
     # u "I just want things to go back to the way they used to be."
-    u ""
+    u "I just want things to go back to the way they used to be."
 
 # game/v2/scene35.rpy:162
-translate francais v2s35_317715f8:
+translate francais v2s35_b00853d4:
 
-    # au "Yeah, let's hope that's possible."
-    au ""
+    # au "Yeah, well, lets see how that goes."
+    au "Yeah, well, lets see how that goes."
 
-# game/v2/scene35.rpy:168
+# game/v2/scene35.rpy:166
 translate francais v2s35_4975e492:
 
     # u "Hey, how are you feeling?"
-    u ""
+    u "Hey, how are you feeling?"
 
-# game/v2/scene35.rpy:173
+# game/v2/scene35.rpy:171
 translate francais v2s35_c3e95752:
 
     # au "Much better now that I'm home. Thanks for asking."
-    au ""
+    au "Much better now that I'm home. Thanks for asking."
 
-# game/v2/scene35.rpy:178
+# game/v2/scene35.rpy:176
 translate francais v2s35_0f94e885:
 
     # au "I'm glad you came to the wedding. I don't think I would have survived if you hadn't been there."
-    au ""
+    au "I'm glad you came to the wedding. I don't think I would have survived if you hadn't been there."
 
-# game/v2/scene35.rpy:183
-translate francais v2s35_62209bd9:
+# game/v2/scene35.rpy:181
+translate francais v2s35_f426427e:
 
-    # u "You're welcome. And if they want a third wedding, I'll come to that with you too. *Laughs*"
-    u ""
+    # u "You're welcome. And if they want a third wedding, I'll come to that with you too."
+    u "You're welcome. And if they want a third wedding, I'll come to that with you too."
 
-# game/v2/scene35.rpy:188
-translate francais v2s35_b8e8b0f0:
+# game/v2/scene35.rpy:186
+translate francais v2s35_ea17f256:
 
-    # au "*Laughs*, If they end up wanting a third wedding, I might die."
-    au ""
+    # au "Oh God, If they end up wanting a third wedding, I might die."
+    au "Oh God, If they end up wanting a third wedding, I might die."
 
-# game/v2/scene35.rpy:193
-translate francais v2s35_2e89d275:
+# game/v2/scene35.rpy:191
+translate francais v2s35_bd7b34d7:
 
-    # u "Ha, hey. Whatever uncomfortable family gathering you might have in the future; I'll be there for you. I promise."
-    u ""
+    # u "Hey. Whatever uncomfortable family gathering you might have in the future; I'll be there for you. I promise."
+    u "Hey. Whatever uncomfortable family gathering you might have in the future; I'll be there for you. I promise."
 
-# game/v2/scene35.rpy:198
+# game/v2/scene35.rpy:196
 translate francais v2s35_573a7534:
 
     # au "Aw, thanks, [name]. I may just hold you to that."
-    au ""
+    au "Aw, thanks, [name]. I may just hold you to that."
 
-# game/v2/scene35.rpy:208
+# game/v2/scene35.rpy:206
 translate francais v2s35_b9c45f5b:
 
     # li "Here's to having an awesome game night!"
-    li ""
+    li "Here's to having an awesome game night!"
 
-# game/v2/scene35.rpy:230
+# game/v2/scene35.rpy:228
 translate francais v2s35_529ad424:
 
     # li "[name], help me out here. I have two games, but I can't decide which one we should play. What do you think?"
-    li ""
+    li "[name], help me out here. I have two games, but I can't decide which one we should play. What do you think?"
 
-# game/v2/scene35.rpy:235
+# game/v2/scene35.rpy:233
 translate francais v2s35_867e191d:
 
     # u "What are the games?"
-    u ""
+    u "What are the games?"
 
-# game/v2/scene35.rpy:240
+# game/v2/scene35.rpy:238
 translate francais v2s35_a1f5a8c5:
 
     # li "\"Would you rather\" or \"Most likely to\"."
-    li ""
+    li "\"Would you rather\" or \"Most likely to\"."
 
-# game/v2/scene35.rpy:245
+# game/v2/scene35.rpy:243
 translate francais v2s35_cab901e8:
 
     # u "Hmm..."
-    u ""
+    u "Hmm..."
 
-# game/v2/scene35.rpy:255
+# game/v2/scene35.rpy:250
 translate francais v2s35_939a22ca:
 
     # u "Let's play \"Would you rather\". It sounds like the most fun option."
-    u ""
+    u "Let's play \"Would you rather\". It sounds like the most fun option."
 
-# game/v2/scene35.rpy:260
+# game/v2/scene35.rpy:255
 translate francais v2s35_10a31660:
 
     # li "Okay, perfect."
-    li ""
+    li "Okay, perfect."
 
-# game/v2/scene35.rpy:268
+# game/v2/scene35.rpy:265
 translate francais v2s35_4a8349e9:
 
     # u "I vote for \"Most likely to\"."
-    u ""
+    u "I vote for \"Most likely to\"."
 
-# game/v2/scene35.rpy:273
+# game/v2/scene35.rpy:270
 translate francais v2s35_5b70969b:
 
     # li "Okay, good choice!"
-    li ""
+    li "Okay, good choice!"
 
-# game/v2/scene35.rpy:281
+# game/v2/scene35.rpy:278
 translate francais v2would_you_rather_edc20d8c:
 
     # li "So, I just messaged you all a link to get the game app."
-    li ""
+    li "So, I just messaged you all a link to get the game app."
 
-# game/v2/scene35.rpy:291
+# game/v2/scene35.rpy:288
 translate francais v2would_you_rather_84012ed6:
 
     # aut "Ready."
-    aut ""
+    aut "Ready."
 
-# game/v2/scene35.rpy:296
+# game/v2/scene35.rpy:293
 translate francais v2would_you_rather_eefdf6e5:
 
     # au "Yeah, I'm ready."
-    au ""
+    au "Yeah, I'm ready."
 
-# game/v2/scene35.rpy:301
+# game/v2/scene35.rpy:298
 translate francais v2would_you_rather_48c148e4:
 
     # u "Let's do this!"
-    u ""
+    u "Let's do this!"
 
-# game/v2/scene35.rpy:306
+# game/v2/scene35.rpy:303
 translate francais v2would_you_rather_c3c164cd:
 
     # li "So, the first one is..."
-    li ""
+    li "So, the first one is..."
 
-# game/v2/scene35.rpy:311
+# game/v2/scene35.rpy:308
 translate francais v2would_you_rather_975b9ad1:
 
     # li "Would you rather be given fifty million dollars to donate to charity, or be given half a million dollars to spend on yourself?"
-    li ""
+    li "Would you rather be given fifty million dollars to donate to charity, or be given half a million dollars to spend on yourself?"
 
-# game/v2/scene35.rpy:316
+# game/v2/scene35.rpy:313
 translate francais v2would_you_rather_e6b657b4:
 
     # au "Ooh, good one."
-    au ""
+    au "Ooh, good one."
 
-# game/v2/scene35.rpy:321
+# game/v2/scene35.rpy:318
 translate francais v2would_you_rather_1881a4e1:
 
     # aut "Checking our moral compass, Lindsey?"
-    aut ""
+    aut "Checking our moral compass, Lindsey?"
 
-# game/v2/scene35.rpy:326
+# game/v2/scene35.rpy:323
 translate francais v2would_you_rather_da2510cf:
 
     # u "(I should choose carefully. I could easily look like the bad guy here.)"
-    u ""
+    u "(I should choose carefully. I could easily look like the bad guy here.)"
 
-# game/v2/scene35.rpy:355
+# game/v2/scene35.rpy:352
 translate francais v2s35_wyr1_charity_e5dfc05f:
 
     # li "And it's unanimous! We're all good people. *Chuckles*"
-    li ""
+    li "And it's unanimous! We're all good people. *Chuckles*"
 
-# game/v2/scene35.rpy:360
+# game/v2/scene35.rpy:357
 translate francais v2s35_wyr1_charity_e29ca62c:
 
     # aut "Of course we are!"
-    aut ""
+    aut "Of course we are!"
 
-# game/v2/scene35.rpy:365
+# game/v2/scene35.rpy:362
 translate francais v2s35_wyr1_charity_2ff5bdf0:
 
     # au "But the real question is, what charities would you donate to?"
-    au ""
+    au "But the real question is, what charities would you donate to?"
 
-# game/v2/scene35.rpy:370
+# game/v2/scene35.rpy:367
 translate francais v2s35_wyr1_charity_779a0481:
 
     # aut "Homes for Huskies! Or actually..."
-    aut ""
+    aut "Homes for Huskies! Or actually..."
 
-# game/v2/scene35.rpy:372
+# game/v2/scene35.rpy:369
 translate francais v2s35_wyr1_charity_1de6ba95:
 
     # aut "Maybe I could give some to Narwhals in Need and some to Protect the Pandas too."
-    aut ""
+    aut "Maybe I could give some to Narwhals in Need and some to Protect the Pandas too."
 
-# game/v2/scene35.rpy:377
+# game/v2/scene35.rpy:374
 translate francais v2s35_wyr1_charity_2df10ad6:
 
     # au "Hehe, damn. You've got a list ready to go, huh?"
-    au ""
+    au "Hehe, damn. You've got a list ready to go, huh?"
 
-# game/v2/scene35.rpy:382
-translate francais v2s35_wyr1_charity_9ceaa16a:
+# game/v2/scene35.rpy:379
+translate francais v2s35_wyr1_charity_0bb4ef47:
 
-    # aut "Ha, I guess yeah. I'm just interested in all of it and helping all of them."
-    aut ""
+    # aut "I guess yeah. I just think there's lots of great causes out there."
+    aut "I guess yeah. I just think there's lots of great causes out there."
 
-# game/v2/scene35.rpy:387
+# game/v2/scene35.rpy:384
 translate francais v2s35_wyr1_charity_2388a422:
 
     # u "So pure."
-    u ""
+    u "So pure."
 
-# game/v2/scene35.rpy:392
-translate francais v2s35_wyr1_charity_985e6a00:
+# game/v2/scene35.rpy:389
+translate francais v2s35_wyr1_charity_d9534048:
 
-    # au "It's almost disgusting... *Giggles*"
-    au ""
+    # au "It's almost gross how pure... Teasing, Autumn. You know I love ya."
+    au "It's almost gross how pure... Teasing, Autumn. You know I love ya."
 
-# game/v2/scene35.rpy:402
+# game/v2/scene35.rpy:399
 translate francais v2s35_wyr1_me_42142f70:
 
     # li "Well, it looks like [name] is the only uncharitable one here..."
-    li ""
+    li "Well, it looks like [name] is the only uncharitable one here..."
 
-# game/v2/scene35.rpy:407
+# game/v2/scene35.rpy:404
 translate francais v2s35_wyr1_me_a3e30ba6:
 
     # aut "[name]!"
-    aut ""
+    aut "[name]!"
 
-# game/v2/scene35.rpy:412
+# game/v2/scene35.rpy:409
 translate francais v2s35_wyr1_me_ef2f1671:
 
     # u "What?"
-    u ""
+    u "What?"
 
-# game/v2/scene35.rpy:417
+# game/v2/scene35.rpy:414
 translate francais v2s35_wyr1_me_0a74160d:
 
     # aut "Fifty million dollars to people in need? And you'd rather have half a million to spend on what? BoobGroup subscriptions?"
-    aut ""
+    aut "Fifty million dollars to people in need? And you'd rather have half a million to spend on what? BoobGroup subscriptions?"
 
-# game/v2/scene35.rpy:422
-translate francais v2s35_wyr1_me_bebc3e86:
+# game/v2/scene35.rpy:419
+translate francais v2s35_wyr1_me_51e5152d:
 
-    # u "*Chuckles* Boob group?"
-    u ""
+    # u "Boob group?"
+    u "Boob group?"
 
-# game/v2/scene35.rpy:427
+# game/v2/scene35.rpy:424
 translate francais v2s35_wyr1_me_0e81d5fa:
 
     # au "You could feed the starving world with that kind of money"
-    au ""
+    au "You could feed the starving world with that kind of money"
 
-# game/v2/scene35.rpy:432
+# game/v2/scene35.rpy:429
 translate francais v2s35_wyr1_me_73f2944e:
 
     # li "But now they'll continue to suffer because of [name]. *Sighs*"
-    li ""
+    li "But now they'll continue to suffer because of [name]. *Sighs*"
 
-# game/v2/scene35.rpy:437
+# game/v2/scene35.rpy:434
 translate francais v2s35_wyr1_me_e2284570:
 
     # u "Woah, woah, woah... Hang on. This is a game!"
-    u ""
+    u "Woah, woah, woah... Hang on. This is a game!"
 
-# game/v2/scene35.rpy:442
+# game/v2/scene35.rpy:439
 translate francais v2s35_wyr1_me_639e20e4:
 
     # u "I didn't realize how seriously we were taking this..."
-    u ""
+    u "I didn't realize how seriously we were taking this..."
 
-# game/v2/scene35.rpy:447
+# game/v2/scene35.rpy:444
 translate francais v2s35_wyr1_me_53e03df5:
 
     # au "Those poor starving children. *Fake sobbing* You could have saved them!"
-    au ""
+    au "Those poor starving children. *Fake sobbing* You could have saved them!"
 
-# game/v2/scene35.rpy:462
+# game/v2/scene35.rpy:459
 translate francais v2s35_wyr1_me_35a79716:
 
     # u "Okay, I'm sorry! Jeez..."
-    u ""
+    u "Okay, I'm sorry! Jeez..."
 
-# game/v2/scene35.rpy:473
+# game/v2/scene35.rpy:470
 translate francais v2s35_wyr1_end_9e491c23:
 
     # li "Okay, now that we've established everyone's moral compass, here's the next one..."
-    li ""
+    li "Okay, now that we've established everyone's moral compass, here's the next one..."
 
-# game/v2/scene35.rpy:478
+# game/v2/scene35.rpy:475
 translate francais v2s35_wyr1_end_b4e9c681:
 
     # li "Would you rather kill Santa Claus or the Easter bunny?"
-    li ""
+    li "Would you rather kill Santa Claus or the Easter bunny?"
 
-# game/v2/scene35.rpy:483
+# game/v2/scene35.rpy:480
 translate francais v2s35_wyr1_end_29ceea68:
 
     # aut "What kind of creepy question is that?"
-    aut ""
+    aut "What kind of creepy question is that?"
 
-# game/v2/scene35.rpy:488
-translate francais v2s35_wyr1_end_93b21793:
+# game/v2/scene35.rpy:485
+translate francais v2s35_wyr1_end_3b343eb1:
 
-    # au "Haha, it's an easy one."
-    au ""
+    # au "No way, that's an easy one."
+    au "No way, that's an easy one."
 
-# game/v2/scene35.rpy:493
+# game/v2/scene35.rpy:490
 translate francais v2s35_wyr1_end_92cfe752:
 
     # aut "Maybe for psychopaths..."
-    aut ""
+    aut "Maybe for psychopaths..."
 
-# game/v2/scene35.rpy:498
+# game/v2/scene35.rpy:495
 translate francais v2s35_wyr1_end_e1a6822a:
 
     # u "I guess it depends on what your favorite holiday is."
-    u ""
+    u "I guess it depends on what your favorite holiday is."
 
-# game/v2/scene35.rpy:503
+# game/v2/scene35.rpy:500
 translate francais v2s35_wyr1_end_8371f5fb:
 
     # li "Yeah, that's what I'm thinking."
-    li ""
+    li "Yeah, that's what I'm thinking."
 
-# game/v2/scene35.rpy:508
-translate francais v2s35_wyr1_end_2fe18431:
+# game/v2/scene35.rpy:505
+translate francais v2s35_wyr1_end_de3e0dea:
 
-    # aut "Murdering based on favorites... This is getting scary *Giggles*"
-    aut ""
+    # aut "Murdering based on favorites... This is getting scary."
+    aut "Murdering based on favorites... This is getting scary."
 
-# game/v2/scene35.rpy:540
+# game/v2/scene35.rpy:537
 translate francais v2s35_wyr2_santa_40f17544:
 
     # li "*Gasps* Autumn and [name]! How dare you kill Santa?!"
-    li ""
+    li "*Gasps* Autumn and [name]! How dare you kill Santa?!"
 
-# game/v2/scene35.rpy:545
+# game/v2/scene35.rpy:542
 translate francais v2s35_wyr2_santa_5c94fc28:
 
     # au "How?! Santa only brings gifts and joy! Why kill him for that, you psychos?"
-    au ""
+    au "How?! Santa only brings gifts and joy! Why kill him for that, you psychos?"
 
-# game/v2/scene35.rpy:550
+# game/v2/scene35.rpy:547
 translate francais v2s35_wyr2_santa_9eda7324:
 
     # aut "How could you two kill a poor defenseless bunny rabbit?!"
-    aut ""
+    aut "How could you two kill a poor defenseless bunny rabbit?!"
 
-# game/v2/scene35.rpy:555
+# game/v2/scene35.rpy:552
 translate francais v2s35_wyr2_santa_19650bf0:
 
     # au "With a shotgun..."
-    au ""
+    au "With a shotgun..."
 
-# game/v2/scene35.rpy:565
-translate francais v2s35_wyr2_santa_0a8056d1:
+# game/v2/scene35.rpy:562
+translate francais v2s35_wyr2_santa_946c1fa1:
 
-    # u "Santa has lived plenty of years, alright? A bunny that leaves surprise-filled eggs, is far superior."
-    u ""
+    # u "Santa has lived plenty of years, all right? A bunny that leaves surprise-filled eggs, is far superior."
+    u "Santa has lived plenty of years, all right? A bunny that leaves surprise-filled eggs, is far superior."
 
-# game/v2/scene35.rpy:570
+# game/v2/scene35.rpy:567
 translate francais v2s35_wyr2_santa_563e5b52:
 
     # au "I can't believe this."
-    au ""
+    au "I can't believe this."
 
-# game/v2/scene35.rpy:575
+# game/v2/scene35.rpy:572
 translate francais v2s35_wyr2_santa_121b9ba1:
 
     # u "And we can't believe you shot the Easter bunny. No more Easter baskets for you."
-    u ""
+    u "And we can't believe you shot the Easter bunny. No more Easter baskets for you."
 
-# game/v2/scene35.rpy:580
+# game/v2/scene35.rpy:577
 translate francais v2s35_wyr2_santa_645df85c:
 
     # au "Fine, I don't care. Easter's super lame compared to Christmas; Everyone knows that."
-    au ""
+    au "Fine, I don't care. Easter's super lame compared to Christmas; Everyone knows that."
 
-# game/v2/scene35.rpy:585
+# game/v2/scene35.rpy:582
 translate francais v2s35_wyr2_santa_5553f1ea:
 
     # li "We can still celebrate Easter. Let's just find a new animal."
-    li ""
+    li "We can still celebrate Easter. Let's just find a new animal."
 
-# game/v2/scene35.rpy:590
+# game/v2/scene35.rpy:587
 translate francais v2s35_wyr2_santa_47ccc256:
 
     # au "The Easter panda!"
-    au ""
+    au "The Easter panda!"
 
-# game/v2/scene35.rpy:595
-translate francais v2s35_wyr2_santa_bd624890:
+# game/v2/scene35.rpy:592
+translate francais v2s35_wyr2_santa_68fc0e3e:
 
-    # li "The Easter giraffe. *Laughs*"
-    li ""
+    # li "The Easter giraffe!"
+    li "The Easter giraffe!"
 
-# game/v2/scene35.rpy:600
+# game/v2/scene35.rpy:597
 translate francais v2s35_wyr2_santa_79da7211:
 
     # aut "Unbelievable..."
-    aut ""
+    aut "Unbelievable..."
 
-# game/v2/scene35.rpy:605
+# game/v2/scene35.rpy:602
 translate francais v2s35_wyr2_santa_b40fc92a:
 
     # u "At least with Santa gone, one of the elves has a chance to move up in the company."
-    u ""
+    u "At least with Santa gone, one of the elves has a chance to move up in the company."
 
-# game/v2/scene35.rpy:610
+# game/v2/scene35.rpy:607
 translate francais v2s35_wyr2_santa_73d71cb2:
 
     # au "So, you're saying it's okay to murder Santa if it opens a job for an elf?"
-    au ""
+    au "So, you're saying it's okay to murder Santa if it opens a job for an elf?"
 
-# game/v2/scene35.rpy:615
+# game/v2/scene35.rpy:612
 translate francais v2s35_wyr2_santa_31d8dc2f:
 
     # u "I feel good about my decision, Aubrey. I helped an elf. You murdered a bunny."
-    u ""
+    u "I feel good about my decision, Aubrey. I helped an elf. You murdered a bunny."
 
-# game/v2/scene35.rpy:625
+# game/v2/scene35.rpy:622
 translate francais v2s35_wyr2_easter_ae64b370:
 
     # li "Autumn! You killed Santa?"
-    li ""
+    li "Autumn! You killed Santa?"
 
-# game/v2/scene35.rpy:630
+# game/v2/scene35.rpy:627
 translate francais v2s35_wyr2_easter_03b582ef:
 
     # aut "Well, I'm not killing an animal! Sorry not sorry."
-    aut ""
+    aut "Well, I'm not killing an animal! Sorry not sorry."
 
-# game/v2/scene35.rpy:635
+# game/v2/scene35.rpy:632
 translate francais v2s35_wyr2_easter_dba1a699:
 
     # u "Tell that to Santa's wife!"
-    u ""
+    u "Tell that to Santa's wife!"
 
-# game/v2/scene35.rpy:646
+# game/v2/scene35.rpy:643
 translate francais v2s35_wyr2_easter_23df728e:
 
     # au "Yeah, and all the elves."
-    au ""
+    au "Yeah, and all the elves."
 
-# game/v2/scene35.rpy:657
+# game/v2/scene35.rpy:654
 translate francais v2s35_wyr2_easter_23df728e_1:
 
     # au "Yeah, and all the elves."
-    au ""
+    au "Yeah, and all the elves."
 
-# game/v2/scene35.rpy:662
+# game/v2/scene35.rpy:659
 translate francais v2s35_wyr2_easter_bcbd1362:
 
     # li "They're all crying themselves to sleep tonight because of you."
-    li ""
+    li "They're all crying themselves to sleep tonight because of you."
 
-# game/v2/scene35.rpy:667
+# game/v2/scene35.rpy:664
 translate francais v2s35_wyr2_easter_e60f7014:
 
     # u "Damn, Autumn. Shame on you..."
-    u ""
+    u "Damn, Autumn. Shame on you..."
 
-# game/v2/scene35.rpy:672
-translate francais v2s35_wyr2_easter_d3799d7a:
+# game/v2/scene35.rpy:669
+translate francais v2s35_wyr2_easter_5a57dd13:
 
-    # li "Christmas is over... *Fake sobbing*"
-    li ""
+    # li "Christmas is ruined forever... *Fake sobbing*"
+    li "Christmas is ruined forever... *Fake sobbing*"
 
-# game/v2/scene35.rpy:677
+# game/v2/scene35.rpy:674
 translate francais v2s35_wyr2_easter_80bbabc2:
 
     # aut "What? Haha, come on you guys... They'd have a contingency plan for that, I'm sure."
-    aut ""
+    aut "What? Haha, come on you guys... They'd have a contingency plan for that, I'm sure."
 
-# game/v2/scene35.rpy:682
+# game/v2/scene35.rpy:679
 translate francais v2s35_wyr2_easter_503b7096:
 
     # u "I guess we'll find out soon enough."
-    u ""
+    u "I guess we'll find out soon enough."
 
-# game/v2/scene35.rpy:687
+# game/v2/scene35.rpy:684
 translate francais v2s35_wyr2_easter_5166f784:
 
     # aut "How can you all be so okay with killing the Easter bunny?"
-    aut ""
+    aut "How can you all be so okay with killing the Easter bunny?"
 
-# game/v2/scene35.rpy:692
-translate francais v2s35_wyr2_easter_5d4002fc:
+# game/v2/scene35.rpy:689
+translate francais v2s35_wyr2_easter_ef4967f2:
 
-    # au "At least we can eat the Easter bunny. I wouldn't want to chew on Santa. *Laughs*"
-    au ""
+    # au "At least we can eat the Easter bunny. I wouldn't want to chew on Santa."
+    au "At least we can eat the Easter bunny. I wouldn't want to chew on Santa."
 
-# game/v2/scene35.rpy:697
+# game/v2/scene35.rpy:694
 translate francais v2s35_wyr2_easter_c572b5e3:
 
     # li "Eww, that's so gross, Aubrey..."
-    li ""
+    li "Eww, that's so gross, Aubrey..."
 
-# game/v2/scene35.rpy:702
+# game/v2/scene35.rpy:699
 translate francais v2s35_wyr2_easter_1feace8c:
 
     # au "You're welcome."
-    au ""
+    au "You're welcome."
 
-# game/v2/scene35.rpy:707
+# game/v2/scene35.rpy:704
 translate francais v2s35_wyr2_easter_799939d5:
 
     # u "Anyone can dress up as a bunny to take its place. Get me a basket and some eggs and our problem is solved."
-    u ""
+    u "Anyone can dress up as a bunny to take its place. Get me a basket and some eggs and our problem is solved."
 
-# game/v2/scene35.rpy:726
+# game/v2/scene35.rpy:723
 translate francais v2s35_wyr2_easter_5f1e3354:
 
     # u "But finding a new Santa? Sheesh... That's a recruiting nightmare."
-    u ""
+    u "But finding a new Santa? Sheesh... That's a recruiting nightmare."
 
-# game/v2/scene35.rpy:732
+# game/v2/scene35.rpy:729
 translate francais v2s35_wyr2_easter_b78687dc:
 
     # au "Yeah, Autumn, you really fucked us on this one."
-    au ""
+    au "Yeah, Autumn, you really fucked us on this one."
 
-# game/v2/scene35.rpy:748
-translate francais v2s35_wyr2_easter_44bfc2f4:
+# game/v2/scene35.rpy:745
+translate francais v2s35_wyr2_easter_3a07014d:
 
-    # aut "Alright, alright. Say what you want, but I'm never going to kill that poor bunny."
-    aut ""
+    # aut "All right, all right. Say what you want, but I'm never going to kill that poor bunny."
+    aut "All right, all right. Say what you want, but I'm never going to kill that poor bunny."
 
-# game/v2/scene35.rpy:755
+# game/v2/scene35.rpy:752
 translate francais v2s35_wyr2_end_80b87dd1:
 
     # li "Now that we know who the murderers are, here's number three..."
-    li ""
+    li "Now that we know who the murderers are, here's number three..."
 
-# game/v2/scene35.rpy:760
+# game/v2/scene35.rpy:757
 translate francais v2s35_wyr2_end_657820fb:
 
     # li "Would you rather have the body of a frog and keep your human mind, or keep your human body and have the mind of a frog?"
-    li ""
+    li "Would you rather have the body of a frog and keep your human mind, or keep your human body and have the mind of a frog?"
 
-# game/v2/scene35.rpy:765
+# game/v2/scene35.rpy:762
 translate francais v2s35_wyr2_end_f153aa4f:
 
     # au "..."
-    au ""
+    au "..."
 
-# game/v2/scene35.rpy:770
+# game/v2/scene35.rpy:767
 translate francais v2s35_wyr2_end_08a9e8e2:
 
     # aut "I..."
-    aut ""
+    aut "I..."
 
-# game/v2/scene35.rpy:775
-translate francais v2s35_wyr2_end_834e3c69:
+# game/v2/scene35.rpy:772
+translate francais v2s35_wyr2_end_75eb9e12:
 
-    # u "These are getting really weird, Lindsey. *Laughs*"
-    u ""
+    # u "These are getting really out there, Lindsey."
+    u "These are getting really out there, Lindsey."
 
-# game/v2/scene35.rpy:780
+# game/v2/scene35.rpy:777
 translate francais v2s35_wyr2_end_644d383e:
 
     # li "They're supposed to make you think!"
-    li ""
+    li "They're supposed to make you think!"
 
-# game/v2/scene35.rpy:785
+# game/v2/scene35.rpy:782
 translate francais v2s35_wyr2_end_5f4748d6:
 
     # aut "Actually, the more I think about it, the easier it is to choose."
-    aut ""
+    aut "Actually, the more I think about it, the easier it is to choose."
 
-# game/v2/scene35.rpy:790
-translate francais v2s35_wyr2_end_efe78ead:
+# game/v2/scene35.rpy:787
+translate francais v2s35_wyr2_end_72ba1d3a:
 
-    # u "Ha, really? Let's see..."
-    u ""
+    # u "Oh really? Let's see..."
+    u "Oh really? Let's see..."
 
-# game/v2/scene35.rpy:819
+# game/v2/scene35.rpy:816
 translate francais v2s35_wyr3_frogbody_548e78fa:
 
     # li "Really, Aubrey?"
-    li ""
+    li "Really, Aubrey?"
 
-# game/v2/scene35.rpy:824
+# game/v2/scene35.rpy:821
 translate francais v2s35_wyr3_frogbody_1cfa81ac:
 
     # au "What?"
-    au ""
+    au "What?"
 
-# game/v2/scene35.rpy:829
+# game/v2/scene35.rpy:826
 translate francais v2s35_wyr3_frogbody_54d8c63f:
 
     # u "So, you're happy just jumping around all day, swimming in rivers and eating flies?"
-    u ""
+    u "So, you're happy just jumping around all day, swimming in rivers and eating flies?"
 
-# game/v2/scene35.rpy:834
-translate francais v2s35_wyr3_frogbody_a770bc2f:
+# game/v2/scene35.rpy:831
+translate francais v2s35_wyr3_frogbody_f7151fa8:
 
-    # au "Ha! Yeah, actually. It sounds great."
-    au ""
+    # au "Yeah, actually! It sounds great."
+    au "Yeah, actually! It sounds great."
 
-# game/v2/scene35.rpy:836
+# game/v2/scene35.rpy:833
 translate francais v2s35_wyr3_frogbody_a8e84e2f:
 
     # au "I could still do human things using my human body, but since I have a frog brain... No expectations, no pressure at all."
-    au ""
+    au "I could still do human things using my human body, but since I have a frog brain... No expectations, no pressure at all."
 
-# game/v2/scene35.rpy:841
+# game/v2/scene35.rpy:838
 translate francais v2s35_wyr3_frogbody_e85d5da8:
 
     # u "Huh..."
-    u ""
+    u "Huh..."
 
-# game/v2/scene35.rpy:846
+# game/v2/scene35.rpy:843
 translate francais v2s35_wyr3_frogbody_63faee1c:
 
     # au "Just enjoying life, sunbathing all day. It would be the life!"
-    au ""
+    au "Just enjoying life, sunbathing all day. It would be the life!"
 
-# game/v2/scene35.rpy:851
+# game/v2/scene35.rpy:848
 translate francais v2s35_wyr3_frogbody_10d3070e:
 
     # aut "Wait, that sounds really nice... Can I change my answer?"
-    aut ""
+    aut "Wait, that sounds really nice... Can I change my answer?"
 
-# game/v2/scene35.rpy:856
+# game/v2/scene35.rpy:853
 translate francais v2s35_wyr3_frogbody_9bcc352d:
 
     # li "Absolutely not! You made your choice. You're now a tiny frog with a human mind."
-    li ""
+    li "Absolutely not! You made your choice. You're now a tiny frog with a human mind."
 
-# game/v2/scene35.rpy:866
+# game/v2/scene35.rpy:863
 translate francais v2s35_wyr3_frogbody_6bcad5ba:
 
     # u "Yeah, but we're hyper-intelligent frogs. We could build cities, you know."
-    u ""
+    u "Yeah, but we're hyper-intelligent frogs. We could build cities, you know."
 
-# game/v2/scene35.rpy:871
+# game/v2/scene35.rpy:868
 translate francais v2s35_wyr3_frogbody_52ed8cbe:
 
     # li "True. Whatever we wanted."
-    li ""
+    li "True. Whatever we wanted."
 
-# game/v2/scene35.rpy:876
+# game/v2/scene35.rpy:873
 translate francais v2s35_wyr3_frogbody_3d663d00:
 
     # u "Maybe one day we could take over the planet."
-    u ""
+    u "Maybe one day we could take over the planet."
 
-# game/v2/scene35.rpy:881
+# game/v2/scene35.rpy:878
 translate francais v2s35_wyr3_frogbody_a73abc7f:
 
     # aut "Okay, I'm happy with my choice again. *Giggles* Animals taking the planet back!"
-    aut ""
+    aut "Okay, I'm happy with my choice again. *Giggles* Animals taking the planet back!"
 
-# game/v2/scene35.rpy:886
+# game/v2/scene35.rpy:883
 translate francais v2s35_wyr3_frogbody_9414198d:
 
     # li "Frog power!"
-    li ""
+    li "Frog power!"
 
-# game/v2/scene35.rpy:891
+# game/v2/scene35.rpy:888
 translate francais v2s35_wyr3_frogbody_cc5dbf93:
 
     # aut "Frog power!"
-    aut ""
+    aut "Frog power!"
 
-# game/v2/scene35.rpy:896
+# game/v2/scene35.rpy:893
 translate francais v2s35_wyr3_frogbody_9d80ea84:
 
     # u "Frog power!"
-    u ""
+    u "Frog power!"
 
-# game/v2/scene35.rpy:901
+# game/v2/scene35.rpy:898
 translate francais v2s35_wyr3_frogbody_ec258f3b:
 
     # au "Human with frog brain power!"
-    au ""
+    au "Human with frog brain power!"
 
-# game/v2/scene35.rpy:916
+# game/v2/scene35.rpy:913
 translate francais v2s35_wyr3_humanbody_ed4ad848:
 
     # li "Looks like it's just me and Autumn keeping each other company as frogs."
-    li ""
+    li "Looks like it's just me and Autumn keeping each other company as frogs."
 
-# game/v2/scene35.rpy:921
+# game/v2/scene35.rpy:918
 translate francais v2s35_wyr3_humanbody_0de257ca:
 
     # aut "Haha, I think it would be a lot of fun! Plus, we'd be cute frogs."
-    aut ""
+    aut "Haha, I think it would be a lot of fun! Plus, we'd be cute frogs."
 
-# game/v2/scene35.rpy:926
+# game/v2/scene35.rpy:923
 translate francais v2s35_wyr3_humanbody_71160b24:
 
     # li "Are you kidding? We'd be the hottest frogs!"
-    li ""
+    li "Are you kidding? We'd be the hottest frogs!"
 
-# game/v2/scene35.rpy:931
+# game/v2/scene35.rpy:928
 translate francais v2s35_wyr3_humanbody_8317e0d7:
 
     # u "What type of adventures do you think you'll have?"
-    u ""
+    u "What type of adventures do you think you'll have?"
 
-# game/v2/scene35.rpy:936
+# game/v2/scene35.rpy:933
 translate francais v2s35_wyr3_humanbody_0b1b15d5:
 
     # aut "I just like the simplicity of exploring nature from a frog's perspective."
-    aut ""
+    aut "I just like the simplicity of exploring nature from a frog's perspective."
 
-# game/v2/scene35.rpy:941
+# game/v2/scene35.rpy:938
 translate francais v2s35_wyr3_humanbody_c44f461b:
 
     # u "But you would also have to eat flies for the rest of your life."
-    u ""
+    u "But you would also have to eat flies for the rest of your life."
 
-# game/v2/scene35.rpy:946
+# game/v2/scene35.rpy:943
 translate francais v2s35_wyr3_humanbody_b6f4bd73:
 
     # li "Ugh, no! No more coffee or Chinese food or... anything?"
-    li ""
+    li "Ugh, no! No more coffee or Chinese food or... anything?"
 
-# game/v2/scene35.rpy:951
+# game/v2/scene35.rpy:948
 translate francais v2s35_wyr3_humanbody_eeff9f53:
 
     # u "Nope. Just flies, all day, every day. *Laughs*"
-    u ""
+    u "Nope. Just flies, all day, every day. *Laughs*"
 
-# game/v2/scene35.rpy:956
+# game/v2/scene35.rpy:953
 translate francais v2s35_wyr3_humanbody_a2765f19:
 
     # au "Yeah, I'm happy with my choice. I still get to eat whatever I want."
-    au ""
+    au "Yeah, I'm happy with my choice. I still get to eat whatever I want."
 
-# game/v2/scene35.rpy:961
+# game/v2/scene35.rpy:958
 translate francais v2s35_wyr3_humanbody_6e54c6cc:
 
     # aut "But would your frog mind appreciate human food?"
-    aut ""
+    aut "But would your frog mind appreciate human food?"
 
-# game/v2/scene35.rpy:966
+# game/v2/scene35.rpy:963
 translate francais v2s35_wyr3_humanbody_9943e504:
 
     # li "Yeah, it would reject everything, and it wouldn't be long before you're eating flies like us."
-    li ""
+    li "Yeah, it would reject everything, and it wouldn't be long before you're eating flies like us."
 
-# game/v2/scene35.rpy:971
+# game/v2/scene35.rpy:968
 translate francais v2s35_wyr3_humanbody_be893b16:
 
     # au "Fuck, that's true. Okay, I'll eat the damn flies."
-    au ""
+    au "Fuck, that's true. Okay, I'll eat the damn flies."
 
-# game/v2/scene35.rpy:976
+# game/v2/scene35.rpy:973
 translate francais v2s35_wyr3_humanbody_c81c5cbf:
 
     # u "Aubrey, let's just go live in a river and eat flies. These two will need our help protecting them from predators anyway."
-    u ""
+    u "Aubrey, let's just go live in a river and eat flies. These two will need our help protecting them from predators anyway."
 
-# game/v2/scene35.rpy:982
-translate francais v2s35_wyr3_humanbody_5af7393d:
+# game/v2/scene35.rpy:979
+translate francais v2s35_wyr3_humanbody_fae13c02:
 
-    # au "Ha."
-    au ""
+    # au "Aha."
+    au "Aha."
 
-# game/v2/scene35.rpy:988
-translate francais v2s35_wyr3_humanbody_e9c1f669:
+# game/v2/scene35.rpy:985
+translate francais v2s35_wyr3_humanbody_589e4ea0:
 
-    # au "Haha, okay, sounds like a plan."
-    au ""
+    # au "Yeah, okay! Sounds like a plan."
+    au "Yeah, okay! Sounds like a plan."
 
-# game/v2/scene35.rpy:993
+# game/v2/scene35.rpy:990
 translate francais v2s35_wyr3_humanbody_3f01105e:
 
     # aut "Aww, we have personal human bodyguards!"
-    aut ""
+    aut "Aww, we have personal human bodyguards!"
 
-# game/v2/scene35.rpy:998
-translate francais v2s35_wyr3_humanbody_25500ead:
+# game/v2/scene35.rpy:995
+translate francais v2s35_wyr3_humanbody_5901bb9f:
 
-    # li "I feel so protected... Hehe."
-    li ""
+    # li "I feel so protected..."
+    li "I feel so protected..."
 
-# game/v2/scene35.rpy:1003
+# game/v2/scene35.rpy:1000
 translate francais v2s35_wyr3_humanbody_8b1ad22c:
 
     # au "What's the next creep question, huh?"
-    au ""
+    au "What's the next creep question, huh?"
 
-# game/v2/scene35.rpy:1009
+# game/v2/scene35.rpy:1006
 translate francais v2s35_wyr3_end_e923ea4b:
 
     # li "Number four..."
-    li ""
+    li "Number four..."
 
-# game/v2/scene35.rpy:1011
+# game/v2/scene35.rpy:1008
 translate francais v2s35_wyr3_end_de55c4be:
 
     # li "Would you rather have no sex for the rest of your life, or only have an orgy with the same twenty people for the rest of your life?"
-    li ""
+    li "Would you rather have no sex for the rest of your life, or only have an orgy with the same twenty people for the rest of your life?"
 
-# game/v2/scene35.rpy:1016
+# game/v2/scene35.rpy:1013
 translate francais v2s35_wyr3_end_edfc6364:
 
     # au "Orgy. For sure. One thousand percent."
-    au ""
+    au "Orgy. For sure. One thousand percent."
 
-# game/v2/scene35.rpy:1027
+# game/v2/scene35.rpy:1024
 translate francais v2s35_wyr3_end_b6ebdb61:
 
     # li "You sure you don't need a few minutes to think it over? *Giggles*"
-    li ""
+    li "You sure you don't need a few minutes to think it over? *Giggles*"
 
-# game/v2/scene35.rpy:1032
+# game/v2/scene35.rpy:1029
 translate francais v2s35_wyr3_end_019d9a32:
 
     # au "Nope. I've made my decision."
-    au ""
+    au "Nope. I've made my decision."
 
-# game/v2/scene35.rpy:1037
+# game/v2/scene35.rpy:1034
 translate francais v2s35_wyr3_end_44bc734f:
 
     # li "I mean, it's an orgy, though. Twenty people every time?"
-    li ""
+    li "I mean, it's an orgy, though. Twenty people every time?"
 
-# game/v2/scene35.rpy:1042
+# game/v2/scene35.rpy:1039
 translate francais v2s35_wyr3_end_26deedde:
 
     # u "Wait, so there's no option to just have a normal one on one relationship?"
-    u ""
+    u "Wait, so there's no option to just have a normal one on one relationship?"
 
-# game/v2/scene35.rpy:1047
+# game/v2/scene35.rpy:1044
 translate francais v2s35_wyr3_end_21679fbb:
 
     # li "Nope. No sex at all, or sex with all twenty."
-    li ""
+    li "Nope. No sex at all, or sex with all twenty."
 
-# game/v2/scene35.rpy:1057
+# game/v2/scene35.rpy:1054
 translate francais v2s35_wyr3_end_43789d64:
 
     # aut "..."
-    aut ""
+    aut "..."
 
-# game/v2/scene35.rpy:1062
+# game/v2/scene35.rpy:1059
 translate francais v2s35_wyr3_end_df924215:
 
     # u "You okay, Autumn?"
-    u ""
+    u "You okay, Autumn?"
 
-# game/v2/scene35.rpy:1067
+# game/v2/scene35.rpy:1064
 translate francais v2s35_wyr3_end_397f7b6d:
 
     # aut "I'm just thinking about my answer."
-    aut ""
+    aut "I'm just thinking about my answer."
 
-# game/v2/scene35.rpy:1096
+# game/v2/scene35.rpy:1093
 translate francais v2s35_wyr4_nosex_66e97126:
 
     # li "Interesting!"
-    li ""
+    li "Interesting!"
 
-# game/v2/scene35.rpy:1101
+# game/v2/scene35.rpy:1098
 translate francais v2s35_wyr4_nosex_6c65abae:
 
     # au "No sex forever? Are you fucking crazy? *Laughs*"
-    au ""
+    au "No sex forever? Are you fucking crazy? *Laughs*"
 
-# game/v2/scene35.rpy:1106
+# game/v2/scene35.rpy:1103
 translate francais v2s35_wyr4_nosex_374f1bf2:
 
     # u "I think an orgy with the same twenty people every time would just get-"
-    u ""
+    u "I think an orgy with the same twenty people every time would just get-"
 
-# game/v2/scene35.rpy:1111
+# game/v2/scene35.rpy:1108
 translate francais v2s35_wyr4_nosex_1f15aebb:
 
     # u "Well... depressing after a while, you know?"
-    u ""
+    u "Well... depressing after a while, you know?"
 
-# game/v2/scene35.rpy:1121
+# game/v2/scene35.rpy:1118
 translate francais v2s35_wyr4_nosex_2ab98257:
 
     # au "Hard to tell. I'll let you know though."
-    au ""
+    au "Hard to tell. I'll let you know though."
 
-# game/v2/scene35.rpy:1131
+# game/v2/scene35.rpy:1128
 translate francais v2s35_wyr4_nosex_2ccd20e9:
 
     # u "And what if you had serious feelings for one of the people there?"
-    u ""
+    u "And what if you had serious feelings for one of the people there?"
 
-# game/v2/scene35.rpy:1133
+# game/v2/scene35.rpy:1130
 translate francais v2s35_wyr4_nosex_d37746d9:
 
     # u "You would have to watch them get fucked by all those other people, forever?"
-    u ""
+    u "You would have to watch them get fucked by all those other people, forever?"
 
-# game/v2/scene35.rpy:1139
+# game/v2/scene35.rpy:1136
 translate francais v2s35_wyr4_nosex_6f3a8875:
 
     # au "Oh... Yeah, you're right..."
-    au ""
+    au "Oh... Yeah, you're right..."
 
-# game/v2/scene35.rpy:1145
-translate francais v2s35_wyr4_nosex_6f3a8875_1:
+# game/v2/scene35.rpy:1142
+translate francais v2s35_wyr4_nosex_9cae0aa3:
 
-    # au "Oh... Yeah, you're right..."
-    au ""
+    # au "Yeah, I guess that's true."
+    au "Yeah, I guess that's true."
 
-# game/v2/scene35.rpy:1150
+# game/v2/scene35.rpy:1147
 translate francais v2s35_wyr4_nosex_53fc92bc:
 
     # li "That sounds awful, actually..."
-    li ""
+    li "That sounds awful, actually..."
 
-# game/v2/scene35.rpy:1155
-translate francais v2s35_wyr4_nosex_e93a6337:
+# game/v2/scene35.rpy:1152
+translate francais v2s35_wyr4_nosex_8d7d3cd2:
 
-    # li "But I still think I would choose the orgy because I can't imagine life without sex, haha. That would be torture."
-    li ""
+    # li "But I still think I would choose the orgy because I can't imagine life without sex. That would be torture."
+    li "But I still think I would choose the orgy because I can't imagine life without sex. That would be torture."
 
-# game/v2/scene35.rpy:1160
+# game/v2/scene35.rpy:1157
 translate francais v2s35_wyr4_nosex_72aad8f5:
 
     # u "I mean, it would totally suck, but still. I'd rather have no sex than be stuck with twenty people."
-    u ""
+    u "I mean, it would totally suck, but still. I'd rather have no sex than be stuck with twenty people."
 
-# game/v2/scene35.rpy:1165
+# game/v2/scene35.rpy:1159
+translate francais v2s35_wyr4_nosex_52b8de8d:
+
+    # u "I can always play pocket pool."
+    u "I can always play pocket pool."
+
+# game/v2/scene35.rpy:1164
 translate francais v2s35_wyr4_nosex_f694a0e5:
 
     # li "Is that why you chose it, Autumn?"
-    li ""
+    li "Is that why you chose it, Autumn?"
 
-# game/v2/scene35.rpy:1177
-translate francais v2s35_wyr4_orgy_4083cdeb:
+# game/v2/scene35.rpy:1176
+translate francais v2s35_wyr4_orgy_d209bb2f:
 
-    # li "*Laughs* Looks like I'll be seeing [name] and Aubrey at the orgy."
-    li ""
+    # li "Looks like I'll be seeing [name] and Aubrey at the orgy."
+    li "Looks like I'll be seeing [name] and Aubrey at the orgy."
 
-# game/v2/scene35.rpy:1183
+# game/v2/scene35.rpy:1182
 translate francais v2s35_wyr4_orgy_aba2ad91:
 
     # au "About time!"
-    au ""
+    au "About time!"
 
-# game/v2/scene35.rpy:1189
+# game/v2/scene35.rpy:1188
 translate francais v2s35_wyr4_orgy_aba2ad91_1:
 
     # au "About time!"
-    au ""
+    au "About time!"
 
-# game/v2/scene35.rpy:1194
+# game/v2/scene35.rpy:1193
 translate francais v2s35_wyr4_orgy_c152f654:
 
     # u "I wonder who else we would see there."
-    u ""
+    u "I wonder who else we would see there."
 
-# game/v2/scene35.rpy:1199
+# game/v2/scene35.rpy:1198
 translate francais v2s35_wyr4_orgy_d6feff40:
 
     # au "I hope we get to choose a few of them..."
-    au ""
+    au "I hope we get to choose a few of them..."
 
-# game/v2/scene35.rpy:1204
+# game/v2/scene35.rpy:1203
 translate francais v2s35_wyr4_orgy_7891e2f8:
 
     # li "I don't think we'd get a choice, hate to break it to you."
-    li ""
+    li "I don't think we'd get a choice, hate to break it to you."
 
-# game/v2/scene35.rpy:1209
+# game/v2/scene35.rpy:1208
 translate francais v2s35_wyr4_orgy_52266c33:
 
     # u "Well, that's a little weird. Strangers?"
-    u ""
+    u "Well, that's a little weird. Strangers?"
 
-# game/v2/scene35.rpy:1215
+# game/v2/scene35.rpy:1214
 translate francais v2s35_wyr4_orgy_1fb58b30:
 
     # au "It doesn't matter who's there. It's not like you have to fuck everyone."
-    au ""
+    au "It doesn't matter who's there. It's not like you have to fuck everyone."
 
-# game/v2/scene35.rpy:1220
+# game/v2/scene35.rpy:1219
 translate francais v2s35_wyr4_orgy_a3613f51:
 
     # u "Isn't that the idea?"
-    u ""
+    u "Isn't that the idea?"
 
-# game/v2/scene35.rpy:1225
+# game/v2/scene35.rpy:1224
 translate francais v2s35_wyr4_orgy_eee78b7a:
 
     # au "No! You just do stuff with whoever you want."
-    au ""
+    au "No! You just do stuff with whoever you want."
 
-# game/v2/scene35.rpy:1230
+# game/v2/scene35.rpy:1229
 translate francais v2s35_wyr4_orgy_89bbcdfd:
 
     # u "I guess you could just sit and watch then..."
-    u ""
+    u "I guess you could just sit and watch then..."
 
-# game/v2/scene35.rpy:1236
+# game/v2/scene35.rpy:1235
 translate francais v2s35_wyr4_orgy_1fb58b30_1:
 
     # au "It doesn't matter who's there. It's not like you have to fuck everyone."
-    au ""
+    au "It doesn't matter who's there. It's not like you have to fuck everyone."
 
-# game/v2/scene35.rpy:1241
+# game/v2/scene35.rpy:1240
 translate francais v2s35_wyr4_orgy_a3613f51_1:
 
     # u "Isn't that the idea?"
-    u ""
+    u "Isn't that the idea?"
 
-# game/v2/scene35.rpy:1246
+# game/v2/scene35.rpy:1245
 translate francais v2s35_wyr4_orgy_eee78b7a_1:
 
     # au "No! You just do stuff with whoever you want."
-    au ""
+    au "No! You just do stuff with whoever you want."
 
-# game/v2/scene35.rpy:1251
+# game/v2/scene35.rpy:1250
 translate francais v2s35_wyr4_orgy_89bbcdfd_1:
 
     # u "I guess you could just sit and watch then..."
-    u ""
+    u "I guess you could just sit and watch then..."
 
-# game/v2/scene35.rpy:1261
+# game/v2/scene35.rpy:1260
 translate francais v2s35_wyr4_orgy_2563d541:
 
     # u "If you wanted to, of course."
-    u ""
+    u "If you wanted to, of course."
 
-# game/v2/scene35.rpy:1276
+# game/v2/scene35.rpy:1275
 translate francais v2s35_wyr4_orgy_29d29d54:
 
     # li "So Autumn, you could really give up sex forever?"
-    li ""
+    li "So Autumn, you could really give up sex forever?"
 
-# game/v2/scene35.rpy:1281
+# game/v2/scene35.rpy:1280
 translate francais v2s35_wyr4_orgy_58c93cfe:
 
     # au "Insanity!"
-    au ""
+    au "Insanity!"
 
-# game/v2/scene35.rpy:1288
+# game/v2/scene35.rpy:1287
 translate francais v2s35_wyr4_end_f4bf2b94:
 
     # aut "Well..."
-    aut ""
+    aut "Well..."
 
-# game/v2/scene35.rpy:1298
+# game/v2/scene35.rpy:1297
 translate francais v2s35_wyr4_end_a9e93cd2:
 
     # aut "I guess I can talk to you guys about it, I just haven't said it to anyone yet."
-    aut ""
+    aut "I guess I can talk to you guys about it, I just haven't said it to anyone yet."
 
-# game/v2/scene35.rpy:1303
+# game/v2/scene35.rpy:1302
 translate francais v2s35_wyr4_end_fffb92d7:
 
     # u "Said what?"
-    u ""
+    u "Said what?"
 
-# game/v2/scene35.rpy:1308
-translate francais v2s35_wyr4_end_b78c144d:
+# game/v2/scene35.rpy:1307
+translate francais v2s35_wyr4_end_191fba13:
 
-    # aut "I'm already used to not having sex, ha. I'm asexual."
-    aut ""
+    # aut "I'm already used to not having sex, actually. I'm asexual."
+    aut "I'm already used to not having sex, actually. I'm asexual."
 
-# game/v2/scene35.rpy:1313
+# game/v2/scene35.rpy:1312
 translate francais v2s35_wyr4_end_faaa2790:
 
     # au "No... Fucking... Way!"
-    au ""
+    au "No... Fucking... Way!"
 
-# game/v2/scene35.rpy:1318
+# game/v2/scene35.rpy:1317
 translate francais v2s35_wyr4_end_f8169f1d:
 
     # u "Asexual?"
-    u ""
+    u "Asexual?"
 
-# game/v2/scene35.rpy:1323
-translate francais v2s35_wyr4_end_fa716bd5:
+# game/v2/scene35.rpy:1322
+translate francais v2s35_wyr4_end_12362926:
 
-    # aut "Yeah, so... It was an easy answer for me, haha."
-    aut ""
+    # aut "Yeah, so... It was an easy answer for me."
+    aut "Yeah, so... It was an easy answer for me."
 
-# game/v2/scene35.rpy:1328
+# game/v2/scene35.rpy:1327
+translate francais v2s35_wyr4_end_bef13ffb:
+
+    # au "Wait, but I've heard you talking about-"
+    au "Wait, but I've heard you talking about-"
+
+# game/v2/scene35.rpy:1332
+translate francais v2s35_wyr4_end_0b2db7a6:
+
+    # aut "I've fooled around with guys a little before just to try it."
+    aut "I've fooled around with guys a little before just to try it."
+
+# game/v2/scene35.rpy:1334
+translate francais v2s35_wyr4_end_523f6771:
+
+    # aut "Sex doesn't gross me out. I've just never had any interest in going all the way, you know?"
+    aut "Sex doesn't gross me out. I've just never had any interest in going all the way, you know?"
+
+# game/v2/scene35.rpy:1339
 translate francais v2s35_wyr4_end_6e2cad2d:
 
     # au "Not to be insensitive, but how exactly does that work?"
-    au ""
+    au "Not to be insensitive, but how exactly does that work?"
 
-# game/v2/scene35.rpy:1341
+# game/v2/scene35.rpy:1352
 translate francais v2most_likely_to_1a8454b2:
 
     # li "Okay, everyone. Phones out. I've messaged you a link to join the game."
-    li ""
+    li "Okay, everyone. Phones out. I've messaged you a link to join the game."
 
-# game/v2/scene35.rpy:1351
+# game/v2/scene35.rpy:1362
 translate francais v2most_likely_to_66679736:
 
     # aut "Okay, I've got it."
-    aut ""
+    aut "Okay, I've got it."
 
-# game/v2/scene35.rpy:1356
+# game/v2/scene35.rpy:1367
 translate francais v2most_likely_to_60e0dd80:
 
     # au "Me too."
-    au ""
+    au "Me too."
 
-# game/v2/scene35.rpy:1361
+# game/v2/scene35.rpy:1372
 translate francais v2most_likely_to_9809b3d3:
 
     # u "Ready."
-    u ""
+    u "Ready."
 
-# game/v2/scene35.rpy:1366
+# game/v2/scene35.rpy:1377
 translate francais v2most_likely_to_c3c164cd:
 
     # li "So, the first one is..."
-    li ""
+    li "So, the first one is..."
 
-# game/v2/scene35.rpy:1368
+# game/v2/scene35.rpy:1379
 translate francais v2most_likely_to_a76d4589:
 
     # li "Who is most likely to be the first to die and turn into a zombie in a zombie apocalypse?"
-    li ""
+    li "Who is most likely to be the first to die and turn into a zombie in a zombie apocalypse?"
 
-# game/v2/scene35.rpy:1373
+# game/v2/scene35.rpy:1384
 translate francais v2most_likely_to_c2bb00e9:
 
     # au "Oh, that's easy."
-    au ""
+    au "Oh, that's easy."
 
-# game/v2/scene35.rpy:1378
+# game/v2/scene35.rpy:1389
 translate francais v2most_likely_to_d99ce1ae:
 
     # li "Is it?"
-    li ""
+    li "Is it?"
 
-# game/v2/scene35.rpy:1383
+# game/v2/scene35.rpy:1394
 translate francais v2most_likely_to_3e4895d5:
 
     # u "This just got serious."
-    u ""
+    u "This just got serious."
 
-# game/v2/scene35.rpy:1388
+# game/v2/scene35.rpy:1399
 translate francais v2most_likely_to_5a969650:
 
     # aut "Ew, I want nothing to do with this."
-    aut ""
+    aut "Ew, I want nothing to do with this."
 
-# game/v2/scene35.rpy:1393
+# game/v2/scene35.rpy:1404
 translate francais v2most_likely_to_ef2c62d2:
 
     # li "Okay, let's get started. Just remember you can't vote for yourselves."
-    li ""
+    li "Okay, let's get started. Just remember you can't vote for yourselves."
 
-# game/v2/scene35.rpy:1430
+# game/v2/scene35.rpy:1441
 translate francais v2s35_wml1_lin_adfd9016:
 
     # li "It's a tie between me and Autumn?"
-    li ""
+    li "It's a tie between me and Autumn?"
 
-# game/v2/scene35.rpy:1435
+# game/v2/scene35.rpy:1446
 translate francais v2s35_wml1_lin_f3904903:
 
     # aut "I don't want to be a zombie!"
-    aut ""
+    aut "I don't want to be a zombie!"
 
-# game/v2/scene35.rpy:1440
-translate francais v2s35_wml1_lin_cc0e365a:
+# game/v2/scene35.rpy:1451
+translate francais v2s35_wml1_lin_ea0a7f6a:
 
-    # au "I voted for you because I think you'd try to be friends with them, haha."
-    au ""
+    # au "I voted for you because I think you'd try to be friends with them."
+    au "I voted for you because I think you'd try to be friends with them."
 
-# game/v2/scene35.rpy:1445
+# game/v2/scene35.rpy:1456
 translate francais v2s35_wml1_lin_fb341e8b:
 
     # aut "Really? You think I'd want to be friends with someone who wants to eat me?"
-    aut ""
+    aut "Really? You think I'd want to be friends with someone who wants to eat me?"
 
-# game/v2/scene35.rpy:1450
+# game/v2/scene35.rpy:1461
 translate francais v2s35_wml1_lin_8187ebc9:
 
     # li "You totally would."
-    li ""
+    li "You totally would."
 
-# game/v2/scene35.rpy:1455
+# game/v2/scene35.rpy:1466
 translate francais v2s35_wml1_lin_ef394d07:
 
     # u "Don't worry, Autumn. I think Lindsey would be right there with you."
-    u ""
+    u "Don't worry, Autumn. I think Lindsey would be right there with you."
 
-# game/v2/scene35.rpy:1460
-translate francais v2s35_wml1_lin_e1df64f5:
+# game/v2/scene35.rpy:1471
+translate francais v2s35_wml1_lin_22d38267:
 
-    # u "*Laughs* Zombie sisters."
-    u ""
+    # u "Zombie sisters."
+    u "Zombie sisters."
 
-# game/v2/scene35.rpy:1465
+# game/v2/scene35.rpy:1476
 translate francais v2s35_wml1_lin_998a7e75:
 
     # au "You can share brains!"
-    au ""
+    au "You can share brains!"
 
-# game/v2/scene35.rpy:1470
+# game/v2/scene35.rpy:1481
 translate francais v2s35_wml1_lin_0c9e2116:
 
     # aut "Okay, ew, ew , ew! Stop it!"
-    aut ""
+    aut "Okay, ew, ew , ew! Stop it!"
 
-# game/v2/scene35.rpy:1475
+# game/v2/scene35.rpy:1486
 translate francais v2s35_wml1_lin_2ef1c5fc:
 
     # li "No thank you. I'll pass."
-    li ""
+    li "No thank you. I'll pass."
 
-# game/v2/scene35.rpy:1483
+# game/v2/scene35.rpy:1494
 translate francais v2s35_wml1_aub_9650ba86:
 
     # li "Sorry, Autumn. You're the first one to go."
-    li ""
+    li "Sorry, Autumn. You're the first one to go."
 
-# game/v2/scene35.rpy:1488
+# game/v2/scene35.rpy:1499
 translate francais v2s35_wml1_aub_e1c9311d:
 
     # aut "What? Why?! I don't want to be a zombie."
-    aut ""
+    aut "What? Why?! I don't want to be a zombie."
 
-# game/v2/scene35.rpy:1493
-translate francais v2s35_wml1_aub_a2ece59d:
+# game/v2/scene35.rpy:1504
+translate francais v2s35_wml1_aub_326c42c9:
 
-    # u "I think you got the most votes because you're kind natured... *Chuckles*"
-    u ""
+    # u "I think you got the most votes because you're kind natured..."
+    u "I think you got the most votes because you're kind natured..."
 
-# game/v2/scene35.rpy:1495
+# game/v2/scene35.rpy:1506
 translate francais v2s35_wml1_aub_7c50458a:
 
     # u "It's basically a compliment."
-    u ""
+    u "It's basically a compliment."
 
-# game/v2/scene35.rpy:1500
+# game/v2/scene35.rpy:1511
 translate francais v2s35_wml1_aub_8c9ff145:
 
     # aut "Well, it's true that I'd probably try to help them... And then I'd get eaten."
-    aut ""
+    aut "Well, it's true that I'd probably try to help them... And then I'd get eaten."
 
-# game/v2/scene35.rpy:1505
+# game/v2/scene35.rpy:1516
 translate francais v2s35_wml1_aub_6b5e960a:
 
     # aut "In that case, I'm a proud zombie."
-    aut ""
+    aut "In that case, I'm a proud zombie."
 
-# game/v2/scene35.rpy:1510
-translate francais v2s35_wml1_aub_5ddc063f:
+# game/v2/scene35.rpy:1521
+translate francais v2s35_wml1_aub_1dc6effc:
 
-    # au "Haha, I knew you would embrace the zombie life."
-    au ""
+    # au "See, I knew you would embrace the zombie life."
+    au "See, I knew you would embrace the zombie life."
 
-# game/v2/scene35.rpy:1515
+# game/v2/scene35.rpy:1526
 translate francais v2s35_wml1_aub_e692bd21:
 
     # aut "Zombies are people too."
-    aut ""
+    aut "Zombies are people too."
 
-# game/v2/scene35.rpy:1520
+# game/v2/scene35.rpy:1531
 translate francais v2s35_wml1_aub_a54829a7:
 
     # u "Even though you're rampaging killers who eat nothing but brains?"
-    u ""
+    u "Even though you're rampaging killers who eat nothing but brains?"
 
-# game/v2/scene35.rpy:1525
-translate francais v2s35_wml1_aub_5414cdd9:
+# game/v2/scene35.rpy:1536
+translate francais v2s35_wml1_aub_c7c0b99b:
 
-    # aut "*Laughs* You'd be safe, [name]. Don't worry."
-    aut ""
+    # aut "You'd be safe, [name]. Don't worry."
+    aut "You'd be safe, [name]. Don't worry."
 
-# game/v2/scene35.rpy:1530
-translate francais v2s35_wml1_aub_bd968a6a:
+# game/v2/scene35.rpy:1541
+translate francais v2s35_wml1_aub_9cda31da:
 
-    # u "Haha, what are you saying? I'm brainless?"
-    u ""
+    # u "Damn, what are you saying? I'm brainless?"
+    u "Damn, what are you saying? I'm brainless?"
 
-# game/v2/scene35.rpy:1535
+# game/v2/scene35.rpy:1546
 translate francais v2s35_wml1_aub_5390d91a:
 
     # aut "Of course not! I'm too kind natured to say something like that to someone's face..."
-    aut ""
+    aut "Of course not! I'm too kind natured to say something like that to someone's face..."
 
-# game/v2/scene35.rpy:1545
-translate francais v2s35_wml1_aub_04b77a4a:
+# game/v2/scene35.rpy:1556
+translate francais v2s35_wml1_aub_f690a2b8:
 
-    # u "Haha, ouch!"
-    u ""
+    # u "Damn, I need to go to the hospital to get this burn treated, ouch!"
+    u "Damn, I need to go to the hospital to get this burn treated, ouch!"
 
-# game/v2/scene35.rpy:1550
-translate francais v2s35_wml1_aub_567095ea:
+# game/v2/scene35.rpy:1561
+translate francais v2s35_wml1_aub_99b8341e:
 
-    # aut "*Laughs*"
-    aut ""
+    # aut "I call it like I see it!"
+    aut "I call it like I see it!"
 
-# game/v2/scene35.rpy:1557
+# game/v2/scene35.rpy:1568
 translate francais v2s35_wml1_end_5e78d599:
 
     # li "Okay, time for the second one..."
-    li ""
+    li "Okay, time for the second one..."
 
-# game/v2/scene35.rpy:1559
+# game/v2/scene35.rpy:1570
 translate francais v2s35_wml1_end_e6a8e53a:
 
     # li "Who is most likely to get shit-faced drunk and wake up on the other side of the country?"
-    li ""
+    li "Who is most likely to get shit-faced drunk and wake up on the other side of the country?"
 
-# game/v2/scene35.rpy:1564
-translate francais v2s35_wml1_end_2f1e658c:
+# game/v2/scene35.rpy:1575
+translate francais v2s35_wml1_end_844eb48c:
 
-    # u "Haha, how do you vote for all of us?"
-    u ""
+    # u "How do you vote for all of us?"
+    u "How do you vote for all of us?"
 
-# game/v2/scene35.rpy:1569
-translate francais v2s35_wml1_end_52b1ab00:
+# game/v2/scene35.rpy:1580
+translate francais v2s35_wml1_end_736854da:
 
-    # au "*Laughs* Yeah, it's bound to happen at some point, right?"
-    au ""
+    # au "Yeah, it's bound to happen at some point, right?"
+    au "Yeah, it's bound to happen at some point, right?"
 
-# game/v2/scene35.rpy:1574
+# game/v2/scene35.rpy:1585
 translate francais v2s35_wml1_end_aa263aca:
 
     # aut "Speak for yourself."
-    aut ""
+    aut "Speak for yourself."
 
-# game/v2/scene35.rpy:1579
-translate francais v2s35_wml1_end_a96af88b:
+# game/v2/scene35.rpy:1590
+translate francais v2s35_wml1_end_b0f0f047:
 
-    # u "We'll have to get you shit-faced drunk and find out, haha."
-    u ""
+    # u "We'll have to get you shit-faced drunk and find out."
+    u "We'll have to get you shit-faced drunk and find out."
 
-# game/v2/scene35.rpy:1618
-translate francais v2s35_wml2_c775c2b4:
+# game/v2/scene35.rpy:1629
+translate francais v2s35_wml2_f26027df:
 
-    # li "Haha, was it ever in doubt? [name], let us know where you end up."
-    li ""
+    # li "Was it ever in doubt? [name], let us know where you end up."
+    li "Was it ever in doubt? [name], let us know where you end up."
 
-# game/v2/scene35.rpy:1623
+# game/v2/scene35.rpy:1634
 translate francais v2s35_wml2_d64b48f9:
 
     # u "Woah now, this is bullying. Why did you all vote for me?"
-    u ""
+    u "Woah now, this is bullying. Why did you all vote for me?"
 
-# game/v2/scene35.rpy:1628
+# game/v2/scene35.rpy:1639
 translate francais v2s35_wml2_7183d2a8:
 
     # au "You're in a frat. You guys get up to all kinds of stupid shit."
-    au ""
+    au "You're in a frat. You guys get up to all kinds of stupid shit."
 
-# game/v2/scene35.rpy:1633
-translate francais v2s35_wml2_1c98fcf6:
+# game/v2/scene35.rpy:1644
+translate francais v2s35_wml2_32c85e31:
 
-    # aut "Yeah, it's only a matter of time before you get shit-faced and end up on a random bus ride across country, haha."
-    aut ""
+    # aut "Yeah, it's only a matter of time before you get shit-faced and end up on a random bus ride across country."
+    aut "Yeah, it's only a matter of time before you get shit-faced and end up on a random bus ride across country."
 
-# game/v2/scene35.rpy:1638
-translate francais v2s35_wml2_1d650137:
+# game/v2/scene35.rpy:1649
+translate francais v2s35_wml2_a0693171:
 
-    # li "Waking up in Alaska or something, wondering why it's so cold, haha."
-    li ""
+    # li "Waking up in Alaska or something, and surprise: you're curled up in the arms of a burly fisherwoman."
+    li "Waking up in Alaska or something, and surprise: you're curled up in the arms of a burly fisherwoman."
 
-# game/v2/scene35.rpy:1643
-translate francais v2s35_wml2_ada054c1:
+# game/v2/scene35.rpy:1654
+translate francais v2s35_wml2_1764ec92:
 
-    # u "Haha, to be honest, that does sound like something that would happen to me."
-    u ""
+    # au "Hot. I ship [name] and the burly fisherwoman."
+    au "Hot. I ship [name] and the burly fisherwoman."
 
-# game/v2/scene35.rpy:1648
-translate francais v2s35_wml2_24ed4bb6:
+# game/v2/scene35.rpy:1659
+translate francais v2s35_wml2_3df90123:
 
-    # u "Hopefully, drunk me will choose somewhere nice though, like a tropical island."
-    u ""
+    # u "To be honest, that does sound like something that would happen to me. And I love my new burly wife."
+    u "To be honest, that does sound like something that would happen to me. And I love my new burly wife."
 
-# game/v2/scene35.rpy:1653
-translate francais v2s35_wml2_61ac7459:
+# game/v2/scene35.rpy:1664
+translate francais v2s35_wml2_306c7d41:
 
-    # aut "Well, just be sure to send us a postcard when you get there, haha."
-    aut ""
+    # u "Still, I hope drunk me will choose somewhere nice though, like a tropical island."
+    u "Still, I hope drunk me will choose somewhere nice though, like a tropical island."
 
-# game/v2/scene35.rpy:1658
+# game/v2/scene35.rpy:1669
+translate francais v2s35_wml2_e180aa4e:
+
+    # aut "Well, just be sure to send us a postcard when you get there and sober up."
+    aut "Well, just be sure to send us a postcard when you get there and sober up."
+
+# game/v2/scene35.rpy:1674
 translate francais v2s35_wml2_21cb1de8:
 
     # u "I will. Now I'm really looking forward to the next time I get drunk..."
-    u ""
+    u "I will. Now I'm really looking forward to the next time I get drunk..."
 
-# game/v2/scene35.rpy:1664
+# game/v2/scene35.rpy:1680
 translate francais v2s35_wml2_d4e697ce:
 
     # au "If you're going to a tropical island, I'm coming with you."
-    au ""
+    au "If you're going to a tropical island, I'm coming with you."
 
-# game/v2/scene35.rpy:1669
+# game/v2/scene35.rpy:1685
 translate francais v2s35_wml2_3df2d405:
 
     # u "Okay, but only if you're shit-faced too."
-    u ""
+    u "Okay, but only if you're shit-faced too."
 
-# game/v2/scene35.rpy:1674
+# game/v2/scene35.rpy:1690
 translate francais v2s35_wml2_d8dac2ab:
 
     # au "Deal!"
-    au ""
+    au "Deal!"
 
-# game/v2/scene35.rpy:1679
+# game/v2/scene35.rpy:1695
 translate francais v2s35_wml2_4acbf124:
 
     # li "Here's the next one..."
-    li ""
+    li "Here's the next one..."
 
-# game/v2/scene35.rpy:1681
+# game/v2/scene35.rpy:1697
 translate francais v2s35_wml2_eec49f1a:
 
     # li "Who is most likely to become a sexy super spy like James Bond?"
-    li ""
+    li "Who is most likely to become a sexy super spy like James Bond?"
 
-# game/v2/scene35.rpy:1686
+# game/v2/scene35.rpy:1702
 translate francais v2s35_wml2_2dcc7e06:
 
     # u "Who says I'm not already a sexy super spy like James Bond?"
-    u ""
+    u "Who says I'm not already a sexy super spy like James Bond?"
 
-# game/v2/scene35.rpy:1692
+# game/v2/scene35.rpy:1708
 translate francais v2s35_wml2_d3149a6a:
 
     # au "Pfft, are you?"
-    au ""
+    au "Pfft, are you?"
 
-# game/v2/scene35.rpy:1697
+# game/v2/scene35.rpy:1713
 translate francais v2s35_wml2_2d585e96:
 
     # u "If I told you, I would have to kill you."
-    u ""
+    u "If I told you, I would have to kill you."
 
-# game/v2/scene35.rpy:1708
+# game/v2/scene35.rpy:1724
 translate francais v2s35_wml2_d3149a6a_1:
 
     # au "Pfft, are you?"
-    au ""
+    au "Pfft, are you?"
 
-# game/v2/scene35.rpy:1713
+# game/v2/scene35.rpy:1729
 translate francais v2s35_wml2_2d585e96_1:
 
     # u "If I told you, I would have to kill you."
-    u ""
+    u "If I told you, I would have to kill you."
 
-# game/v2/scene35.rpy:1724
+# game/v2/scene35.rpy:1740
 translate francais v2s35_wml2_d3149a6a_2:
 
     # au "Pfft, are you?"
-    au ""
+    au "Pfft, are you?"
 
-# game/v2/scene35.rpy:1729
+# game/v2/scene35.rpy:1745
 translate francais v2s35_wml2_2d585e96_2:
 
     # u "If I told you, I would have to kill you."
-    u ""
+    u "If I told you, I would have to kill you."
 
-# game/v2/scene35.rpy:1739
+# game/v2/scene35.rpy:1755
 translate francais v2s35_wml2_00a859cb:
 
     # aut "I'm convinced."
-    aut ""
+    aut "I'm convinced."
 
-# game/v2/scene35.rpy:1744
+# game/v2/scene35.rpy:1760
 translate francais v2s35_wml2_e8d94f05:
 
     # u "I've already said too much."
-    u ""
+    u "I've already said too much."
 
-# game/v2/scene35.rpy:1749
+# game/v2/scene35.rpy:1765
 translate francais v2s35_wml2_fcc73a37:
 
     # au "*Sighs* I want to vote for myself."
-    au ""
+    au "*Sighs* I want to vote for myself."
 
-# game/v2/scene35.rpy:1754
-translate francais v2s35_wml2_2cf92417:
+# game/v2/scene35.rpy:1770
+translate francais v2s35_wml2_e02233c0:
 
-    # li "Haha, you can't!"
-    li ""
+    # li "Too bad, you can't!"
+    li "Too bad, you can't!"
 
-# game/v2/scene35.rpy:1759
+# game/v2/scene35.rpy:1775
 translate francais v2s35_wml2_70c53da1:
 
     # au "Lame!"
-    au ""
+    au "Lame!"
 
-# game/v2/scene35.rpy:1765
+# game/v2/scene35.rpy:1781
 translate francais v2s35_wml2_35ad5865:
 
     # u "I wouldn't vote for myself because I may already be one."
-    u ""
+    u "I wouldn't vote for myself because I may already be one."
 
-# game/v2/scene35.rpy:1779
+# game/v2/scene35.rpy:1795
 translate francais v2s35_wml2_35ad5865_1:
 
     # u "I wouldn't vote for myself because I may already be one."
-    u ""
+    u "I wouldn't vote for myself because I may already be one."
 
-# game/v2/scene35.rpy:1790
+# game/v2/scene35.rpy:1806
 translate francais v2s35_wml2_35ad5865_2:
 
     # u "I wouldn't vote for myself because I may already be one."
-    u ""
+    u "I wouldn't vote for myself because I may already be one."
 
-# game/v2/scene35.rpy:1800
+# game/v2/scene35.rpy:1816
 translate francais v2s35_wml2_5b62500c:
 
     # li "Well, let's all vote before some assassins arrive for a shootout."
-    li ""
+    li "Well, let's all vote before some assassins arrive for a shootout."
 
-# game/v2/scene35.rpy:1840
+# game/v2/scene35.rpy:1856
 translate francais v2s35_wml3_881a11b3:
 
     # li "Aubrey is the new James Bond!"
-    li ""
+    li "Aubrey is the new James Bond!"
 
-# game/v2/scene35.rpy:1845
+# game/v2/scene35.rpy:1861
 translate francais v2s35_wml3_2fd10eb2:
 
     # au "Am I? Yes! Now I need to go practice my seduction techniques so I can steal top secret government files..."
-    au ""
+    au "Am I? Yes! Now I need to go practice my seduction techniques so I can steal top secret government files..."
 
-# game/v2/scene35.rpy:1850
+# game/v2/scene35.rpy:1866
 translate francais v2s35_wml3_33ecd5d1:
 
     # u "How are you with a gun?"
-    u ""
+    u "How are you with a gun?"
 
-# game/v2/scene35.rpy:1855
+# game/v2/scene35.rpy:1871
 translate francais v2s35_wml3_b7fd2c48:
 
     # au "Hmm, I'll have to practice that too."
-    au ""
+    au "Hmm, I'll have to practice that too."
 
-# game/v2/scene35.rpy:1860
+# game/v2/scene35.rpy:1876
 translate francais v2s35_wml3_84204114:
 
     # aut "You can always get Moneypussy to help."
-    aut ""
+    aut "You can always get Moneypussy to help."
 
-# game/v2/scene35.rpy:1865
+# game/v2/scene35.rpy:1881
 translate francais v2s35_wml3_55a7a4b0:
 
     # u "*Laughs* Moneypussy?"
-    u ""
+    u "*Laughs* Moneypussy?"
 
-# game/v2/scene35.rpy:1870
+# game/v2/scene35.rpy:1886
 translate francais v2s35_wml3_aa36e66a:
 
     # aut "Yeah, there's a character called Moneypussy, isn't there?"
-    aut ""
+    aut "Yeah, there's a character called Moneypussy, isn't there?"
 
-# game/v2/scene35.rpy:1875
-translate francais v2s35_wml3_bc070eb9:
+# game/v2/scene35.rpy:1891
+translate francais v2s35_wml3_d885ec32:
 
-    # li "*Laughs* Not in any of the movies I've seen."
-    li ""
+    # li "Not in any of the movies I've seen."
+    li "Not in any of the movies I've seen."
 
-# game/v2/scene35.rpy:1885
-translate francais v2s35_wml3_e6e186c5:
+# game/v2/scene35.rpy:1901
+translate francais v2s35_wml3_96d509d6:
 
-    # au "Money... Moneypussy?! *Laughs* You're killing me Autumn... Phew."
-    au ""
+    # au "Money... Moneypussy?! You're killing me Autumn... Phew."
+    au "Money... Moneypussy?! You're killing me Autumn... Phew."
 
-# game/v2/scene35.rpy:1890
-translate francais v2s35_wml3_0d3c5693:
+# game/v2/scene35.rpy:1903
+translate francais v2s35_wml3_520e9616:
 
-    # aut "Haha, sorry! I thought that's what his name was..."
-    aut ""
+    # au "Now I know what my spy name is going to be."
+    au "Now I know what my spy name is going to be."
 
-# game/v2/scene35.rpy:1895
+# game/v2/scene35.rpy:1908
+translate francais v2s35_wml3_16f68a8b:
+
+    # aut "Oh my God, sorry! I thought that's what his name was..."
+    aut "Oh my God, sorry! I thought that's what his name was..."
+
+# game/v2/scene35.rpy:1913
 translate francais v2s35_wml3_c474adf5:
 
     # u "I wish that was someone's name."
-    u ""
+    u "I wish that was someone's name."
 
-# game/v2/scene35.rpy:1900
+# game/v2/scene35.rpy:1918
 translate francais v2s35_wml3_95468555:
 
     # li "Now we've got question number four..."
-    li ""
+    li "Now we've got question number four..."
 
-# game/v2/scene35.rpy:1905
+# game/v2/scene35.rpy:1920
 translate francais v2s35_wml3_41db69d2:
 
     # li "Who is most likely to get caught having sex on an airplane?"
-    li ""
+    li "Who is most likely to get caught having sex on an airplane?"
 
-# game/v2/scene35.rpy:1911
-translate francais v2s35_wml3_e0ef9d2e:
+# game/v2/scene35.rpy:1926
+translate francais v2s35_wml3_bb338b72:
 
-    # au "*Laughs*"
-    au ""
+    # au "Uh oh."
+    au "Uh oh."
 
-# game/v2/scene35.rpy:1916
-translate francais v2s35_wml3_e081190e:
+# game/v2/scene35.rpy:1931
+translate francais v2s35_wml3_73c45aaa:
 
-    # li "Judging by the laugh, I'm guessing someone already did it."
-    li ""
+    # li "Judging by that, I'm guessing someone already did it."
+    li "Judging by that, I'm guessing someone already did it."
 
-# game/v2/scene35.rpy:1921
+# game/v2/scene35.rpy:1936
 translate francais v2s35_wml3_e15cbb19:
 
     # au "Maybe..."
-    au ""
+    au "Maybe..."
 
-# game/v2/scene35.rpy:1923
-translate francais v2s35_wml3_a5cf898d:
+# game/v2/scene35.rpy:1938
+translate francais v2s35_wml3_2ca15f60:
 
-    # u "(I'm not sure I want everyone knowing about us on the plane, haha.)"
-    u ""
+    # u "(I'm not sure I want everyone knowing about us on the plane.)"
+    u "(I'm not sure I want everyone knowing about us on the plane.)"
 
-# game/v2/scene35.rpy:1928
+# game/v2/scene35.rpy:1943
 translate francais v2s35_wml3_b02ffb48:
 
     # li "Or maybe you're just fishing for votes."
-    li ""
+    li "Or maybe you're just fishing for votes."
 
-# game/v2/scene35.rpy:1930
+# game/v2/scene35.rpy:1945
 translate francais v2s35_wml3_9cb6a833:
 
     # u "She totally is, don't fall for it."
-    u ""
+    u "She totally is, don't fall for it."
 
-# game/v2/scene35.rpy:1936
+# game/v2/scene35.rpy:1951
 translate francais v2s35_wml3_b193b0dd:
 
     # u "(Think we dodged that one.)"
-    u ""
+    u "(Think we dodged that one.)"
 
-# game/v2/scene35.rpy:1942
+# game/v2/scene35.rpy:1957
 translate francais v2s35_wml3_1f9ba004:
 
     # au "Oh, I almost did once. But the guy didn't want to join me..."
-    au ""
+    au "Oh, I almost did once. But the guy didn't want to join me..."
 
-# game/v2/scene35.rpy:1947
+# game/v2/scene35.rpy:1962
 translate francais v2s35_wml3_11a85925:
 
     # li "What an idiot!"
-    li ""
+    li "What an idiot!"
 
-# game/v2/scene35.rpy:1953
+# game/v2/scene35.rpy:1968
 translate francais v2s35_wml3_86f378d3:
 
     # u "(Is she talking about me?)"
-    u ""
+    u "(Is she talking about me?)"
 
-# game/v2/scene35.rpy:1970
-translate francais v2s35_wml3_c7885c13:
+# game/v2/scene35.rpy:1985
+translate francais v2s35_wml3_c5086476:
 
-    # au "There's always next time. *Giggles*"
-    au ""
+    # au "There's always next time."
+    au "There's always next time."
 
-# game/v2/scene35.rpy:1975
+# game/v2/scene35.rpy:1990
 translate francais v2s35_wml3_68ef0259:
 
     # aut "You're just saying that to win all the votes again."
-    aut ""
+    aut "You're just saying that to win all the votes again."
 
-# game/v2/scene35.rpy:1980
+# game/v2/scene35.rpy:1995
 translate francais v2s35_wml3_6f113b2b:
 
     # au "Oh, so you think you're the most likely person for this one, then?"
-    au ""
+    au "Oh, so you think you're the most likely person for this one, then?"
 
-# game/v2/scene35.rpy:1985
+# game/v2/scene35.rpy:2000
 translate francais v2s35_wml3_65ed4e4a:
 
     # aut "Um... No."
-    aut ""
+    aut "Um... No."
 
-# game/v2/scene35.rpy:1990
-translate francais v2s35_wml3_c1271dd5:
+# game/v2/scene35.rpy:2005
+translate francais v2s35_wml3_b2320eb5:
 
-    # u "Very hesitant there, Autumn... *Laughs*"
-    u ""
+    # u "Very hesitant there, Autumn..."
+    u "Very hesitant there, Autumn..."
 
-# game/v2/scene35.rpy:1995
+# game/v2/scene35.rpy:2010
 translate francais v2s35_wml3_74f72758:
 
     # aut "Maybe, but not because she's right."
-    aut ""
+    aut "Maybe, but not because she's right."
 
-# game/v2/scene35.rpy:2000
+# game/v2/scene35.rpy:2015
 translate francais v2s35_wml3_081c26ad:
 
     # li "Let's vote and see what everyone thinks."
-    li ""
+    li "Let's vote and see what everyone thinks."
 
-# game/v2/scene35.rpy:2034
+# game/v2/scene35.rpy:2049
 translate francais v2s35_wml4_aub_4ce95b08:
 
     # li "The votes are in. Aubrey is definitely most likely!"
-    li ""
+    li "The votes are in. Aubrey is definitely most likely!"
 
-# game/v2/scene35.rpy:2039
+# game/v2/scene35.rpy:2054
 translate francais v2s35_wml4_aub_f30f1628:
 
     # au "Was it ever in doubt?"
-    au ""
+    au "Was it ever in doubt?"
 
-# game/v2/scene35.rpy:2047
-translate francais v2s35_wml4_aub_8d0151ef:
+# game/v2/scene35.rpy:2062
+translate francais v2s35_wml4_aub_0bbd4fa1:
 
-    # aut "Just another one of Aubrey's sexual adventures, hehe."
-    aut ""
+    # aut "Just another one of Aubrey's sexual adventures."
+    aut "Just another one of Aubrey's sexual adventures."
 
-# game/v2/scene35.rpy:2052
+# game/v2/scene35.rpy:2067
 translate francais v2s35_wml4_aub_cf28d44a:
 
     # au "You've gotta spice things up, ladies! Haven't you ever done anything like that?"
-    au ""
+    au "You've gotta spice things up, ladies! Haven't you ever done anything like that?"
 
-# game/v2/scene35.rpy:2057
+# game/v2/scene35.rpy:2072
 translate francais v2s35_wml4_aub_6af9d192:
 
     # aut "Nope. And I don't think I ever would."
-    aut ""
+    aut "Nope. And I don't think I ever would."
 
-# game/v2/scene35.rpy:2065
+# game/v2/scene35.rpy:2080
 translate francais v2s35_wml4_aut_454790ee:
 
     # li "It's a four-way tie!"
-    li ""
+    li "It's a four-way tie!"
 
-# game/v2/scene35.rpy:2070
+# game/v2/scene35.rpy:2085
 translate francais v2s35_wml4_aut_df88f5e6:
 
     # u "Do you think we could all fit in an airplane bathroom?"
-    u ""
+    u "Do you think we could all fit in an airplane bathroom?"
 
-# game/v2/scene35.rpy:2076
+# game/v2/scene35.rpy:2091
 translate francais v2s35_wml4_aut_805f000f:
 
     # au "Haha, only one way to find out!"
-    au ""
+    au "Haha, only one way to find out!"
 
-# game/v2/scene35.rpy:2081
-translate francais v2s35_wml4_aut_77d946bb:
+# game/v2/scene35.rpy:2096
+translate francais v2s35_wml4_aut_757050bc:
 
-    # aut "Not happening, haha!"
-    aut ""
+    # aut "Not happening!"
+    aut "Not happening!"
 
-# game/v2/scene35.rpy:2089
-translate francais v2s35_wml4_lin_317a0f3d:
+# game/v2/scene35.rpy:2102
+translate francais v2s35_wml4_lin_f818de55:
 
-    # li "Me? Haha, no way."
-    li ""
+    # li "Me? No way."
+    li "Me? No way."
 
-# game/v2/scene35.rpy:2094
+# game/v2/scene35.rpy:2107
 translate francais v2s35_wml4_lin_d78c4c9d:
 
     # au "You're smiling, so you obviously like the sound of it..."
-    au ""
+    au "You're smiling, so you obviously like the sound of it..."
 
-# game/v2/scene35.rpy:2104
+# game/v2/scene35.rpy:2117
 translate francais v2s35_wml4_lin_891f8024:
 
     # au "That's why I voted for you. You protest like you're all innocent, but you totally would!"
-    au ""
+    au "That's why I voted for you. You protest like you're all innocent, but you totally would!"
 
-# game/v2/scene35.rpy:2109
-translate francais v2s35_wml4_lin_e4c23d48:
+# game/v2/scene35.rpy:2122
+translate francais v2s35_wml4_lin_d8bfbefb:
 
-    # li "Ha, stop it! I mean, I'm not going to lie, it sounds hot... I would just hate to get caught."
-    li ""
+    # li "Stooooop! I mean, I'm not going to lie, it sounds hot..."
+    li "Stooooop! I mean, I'm not going to lie, it sounds hot..."
 
-# game/v2/scene35.rpy:2114
-translate francais v2s35_wml4_lin_ec6cb2fd:
+# game/v2/scene35.rpy:2124
+translate francais v2s35_wml4_lin_d476d77e:
 
-    # u "Yeah, I think in all the excitement you'd forget to lock the door, haha."
-    u ""
+    # li "But airplane bathrooms are so gross, and I would just hate to get caught."
+    li "But airplane bathrooms are so gross, and I would just hate to get caught."
 
-# game/v2/scene35.rpy:2120
+# game/v2/scene35.rpy:2129
+translate francais v2s35_wml4_lin_5a1c9ad4:
+
+    # u "Yeah, I think in all the excitement you'd forget to lock the door."
+    u "Yeah, I think in all the excitement you'd forget to lock the door."
+
+# game/v2/scene35.rpy:2135
 translate francais v2s35_wml4_lin_be84d816:
 
     # au "It happens more often than you think..."
-    au ""
+    au "It happens more often than you think..."
 
-# game/v2/scene35.rpy:2131
+# game/v2/scene35.rpy:2146
 translate francais v2s35_wml4_lin_be84d816_1:
 
     # au "It happens more often than you think..."
-    au ""
+    au "It happens more often than you think..."
 
-# game/v2/scene35.rpy:2141
+# game/v2/scene35.rpy:2156
 translate francais v2s35_wml4_lin_cd53a72c:
 
     # aut "I'd never put myself in that situation."
-    aut ""
+    aut "I'd never put myself in that situation."
 
-# game/v2/scene35.rpy:2147
+# game/v2/scene35.rpy:2162
 translate francais v2s35_wml4_end_7c89fae5:
 
     # au "You never know."
-    au ""
+    au "You never know."
 
-# game/v2/scene35.rpy:2152
+# game/v2/scene35.rpy:2167
 translate francais v2s35_wml4_end_a2ab3f2c:
 
     # aut "Yeah, I do..."
-    aut ""
+    aut "Yeah, I do..."
 
-# game/v2/scene35.rpy:2157
-translate francais v2s35_wml4_end_5bd50b8b:
+# game/v2/scene35.rpy:2172
+translate francais v2s35_wml4_end_8926488b:
 
-    # aut "There's something I want to share with you guys, I think."
-    aut ""
+    # aut "I haven't really talked about it, but there's something I want to share with you guys, I think."
+    aut "I haven't really talked about it, but there's something I want to share with you guys, I think."
 
-# game/v2/scene35.rpy:2162
+# game/v2/scene35.rpy:2177
 translate francais v2s35_wml4_end_21ecd0d4:
 
     # li "Of course, Autumn. Anything."
-    li ""
+    li "Of course, Autumn. Anything."
 
-# game/v2/scene35.rpy:2167
+# game/v2/scene35.rpy:2182
 translate francais v2s35_wml4_end_f4bf2b94:
 
     # aut "Well..."
-    aut ""
+    aut "Well..."
 
-# game/v2/scene35.rpy:2172
+# game/v2/scene35.rpy:2187
 translate francais v2s35_wml4_end_e10d3490:
 
     # aut "I'm asexual."
-    aut ""
+    aut "I'm asexual."
 
-# game/v2/scene35.rpy:2182
-translate francais v2s35_wml4_end_1dfa0a61:
+# game/v2/scene35.rpy:2197
+translate francais v2s35_wml4_end_33fe4983:
 
-    # aut "So it's fairly easy for me to say no... Especially to airplane sex where you're guaranteed to get caught, ha."
-    aut ""
+    # aut "So it's fairly easy for me to say no... Especially to airplane sex where you're guaranteed to get caught."
+    aut "So it's fairly easy for me to say no... Especially to airplane sex where you're guaranteed to get caught."
 
-# game/v2/scene35.rpy:2187
+# game/v2/scene35.rpy:2202
 translate francais v2s35_wml4_end_03648070:
 
     # u "You're asexual?"
-    u ""
+    u "You're asexual?"
 
-# game/v2/scene35.rpy:2192
+# game/v2/scene35.rpy:2207
 translate francais v2s35_wml4_end_d3fae4a6:
 
     # aut "Yeah."
-    aut ""
+    aut "Yeah."
 
-# game/v2/scene35.rpy:2197
-translate francais v2s35_wml4_end_7cd8d98b:
+# game/v2/scene35.rpy:2212
+translate francais v2s35_wml4_end_bef13ffb:
 
-    # au "What exactly does that mean?"
-    au ""
+    # au "Wait, but I've heard you talking about-"
+    au "Wait, but I've heard you talking about-"
 
-# game/v2/scene35.rpy:2205
-translate francais v2s35_autumn_reveal_a7158551:
+# game/v2/scene35.rpy:2217
+translate francais v2s35_wml4_end_e3ced68a:
 
-    # aut "I just don't desire sex. I don't get the urges that you all have."
-    aut ""
+    # aut "Yeah, I've fooled around with guys a little before just to try it."
+    aut "Yeah, I've fooled around with guys a little before just to try it."
 
-# game/v2/scene35.rpy:2210
+# game/v2/scene35.rpy:2219
+translate francais v2s35_wml4_end_523f6771:
+
+    # aut "Sex doesn't gross me out. I've just never had any interest in going all the way, you know?"
+    aut "Sex doesn't gross me out. I've just never had any interest in going all the way, you know?"
+
+# game/v2/scene35.rpy:2224
+translate francais v2s35_wml4_end_2185ee13:
+
+    # au "So wait, I'm still... What exactly does that mean?"
+    au "So wait, I'm still... What exactly does that mean?"
+
+# game/v2/scene35.rpy:2232
+translate francais v2s35_autumn_reveal_f79ab15c:
+
+    # aut "I just don't desire sex. I don't get those, like, undeniable urges that you all have."
+    aut "I just don't desire sex. I don't get those, like, undeniable urges that you all have."
+
+# game/v2/scene35.rpy:2237
 translate francais v2s35_autumn_reveal_37525af8:
 
     # li "So, you've never wanted to try it?"
-    li ""
+    li "So, you've never wanted to try it?"
 
-# game/v2/scene35.rpy:2215
-translate francais v2s35_autumn_reveal_70b8272f:
+# game/v2/scene35.rpy:2242
+translate francais v2s35_autumn_reveal_58d654ec:
 
-    # aut "No, I've never felt the need to."
-    aut ""
+    # aut "Nope, I've never felt the need to. Kissing's fun, I guess? But it doesn't turn me on."
+    aut "Nope, I've never felt the need to. Kissing's fun, I guess? But it doesn't turn me on."
 
-# game/v2/scene35.rpy:2220
+# game/v2/scene35.rpy:2247
 translate francais v2s35_autumn_reveal_f6a55cc4:
 
     # au "Do you think you ever will?"
-    au ""
+    au "Do you think you ever will?"
 
-# game/v2/scene35.rpy:2230
+# game/v2/scene35.rpy:2257
 translate francais v2s35_autumn_reveal_da55c81d:
 
     # aut "Maybe?"
-    aut ""
+    aut "Maybe?"
 
-# game/v2/scene35.rpy:2235
+# game/v2/scene35.rpy:2262
 translate francais v2s35_autumn_reveal_d958eb5c:
 
     # aut "I mean... You never know."
-    aut ""
+    aut "I mean... You never know."
 
-# game/v2/scene35.rpy:2240
+# game/v2/scene35.rpy:2267
 translate francais v2s35_autumn_reveal_d19cf431:
 
     # aut "But... I doubt it."
-    aut ""
+    aut "But... I doubt it."
 
-# game/v2/scene35.rpy:2245
+# game/v2/scene35.rpy:2272
 translate francais v2s35_autumn_reveal_54a3e2b2:
 
     # u "(That might be enough for right now...)"
-    u ""
+    u "(That might be enough for right now...)"
 
-# game/v2/scene35.rpy:2260
-translate francais v2s35_autumn_reveal_3e0f0f56:
+# game/v2/scene35.rpy:2284
+translate francais v2s35_autumn_reveal_43bc8577:
 
-    # u "So, shall we move on? Maybe interrogate Autumn some other time? *Chuckles*"
-    u ""
+    # u "So, shall we move on? Maybe interrogate Autumn some other time, huh?"
+    u "So, shall we move on? Maybe interrogate Autumn some other time, huh?"
 
-# game/v2/scene35.rpy:2270
+# game/v2/scene35.rpy:2294
 translate francais v2s35_autumn_reveal_5cb3ce2e:
 
     # au "Oh, yeah. Of course! Sorry, Autumn. I didn't mean to-"
-    au ""
+    au "Oh, yeah. Of course! Sorry, Autumn. I didn't mean to-"
 
-# game/v2/scene35.rpy:2275
-translate francais v2s35_autumn_reveal_de803a06:
+# game/v2/scene35.rpy:2299
+translate francais v2s35_autumn_reveal_36ae43ee:
 
-    # aut "It's okay. I.. I chose to bring it up. But yeah, let's have another drink?"
-    aut ""
+    # aut "It's okay. I... I chose to bring it up. But yeah, let's have another drink?"
+    aut "It's okay. I... I chose to bring it up. But yeah, let's have another drink?"
 
-# game/v2/scene35.rpy:2280
+# game/v2/scene35.rpy:2304
 translate francais v2s35_autumn_reveal_9df19d9d:
 
     # au "Yes!"
-    au ""
+    au "Yes!"
 
-# game/v2/scene35.rpy:2285
+# game/v2/scene35.rpy:2309
 translate francais v2s35_autumn_reveal_65fa306b:
 
     # aut "Thanks, [name]."
-    aut ""
+    aut "Thanks, [name]."
 
-# game/v2/scene35.rpy:2290
+# game/v2/scene35.rpy:2314
 translate francais v2s35_autumn_reveal_3c8517fb:
 
     # u "Sure thing."
-    u ""
+    u "Sure thing."
 
-# game/v2/scene35.rpy:2298
+# game/v2/scene35.rpy:2322
 translate francais v2s35_autumn_reveal_e54334b6:
 
     # u "So, do you know if you would be into guys or girls, or both?"
-    u ""
+    u "So, do you know if you would be into guys or girls, or both?"
 
-# game/v2/scene35.rpy:2308
+# game/v2/scene35.rpy:2332
 translate francais v2s35_autumn_reveal_43789d64:
 
     # aut "..."
-    aut ""
+    aut "..."
 
-# game/v2/scene35.rpy:2310
+# game/v2/scene35.rpy:2334
 translate francais v2s35_autumn_reveal_2045ef95:
 
     # aut "Um..."
-    aut ""
+    aut "Um..."
 
-# game/v2/scene35.rpy:2315
+# game/v2/scene35.rpy:2339
 translate francais v2s35_autumn_reveal_ae13e36f:
 
     # li "I think we may be getting a bit too personal now."
-    li ""
+    li "I think we may be getting a bit too personal now."
 
-# game/v2/scene35.rpy:2320
+# game/v2/scene35.rpy:2344
 translate francais v2s35_autumn_reveal_145d7ed9:
 
     # li "You don't have to keep talking about this, Autumn. Can I get anyone another drink?"
-    li ""
+    li "You don't have to keep talking about this, Autumn. Can I get anyone another drink?"
 
-# game/v2/scene35.rpy:2325
+# game/v2/scene35.rpy:2349
 translate francais v2s35_autumn_reveal_229dc4b0:
 
     # aut "Thanks, Lindsey. Another drink sounds great."
-    aut ""
+    aut "Thanks, Lindsey. Another drink sounds great."
 
-# game/v2/scene35.rpy:2330
+# game/v2/scene35.rpy:2354
 translate francais v2s35_autumn_reveal_51e259e5:
 
     # u "Oh, sorry about that."
-    u ""
+    u "Oh, sorry about that."
 
-# game/v2/scene35.rpy:2335
-translate francais v2s35_autumn_reveal_cff0e159:
+# game/v2/scene35.rpy:2359
+translate francais v2s35_autumn_reveal_f49223c7:
 
-    # aut "No worries. I brought it up, ha."
-    aut ""
+    # aut "No worries. I brought it up."
+    aut "No worries. I brought it up."
 
-# game/v2/scene35.rpy:2355
+# game/v2/scene35.rpy:2379
 translate francais v2s35_autumn_reveal_a4698f0f:
 
     # li "Drinks are served!"
-    li ""
+    li "Drinks are served!"
 
-# game/v2/scene35.rpy:2360
+# game/v2/scene35.rpy:2384
 translate francais v2s35_autumn_reveal_2ef75891:
 
     # au "These look even better than the last ones!"
-    au ""
+    au "These look even better than the last ones!"
 
-# game/v2/scene35.rpy:2375
+# game/v2/scene35.rpy:2399
 translate francais v2s35_autumn_reveal_e8b2e535:
 
     # li "So, I just want to talk about something really quick and then we can get back to having fun, okay?"
-    li ""
+    li "So, I just want to talk about something really quick and then we can get back to having fun, okay?"
 
-# game/v2/scene35.rpy:2380
+# game/v2/scene35.rpy:2404
 translate francais v2s35_autumn_reveal_0562e49e:
 
     # aut "Is this the part where we talk about your campaign?"
-    aut ""
+    aut "Is this the part where we talk about your campaign?"
 
-# game/v2/scene35.rpy:2385
+# game/v2/scene35.rpy:2409
 translate francais v2s35_autumn_reveal_03aa9ee5:
 
     # u "The big campaign speech?"
-    u ""
+    u "The big campaign speech?"
 
-# game/v2/scene35.rpy:2390
-translate francais v2s35_autumn_reveal_a7df7817:
+# game/v2/scene35.rpy:2414
+translate francais v2s35_autumn_reveal_afec62b1:
 
-    # li "Haha, yeah. It's about supporting me."
-    li ""
+    # li "Yup! It's about supporting me."
+    li "Yup! It's about supporting me."
 
-# game/v2/scene35.rpy:2395
+# game/v2/scene35.rpy:2419
 translate francais v2s35_autumn_reveal_293c3e1e:
 
     # au "That's okay. Go ahead."
-    au ""
+    au "That's okay. Go ahead."
 
-# game/v2/scene35.rpy:2400
+# game/v2/scene35.rpy:2424
 translate francais v2s35_autumn_reveal_2202a75e:
 
     # li "I just wanted to ask; What has Chloe ever done for you? Like, actually done for you?"
-    li ""
+    li "I just wanted to ask; What has Chloe ever done for you? Like, actually done for you?"
 
-# game/v2/scene35.rpy:2406
+# game/v2/scene35.rpy:2430
 translate francais v2s35_autumn_reveal_7d0a9a17:
 
     # u "(This might get juicy... Maybe I can try and record Lindsey bitching about Chloe?)"
-    u ""
+    u "(This might get juicy... Maybe I can try and record Lindsey bitching about Chloe?)"
 
-# game/v2/scene35.rpy:2416
+# game/v2/scene35.rpy:2440
 translate francais v2s35_autumn_reveal_47e0481a:
 
     # u "(Okay, it's recording. If I'm careful, maybe I can trick her into saying something bad too.)"
-    u ""
+    u "(Okay, it's recording. If I'm careful, maybe I can trick her into saying something bad too.)"
 
-# game/v2/scene35.rpy:2426
+# game/v2/scene35.rpy:2450
 translate francais v2s35_autumn_reveal_7b19695c:
 
     # aut "In general, Chloe's been good to me. She's helped me out with a few things in the past, but, well, nothing lately."
-    aut ""
+    aut "In general, Chloe's been good to me. She's helped me out with a few things in the past, but, well, nothing lately."
 
-# game/v2/scene35.rpy:2428
+# game/v2/scene35.rpy:2452
 translate francais v2s35_autumn_reveal_1bd83e20:
 
     # aut "I've invited her to participate in some of the Deer events. She came to one, but all the others, she was a no-show. Not even a text to say sorry."
-    aut ""
+    aut "I've invited her to participate in some of the Deer events. She came to one, but all the others, she was a no-show. Not even a text to say sorry."
 
-# game/v2/scene35.rpy:2438
-translate francais v2s35_autumn_reveal_81b55445:
+# game/v2/scene35.rpy:2462
+translate francais v2s35_autumn_reveal_63791f8e:
 
-    # au "She is the type of person who makes a lot of promises. She likes to tell people what they want to hear."
-    au ""
+    # au "She is the type of person who makes a lot of promises. She's always good at saying the right thing."
+    au "She is the type of person who makes a lot of promises. She's always good at saying the right thing."
 
-# game/v2/scene35.rpy:2443
+# game/v2/scene35.rpy:2467
 translate francais v2s35_autumn_reveal_69946dec:
 
     # li "Yeah, so she can get what she wants. She doesn't seem to follow up on any of her promises, does she?"
-    li ""
+    li "Yeah, so she can get what she wants. She doesn't seem to follow up on any of her promises, does she?"
 
-# game/v2/scene35.rpy:2448
+# game/v2/scene35.rpy:2472
 translate francais v2s35_autumn_reveal_dfba1a67:
 
     # aut "Not lately. But that doesn't mean she's a bad person."
-    aut ""
+    aut "Not lately. But that doesn't mean she's a bad person."
 
-# game/v2/scene35.rpy:2453
+# game/v2/scene35.rpy:2477
 translate francais v2s35_autumn_reveal_9a0a30ca:
 
     # li "I'm not saying she's a bad person. But is she capable of doing the job she's supposed to be doing?"
-    li ""
+    li "I'm not saying she's a bad person. But is she capable of doing the job she's supposed to be doing?"
 
-# game/v2/scene35.rpy:2458
+# game/v2/scene35.rpy:2482
 translate francais v2s35_autumn_reveal_fa593891:
 
     # li "This is the whole reason why I'm challenging her. It's nothing personal. I just think she should be doing more as our President."
-    li ""
+    li "This is the whole reason why I'm challenging her. It's nothing personal. I just think she should be doing more as our President."
 
-# game/v2/scene35.rpy:2463
+# game/v2/scene35.rpy:2487
+translate francais v2s35_autumn_reveal_01259ce1:
+
+    # au "*Muttering* I mean... it's a lot of work... She's always..."
+    au "*Muttering* I mean... it's a lot of work... She's always..."
+
+# game/v2/scene35.rpy:2492
 translate francais v2s35_autumn_reveal_849f4204:
 
     # li "She should be supporting you at all your events, Autumn. Wouldn't you prefer that?"
-    li ""
+    li "She should be supporting you at all your events, Autumn. Wouldn't you prefer that?"
 
-# game/v2/scene35.rpy:2468
+# game/v2/scene35.rpy:2497
 translate francais v2s35_autumn_reveal_99a3be1d:
 
     # aut "Yeah, I would."
-    aut ""
+    aut "Yeah, I would."
 
-# game/v2/scene35.rpy:2473
+# game/v2/scene35.rpy:2502
 translate francais v2s35_autumn_reveal_f715c1d0:
 
     # li "I want to create an environment where we can rely on each other."
-    li ""
+    li "I want to create an environment where we can rely on each other."
 
-# game/v2/scene35.rpy:2478
+# game/v2/scene35.rpy:2507
 translate francais v2s35_autumn_reveal_4e43e683:
 
     # li "To me, supporting other sororities benefits everyone, and that's why we're all here, right?"
-    li ""
+    li "To me, supporting other sororities benefits everyone, and that's why we're all here, right?"
 
-# game/v2/scene35.rpy:2483
+# game/v2/scene35.rpy:2512
 translate francais v2s35_autumn_reveal_9ec0989f:
 
     # aut "Right."
-    aut ""
+    aut "Right."
 
-# game/v2/scene35.rpy:2488
+# game/v2/scene35.rpy:2517
 translate francais v2s35_autumn_reveal_3447051e:
 
     # li "We all want our experiences to be the best they can be."
-    li ""
+    li "We all want our experiences to be the best they can be."
 
-# game/v2/scene35.rpy:2493
+# game/v2/scene35.rpy:2522
 translate francais v2s35_autumn_reveal_0ef59a7f:
 
     # li "We can maintain healthy rivalries or whatever, but we need to be there for each other... And Chloe doesn't seem to get that."
-    li ""
+    li "We can maintain healthy rivalries or whatever, but we need to be there for each other... And Chloe doesn't seem to get that."
 
-# game/v2/scene35.rpy:2498
+# game/v2/scene35.rpy:2527
 translate francais v2s35_autumn_reveal_02308e50:
 
     # aut "I totally understand what you're saying. It's a better approach for sure."
-    aut ""
+    aut "I totally understand what you're saying. It's a better approach for sure."
 
-# game/v2/scene35.rpy:2503
-translate francais v2s35_autumn_reveal_8b404cd6:
+# game/v2/scene35.rpy:2532
+translate francais v2s35_autumn_reveal_9ad29628:
 
-    # au "I've been trying to stay out of this whole thing as much as possible, but I agree with what you're saying, Lindsey."
-    au ""
+    # au "I've been trying to stay out of this whole thing as much as possible... But I guess I agree with what you're saying, Lindsey."
+    au "I've been trying to stay out of this whole thing as much as possible... But I guess I agree with what you're saying, Lindsey."
 
-# game/v2/scene35.rpy:2508
+# game/v2/scene35.rpy:2537
 translate francais v2s35_autumn_reveal_7e1d8322:
 
     # li "Thank you. It means a lot that you both feel the same way."
-    li ""
+    li "Thank you. It means a lot that you both feel the same way."
 
-# game/v2/scene35.rpy:2518
+# game/v2/scene35.rpy:2547
 translate francais v2s35_autumn_reveal_20027fd1:
 
     # u "(It'll help if Lindsey's more drunk. She'll be easier to trick into bad-mouthing Chloe.)"
-    u ""
+    u "(It'll help if Lindsey's more drunk. She'll be easier to trick into bad-mouthing Chloe.)"
 
-# game/v2/scene35.rpy:2536
+# game/v2/scene35.rpy:2559
 translate francais v2s35_autumn_reveal_092ca008:
 
     # u "(Not feeling that this is the best time.)"
-    u ""
+    u "(Not feeling that this is the best time.)"
 
-# game/v2/scene35.rpy:2541
+# game/v2/scene35.rpy:2564
 translate francais v2s35_autumn_reveal_54892a9a:
 
     # au "I think we've talked enough about Chloe now anyway."
-    au ""
+    au "I think we've talked enough about Chloe now anyway."
 
-# game/v2/scene35.rpy:2546
+# game/v2/scene35.rpy:2569
 translate francais v2s35_autumn_reveal_27168a16:
 
     # aut "Yeah, I'm feeling pretty sleepy."
-    aut ""
+    aut "Yeah, I'm feeling pretty sleepy."
 
-# game/v2/scene35.rpy:2551
+# game/v2/scene35.rpy:2574
 translate francais v2s35_autumn_reveal_057dc43d:
 
     # u "It's been a long day for sure, but I had a great time."
-    u ""
+    u "It's been a long day for sure, but I had a great time."
 
-# game/v2/scene35.rpy:2556
+# game/v2/scene35.rpy:2579
 translate francais v2s35_autumn_reveal_e43e528d:
 
     # aut "Yeah, it was a lot of fun Lindsey!"
-    aut ""
+    aut "Yeah, it was a lot of fun Lindsey!"
 
-# game/v2/scene35.rpy:2561
+# game/v2/scene35.rpy:2584
 translate francais v2s35_autumn_reveal_00c7bd2b:
 
     # au "We should definitely do it again sometime."
-    au ""
+    au "We should definitely do it again sometime."
 
-# game/v2/scene35.rpy:2566
+# game/v2/scene35.rpy:2589
 translate francais v2s35_autumn_reveal_88c05455:
 
     # li "Aw, yes, we will!"
-    li ""
+    li "Aw, yes, we will!"
 
-# game/v2/scene35.rpy:2585
+# game/v2/scene35.rpy:2602
 translate francais v2s35_autumn_reveal_1093edcf:
 
     # u "Let's take shots!"
-    u ""
+    u "Let's take shots!"
 
-# game/v2/scene35.rpy:2590
+# game/v2/scene35.rpy:2607
 translate francais v2s35_autumn_reveal_ffb0a51b:
 
     # li "We're in the middle of something here, [name]."
-    li ""
+    li "We're in the middle of something here, [name]."
 
-# game/v2/scene35.rpy:2595
+# game/v2/scene35.rpy:2612
 translate francais v2s35_autumn_reveal_e475bb33:
 
     # u "Yeah, but look at the time. It's shots o'clock!"
-    u ""
+    u "Yeah, but look at the time. It's shots o'clock!"
 
-# game/v2/scene35.rpy:2605
+# game/v2/scene35.rpy:2622
 translate francais v2s35_autumn_reveal_e3abdecd:
 
     # u "(I'll put something extra strong in Lindsey's glass.)"
-    u ""
+    u "(I'll put something extra strong in Lindsey's glass.)"
 
-# game/v2/scene35.rpy:2615
-translate francais v2s35_autumn_reveal_88f0373b:
+# game/v2/scene35.rpy:2632
+translate francais v2s35_autumn_reveal_2c15c70b:
 
-    # li "I'm already buzzed, though. I don't think I can handle a shot, ha."
-    li ""
+    # li "I'm already buzzed, though. I don't think I can handle a shot."
+    li "I'm already buzzed, though. I don't think I can handle a shot."
 
-# game/v2/scene35.rpy:2620
+# game/v2/scene35.rpy:2637
 translate francais v2s35_autumn_reveal_dde2e619:
 
     # au "I want one!"
-    au ""
+    au "I want one!"
 
-# game/v2/scene35.rpy:2625
+# game/v2/scene35.rpy:2642
 translate francais v2s35_autumn_reveal_a831e101:
 
     # u "That's what I like to hear!"
-    u ""
+    u "That's what I like to hear!"
 
-# game/v2/scene35.rpy:2635
+# game/v2/scene35.rpy:2652
 translate francais v2s35_autumn_reveal_661c3c54:
 
     # u "3, 2, 1. Shots!"
-    u ""
+    u "3, 2, 1. Shots!"
 
-# game/v2/scene35.rpy:2645
+# game/v2/scene35.rpy:2662
 translate francais v2s35_autumn_reveal_7f16cbeb:
 
     # li "*Drunk* Okay, now what was I saying?"
-    li ""
+    li "*Drunk* Okay, now what was I saying?"
 
-# game/v2/scene35.rpy:2650
+# game/v2/scene35.rpy:2667
 translate francais v2s35_autumn_reveal_f350e362:
 
     # u "(This is my chance...)"
-    u ""
+    u "(This is my chance...)"
 
-# game/v2/scene35.rpy:2680
+# game/v2/scene35.rpy:2689
 translate francais v2s35_let_it_happen_5a6e4284:
 
     # u "(Let's see if she makes a mess on her own.)"
-    u ""
+    u "(Let's see if she makes a mess on her own.)"
 
-# game/v2/scene35.rpy:2685
+# game/v2/scene35.rpy:2694
 translate francais v2s35_let_it_happen_7fbb75a4:
 
     # au "Eh, we get the jist. *Chuckles*"
-    au ""
+    au "Eh, we get the jist. *Chuckles*"
 
-# game/v2/scene35.rpy:2690
+# game/v2/scene35.rpy:2699
 translate francais v2s35_let_it_happen_d4960c11:
 
     # li "*Drunk* Anyway, I think that's all I had to say..."
-    li ""
+    li "*Drunk* Anyway, I think that's all I had to say..."
 
-# game/v2/scene35.rpy:2695
-translate francais v2s35_let_it_happen_43c992b2:
+# game/v2/scene35.rpy:2704
+translate francais v2s35_let_it_happen_0ed89d53:
 
-    # li "Just please think about what I've said and consider supporting me. Please?"
-    li ""
+    # li "*Drunk* Just please think about what I've said and consider supporting me. Please?"
+    li "*Drunk* Just please think about what I've said and consider supporting me. Please?"
 
-# game/v2/scene35.rpy:2700
+# game/v2/scene35.rpy:2709
 translate francais v2s35_let_it_happen_89711a37:
 
     # aut "I totally will."
-    aut ""
+    aut "I totally will."
 
-# game/v2/scene35.rpy:2705
+# game/v2/scene35.rpy:2714
 translate francais v2s35_let_it_happen_e7ee7cb9:
 
     # au "Yeah, everything you've said makes a lot of sense."
-    au ""
+    au "Yeah, everything you've said makes a lot of sense."
 
-# game/v2/scene35.rpy:2710
+# game/v2/scene35.rpy:2719
 translate francais v2s35_let_it_happen_038a7f4b:
 
     # li "*Drunk* Thanks girlies!"
-    li ""
+    li "*Drunk* Thanks girlies!"
 
-# game/v2/scene35.rpy:2715
-translate francais v2s35_let_it_happen_dfab0b23:
+# game/v2/scene35.rpy:2724
+translate francais v2s35_let_it_happen_16da2813:
 
-    # li "*Drunk* We should probably end the night here before I pass out on you guys, haha!"
-    li ""
+    # li "*Drunk* We should probably end the night here before I pass out on you guys!"
+    li "*Drunk* We should probably end the night here before I pass out on you guys!"
 
-# game/v2/scene35.rpy:2720
-translate francais v2s35_let_it_happen_5f080d5a:
+# game/v2/scene35.rpy:2729
+translate francais v2s35_let_it_happen_9209fe2e:
 
-    # aut "*Chuckles* I had a great time. I'm so glad I came."
-    aut ""
+    # aut "Aww, well I had a great time. I'm so glad I came."
+    aut "Aww, well I had a great time. I'm so glad I came."
 
-# game/v2/scene35.rpy:2725
+# game/v2/scene35.rpy:2734
 translate francais v2s35_let_it_happen_70c9c551:
 
     # u "Yeah, it's been fun!"
-    u ""
+    u "Yeah, it's been fun!"
 
-# game/v2/scene35.rpy:2730
+# game/v2/scene35.rpy:2739
 translate francais v2s35_let_it_happen_b30eb351:
 
     # au "Let's do it again sometime."
-    au ""
+    au "Let's do it again sometime."
 
-# game/v2/scene35.rpy:2735
+# game/v2/scene35.rpy:2744
 translate francais v2s35_let_it_happen_2c775d75:
 
     # li "*Drunk* Yes! That sounds perfect."
-    li ""
+    li "*Drunk* Yes! That sounds perfect."
 
-# game/v2/scene35.rpy:2742
+# game/v2/scene35.rpy:2751
 translate francais v2s35_bring_up_chloe_e869b605:
 
     # u "You were telling us what you don't like about Chloe."
-    u ""
+    u "You were telling us what you don't like about Chloe."
 
-# game/v2/scene35.rpy:2747
+# game/v2/scene35.rpy:2756
 translate francais v2s35_bring_up_chloe_ab913785:
 
     # li "*Drunk* What I don't like about Chloe?"
-    li ""
+    li "*Drunk* What I don't like about Chloe?"
 
-# game/v2/scene35.rpy:2752
+# game/v2/scene35.rpy:2761
 translate francais v2s35_bring_up_chloe_7bdc19b4:
 
     # u "Yeah, the most annoying things about her?"
-    u ""
+    u "Yeah, the most annoying things about her?"
 
-# game/v2/scene35.rpy:2767
-translate francais v2s35_bring_up_chloe_91e07f28:
+# game/v2/scene35.rpy:2776
+translate francais v2s35_bring_up_chloe_daf766b4:
 
-    # li "*Giggles* do you want a list? I mean, where do I start?"
-    li ""
+    # li "*Drunk* Do you want a list? I mean, where do I start?"
+    li "*Drunk* Do you want a list? I mean, where do I start?"
 
-# game/v2/scene35.rpy:2772
+# game/v2/scene35.rpy:2781
 translate francais v2s35_bring_up_chloe_2045ef95:
 
     # aut "Um..."
-    aut ""
+    aut "Um..."
 
-# game/v2/scene35.rpy:2779
+# game/v2/scene35.rpy:2788
 translate francais v2s35_bring_up_chloe_29169e32:
 
     # li "*Drunk* Her plastic boobs?"
-    li ""
+    li "*Drunk* Her plastic boobs?"
 
-# game/v2/scene35.rpy:2784
+# game/v2/scene35.rpy:2793
 translate francais v2s35_bring_up_chloe_82e720da:
 
     # u "(Oof.)"
-    u ""
+    u "(Oof.)"
 
-# game/v2/scene35.rpy:2791
+# game/v2/scene35.rpy:2800
 translate francais v2s35_bring_up_chloe_71b6aca4:
 
     # li "*Drunk* Or her plastic nose?"
-    li ""
+    li "*Drunk* Or her plastic nose?"
 
-# game/v2/scene35.rpy:2796
+# game/v2/scene35.rpy:2805
 translate francais v2s35_bring_up_chloe_dbe29a40:
 
     # au "I think that's enough, Lindsey."
-    au ""
+    au "I think that's enough, Lindsey."
 
-# game/v2/scene35.rpy:2834
-translate francais v2s35_stop_lindsey_0b47b6c3:
+# game/v2/scene35.rpy:2831
+translate francais v2s35_stop_lindsey_241ec9f4:
 
-    # u "Yeah, maybe stop talking now... Ha."
-    u ""
+    # u "Yeah, maybe stop talking now..."
+    u "Yeah, maybe stop talking now..."
 
-# game/v2/scene35.rpy:2841
+# game/v2/scene35.rpy:2838
 translate francais v2s35_stop_lindsey_144ebaf2:
 
     # li "*Drunk* Whoops! I probably just sounded like such a bitch. I'm sorry..."
-    li ""
+    li "*Drunk* Whoops! I probably just sounded like such a bitch. I'm sorry..."
 
-# game/v2/scene35.rpy:2846
+# game/v2/scene35.rpy:2843
 translate francais v2s35_stop_lindsey_aefe6205:
 
     # aut "It happens. Drinking can turn people's moods just like that."
-    aut ""
+    aut "It happens. Drinking can turn people's moods just like that."
 
-# game/v2/scene35.rpy:2851
+# game/v2/scene35.rpy:2848
 translate francais v2s35_stop_lindsey_d6097527:
 
     # au "It's probably a good time to end the night anyway."
-    au ""
+    au "It's probably a good time to end the night anyway."
 
-# game/v2/scene35.rpy:2856
+# game/v2/scene35.rpy:2853
 translate francais v2s35_stop_lindsey_b986532d:
 
     # li "*Drunk* Yeah, okay. It is getting late."
-    li ""
+    li "*Drunk* Yeah, okay. It is getting late."
 
-# game/v2/scene35.rpy:2868
+# game/v2/scene35.rpy:2865
 translate francais v2s35_say_nothing_5c459125:
 
     # li "*Drunk* That's why she's doing everything she can to not lose her scholarship."
-    li ""
+    li "*Drunk* That's why she's doing everything she can to not lose her scholarship."
 
-# game/v2/scene35.rpy:2872
-translate francais v2s35_say_nothing_be0b93ef:
+# game/v2/scene35.rpy:2869
+translate francais v2s35_say_nothing_51d23122:
 
-    # li "She'd have to sell a good chunk of her body back to the surgeons in order to pay for school, ha!"
-    li ""
+    # li "*Drunk* She'd have to sell a good chunk of her body back to the surgeons in order to pay for school, ha!"
+    li "*Drunk* She'd have to sell a good chunk of her body back to the surgeons in order to pay for school, ha!"
 
-# game/v2/scene35.rpy:2877
+# game/v2/scene35.rpy:2874
 translate francais v2s35_say_nothing_20d897fa:
 
     # au "Lindsey, stop. That's way too far."
-    au ""
+    au "Lindsey, stop. That's way too far."
 
-# game/v2/scene35.rpy:2882
+# game/v2/scene35.rpy:2879
 translate francais v2s35_say_nothing_49c00c4f:
 
     # li "*Drunk* Oh, shit... You're so right. Oh my-"
-    li ""
+    li "*Drunk* Oh, shit... You're so right. Oh my-"
 
-# game/v2/scene35.rpy:2887
+# game/v2/scene35.rpy:2884
 translate francais v2s35_say_nothing_cff15a9b:
 
     # li "I'm so sorry. That was a horrible thing to say."
-    li ""
+    li "I'm so sorry. That was a horrible thing to say."
 
-# game/v2/scene35.rpy:2892
+# game/v2/scene35.rpy:2889
 translate francais v2s35_say_nothing_fe81c7e9:
 
     # li "*Drunk* I'm just stressed from all this campaign work... *Sighs* I shouldn't be getting this drunk. I'm really, really sorry."
-    li ""
+    li "*Drunk* I'm just stressed from all this campaign work... *Sighs* I shouldn't be getting this drunk. I'm really, really sorry."
 
-# game/v2/scene35.rpy:2902
+# game/v2/scene35.rpy:2899
 translate francais v2s35_say_nothing_b2410399:
 
     # u "(Thank you, Lindsey! That's exactly what I needed!)"
-    u ""
+    u "(Thank you, Lindsey! That's exactly what I needed!)"
 
-# game/v2/scene35.rpy:2912
+# game/v2/scene35.rpy:2909
 translate francais v2s35_say_nothing_0219eb85:
 
     # aut "I can't imagine how stressed you are, but you should go to bed now. Sleep it off and wake up with a new attitude."
-    aut ""
+    aut "I can't imagine how stressed you are, but you should go to bed now. Sleep it off and wake up with a new attitude."
 
-# game/v2/scene35.rpy:2917
+# game/v2/scene35.rpy:2914
 translate francais v2s35_say_nothing_b4333646:
 
     # li "*Drunk* Yeah, you're right..."
-    li ""
+    li "*Drunk* Yeah, you're right..."
 
-# game/v2/scene35.rpy:2928
+# game/v2/scene35.rpy:2925
 translate francais v2s35_say_nothing_edd326f5:
 
     # u "(This is going to be almost impossible without alcohol. I can try to trick Lindsey, but I doubt she'll take the bait.)"
-    u ""
+    u "(This is going to be almost impossible without alcohol. I can try to trick Lindsey, but I doubt she'll take the bait.)"
 
-# game/v2/scene35.rpy:2946
+# game/v2/scene35.rpy:2937
 translate francais v2s35_say_nothing_300b9786:
 
     # u "(It's not even worth trying...)"
-    u ""
+    u "(It's not even worth trying...)"
 
-# game/v2/scene35.rpy:2951
+# game/v2/scene35.rpy:2942
 translate francais v2s35_say_nothing_54892a9a:
 
     # au "I think we've talked enough about Chloe now anyway."
-    au ""
+    au "I think we've talked enough about Chloe now anyway."
 
-# game/v2/scene35.rpy:2956
+# game/v2/scene35.rpy:2947
 translate francais v2s35_say_nothing_27168a16:
 
     # aut "Yeah, I'm feeling pretty sleepy."
-    aut ""
+    aut "Yeah, I'm feeling pretty sleepy."
 
-# game/v2/scene35.rpy:2961
+# game/v2/scene35.rpy:2952
 translate francais v2s35_say_nothing_057dc43d:
 
     # u "It's been a long day for sure, but I had a great time."
-    u ""
+    u "It's been a long day for sure, but I had a great time."
 
-# game/v2/scene35.rpy:2966
+# game/v2/scene35.rpy:2957
 translate francais v2s35_say_nothing_e43e528d:
 
     # aut "Yeah, it was a lot of fun Lindsey!"
-    aut ""
+    aut "Yeah, it was a lot of fun Lindsey!"
 
-# game/v2/scene35.rpy:2971
+# game/v2/scene35.rpy:2962
 translate francais v2s35_say_nothing_00c7bd2b:
 
     # au "We should definitely do it again sometime."
-    au ""
+    au "We should definitely do it again sometime."
 
-# game/v2/scene35.rpy:2976
+# game/v2/scene35.rpy:2967
 translate francais v2s35_say_nothing_88c05455:
 
     # li "Aw, yes, we will!"
-    li ""
+    li "Aw, yes, we will!"
 
-# game/v2/scene35.rpy:2995
+# game/v2/scene35.rpy:2980
 translate francais v2s35_say_nothing_0fedd207:
 
     # u "Lindsey, be honest with us for a minute, what do you hate most about Chloe?"
-    u ""
+    u "Lindsey, be honest with us for a minute, what do you hate most about Chloe?"
 
-# game/v2/scene35.rpy:3005
-translate francais v2s35_say_nothing_3dea57f2:
+# game/v2/scene35.rpy:2990
+translate francais v2s35_say_nothing_6c2795e2:
 
-    # li "Haha, I don't hate her, [name]. She's my sorority sister."
-    li ""
+    # li "Huh? I don't hate her, [name]. She's my sorority sister."
+    li "Huh? I don't hate her, [name]. She's my sorority sister."
 
-# game/v2/scene35.rpy:3007
+# game/v2/scene35.rpy:2992
 translate francais v2s35_say_nothing_5b16588b:
 
     # li "I care about her. She's my campaign rival, but I don't hate her."
-    li ""
+    li "I care about her. She's my campaign rival, but I don't hate her."
 
-# game/v2/scene35.rpy:3012
+# game/v2/scene35.rpy:2997
 translate francais v2s35_say_nothing_721efd4b:
 
     # u "Not even a little bit?"
-    u ""
+    u "Not even a little bit?"
 
-# game/v2/scene35.rpy:3027
+# game/v2/scene35.rpy:3012
 translate francais v2s35_say_nothing_f58de522:
 
     # li "What do you want me to say? That her boobs are obviously fake? Everyone knows that I think."
-    li ""
+    li "What do you want me to say? That her boobs are obviously fake? Everyone knows that I think."
 
-# game/v2/scene35.rpy:3032
+# game/v2/scene35.rpy:3017
 translate francais v2s35_say_nothing_ec2f6ed9:
 
     # u "I don't know, but you kind of just did."
-    u ""
+    u "I don't know, but you kind of just did."
 
-# game/v2/scene35.rpy:3037
+# game/v2/scene35.rpy:3022
 translate francais v2s35_say_nothing_6fb3d2c2:
 
     # li "Well, I did, but I didn't mean it in a bad way... I was just joking."
-    li ""
+    li "Well, I did, but I didn't mean it in a bad way... I was just joking."
 
-# game/v2/scene35.rpy:3045
+# game/v2/scene35.rpy:3030
 translate francais v2s35_say_nothing_a993c44f:
 
     # li "No. Not at all. Stop trying to cause trouble, [name], haha."
-    li ""
+    li "No. Not at all. Stop trying to cause trouble, [name], haha."
 
-# game/v2/scene35.rpy:3050
+# game/v2/scene35.rpy:3035
 translate francais v2s35_say_nothing_4cc8d6f3:
 
     # au "Is it okay if we stop talking about Chloe now?"
-    au ""
+    au "Is it okay if we stop talking about Chloe now?"
 
-# game/v2/scene35.rpy:3055
-translate francais v2s35_say_nothing_1a7e1847:
+# game/v2/scene35.rpy:3040
+translate francais v2s35_say_nothing_f3f2e292:
 
-    # aut "Yeah, I'm ready to go, I think. Getting a little sleepy over here, haha."
-    aut ""
+    # aut "Yeah, I'm ready to go, I think. Getting a little sleepy over here."
+    aut "Yeah, I'm ready to go, I think. Getting a little sleepy over here."
 
-# game/v2/scene35.rpy:3060
+# game/v2/scene35.rpy:3045
 translate francais v2s35_say_nothing_e786a47f:
 
     # li "Oh, okay. Well, thanks for listening to me anyway. I really appreciate it you guys."
-    li ""
+    li "Oh, okay. Well, thanks for listening to me anyway. I really appreciate it you guys."
 
-# game/v2/scene35.rpy:3065
+# game/v2/scene35.rpy:3050
 translate francais v2s35_say_nothing_f589912d:
 
     # aut "Of course, I had a great night. Thanks again for the invite."
-    aut ""
+    aut "Of course, I had a great night. Thanks again for the invite."
 
-# game/v2/scene35.rpy:3070
+# game/v2/scene35.rpy:3055
 translate francais v2s35_say_nothing_cd8db827:
 
     # u "Yeah, this was fun."
-    u ""
+    u "Yeah, this was fun."
 
-# game/v2/scene35.rpy:3086
+# game/v2/scene35.rpy:3074
 translate francais v2s35_say_nothing_fe77d6f8:
 
     # li "Oh, wow. Are we boring you?"
-    li ""
+    li "Oh, wow. Are we boring you?"
 
-# game/v2/scene35.rpy:3091
+# game/v2/scene35.rpy:3079
 translate francais v2s35_say_nothing_eb4e9a5d:
 
     # u "I'm sorry, it's been a long day, haha."
-    u ""
+    u "I'm sorry, it's been a long day, haha."
 
-# game/v2/scene35.rpy:3096
+# game/v2/scene35.rpy:3084
 translate francais v2s35_say_nothing_d85fb95b:
 
     # aut "Yeah, I need to get going if I plan on getting a good night's rest."
-    aut ""
+    aut "Yeah, I need to get going if I plan on getting a good night's rest."
 
-# game/v2/scene35.rpy:3101
+# game/v2/scene35.rpy:3089
 translate francais v2s35_say_nothing_192d1d74:
 
     # u "This was fun, though."
-    u ""
+    u "This was fun, though."
 
-# game/v2/scene35.rpy:3106
+# game/v2/scene35.rpy:3094
 translate francais v2s35_say_nothing_34aa4c41:
 
     # au "Yeah, I loved the game."
-    au ""
+    au "Yeah, I loved the game."
 
-# game/v2/scene35.rpy:3111
+# game/v2/scene35.rpy:3099
 translate francais v2s35_say_nothing_810ad8ed:
 
     # aut "And the drinks!"
-    aut ""
+    aut "And the drinks!"
 
-# game/v2/scene35.rpy:3116
-translate francais v2s35_say_nothing_c35af33d:
+# game/v2/scene35.rpy:3104
+translate francais v2s35_say_nothing_4038c515:
 
-    # li "Haha, thanks guys. I appreciate you all coming."
-    li ""
+    # li "Aww, thanks guys. I appreciate you all coming."
+    li "Aww, thanks guys. I appreciate you all coming."
 
-# game/v2/scene35.rpy:3126
+# game/v2/scene35.rpy:3114
 translate francais v2s35_say_nothing_a003d034:
 
     # au "Goodnight, losers!"
-    au ""
+    au "Goodnight, losers!"
 
-# game/v2/scene35.rpy:3131
+# game/v2/scene35.rpy:3119
 translate francais v2s35_say_nothing_dc11f83b:
 
     # li "Later guys, be safe!"
-    li ""
+    li "Later guys, be safe!"
 
 translate francais strings:
 
     # game/v2/scene35.rpy:35
     old "Be funny"
-    new ""
+    new "Be funny"
 
-    # game/v2/scene35.rpy:250
+    # game/v2/scene35.rpy:245
     old "Would you rather"
-    new ""
+    new "Would you rather"
 
-    # game/v2/scene35.rpy:250
+    # game/v2/scene35.rpy:245
     old "Most likely to"
-    new ""
+    new "Most likely to"
 
-    # game/v2/scene35.rpy:2250
+    # game/v2/scene35.rpy:2273
     old "Stop the questions"
-    new ""
+    new "Stop the questions"
 
-    # game/v2/scene35.rpy:2250
+    # game/v2/scene35.rpy:2273
     old "Ask one more"
-    new ""
+    new "Ask one more"
 
-    # game/v2/scene35.rpy:2523
+    # game/v2/scene35.rpy:2552
     old "Offer shots"
-    new ""
+    new "Offer shots"
 
-    # game/v2/scene35.rpy:2655
+    # game/v2/scene35.rpy:2672
     old "Let it happen naturally"
-    new ""
+    new "Let it happen naturally"
 
-    # game/v2/scene35.rpy:2655
+    # game/v2/scene35.rpy:2672
     old "Bring up Chloe"
-    new ""
+    new "Bring up Chloe"
 
-    # game/v2/scene35.rpy:2806
+    # game/v2/scene35.rpy:2815
     old "Stop Lindsey"
-    new ""
+    new "Stop Lindsey"
 
-    # game/v2/scene35.rpy:2933
+    # game/v2/scene35.rpy:2930
     old "Try to trick her"
-    new ""
+    new "Try to trick her"
 

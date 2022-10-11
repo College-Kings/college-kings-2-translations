@@ -1,1412 +1,1418 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene36.rpy:18
-translate francais v1s36_31c55b6c:
+translate francais v1s36_31c55b6c_1:
 
     # jen "Hey [name]! Such a nice spot, isn't it?"
-    jen ""
+    jen "Hey [name]! Such a nice spot, isn't it?"
 
 # game/v1/scene36.rpy:23
-translate francais v1s36_d12ff8d4:
+translate francais v1s36_d12ff8d4_1:
 
     # u "Shit, Jenny... How'd you find this place?"
-    u ""
+    u "Shit, Jenny... How'd you find this place?"
 
 # game/v1/scene36.rpy:28
-translate francais v1s36_552e6289:
+translate francais v1s36_552e6289_1:
 
     # jen "I was literally just driving by and saw a sign for it. Apparently it's brand new so I wanted to enjoy it before it becomes the new hotspot."
-    jen ""
+    jen "I was literally just driving by and saw a sign for it. Apparently it's brand new so I wanted to enjoy it before it becomes the new hotspot."
 
 # game/v1/scene36.rpy:33
-translate francais v1s36_f0afb86a:
+translate francais v1s36_316024c0_1:
 
-    # u "Well, I feel honored to be one of the first people to use it, haha."
-    u ""
+    # u "Well, I feel honored to be one of the first people to use it."
+    u "Well, I feel honored to be one of the first people to use it."
 
 # game/v1/scene36.rpy:35
-translate francais v1s36_ba237ae9:
+translate francais v1s36_ba237ae9_1:
 
     # u "Are you planning on swimming?"
-    u ""
+    u "Are you planning on swimming?"
 
 # game/v1/scene36.rpy:40
-translate francais v1s36_b69e488d:
+translate francais v1s36_e8b530ad_1:
 
-    # jen "Maybe. I thought I would but the water is a little colder than I expected. I will put my feet in though."
-    jen ""
+    # jen "Maybe. I thought I would but the water is a little colder than I expected. I will put my feet in, though."
+    jen "Maybe. I thought I would but the water is a little colder than I expected. I will put my feet in, though."
 
 # game/v1/scene36.rpy:45
-translate francais v1s36_f613ea6e:
+translate francais v1s36_40f16dc7_1:
 
-    # u "That's a good idea. Let's start slow. *Laughs*"
-    u ""
+    # u "That's a good idea. Let's start slow."
+    u "That's a good idea. Let's start slow."
 
 # game/v1/scene36.rpy:60
-translate francais v1s36_a527cf0c:
+translate francais v1s36_f2e342d1_1:
 
-    # jen "Not too bad I guess."
-    jen ""
+    # jen "Not too bad, I guess."
+    jen "Not too bad, I guess."
 
 # game/v1/scene36.rpy:65
-translate francais v1s36_4fdc74d4:
+translate francais v1s36_c7c09245_1:
 
-    # u "So tell me, what made you wanna hang out tonight?"
-    u ""
+    # u "So, tell me, what made you wanna hang out tonight?"
+    u "So, tell me, what made you wanna hang out tonight?"
 
 # game/v1/scene36.rpy:70
-translate francais v1s36_27af3613:
+translate francais v1s36_27af3613_1:
 
     # jen "Honestly? I was just bored."
-    jen ""
+    jen "Honestly? I was just bored."
 
 # game/v1/scene36.rpy:78
-translate francais v1s36_b9ab5483:
+translate francais v1s36_f01d9c5d_1:
 
-    # u "Oh, happy to help... Is Penelope busy today?"
-    u ""
+    # u "Oh, happy to help... is Penelope busy today?"
+    u "Oh, happy to help... is Penelope busy today?"
 
 # game/v1/scene36.rpy:83
-translate francais v1s36_673c6e06:
+translate francais v1s36_673c6e06_1:
 
     # u "Ouch, can't believe I'm just a boredom reliever."
-    u ""
+    u "Ouch, can't believe I'm just a boredom reliever."
 
 # game/v1/scene36.rpy:88
-translate francais v1s36_df185743:
+translate francais v1s36_752ab45f_1:
 
-    # jen "Haha you're not. Well, just a bit maybe."
-    jen ""
+    # jen "Ha, you're not. Well... just a bit, maybe."
+    jen "Ha, you're not. Well... just a bit, maybe."
 
 # game/v1/scene36.rpy:93
-translate francais v1s36_6f49f8c0:
+translate francais v1s36_5ca9657d_1:
 
-    # u "So I assume Penelope's busy today?"
-    u ""
+    # u "So, I assume Penelope's busy today?"
+    u "So, I assume Penelope's busy today?"
 
 # game/v1/scene36.rpy:98
-translate francais v1s36_44cc3e03:
+translate francais v1s36_44cc3e03_1:
 
     # jen "Yeah, I tried texting her but she told me she was sleeping early."
-    jen ""
+    jen "Yeah, I tried texting her but she told me she was sleeping early."
 
 # game/v1/scene36.rpy:103
-translate francais v1s36_24761b2b:
+translate francais v1s36_69374908_1:
 
-    # u "Oh, alright..."
-    u ""
+    # u "Oh, all right..."
+    u "Oh, all right..."
 
 # game/v1/scene36.rpy:106
-translate francais v1s36_4613351c:
+translate francais v1s36_4613351c_1:
 
     # u "(Maybe it's a good thing I didn't try calling her...)"
-    u ""
+    u "(Maybe it's a good thing I didn't try calling her...)"
 
 # game/v1/scene36.rpy:111
-translate francais v1s36_96c7d3a2:
+translate francais v1s36_96c7d3a2_1:
 
     # jen "Say, I've been noticing a lot of campaign stuff going on at SVC. I believe it's with the Chicks house?"
-    jen ""
+    jen "Say, I've been noticing a lot of campaign stuff going on at SVC. I believe it's with the Chicks house?"
 
 # game/v1/scene36.rpy:116
-translate francais v1s36_a2a0b203:
+translate francais v1s36_e3f23844_1:
 
-    # u "Yeah. Chloe, who is the current President, and Lindsey are running against each other for presidency."
-    u ""
+    # u "Yeah. Chloe, who is the current President, and Lindsey are running against each other."
+    u "Yeah. Chloe, who is the current President, and Lindsey are running against each other."
 
-# game/v1/scene36.rpy:121
-translate francais v1s36_e0e9adca:
+# game/v1/scene36.rpy:118
+translate francais v1s36_dad7adb9_1:
+
+    # u "It's not as big of a deal to the college as it seems, but in our pocket of friends, everyone's involved."
+    u "It's not as big of a deal to the college as it seems, but in our pocket of friends, everyone's involved."
+
+# game/v1/scene36.rpy:123
+translate francais v1s36_e0e9adca_1:
 
     # jen "Hmm... I had a friend named Chloe when I was younger."
-    jen ""
+    jen "Hmm... I had a friend named Chloe when I was younger."
 
-# game/v1/scene36.rpy:126
-translate francais v1s36_6bcd435f:
+# game/v1/scene36.rpy:128
+translate francais v1s36_6bcd435f_1:
 
     # u "Yeah?"
-    u ""
+    u "Yeah?"
 
-# game/v1/scene36.rpy:131
-translate francais v1s36_b41ba313:
+# game/v1/scene36.rpy:133
+translate francais v1s36_b9bbbe07_1:
 
-    # jen "Tall, blonde, and a true badass... We did pageants together when we were kids."
-    jen ""
+    # jen "Tall, blonde, and a true badass. We did pageants together when we were kids."
+    jen "Tall, blonde, and a true badass. We did pageants together when we were kids."
 
-# game/v1/scene36.rpy:136
-translate francais v1s36_596adeed:
+# game/v1/scene36.rpy:138
+translate francais v1s36_78080b84_1:
 
-    # u "Well, the Chloe I know is definitely a badass, or a bad bitch, depending on who you ask... *Laughs*."
-    u ""
+    # u "Well, the Chloe I know is definitely a badass, or a bad bitch, depending on who you ask."
+    u "Well, the Chloe I know is definitely a badass, or a bad bitch, depending on who you ask."
 
-# game/v1/scene36.rpy:141
-translate francais v1s36_8a9708ae:
+# game/v1/scene36.rpy:143
+translate francais v1s36_1d4fb0aa_1:
 
-    # jen "Haha! Wait, no way... What's her last name?"
-    jen ""
+    # jen "Ha! Wait, no way... what's her last name?"
+    jen "Ha! Wait, no way... what's her last name?"
 
-# game/v1/scene36.rpy:146
-translate francais v1s36_76a70ca6:
+# game/v1/scene36.rpy:148
+translate francais v1s36_76a70ca6_1:
 
     # u "Moralez?"
-    u ""
+    u "Moralez?"
 
-# game/v1/scene36.rpy:156
-translate francais v1s36_093cbbc1:
+# game/v1/scene36.rpy:158
+translate francais v1s36_093cbbc1_1:
 
     # jen "Get the fuck out of here! You're joking...?"
-    jen ""
+    jen "Get the fuck out of here! You're joking...?"
 
-# game/v1/scene36.rpy:161
-translate francais v1s36_55612b51:
+# game/v1/scene36.rpy:163
+translate francais v1s36_22a70a03_1:
 
-    # u "Haha, nope. President of the Chicks, Homecoming Queen, and one of my close friends."
-    u ""
+    # u "Nope. President of the Chicks, Homecoming Queen, and one of my close friends."
+    u "Nope. President of the Chicks, Homecoming Queen, and one of my close friends."
 
-# game/v1/scene36.rpy:166
-translate francais v1s36_a2ae9035:
+# game/v1/scene36.rpy:168
+translate francais v1s36_a2ae9035_1:
 
     # jen "This is crazy! Your Chloe is my Chloe..."
-    jen ""
+    jen "This is crazy! Your Chloe is my Chloe..."
 
-# game/v1/scene36.rpy:171
-translate francais v1s36_6ace1009:
+# game/v1/scene36.rpy:173
+translate francais v1s36_e97ad0a2_1:
 
-    # u "*Laughs* Small world."
-    u ""
+    # u "Small world."
+    u "Small world."
 
-# game/v1/scene36.rpy:176
-translate francais v1s36_33676e82:
+# game/v1/scene36.rpy:178
+translate francais v1s36_81d3c7ff_1:
 
-    # jen "I haven't seen her in years... What has she been up to?"
-    jen ""
+    # jen "I haven't seen her in years... what has she been up to?"
+    jen "I haven't seen her in years... what has she been up to?"
 
-# game/v1/scene36.rpy:181
-translate francais v1s36_01a9b5c8:
+# game/v1/scene36.rpy:183
+translate francais v1s36_01a9b5c8_1:
 
     # u "Well, like I said, she's currently being challenged by a fellow Chick named Lindsey."
-    u ""
+    u "Well, like I said, she's currently being challenged by a fellow Chick named Lindsey."
 
-# game/v1/scene36.rpy:186
-translate francais v1s36_042e88f4:
+# game/v1/scene36.rpy:188
+translate francais v1s36_eb57450a_1:
 
-    # jen "Oh, pfft... *Laughs* There's no way she'll lose to some chick named Lindsey, haha."
-    jen ""
+    # jen "Oh, pfft... there's no way she'll lose to someone named Lindsey."
+    jen "Oh, pfft... there's no way she'll lose to someone named Lindsey."
 
-# game/v1/scene36.rpy:191
-translate francais v1s36_af5f5144:
+# game/v1/scene36.rpy:193
+translate francais v1s36_af5f5144_1:
 
     # jen "Chloe wins anything she puts her mind to. She's a do-whatever-you-gotta-do-to-win type of player."
-    jen ""
+    jen "Chloe wins anything she puts her mind to. She's a do-whatever-you-gotta-do-to-win type of player."
 
-# game/v1/scene36.rpy:196
-translate francais v1s36_9dd5fc63:
+# game/v1/scene36.rpy:198
+translate francais v1s36_9dd5fc63_1:
 
     # u "That definitely sounds like the Chloe I know, but Lindsey can't be taken too lightly. She's got a lot of supporters."
-    u ""
+    u "That definitely sounds like the Chloe I know, but Lindsey can't be taken too lightly. She's got a lot of supporters."
 
-# game/v1/scene36.rpy:201
-translate francais v1s36_9f9f9338:
+# game/v1/scene36.rpy:203
+translate francais v1s36_9f9f9338_1:
 
     # jen "Chloe will focus on what's important and nothing else. I'm gonna have to see how I can get more involved in her campaign..."
-    jen ""
+    jen "Chloe will focus on what's important and nothing else. I'm gonna have to see how I can get more involved in her campaign..."
 
-# game/v1/scene36.rpy:206
-translate francais v1s36_f55ab7e8:
+# game/v1/scene36.rpy:208
+translate francais v1s36_f2e10ab8_1:
 
-    # u "Haha, you and everyone else."
-    u ""
+    # u "You and everyone else in our circles."
+    u "You and everyone else in our circles."
 
-# game/v1/scene36.rpy:211
-translate francais v1s36_45d74b7a:
+# game/v1/scene36.rpy:213
+translate francais v1s36_45d74b7a_1:
 
     # jen "You're in a frat, aren't you?"
-    jen ""
+    jen "You're in a frat, aren't you?"
 
-# game/v1/scene36.rpy:216
-translate francais v1s36_12aa7976:
+# game/v1/scene36.rpy:218
+translate francais v1s36_12aa7976_1:
 
     # u "I am, yeah."
-    u ""
+    u "I am, yeah."
 
-# game/v1/scene36.rpy:221
-translate francais v1s36_0c5b7d14:
+# game/v1/scene36.rpy:223
+translate francais v1s36_0c5b7d14_1:
 
     # jen "It's kinda weird but, I could never bring myself to join Greek life, but I always liked guys who did."
-    jen ""
+    jen "It's kinda weird but, I could never bring myself to join Greek life, but I always liked guys who did."
 
-# game/v1/scene36.rpy:226
-translate francais v1s36_afa3da43:
+# game/v1/scene36.rpy:228
+translate francais v1s36_afa3da43_1:
 
     # u "Why's that?"
-    u ""
+    u "Why's that?"
 
-# game/v1/scene36.rpy:231
-translate francais v1s36_27c696bd:
+# game/v1/scene36.rpy:233
+translate francais v1s36_27c696bd_1:
 
     # jen "Too many reasons to count, ha. But, I don't know... The frat boys always knew how to have fun."
-    jen ""
+    jen "Too many reasons to count, ha. But, I don't know... The frat boys always knew how to have fun."
 
-# game/v1/scene36.rpy:236
-translate francais v1s36_2b1e141e:
+# game/v1/scene36.rpy:238
+translate francais v1s36_2b1e141e_1:
 
     # u "Some do."
-    u ""
+    u "Some do."
 
-# game/v1/scene36.rpy:241
-translate francais v1s36_c48eb503:
+# game/v1/scene36.rpy:243
+translate francais v1s36_c48eb503_1:
 
     # jen "Oh? Well, then what about you? Are you a fun one?"
-    jen ""
+    jen "Oh? Well, then what about you? Are you a fun one?"
 
-# game/v1/scene36.rpy:254
-translate francais v1s36_902873d4:
+# game/v1/scene36.rpy:256
+translate francais v1s36_902873d4_1:
 
     # u "Yeah I am. I guess it depends on what you consider fun."
-    u ""
-
-# game/v1/scene36.rpy:259
-translate francais v1s36_8bd2850e:
-
-    # jen "Well, I'm not some \"Chick\". *Chuckles*"
-    jen ""
+    u "Yeah I am. I guess it depends on what you consider fun."
 
 # game/v1/scene36.rpy:261
-translate francais v1s36_8c8c7930:
+translate francais v1s36_ecb4fe0c_1:
+
+    # jen "Well, I'm not some \"Chick\"."
+    jen "Well, I'm not some \"Chick\"."
+
+# game/v1/scene36.rpy:263
+translate francais v1s36_8c8c7930_1:
 
     # jen "So what I consider fun is usually something wild and exhilarating. Like going to a strip club, spontaneous skinny dipping, stuff like that."
-    jen ""
+    jen "So what I consider fun is usually something wild and exhilarating. Like going to a strip club, spontaneous skinny dipping, stuff like that."
 
-# game/v1/scene36.rpy:269
-translate francais v1s36_25476f73:
+# game/v1/scene36.rpy:271
+translate francais v1s36_711c110a_1:
 
-    # u "Not really. I'm more of the reserved type I guess, because I like to focus on the serious stuff."
-    u ""
-
-# game/v1/scene36.rpy:274
-translate francais v1s36_99ba2638:
-
-    # jen "Oh, I see..."
-    jen ""
+    # u "Not really. I'm more of the reserved type, I guess, because I like to focus on the serious stuff."
+    u "Not really. I'm more of the reserved type, I guess, because I like to focus on the serious stuff."
 
 # game/v1/scene36.rpy:276
-translate francais v1s36_7a1da2a3:
+translate francais v1s36_99ba2638_1:
+
+    # jen "Oh, I see..."
+    jen "Oh, I see..."
+
+# game/v1/scene36.rpy:278
+translate francais v1s36_7a1da2a3_1:
 
     # jen "Well, that's too bad."
-    jen ""
+    jen "Well, that's too bad."
 
-# game/v1/scene36.rpy:281
-translate francais v1s36_fcd79426:
+# game/v1/scene36.rpy:283
+translate francais v1s36_fcd79426_1:
 
     # u "This is starting to make more and more sense..."
-    u ""
+    u "This is starting to make more and more sense..."
 
-# game/v1/scene36.rpy:286
-translate francais v1s36_67dfdc40:
+# game/v1/scene36.rpy:288
+translate francais v1s36_67dfdc40_1:
 
     # jen "What?"
-    jen ""
-
-# game/v1/scene36.rpy:291
-translate francais v1s36_a14281fc:
-
-    # u "Your friendship with Penelope."
-    u ""
+    jen "What?"
 
 # game/v1/scene36.rpy:293
-translate francais v1s36_fea27bb7:
+translate francais v1s36_a14281fc_1:
+
+    # u "Your friendship with Penelope."
+    u "Your friendship with Penelope."
+
+# game/v1/scene36.rpy:295
+translate francais v1s36_fea27bb7_1:
 
     # u "You're the one that's secretly wild and leans on her for a bit of structure, and she's the structured one who leans on you for fun."
-    u ""
-
-# game/v1/scene36.rpy:298
-translate francais v1s36_d5c994c1:
-
-    # jen "Haha..."
-    jen ""
+    u "You're the one that's secretly wild and leans on her for a bit of structure, and she's the structured one who leans on you for fun."
 
 # game/v1/scene36.rpy:300
-translate francais v1s36_9cc09fb6:
+translate francais v1s36_588f51b4_1:
+
+    # jen "Huh..."
+    jen "Huh..."
+
+# game/v1/scene36.rpy:302
+translate francais v1s36_9cc09fb6_1:
 
     # jen "I've never taken the time to break down our friendship like that and look at it but, yeah. I guess you're right."
-    jen ""
+    jen "I've never taken the time to break down our friendship like that and look at it but, yeah. I guess you're right."
 
-# game/v1/scene36.rpy:305
-translate francais v1s36_c3dd5ac2:
+# game/v1/scene36.rpy:307
+translate francais v1s36_438c0da4_1:
 
-    # u "Which is interesting, because I didn't get that vibe from you during the first impression."
-    u ""
+    # u "Which is interesting, because I didn't get that vibe from my first impression of you."
+    u "Which is interesting, because I didn't get that vibe from my first impression of you."
 
-# game/v1/scene36.rpy:310
-translate francais v1s36_61af117e:
+# game/v1/scene36.rpy:312
+translate francais v1s36_6ef687c2_1:
 
-    # jen "It's not something I show on first impression..."
-    jen ""
-
-# game/v1/scene36.rpy:315
-translate francais v1s36_8d7397e5:
-
-    # u "Haha, I see."
-    u ""
+    # jen "It's not something I show all that readily..."
+    jen "It's not something I show all that readily..."
 
 # game/v1/scene36.rpy:317
-translate francais v1s36_29e73fbb:
+translate francais v1s36_b663e4a9_1:
 
-    # u "I guess there's a lot you can get to know about a person if you see them more than a few times... Weird. *Laughs*"
-    u ""
+    # u "I see."
+    u "I see."
 
-# game/v1/scene36.rpy:322
-translate francais v1s36_d3ca2f23:
+# game/v1/scene36.rpy:319
+translate francais v1s36_6dabe756_1:
 
-    # jen "*Laughs* How many times have we seen each other now?"
-    jen ""
+    # u "I guess there's a lot you can get to know about a person if you see them more than a few times. Weird, huh?"
+    u "I guess there's a lot you can get to know about a person if you see them more than a few times. Weird, huh?"
 
-# game/v1/scene36.rpy:327
-translate francais v1s36_d946ef73:
+# game/v1/scene36.rpy:324
+translate francais v1s36_2e51fd01_1:
+
+    # jen "How many times have we seen each other now?"
+    jen "How many times have we seen each other now?"
+
+# game/v1/scene36.rpy:329
+translate francais v1s36_d946ef73_1:
 
     # u "Once."
-    u ""
+    u "Once."
 
-# game/v1/scene36.rpy:332
-translate francais v1s36_eb2844d4:
+# game/v1/scene36.rpy:334
+translate francais v1s36_eb2844d4_1:
 
     # jen "Well, it was more than once."
-    jen ""
+    jen "Well, it was more than once."
 
-# game/v1/scene36.rpy:337
-translate francais v1s36_68664310:
+# game/v1/scene36.rpy:339
+translate francais v1s36_68664310_1:
 
     # u "I only remember the cafe... Oh! The meeting with the school board as well, I guess. We didn't meet up more than twice, right?"
-    u ""
+    u "I only remember the cafe... Oh! The meeting with the school board as well, I guess. We didn't meet up more than twice, right?"
 
-# game/v1/scene36.rpy:342
-translate francais v1s36_c0e800c7:
+# game/v1/scene36.rpy:344
+translate francais v1s36_c0e800c7_1:
 
     # jen "I didn't ask how many times we've met up, I asked how many times we'd seen each other."
-    jen ""
+    jen "I didn't ask how many times we've met up, I asked how many times we'd seen each other."
 
-# game/v1/scene36.rpy:347
-translate francais v1s36_41c7f3a9:
+# game/v1/scene36.rpy:349
+translate francais v1s36_41c7f3a9_1:
 
     # u "(What is she talking about?)"
-    u ""
+    u "(What is she talking about?)"
 
-# game/v1/scene36.rpy:352
-translate francais v1s36_bccf2534:
+# game/v1/scene36.rpy:354
+translate francais v1s36_bccf2534_1:
 
     # jen "And the answer to that question is three."
-    jen ""
+    jen "And the answer to that question is three."
 
-# game/v1/scene36.rpy:357
-translate francais v1s36_3ffeda9b:
+# game/v1/scene36.rpy:359
+translate francais v1s36_3ffeda9b_1:
 
     # u "Three...?"
-    u ""
+    u "Three...?"
 
-# game/v1/scene36.rpy:362
-translate francais v1s36_92323f8a:
+# game/v1/scene36.rpy:364
+translate francais v1s36_92323f8a_1:
 
     # jen "Oh, come on..."
-    jen ""
+    jen "Oh, come on..."
 
-# game/v1/scene36.rpy:367
-translate francais v1s36_f753236f:
+# game/v1/scene36.rpy:369
+translate francais v1s36_f753236f_1:
 
     # jen "You don't remember that little picture I sent you while you were in Europe?"
-    jen ""
+    jen "You don't remember that little picture I sent you while you were in Europe?"
 
-# game/v1/scene36.rpy:372
-translate francais v1s36_a9919fca:
+# game/v1/scene36.rpy:374
+translate francais v1s36_dd3fc6c5_1:
 
-    # u "Oh... O-Oh! That's what you're talking about, haha. Well, that was an accident though, right?"
-    u ""
+    # u "Oh... oh! That's what you're talking about. Well, that was an accident, though, right?"
+    u "Oh... oh! That's what you're talking about. Well, that was an accident, though, right?"
 
-# game/v1/scene36.rpy:377
-translate francais v1s36_289f39e4:
+# game/v1/scene36.rpy:379
+translate francais v1s36_1d4052ee_1:
 
-    # jen "True, yeah... But it wasn't a mistake."
-    jen ""
+    # jen "True, yeah... but it wasn't a mistake."
+    jen "True, yeah... but it wasn't a mistake."
 
-# game/v1/scene36.rpy:382
-translate francais v1s36_8b258704:
+# game/v1/scene36.rpy:384
+translate francais v1s36_8b258704_1:
 
     # u "Huh?"
-    u ""
-
-# game/v1/scene36.rpy:387
-translate francais v1s36_8262f996:
-
-    # jen "Well, like..."
-    jen ""
+    u "Huh?"
 
 # game/v1/scene36.rpy:389
-translate francais v1s36_3842432f:
+translate francais v1s36_8262f996_1:
 
-    # jen "I'm not mad that it happened, and I don't regret it or anything. *Chuckles*"
-    jen ""
+    # jen "Well, like..."
+    jen "Well, like..."
 
-# game/v1/scene36.rpy:394
-translate francais v1s36_4f679a78:
+# game/v1/scene36.rpy:391
+translate francais v1s36_316bcb4a_1:
+
+    # jen "I'm not mad that it happened, and I don't regret it or anything."
+    jen "I'm not mad that it happened, and I don't regret it or anything."
+
+# game/v1/scene36.rpy:396
+translate francais v1s36_4f679a78_1:
 
     # u "Wait... Why not?"
-    u ""
+    u "Wait... Why not?"
 
-# game/v1/scene36.rpy:399
-translate francais v1s36_1770123e:
+# game/v1/scene36.rpy:401
+translate francais v1s36_06756847_1:
 
-    # jen "'Cause it's better that it was you rather than some creep, haha. At least it wasn't Imre or... What's his face..."
-    jen ""
+    # jen "'Cause it's better that it was you rather than some creep. At least it wasn't Imre or... what's his face..."
+    jen "'Cause it's better that it was you rather than some creep. At least it wasn't Imre or... what's his face..."
 
-# game/v1/scene36.rpy:404
-translate francais v1s36_553c5a99:
+# game/v1/scene36.rpy:406
+translate francais v1s36_553c5a99_1:
 
     # u "Who's \"What's his face\"?"
-    u ""
+    u "Who's \"What's his face\"?"
 
-# game/v1/scene36.rpy:409
-translate francais v1s36_2fc9fcd0:
+# game/v1/scene36.rpy:411
+translate francais v1s36_2fc9fcd0_1:
 
     # jen "Starts with an R, I think."
-    jen ""
+    jen "Starts with an R, I think."
 
-# game/v1/scene36.rpy:414
-translate francais v1s36_f0ff2a68:
+# game/v1/scene36.rpy:416
+translate francais v1s36_f0ff2a68_1:
 
     # u "Ryan?"
-    u ""
+    u "Ryan?"
 
-# game/v1/scene36.rpy:419
-translate francais v1s36_de65ff0c:
+# game/v1/scene36.rpy:421
+translate francais v1s36_de65ff0c_1:
 
     # jen "That's it! Yeah, at least It wasn't either of them."
-    jen ""
+    jen "That's it! Yeah, at least It wasn't either of them."
 
-# game/v1/scene36.rpy:424
-translate francais v1s36_0a94f0ae:
+# game/v1/scene36.rpy:426
+translate francais v1s36_db881e03_1:
 
-    # u "I mean, I don't blame you, but... Why don't you like them?"
-    u ""
+    # u "I mean, I don't blame you, but... why don't you like them?"
+    u "I mean, I don't blame you, but... why don't you like them?"
 
-# game/v1/scene36.rpy:429
-translate francais v1s36_71968a9f:
+# game/v1/scene36.rpy:431
+translate francais v1s36_71968a9f_1:
 
     # jen "I wouldn't say I don't like them, but... I can just tell from what I do know about them, that they're not my kind of people."
-    jen ""
+    jen "I wouldn't say I don't like them, but... I can just tell from what I do know about them, that they're not my kind of people."
 
-# game/v1/scene36.rpy:434
-translate francais v1s36_4b028870:
+# game/v1/scene36.rpy:436
+translate francais v1s36_4b028870_1:
 
     # u "How do you know anything about them?"
-    u ""
+    u "How do you know anything about them?"
 
-# game/v1/scene36.rpy:439
-translate francais v1s36_37ac81a6:
+# game/v1/scene36.rpy:441
+translate francais v1s36_37ac81a6_1:
 
     # jen "The same way I know things about you."
-    jen ""
+    jen "The same way I know things about you."
 
-# game/v1/scene36.rpy:444
-translate francais v1s36_dc88bbaf:
+# game/v1/scene36.rpy:446
+translate francais v1s36_dc88bbaf_1:
 
     # u "And that is...?"
-    u ""
+    u "And that is...?"
 
-# game/v1/scene36.rpy:449
-translate francais v1s36_4a1f6912:
+# game/v1/scene36.rpy:451
+translate francais v1s36_4c60a5a7_1:
 
-    # jen "Penelope of course."
-    jen ""
+    # jen "Penelope, of course."
+    jen "Penelope, of course."
 
-# game/v1/scene36.rpy:454
-translate francais v1s36_b78acdd6:
+# game/v1/scene36.rpy:456
+translate francais v1s36_a415d2c5_1:
 
-    # u "Penelope isn't in a sorority and also chooses to miss out on a lot of those things. So I guess I don't see how she could know everyone so well, haha."
-    u ""
+    # u "Penelope isn't in a sorority and chooses to miss out on a lot of those things. So I guess I don't see how she could know everyone so well."
+    u "Penelope isn't in a sorority and chooses to miss out on a lot of those things. So I guess I don't see how she could know everyone so well."
 
-# game/v1/scene36.rpy:459
-translate francais v1s36_9b1822ba:
+# game/v1/scene36.rpy:461
+translate francais v1s36_3116ccc8_1:
 
-    # jen "Penelope may be quiet but she has her ears to all the walls. She's very aware of the things around her."
-    jen ""
+    # jen "Penelope may be quiet, but she has her ears to all the walls. She's very aware of the things around her."
+    jen "Penelope may be quiet, but she has her ears to all the walls. She's very aware of the things around her."
 
-# game/v1/scene36.rpy:464
-translate francais v1s36_f0581bff:
+# game/v1/scene36.rpy:466
+translate francais v1s36_f0581bff_1:
 
     # jen "And being the lover of gossip that I am, I'm always around to gather the tea."
-    jen ""
+    jen "And being the lover of gossip that I am, I'm always around to gather the tea."
 
-# game/v1/scene36.rpy:469
-translate francais v1s36_d11b1318:
+# game/v1/scene36.rpy:471
+translate francais v1s36_ac8ae235_1:
 
-    # u "Haha, okay. Well, in that case..."
-    u ""
+    # u "Ha, okay. Well, in that case..."
+    u "Ha, okay. Well, in that case..."
 
-# game/v1/scene36.rpy:474
-translate francais v1s36_95bb4742:
+# game/v1/scene36.rpy:476
+translate francais v1s36_95bb4742_1:
 
     # u "I bet you've heard a lot from people other than Penelope."
-    u ""
+    u "I bet you've heard a lot from people other than Penelope."
 
-# game/v1/scene36.rpy:479
-translate francais v1s36_4fd145e5:
+# game/v1/scene36.rpy:481
+translate francais v1s36_3a36a945_1:
 
-    # jen "I have. That's how I know that I can trust you and... You know, be myself."
-    jen ""
+    # jen "I have. That's how I know that I can trust you and... you know, be myself."
+    jen "I have. That's how I know that I can trust you and... you know, be myself."
 
-# game/v1/scene36.rpy:489
-translate francais v1s36_2c0f716b:
+# game/v1/scene36.rpy:491
+translate francais v1s36_2c0f716b_1:
 
     # u "Well, that's not fair."
-    u ""
+    u "Well, that's not fair."
 
-# game/v1/scene36.rpy:494
-translate francais v1s36_e975c0b0:
+# game/v1/scene36.rpy:496
+translate francais v1s36_e975c0b0_1:
 
     # jen "Ha! What's not fair?"
-    jen ""
+    jen "Ha! What's not fair?"
 
-# game/v1/scene36.rpy:499
-translate francais v1s36_5d145ed7:
+# game/v1/scene36.rpy:501
+translate francais v1s36_5d145ed7_1:
 
     # u "*Sighs* You know all this stuff about me and I know nothing about you."
-    u ""
+    u "*Sighs* You know all this stuff about me and I know nothing about you."
 
-# game/v1/scene36.rpy:504
-translate francais v1s36_5a99f42a:
+# game/v1/scene36.rpy:506
+translate francais v1s36_5a99f42a_1:
 
     # jen "So, you're saying that you want to get to know me?"
-    jen ""
+    jen "So, you're saying that you want to get to know me?"
 
-# game/v1/scene36.rpy:509
-translate francais v1s36_2fd2fbc1:
+# game/v1/scene36.rpy:511
+translate francais v1s36_2fd2fbc1_1:
 
     # u "That'd be nice, yeah. Of course."
-    u ""
+    u "That'd be nice, yeah. Of course."
 
-# game/v1/scene36.rpy:517
-translate francais v1s36_3080840d:
+# game/v1/scene36.rpy:519
+translate francais v1s36_3080840d_1:
 
     # u "What are you, a spy?"
-    u ""
+    u "What are you, a spy?"
 
-# game/v1/scene36.rpy:522
-translate francais v1s36_e56177e6:
+# game/v1/scene36.rpy:524
+translate francais v1s36_e56177e6_1:
 
     # jen "What? No! I just hear things about everyone from everyone."
-    jen ""
+    jen "What? No! I just hear things about everyone from everyone."
 
-# game/v1/scene36.rpy:527
-translate francais v1s36_91db1491:
+# game/v1/scene36.rpy:529
+translate francais v1s36_91db1491_1:
 
     # u "Mhmm, good save."
-    u ""
+    u "Mhmm, good save."
 
-# game/v1/scene36.rpy:532
-translate francais v1s36_b5e19258:
+# game/v1/scene36.rpy:534
+translate francais v1s36_ca342e2a_1:
 
-    # jen "*Chuckles* Whatever."
-    jen ""
+    # jen "Whatever."
+    jen "Whatever."
 
-# game/v1/scene36.rpy:537
-translate francais v1s36_f9e152cb:
+# game/v1/scene36.rpy:539
+translate francais v1s36_f9e152cb_1:
 
     # jen "Of course? Are you trying to make me feel special or something?"
-    jen ""
+    jen "Of course? Are you trying to make me feel special or something?"
 
-# game/v1/scene36.rpy:550
-translate francais v1s36_2e71f540:
+# game/v1/scene36.rpy:552
+translate francais v1s36_2e71f540_1:
 
     # u "Or something, yeah."
-    u ""
+    u "Or something, yeah."
 
-# game/v1/scene36.rpy:558
-translate francais v1s36_3ed5347d:
+# game/v1/scene36.rpy:560
+translate francais v1s36_ee79bba6_1:
 
-    # u "Haha, I'm just trying to be a good friend."
-    u ""
+    # u "I'm just trying to be a good friend."
+    u "I'm just trying to be a good friend."
 
-# game/v1/scene36.rpy:567
-translate francais v1s36_8bdb5ed3:
+# game/v1/scene36.rpy:569
+translate francais v1s36_8bdb5ed3_1:
 
     # u "(Huh?)"
-    u ""
-
-# game/v1/scene36.rpy:577
-translate francais v1s36_a9b0474c:
-
-    # jen "I'm really happy you decided to come out tonight."
-    jen ""
+    u "(Huh?)"
 
 # game/v1/scene36.rpy:579
-translate francais v1s36_3c3142ce:
+translate francais v1s36_a9b0474c_1:
+
+    # jen "I'm really happy you decided to come out tonight."
+    jen "I'm really happy you decided to come out tonight."
+
+# game/v1/scene36.rpy:581
+translate francais v1s36_3c3142ce_1:
 
     # jen "I'm kind of glad that Penelope turned me down, actually."
-    jen ""
+    jen "I'm kind of glad that Penelope turned me down, actually."
 
-# game/v1/scene36.rpy:584
-translate francais v1s36_ef06efb9:
+# game/v1/scene36.rpy:586
+translate francais v1s36_ef06efb9_1:
 
     # u "Ha. Why's that?"
-    u ""
+    u "Ha. Why's that?"
 
-# game/v1/scene36.rpy:594
-translate francais v1s36_697d8f7f:
+# game/v1/scene36.rpy:596
+translate francais v1s36_697d8f7f_1:
 
     # jen "Well, honestly... I've been wanting to hang out with you like crazy."
-    jen ""
+    jen "Well, honestly... I've been wanting to hang out with you like crazy."
 
-# game/v1/scene36.rpy:599
-translate francais v1s36_a4b41383:
+# game/v1/scene36.rpy:601
+translate francais v1s36_eaade579_1:
 
-    # jen "I didn't know you guys were going to be in Europe for that long, I thought it was gonna be like a weekend thing, so..."
-    jen ""
+    # jen "I didn't know you guys were going to be in Europe for that long. I thought it was gonna be like a weekend thing, so..."
+    jen "I didn't know you guys were going to be in Europe for that long. I thought it was gonna be like a weekend thing, so..."
 
-# game/v1/scene36.rpy:604
-translate francais v1s36_e70a9158:
+# game/v1/scene36.rpy:606
+translate francais v1s36_d5ca789c_1:
 
-    # jen "I was excited to hang out with you after the Penelope stuff was settled and well, obviously it didn't happen till now."
-    jen ""
+    # jen "I was excited to hang out with you after the Penelope stuff was settled and, well, obviously it didn't happen 'til now."
+    jen "I was excited to hang out with you after the Penelope stuff was settled and, well, obviously it didn't happen 'til now."
 
-# game/v1/scene36.rpy:609
-translate francais v1s36_dcc04445:
+# game/v1/scene36.rpy:611
+translate francais v1s36_dcc04445_1:
 
     # u "Well, thank you. But also, why me?"
-    u ""
+    u "Well, thank you. But also, why me?"
 
-# game/v1/scene36.rpy:614
-translate francais v1s36_3c640914:
+# game/v1/scene36.rpy:616
+translate francais v1s36_3c640914_1:
 
     # jen "I still don't really know many people."
-    jen ""
+    jen "I still don't really know many people."
 
-# game/v1/scene36.rpy:619
-translate francais v1s36_a9ef18f2:
+# game/v1/scene36.rpy:621
+translate francais v1s36_a9ef18f2_1:
 
     # u "You didn't go out and meet other people?"
-    u ""
+    u "You didn't go out and meet other people?"
 
-# game/v1/scene36.rpy:624
-translate francais v1s36_953281a6:
+# game/v1/scene36.rpy:626
+translate francais v1s36_6e414efc_1:
 
-    # jen "I didn't really want to, haha. After meeting you and... You being so close with Penelope already... That's all I really need."
-    jen ""
+    # jen "I didn't really want to. After meeting you and... you being so close with Penelope already... that's all I really need."
+    jen "I didn't really want to. After meeting you and... you being so close with Penelope already... that's all I really need."
 
-# game/v1/scene36.rpy:629
-translate francais v1s36_c3e5d39e:
+# game/v1/scene36.rpy:631
+translate francais v1s36_c3e5d39e_1:
 
     # jen "You're a loyal person that cares about your friends and you don't make stupid decisions that harm others."
-    jen ""
+    jen "You're a loyal person that cares about your friends and you don't make stupid decisions that harm others."
 
-# game/v1/scene36.rpy:634
-translate francais v1s36_17bf743a:
+# game/v1/scene36.rpy:636
+translate francais v1s36_fdd8e626_1:
 
-    # u "(Debatable...) Thank you Jenny but-"
-    u ""
+    # u "(Debatable...) Thank you, Jenny, but-"
+    u "(Debatable...) Thank you, Jenny, but-"
 
-# game/v1/scene36.rpy:639
-translate francais v1s36_9951254a:
+# game/v1/scene36.rpy:641
+translate francais v1s36_9951254a_1:
 
     # jen "On top of that, you dropped everything to come be with me in the middle of the night."
-    jen ""
+    jen "On top of that, you dropped everything to come be with me in the middle of the night."
 
-# game/v1/scene36.rpy:644
-translate francais v1s36_5260cf2f:
+# game/v1/scene36.rpy:646
+translate francais v1s36_5260cf2f_1:
 
     # jen "How could I want to be around anyone else?"
-    jen ""
+    jen "How could I want to be around anyone else?"
 
-# game/v1/scene36.rpy:680
-translate francais v1s36_sg_0db834f2:
+# game/v1/scene36.rpy:682
+translate francais v1s36_sg_0db834f2_1:
 
     # jen "Ha, wow..."
-    jen ""
+    jen "Ha, wow..."
 
-# game/v1/scene36.rpy:685
-translate francais v1s36_sg_8aeccf05:
+# game/v1/scene36.rpy:687
+translate francais v1s36_sg_8aeccf05_1:
 
     # u "My bad, was I reading signals wrong?"
-    u ""
+    u "My bad, was I reading signals wrong?"
 
-# game/v1/scene36.rpy:690
-translate francais v1s36_sg_529d0a11:
+# game/v1/scene36.rpy:692
+translate francais v1s36_sg_529d0a11_1:
 
     # jen "No! Not at all."
-    jen ""
+    jen "No! Not at all."
 
-# game/v1/scene36.rpy:695
-translate francais v1s36_sg_8a66b61d:
+# game/v1/scene36.rpy:697
+translate francais v1s36_sg_8a66b61d_1:
 
     # jen "I just..."
-    jen ""
-
-# game/v1/scene36.rpy:700
-translate francais v1s36_sg_6fc61637:
-
-    # jen "*Whispers* I didn't think you'd be down for this."
-    jen ""
+    jen "I just..."
 
 # game/v1/scene36.rpy:702
-translate francais v1s36_sg_8e4b4396:
+translate francais v1s36_sg_6fc61637_1:
+
+    # jen "*Whispers* I didn't think you'd be down for this."
+    jen "*Whispers* I didn't think you'd be down for this."
+
+# game/v1/scene36.rpy:704
+translate francais v1s36_sg_8e4b4396_1:
 
     # u "(Oh fuuccckk...)"
-    u ""
-
-# game/v1/scene36.rpy:707
-translate francais v1s36_sg_9efedf28:
-
-    # jen "*Whispers* With us not really knowing each other that much..."
-    jen ""
+    u "(Oh fuuccckk...)"
 
 # game/v1/scene36.rpy:709
-translate francais v1s36_sg_3f05b674:
+translate francais v1s36_sg_9efedf28_1:
+
+    # jen "*Whispers* With us not really knowing each other that much..."
+    jen "*Whispers* With us not really knowing each other that much..."
+
+# game/v1/scene36.rpy:711
+translate francais v1s36_sg_3f05b674_1:
 
     # u "Mhmm..."
-    u ""
+    u "Mhmm..."
 
-# game/v1/scene36.rpy:714
-translate francais v1s36_sg_61cb3cf2:
+# game/v1/scene36.rpy:716
+translate francais v1s36_sg_36d5f62d_1:
 
-    # jen "*Whispers* But nonetheless, I'm really glad you are."
-    jen ""
+    # jen "*Whispers* But I'm really glad you are."
+    jen "*Whispers* But I'm really glad you are."
 
-# game/v1/scene36.rpy:719
-translate francais v1s36_sg_ad6872e1:
+# game/v1/scene36.rpy:721
+translate francais v1s36_sg_ad6872e1_1:
 
     # u "*Moans*"
-    u ""
+    u "*Moans*"
 
-# game/v1/scene36.rpy:724
-translate francais v1s36_sg_31321bbe:
+# game/v1/scene36.rpy:726
+translate francais v1s36_sg_31321bbe_1:
 
     # u "Ha, I mean..."
-    u ""
-
-# game/v1/scene36.rpy:729
-translate francais v1s36_sg_cf196fc1:
-
-    # u "I feel like we've built a real connection tonight and along with everything we've already been through..."
-    u ""
+    u "Ha, I mean..."
 
 # game/v1/scene36.rpy:731
-translate francais v1s36_sg_e934b57c:
+translate francais v1s36_sg_fdd45e84_1:
+
+    # u "I feel like we've built a real connection tonight. And along with everything we've already been through..."
+    u "I feel like we've built a real connection tonight. And along with everything we've already been through..."
+
+# game/v1/scene36.rpy:733
+translate francais v1s36_sg_e934b57c_1:
 
     # u "Something is there, I feel it. And I like it a lot."
-    u ""
+    u "Something is there, I feel it. And I like it a lot."
 
-# game/v1/scene36.rpy:736
-translate francais v1s36_sg_d6da8697:
+# game/v1/scene36.rpy:738
+translate francais v1s36_sg_14a7fdfd_1:
 
-    # jen "I'm usually the date first, dessert second, type of girl... but right now I'm feeling... Some type of way."
-    jen ""
+    # jen "I'm usually the date first, dessert second, type of girl... but right now I'm feeling... some type of way."
+    jen "I'm usually the date first, dessert second, type of girl... but right now I'm feeling... some type of way."
 
-# game/v1/scene36.rpy:741
-translate francais v1s36_sg_fcc18885:
+# game/v1/scene36.rpy:743
+translate francais v1s36_sg_2e11e504_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "Same."
+    u "Same."
 
-# game/v1/scene36.rpy:746
-translate francais v1s36_sg_c77f7da7:
+# game/v1/scene36.rpy:748
+translate francais v1s36_sg_c77f7da7_1:
 
     # jen "Just promise me that this isn't the first and last time we'll get together, yeah?"
-    jen ""
+    jen "Just promise me that this isn't the first and last time we'll get together, yeah?"
 
-# game/v1/scene36.rpy:751
-translate francais v1s36_sg_ce6f2308:
+# game/v1/scene36.rpy:753
+translate francais v1s36_sg_ce6f2308_1:
 
     # u "I can easily promise that, 'cause I'm hoping for many nights like this in the future."
-    u ""
+    u "I can easily promise that, 'cause I'm hoping for many nights like this in the future."
 
-# game/v1/scene36.rpy:766
-translate francais v1s36_sg_55e903fc:
+# game/v1/scene36.rpy:768
+translate francais v1s36_sg_55e903fc_1:
 
     # jen "Don't worry about the suit. Come on."
-    jen ""
+    jen "Don't worry about the suit. Come on."
 
 # game/v1/scene36.rpy:786
-translate francais v1s36_sg_5c8a8335:
+translate francais v1s36_sg_5c8a8335_1:
 
     # u "We need to get these things off of you, don't we? Hmm..."
-    u ""
+    u "We need to get these things off of you, don't we? Hmm..."
 
-# game/v1/scene36.rpy:795
-translate francais v1s36_sg_f97a0970:
+# game/v1/scene36.rpy:793
+translate francais v1s36_sg_41440147_1:
 
-    # jen "*Chuckles* What are you-"
-    jen ""
+    # jen "What are you-"
+    jen "What are you-"
 
-# game/v1/scene36.rpy:834
-translate francais v1s36_sg_2abe65a5:
+# game/v1/scene36.rpy:828
+translate francais v1s36_sg_2abe65a5_1:
 
     # jen "Hello? What's happening..."
-    jen ""
+    jen "Hello? What's happening..."
+
+# game/v1/scene36.rpy:834
+translate francais v1s36_sg_ede9c654_1:
+
+    # jen "Hey! That tickles! S-stop! What-"
+    jen "Hey! That tickles! S-stop! What-"
 
 # game/v1/scene36.rpy:840
-translate francais v1s36_sg_b7ea65dc:
-
-    # jen "Hey! That tickles, haha! S-stop! What-"
-    jen ""
-
-# game/v1/scene36.rpy:846
-translate francais v1s36_sg_4aa37f0e:
+translate francais v1s36_sg_4aa37f0e_1:
 
     # jen "*Gasps* Oh... My... GOD!"
-    jen ""
+    jen "*Gasps* Oh... My... GOD!"
+
+# game/v1/scene36.rpy:851
+translate francais v1s36_sg_08a24ea9_1:
+
+    # jen "Well, well... that was a fancy little trick."
+    jen "Well, well... that was a fancy little trick."
 
 # game/v1/scene36.rpy:857
-translate francais v1s36_sg_5120563d:
+translate francais v1s36_sg_083c1246_1:
 
-    # jen "Well, well... That was a fancy little trick. *Laughs*"
-    jen ""
+    # u "Ha... want 'em back?"
+    u "Ha... want 'em back?"
 
 # game/v1/scene36.rpy:863
-translate francais v1s36_sg_43a9ae8e:
-
-    # u "Haha... Want 'em back?"
-    u ""
-
-# game/v1/scene36.rpy:869
-translate francais v1s36_sg_b7c791e9:
+translate francais v1s36_sg_b7c791e9_1:
 
     # jen "Nope, they belong to you now."
-    jen ""
+    jen "Nope, they belong to you now."
 
-# game/v1/scene36.rpy:897
-translate francais v1s36_sg_ba394b26:
+# game/v1/scene36.rpy:889
+translate francais v1s36_sg_70764ac3_1:
 
-    # u "Jenny- Fffffuck, Jenny..."
-    u ""
+    # u "Jenny... oh, God, Jenny..."
+    u "Jenny... oh, God, Jenny..."
 
-# game/v1/scene36.rpy:906
-translate francais v1s36_sg_2a604d35:
+# game/v1/scene36.rpy:896
+translate francais v1s36_sg_dc966d0f_1:
 
-    # u "*Moans* Yes, holy shit..."
-    u ""
+    # u "Don't stop, don't stop..."
+    u "Don't stop, don't stop..."
 
-# game/v1/scene36.rpy:915
-translate francais v1s36_sg_174bae6e:
+# game/v1/scene36.rpy:903
+translate francais v1s36_sg_174bae6e_1:
 
     # jen "*Gags*"
-    jen ""
+    jen "*Gags*"
 
-# game/v1/scene36.rpy:924
-translate francais v1s36_sg_06324c2b:
+# game/v1/scene36.rpy:910
+translate francais v1s36_sg_5a89985f_1:
 
-    # u "Ha... I... Shhhit..."
-    u ""
+    # u "Holy hell."
+    u "Holy hell."
 
-# game/v1/scene36.rpy:926
-translate francais v1s36_sg_9059e395:
+# game/v1/scene36.rpy:912
+translate francais v1s36_sg_6585fad8_1:
 
-    # u "You're so god damn sexy, Jenny... *Moans*"
-    u ""
+    # u "You're so good at this, Jenny..."
+    u "You're so good at this, Jenny..."
 
-# game/v1/scene36.rpy:955
-translate francais v1s36_sg_01d74600:
+# game/v1/scene36.rpy:939
+translate francais v1s36_sg_3321f2f5_1:
 
-    # jen "Fuck..."
-    jen ""
+    # jen "You're so damn big..."
+    jen "You're so damn big..."
+
+# game/v1/scene36.rpy:946
+translate francais v1s36_sg_0433e828_1:
+
+    # u "You like that?"
+    u "You like that?"
+
+# game/v1/scene36.rpy:953
+translate francais v1s36_sg_35601738_1:
+
+    # jen "So deep inside me... yes, [name]..."
+    jen "So deep inside me... yes, [name]..."
+
+# game/v1/scene36.rpy:960
+translate francais v1s36_sg_48ed82f7_1:
+
+    # u "(These plump, beautiful tits...)"
+    u "(These plump, beautiful tits...)"
+
+# game/v1/scene36.rpy:962
+translate francais v1s36_sg_3cf4c253_1:
+
+    # jen "*Gasps* I'm- I'm cumming..."
+    jen "*Gasps* I'm- I'm cumming..."
 
 # game/v1/scene36.rpy:964
-translate francais v1s36_sg_34065fb1:
+translate francais v1s36_sg_f798eb94_1:
 
-    # u "Ha... You like that? *Moans*"
-    u ""
+    # u "Yes, baby..."
+    u "Yes, baby..."
 
-# game/v1/scene36.rpy:973
-translate francais v1s36_sg_de744d57:
+# game/v1/scene36.rpy:966
+translate francais v1s36_sg_ee9e73f0_1:
 
-    # jen "Yes... *Moans* Yes, [name]..."
-    jen ""
+    # jen "Ohhh, [name]! *Panting* I needed this..."
+    jen "Ohhh, [name]! *Panting* I needed this..."
 
-# game/v1/scene36.rpy:982
-translate francais v1s36_sg_fe4f3656:
-
-    # u "(These beautiful fucking tits...)"
-    u ""
-
-# game/v1/scene36.rpy:984
-translate francais v1s36_sg_f00bd6fc:
-
-    # jen "*Gasps* Fuck, I'm- I'm cumming..."
-    jen ""
-
-# game/v1/scene36.rpy:986
-translate francais v1s36_sg_2eb3b23a:
-
-    # u "*Moans* Yes, baby..."
-    u ""
-
-# game/v1/scene36.rpy:988
-translate francais v1s36_sg_c8e84628:
-
-    # jen "*Moans* Ohhh, fuck, [name]! *Panting* Fuck me, yes!"
-    jen ""
-
-# game/v1/scene36.rpy:990
-translate francais v1s36_sg_f88f6e4d:
+# game/v1/scene36.rpy:968
+translate francais v1s36_sg_f88f6e4d_1:
 
     # u "Mmm... Fuck, Jenny..."
-    u ""
+    u "Mmm... Fuck, Jenny..."
 
-# game/v1/scene36.rpy:1014
-translate francais v1s36_sg_bbdf503f:
+# game/v1/scene36.rpy:990
+translate francais v1s36_sg_94056529_1:
 
-    # u "Ahh, fuck... Jenny! You're... You're gonna make me cum... *Moans*"
-    u ""
+    # u "Oh, Jenny... you're... you're gonna make me cum... *Moans*"
+    u "Oh, Jenny... you're... you're gonna make me cum... *Moans*"
 
-# game/v1/scene36.rpy:1023
-translate francais v1s36_sg_1a74f955:
+# game/v1/scene36.rpy:997
+translate francais v1s36_sg_1a74f955_1:
 
     # jen "Am I?"
-    jen ""
+    jen "Am I?"
 
-# game/v1/scene36.rpy:1032
-translate francais v1s36_sg_1e41adcb:
+# game/v1/scene36.rpy:1004
+translate francais v1s36_sg_50fa039d_1:
 
-    # u "Mmm- Yes! Yes, y-you are..."
-    u ""
+    # u "Yes! Yes, y-you are..."
+    u "Yes! Yes, y-you are..."
 
-# game/v1/scene36.rpy:1034
-translate francais v1s36_sg_bba54024:
+# game/v1/scene36.rpy:1006
+translate francais v1s36_sg_acfaf6c7_1:
 
-    # u "*Moans* Oh my fuck-"
-    u ""
+    # u "*Moans* Oh, I'm so close-"
+    u "*Moans* Oh, I'm so close-"
 
-# game/v1/scene36.rpy:1043
-translate francais v1s36_sg_b40082a3:
+# game/v1/scene36.rpy:1013
+translate francais v1s36_sg_b40082a3_1:
 
     # jen "Do it then."
-    jen ""
+    jen "Do it then."
 
-# game/v1/scene36.rpy:1045
-translate francais v1s36_sg_5c9f67a6:
+# game/v1/scene36.rpy:1015
+translate francais v1s36_sg_6cbdea76_1:
 
-    # u "Mmm! Jenny... *Moans* I'm cumming..."
-    u ""
+    # u "Jenny... *Moans* I'm cumming..."
+    u "Jenny... *Moans* I'm cumming..."
 
-# game/v1/scene36.rpy:1062
-translate francais v1s36_sg_9ef8d84e:
+# game/v1/scene36.rpy:1032
+translate francais v1s36_sg_9ef8d84e_1:
 
     # jen "Mmm!"
-    jen ""
+    jen "Mmm!"
 
-# game/v1/scene36.rpy:1068
-translate francais v1s36_sg_971b0d56:
+# game/v1/scene36.rpy:1038
+translate francais v1s36_sg_f5882d2f_1:
 
-    # u "Ha... Damn, Jenny."
-    u ""
+    # u "Damn, Jenny."
+    u "Damn, Jenny."
 
-# game/v1/scene36.rpy:1074
-translate francais v1s36_sg_55e6ec00:
+# game/v1/scene36.rpy:1044
+translate francais v1s36_sg_a29ed773_1:
 
-    # u "That was really nice, holy shit... *Panting*"
-    u ""
+    # u "That was incredible... *Panting*"
+    u "That was incredible... *Panting*"
 
-# game/v1/scene36.rpy:1089
-translate francais v1s36_sg_6229a941:
+# game/v1/scene36.rpy:1059
+translate francais v1s36_sg_6229a941_1:
 
     # jen "We keep spending time together, who knows what we could get up to next."
-    jen ""
+    jen "We keep spending time together, who knows what we could get up to next."
 
-# game/v1/scene36.rpy:1094
-translate francais v1s36_sg_5c9e4707:
+# game/v1/scene36.rpy:1064
+translate francais v1s36_sg_5c9e4707_1:
 
     # u "I'm definitely looking forward to finding out."
-    u ""
+    u "I'm definitely looking forward to finding out."
 
-# game/v1/scene36.rpy:1099
-translate francais v1s36_sg_c093aeaa:
+# game/v1/scene36.rpy:1069
+translate francais v1s36_sg_ba43c2d2_1:
 
-    # jen "Good. Just stay loyal to your friends and stay loyal to me, and you'll be kept satisfied at all times. *Chuckles*"
-    jen ""
+    # jen "Good. Just stay loyal to your friends and stay loyal to me, and you'll be kept satisfied at all times."
+    jen "Good. Just stay loyal to your friends and stay loyal to me, and you'll be kept satisfied at all times."
 
-# game/v1/scene36.rpy:1104
-translate francais v1s36_sg_d6084f90:
+# game/v1/scene36.rpy:1074
+translate francais v1s36_sg_d6084f90_1:
 
     # u "Haha... (I think) I can manage that."
-    u ""
+    u "Haha... (I think) I can manage that."
 
-# game/v1/scene36.rpy:1109
-translate francais v1s36_sg_1944ab01:
+# game/v1/scene36.rpy:1079
+translate francais v1s36_sg_1944ab01_1:
 
     # jen "Okay, I'm freezing..."
-    jen ""
+    jen "Okay, I'm freezing..."
+
+# game/v1/scene36.rpy:1084
+translate francais v1s36_sg_300e4243_1:
+
+    # u "Heh, yeah, same."
+    u "Heh, yeah, same."
+
+# game/v1/scene36.rpy:1104
+translate francais v1s36_nsfwSkipLabel1_10230af8_1:
+
+    # jen "Thank you again for coming out with me tonight. After all of that, I have a lot on my mind that I need to process."
+    jen "Thank you again for coming out with me tonight. After all of that, I have a lot on my mind that I need to process."
+
+# game/v1/scene36.rpy:1109
+translate francais v1s36_nsfwSkipLabel1_8369ad5e_1:
+
+    # jen "I wasn't really expecting us to, you know... do it."
+    jen "I wasn't really expecting us to, you know... do it."
 
 # game/v1/scene36.rpy:1114
-translate francais v1s36_sg_3c88a694:
+translate francais v1s36_nsfwSkipLabel1_42eb6292_1:
 
-    # u "Same. *Chuckles*"
-    u ""
+    # u "Ha, yeah... me either."
+    u "Ha, yeah... me either."
 
-# game/v1/scene36.rpy:1134
-translate francais v1s36_nsfwSkipLabel1_5ffed606:
-
-    # jen "Thank you again for coming out with me tonight. After all of that, I have a lot on my mind that I need to process. *Chuckles*"
-    jen ""
-
-# game/v1/scene36.rpy:1139
-translate francais v1s36_nsfwSkipLabel1_174cd50e:
-
-    # jen "I wasn't really expecting us to, you know... Do it, haha."
-    jen ""
-
-# game/v1/scene36.rpy:1144
-translate francais v1s36_nsfwSkipLabel1_5a02c714:
-
-    # u "Ha, yeah... Me either."
-    u ""
-
-# game/v1/scene36.rpy:1149
-translate francais v1s36_nsfwSkipLabel1_6e14d0c8:
+# game/v1/scene36.rpy:1119
+translate francais v1s36_nsfwSkipLabel1_6e14d0c8_1:
 
     # jen "Have a good night, [name]."
-    jen ""
+    jen "Have a good night, [name]."
 
-# game/v1/scene36.rpy:1154
-translate francais v1s36_nsfwSkipLabel1_a60274e5:
+# game/v1/scene36.rpy:1124
+translate francais v1s36_nsfwSkipLabel1_5c0fe912_1:
 
-    # u "You too Jenny, I'll see you soon?"
-    u ""
+    # u "You too, Jenny. I'll see you soon?"
+    u "You too, Jenny. I'll see you soon?"
 
-# game/v1/scene36.rpy:1159
-translate francais v1s36_nsfwSkipLabel1_b01d1a94:
+# game/v1/scene36.rpy:1129
+translate francais v1s36_nsfwSkipLabel1_b01d1a94_1:
 
     # jen "I hope so, yeah."
-    jen ""
+    jen "I hope so, yeah."
 
-# game/v1/scene36.rpy:1164
-translate francais v1s36_nsfwSkipLabel1_5d311215:
+# game/v1/scene36.rpy:1134
+translate francais v1s36_nsfwSkipLabel1_528fb71c_1:
 
-    # u "(My life is never dull, haha!)"
-    u ""
+    # u "(My life is never dull!)"
+    u "(My life is never dull!)"
 
-# game/v1/scene36.rpy:1179
-translate francais v1s36_nsfwSkipLabel1_70565841:
+# game/v1/scene36.rpy:1149
+translate francais v1s36_nsfwSkipLabel1_70565841_1:
 
     # u "Ha. um, sorry... it's kinda cold out here, don't you think?"
-    u ""
+    u "Ha. um, sorry... it's kinda cold out here, don't you think?"
 
-# game/v1/scene36.rpy:1189
-translate francais v1s36_nsfwSkipLabel1_d1a866ac:
+# game/v1/scene36.rpy:1159
+translate francais v1s36_nsfwSkipLabel1_9ec083f4_1:
 
-    # jen "Umm, yeah. I, uh... I guess it is kinda cold."
-    jen ""
+    # jen "Um, yeah. I, uh... I guess it is kind of cold."
+    jen "Um, yeah. I, uh... I guess it is kind of cold."
 
-# game/v1/scene36.rpy:1194
-translate francais v1s36_nsfwSkipLabel1_9e05e963:
+# game/v1/scene36.rpy:1164
+translate francais v1s36_nsfwSkipLabel1_1306e024_1:
 
-    # jen "Maybe I should've brought more clothes, haha."
-    jen ""
+    # jen "Maybe I should've brought more clothes."
+    jen "Maybe I should've brought more clothes."
 
-# game/v1/scene36.rpy:1199
-translate francais v1s36_nsfwSkipLabel1_647a1c97:
+# game/v1/scene36.rpy:1169
+translate francais v1s36_nsfwSkipLabel1_647a1c97_1:
 
     # u "Maybe we should-"
-    u ""
+    u "Maybe we should-"
 
-# game/v1/scene36.rpy:1204
-translate francais v1s36_nsfwSkipLabel1_97d4d3e9:
+# game/v1/scene36.rpy:1174
+translate francais v1s36_nsfwSkipLabel1_97d4d3e9_1:
 
     # jen "I should probably get back anyway."
-    jen ""
+    jen "I should probably get back anyway."
 
-# game/v1/scene36.rpy:1209
-translate francais v1s36_nsfwSkipLabel1_79b5b208:
+# game/v1/scene36.rpy:1179
+translate francais v1s36_nsfwSkipLabel1_79b5b208_1:
 
     # u "Okay, yeah. I'll see you soon?"
-    u ""
+    u "Okay, yeah. I'll see you soon?"
 
-# game/v1/scene36.rpy:1214
-translate francais v1s36_nsfwSkipLabel1_7ab8562a:
+# game/v1/scene36.rpy:1184
+translate francais v1s36_nsfwSkipLabel1_ec42ec19_1:
 
-    # jen "Right, yeah... For sure. Thanks again for coming."
-    jen ""
+    # jen "Right, yeah... for sure. Thanks again for coming."
+    jen "Right, yeah... for sure. Thanks again for coming."
 
-# game/v1/scene36.rpy:1219
-translate francais v1s36_nsfwSkipLabel1_1b28a406:
+# game/v1/scene36.rpy:1189
+translate francais v1s36_nsfwSkipLabel1_1b28a406_2:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
-# game/v1/scene36.rpy:1229
-translate francais v1s36_nsfwSkipLabel1_04e183cb:
+# game/v1/scene36.rpy:1199
+translate francais v1s36_nsfwSkipLabel1_04e183cb_2:
 
     # jen "Goodnight."
-    jen ""
+    jen "Goodnight."
 
-# game/v1/scene36.rpy:1241
-translate francais v1s36_nsfwSkipLabel1_5788969f:
+# game/v1/scene36.rpy:1211
+translate francais v1s36_nsfwSkipLabel1_5788969f_2:
 
     # u "Goodnight."
-    u ""
+    u "Goodnight."
 
-# game/v1/scene36.rpy:1248
-translate francais v1s36_nsfwSkipLabel1_f9ce5993:
+# game/v1/scene36.rpy:1218
+translate francais v1s36_nsfwSkipLabel1_6416507f_1:
 
-    # jen "I'm so glad you came, [name]. This is a lot better than having to chill by myself, haha."
-    jen ""
+    # jen "I'm so glad you came, [name]. This is a lot better than having to chill by myself."
+    jen "I'm so glad you came, [name]. This is a lot better than having to chill by myself."
 
-# game/v1/scene36.rpy:1253
-translate francais v1s36_nsfwSkipLabel1_71636f3f:
+# game/v1/scene36.rpy:1223
+translate francais v1s36_nsfwSkipLabel1_527485f2_1:
 
-    # u "Haha, I wouldn't want that. I appreciate the invite."
-    u ""
+    # u "I wouldn't want that. I appreciate the invite."
+    u "I wouldn't want that. I appreciate the invite."
 
-# game/v1/scene36.rpy:1258
-translate francais v1s36_nsfwSkipLabel1_b7e062d8:
+# game/v1/scene36.rpy:1228
+translate francais v1s36_nsfwSkipLabel1_b7e062d8_1:
 
     # jen "Good to know."
-    jen ""
+    jen "Good to know."
 
-# game/v1/scene36.rpy:1263
-translate francais v1s36_nsfwSkipLabel1_fa48e891:
+# game/v1/scene36.rpy:1233
+translate francais v1s36_nsfwSkipLabel1_bd7a5145_1:
 
-    # jen "It's starting to get a little cold... Maybe I should've brought more clothes. *Laughs*"
-    jen ""
+    # jen "It's starting to get a little cold... maybe I should've brought more clothes."
+    jen "It's starting to get a little cold... maybe I should've brought more clothes."
 
-# game/v1/scene36.rpy:1268
-translate francais v1s36_nsfwSkipLabel1_be992b4d:
+# game/v1/scene36.rpy:1238
+translate francais v1s36_nsfwSkipLabel1_be992b4d_1:
 
     # u "If I had a jacket I'd help you out."
-    u ""
+    u "If I had a jacket I'd help you out."
 
-# game/v1/scene36.rpy:1273
-translate francais v1s36_nsfwSkipLabel1_e9bf245a:
+# game/v1/scene36.rpy:1243
+translate francais v1s36_nsfwSkipLabel1_d7e58f15_1:
 
-    # jen "Haha, thanks. I should probably head on back anyway."
-    jen ""
+    # jen "Ha, thanks. I should probably head on back anyway."
+    jen "Ha, thanks. I should probably head on back anyway."
 
-# game/v1/scene36.rpy:1278
-translate francais v1s36_nsfwSkipLabel1_190d42a3:
+# game/v1/scene36.rpy:1248
+translate francais v1s36_nsfwSkipLabel1_190d42a3_1:
 
     # u "Okay, yeah. It is a little late."
-    u ""
+    u "Okay, yeah. It is a little late."
 
-# game/v1/scene36.rpy:1283
-translate francais v1s36_nsfwSkipLabel1_3dcf2d8b:
+# game/v1/scene36.rpy:1253
+translate francais v1s36_nsfwSkipLabel1_a71286d4_1:
 
-    # jen "A little, haha. Thanks for coming though."
-    jen ""
+    # jen "A little. Thanks for coming, though."
+    jen "A little. Thanks for coming, though."
 
-# game/v1/scene36.rpy:1288
-translate francais v1s36_nsfwSkipLabel1_1b28a406_1:
+# game/v1/scene36.rpy:1258
+translate francais v1s36_nsfwSkipLabel1_1b28a406_3:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
-# game/v1/scene36.rpy:1298
-translate francais v1s36_nsfwSkipLabel1_04e183cb_1:
+# game/v1/scene36.rpy:1268
+translate francais v1s36_nsfwSkipLabel1_04e183cb_3:
 
     # jen "Goodnight."
-    jen ""
+    jen "Goodnight."
 
-# game/v1/scene36.rpy:1303
-translate francais v1s36_nsfwSkipLabel1_5788969f_1:
+# game/v1/scene36.rpy:1273
+translate francais v1s36_nsfwSkipLabel1_5788969f_3:
 
     # u "Goodnight."
-    u ""
+    u "Goodnight."
 
-# game/v1/scene36.rpy:1316
-translate francais v1s36_nsfwSkipLabel1_fecfffdc:
+# game/v1/scene36.rpy:1286
+translate francais v1s36_nsfwSkipLabel1_fecfffdc_1:
 
     # u "(Speaking of life never being dull...)"
-    u ""
+    u "(Speaking of life never being dull...)"
 
-# game/v1/scene36.rpy:1324
-translate francais v1s36_nsfwSkipLabel1_254fde9f:
+# game/v1/scene36.rpy:1294
+translate francais v1s36_nsfwSkipLabel1_254fde9f_1:
 
     # u "Hey babe, what's up?"
-    u ""
+    u "Hey babe, what's up?"
 
-# game/v1/scene36.rpy:1329
-translate francais v1s36_nsfwSkipLabel1_970da75f:
+# game/v1/scene36.rpy:1299
+translate francais v1s36_nsfwSkipLabel1_970da75f_1:
 
     # la "My mind... is completely... and utterly... blown away right now."
-    la ""
+    la "My mind... is completely... and utterly... blown away right now."
 
-# game/v1/scene36.rpy:1334
-translate francais v1s36_nsfwSkipLabel1_afa3da43:
+# game/v1/scene36.rpy:1304
+translate francais v1s36_nsfwSkipLabel1_afa3da43_1:
 
     # u "Why's that?"
-    u ""
+    u "Why's that?"
 
-# game/v1/scene36.rpy:1339
-translate francais v1s36_nsfwSkipLabel1_b71e39c3:
+# game/v1/scene36.rpy:1309
+translate francais v1s36_nsfwSkipLabel1_1e76285f_1:
 
-    # la "Well, I've been watching porn all night long and I've seen some very... interesting things."
-    la ""
+    # la "Well, I've, uh, been watching porn for a bit and I've seen some very... interesting things."
+    la "Well, I've, uh, been watching porn for a bit and I've seen some very... interesting things."
 
-# game/v1/scene36.rpy:1348
-translate francais v1s36_nsfwSkipLabel1_e078f7bd:
+# game/v1/scene36.rpy:1318
+translate francais v1s36_nsfwSkipLabel1_8d8a1912_1:
 
-    # u "Haha, what kind of things?"
-    u ""
+    # u "What kind of things?"
+    u "What kind of things?"
 
-# game/v1/scene36.rpy:1353
-translate francais v1s36_nsfwSkipLabel1_cf8f7b3a:
+# game/v1/scene36.rpy:1323
+translate francais v1s36_nsfwSkipLabel1_d25aceb3_1:
 
-    # la "Like, did you know that there's like hundreds of different sex positions and depending on the position, you can feel different things?"
-    la ""
+    # la "Like, did you know there's, like, hundreds of different sex positions and depending on the position, you can feel different things?"
+    la "Like, did you know there's, like, hundreds of different sex positions and depending on the position, you can feel different things?"
 
-# game/v1/scene36.rpy:1361
-translate francais v1s36_nsfwSkipLabel1_6b352b43:
+# game/v1/scene36.rpy:1331
+translate francais v1s36_nsfwSkipLabel1_cedbf112_1:
 
-    # u "You watching porn just sounds really hot."
-    u ""
+    # u "You watching porn sounds really hot."
+    u "You watching porn sounds really hot."
 
-# game/v1/scene36.rpy:1366
-translate francais v1s36_nsfwSkipLabel1_fdf5d6cd:
+# game/v1/scene36.rpy:1336
+translate francais v1s36_nsfwSkipLabel1_afd1dbfc_1:
 
-    # la "I know... It kind of was. You should've been there."
-    la ""
+    # la "I know. It... it kind of was. You should've been there."
+    la "I know. It... it kind of was. You should've been there."
 
-# game/v1/scene36.rpy:1368
-translate francais v1s36_nsfwSkipLabel1_de138d3a:
+# game/v1/scene36.rpy:1338
+translate francais v1s36_nsfwSkipLabel1_2f539a00_1:
 
-    # la "Did you know that there's like hundreds of different sex positions and depending on the position, you can feel different things?"
-    la ""
+    # la "Did you know there are, like, hundreds of different sex positions and depending on the position, you can feel different things?"
+    la "Did you know there are, like, hundreds of different sex positions and depending on the position, you can feel different things?"
 
-# game/v1/scene36.rpy:1374
-translate francais v1s36_nsfwSkipLabel1_2d2bdb41:
+# game/v1/scene36.rpy:1344
+translate francais v1s36_nsfwSkipLabel1_2d2bdb41_1:
 
     # u "What-"
-    u ""
+    u "What-"
 
-# game/v1/scene36.rpy:1379
-translate francais v1s36_nsfwSkipLabel1_2e0a8205:
+# game/v1/scene36.rpy:1349
+translate francais v1s36_nsfwSkipLabel1_e5e7cf3b_1:
 
-    # la "Some positions make it easier to get pregnant while others make it almost impossible!"
-    la ""
+    # la "Some positions make it easier to get pregnant, others make it almost impossible. There's a whole art to it."
+    la "Some positions make it easier to get pregnant, others make it almost impossible. There's a whole art to it."
 
-# game/v1/scene36.rpy:1384
-translate francais v1s36_nsfwSkipLabel1_66ba9809:
+# game/v1/scene36.rpy:1354
+translate francais v1s36_nsfwSkipLabel1_ae1c2691_1:
 
-    # la "I wanna try so many things..."
-    la ""
+    # la "All these videos... they've, um, awoken something in me... thoughts and feelings..."
+    la "All these videos... they've, um, awoken something in me... thoughts and feelings..."
 
-# game/v1/scene36.rpy:1389
-translate francais v1s36_nsfwSkipLabel1_c5446f18:
+# game/v1/scene36.rpy:1359
+translate francais v1s36_nsfwSkipLabel1_c5446f18_1:
 
     # u "Really?"
-    u ""
+    u "Really?"
 
-# game/v1/scene36.rpy:1394
-translate francais v1s36_nsfwSkipLabel1_8bdfe9dd:
+# game/v1/scene36.rpy:1364
+translate francais v1s36_nsfwSkipLabel1_bfdd12de_1:
 
-    # la "Really! So, I'm gonna need you to watch some stuff too and, you know..."
-    la ""
+    # la "Really. Maybe, um, you could watch some of these too and, you know..."
+    la "Really. Maybe, um, you could watch some of these too and, you know..."
 
-# game/v1/scene36.rpy:1396
-translate francais v1s36_nsfwSkipLabel1_7bd0d5ea:
+# game/v1/scene36.rpy:1366
+translate francais v1s36_nsfwSkipLabel1_ac818205_1:
 
-    # la "Get some ideas of what you're comfortable with."
-    la ""
+    # la "Get some ideas of what you're comfortable with. What we might be comfortable with. If that'd be okay?"
+    la "Get some ideas of what you're comfortable with. What we might be comfortable with. If that'd be okay?"
 
-# game/v1/scene36.rpy:1401
-translate francais v1s36_nsfwSkipLabel1_7c553ac1:
+# game/v1/scene36.rpy:1371
+translate francais v1s36_nsfwSkipLabel1_ccde4faf_1:
 
-    # u "Haha, okay. Alright."
-    u ""
+    # u "Yeah! Okay. All right."
+    u "Yeah! Okay. All right."
 
-# game/v1/scene36.rpy:1406
-translate francais v1s36_nsfwSkipLabel1_d2d52650:
+# game/v1/scene36.rpy:1376
+translate francais v1s36_nsfwSkipLabel1_6a4e5647_1:
 
-    # u "This is not at all like you, but I can't say I'm not enjoying it."
-    u ""
+    # u "I haven't seen you this curious before, but I can't say I'm not enjoying it."
+    u "I haven't seen you this curious before, but I can't say I'm not enjoying it."
 
-# game/v1/scene36.rpy:1411
-translate francais v1s36_nsfwSkipLabel1_efeaa152:
+# game/v1/scene36.rpy:1381
+translate francais v1s36_nsfwSkipLabel1_7226be1e_1:
 
-    # la "Thank Amber for showing me this new world, but I think this is something that was hidden inside of me, deep down. I might be addicted to sex... *Laughs*"
-    la ""
+    # la "Thank Amber for showing me this new world, but I think the want itself was hidden inside of me, deep down. It's kind of hard to admit..."
+    la "Thank Amber for showing me this new world, but I think the want itself was hidden inside of me, deep down. It's kind of hard to admit..."
 
-# game/v1/scene36.rpy:1416
-translate francais v1s36_nsfwSkipLabel1_406520b2:
+# game/v1/scene36.rpy:1386
+translate francais v1s36_nsfwSkipLabel1_406520b2_1:
 
     # u "Well I really wanna come over now."
-    u ""
+    u "Well I really wanna come over now."
 
-# game/v1/scene36.rpy:1421
-translate francais v1s36_nsfwSkipLabel1_02634498:
+# game/v1/scene36.rpy:1391
+translate francais v1s36_nsfwSkipLabel1_1fef4a64_1:
 
-    # la "Haha, I'm sure you do... But, I should've gone to bed a long time ago and here I am."
-    la ""
+    # la "I'm sure you do... but, I should've gone to bed a long time ago and here I am."
+    la "I'm sure you do... but, I should've gone to bed a long time ago and here I am."
 
-# game/v1/scene36.rpy:1425
-translate francais v1s36_nsfwSkipLabel1_e07beaa9:
+# game/v1/scene36.rpy:1396
+translate francais v1s36_nsfwSkipLabel1_e07beaa9_1:
 
     # u "Watching porn."
-    u ""
+    u "Watching porn."
 
-# game/v1/scene36.rpy:1430
-translate francais v1s36_nsfwSkipLabel1_2f22c27a:
+# game/v1/scene36.rpy:1401
+translate francais v1s36_nsfwSkipLabel1_2f22c27a_1:
 
     # la "Exactly. So now I'm going to sleep."
-    la ""
+    la "Exactly. So now I'm going to sleep."
 
-# game/v1/scene36.rpy:1435
-translate francais v1s36_nsfwSkipLabel1_36510283:
+# game/v1/scene36.rpy:1406
+translate francais v1s36_nsfwSkipLabel1_36510283_1:
 
     # u "Fine, soon then."
-    u ""
+    u "Fine, soon then."
 
-# game/v1/scene36.rpy:1440
-translate francais v1s36_nsfwSkipLabel1_0bcebf4e:
+# game/v1/scene36.rpy:1411
+translate francais v1s36_nsfwSkipLabel1_84d0b53b_1:
 
-    # la "Very soon. Goodnight handsome."
-    la ""
+    # la "Very soon. Goodnight, handsome."
+    la "Very soon. Goodnight, handsome."
 
-# game/v1/scene36.rpy:1445
-translate francais v1s36_nsfwSkipLabel1_2bc68699:
+# game/v1/scene36.rpy:1416
+translate francais v1s36_nsfwSkipLabel1_bb9d3038_1:
 
-    # u "Goodnight angel."
-    u ""
+    # u "Goodnight, angel."
+    u "Goodnight, angel."
 
-# game/v1/scene36.rpy:1450
-translate francais v1s36_nsfwSkipLabel1_3db81863:
+# game/v1/scene36.rpy:1421
+translate francais v1s36_nsfwSkipLabel1_e9edbbe5_1:
 
-    # u "Haha, wow. What a fucking night."
-    u ""
+    # u "Wow. What a fuckin' night."
+    u "Wow. What a fuckin' night."
 
 translate francais strings:
 
     # game/v1/scene36.rpy:75
     old "Happy to help"
-    new ""
+    new "Happy to help"
 
     # game/v1/scene36.rpy:75
     old "Ouch, that hurts"
-    new ""
+    new "Ouch, that hurts"
 
-    # game/v1/scene36.rpy:246
+    # game/v1/scene36.rpy:248
     old "Yeah I am"
-    new ""
+    new "Yeah I am"
 
-    # game/v1/scene36.rpy:246
+    # game/v1/scene36.rpy:248
     old "Not really"
-    new ""
+    new "Not really"
 
-    # game/v1/scene36.rpy:481
+    # game/v1/scene36.rpy:483
     old "Not fair"
-    new ""
+    new "Not fair"
 
-    # game/v1/scene36.rpy:481
+    # game/v1/scene36.rpy:483
     old "You're a spy?"
-    new ""
+    new "You're a spy?"
 
-    # game/v1/scene36.rpy:542
+    # game/v1/scene36.rpy:544
     old "Yeah, or something..."
-    new ""
+    new "Yeah, or something..."
 
-    # game/v1/scene36.rpy:542
+    # game/v1/scene36.rpy:544
     old "Just being a good friend"
-    new ""
+    new "Just being a good friend"
 
-    # game/v1/scene36.rpy:1344
+    # game/v1/scene36.rpy:1314
     old "What kind of things?"
-    new ""
+    new "What kind of things?"
 
-    # game/v1/scene36.rpy:1344
+    # game/v1/scene36.rpy:1314
     old "You watching porn sounds hot"
-    new ""
+    new "You watching porn sounds hot"
 

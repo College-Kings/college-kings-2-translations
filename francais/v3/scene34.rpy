@@ -1,1044 +1,1080 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene34.rpy:19
-translate francais v3s34_f3f88c61:
+translate francais v3s34_f3f88c61_1:
 
     # cl "You were quick!"
-    cl ""
+    cl "You were quick!"
 
 # game/v3/scene34.rpy:24
-translate francais v3s34_d3817c1e:
+translate francais v3s34_d3817c1e_1:
 
     # u "When you say jump, I say \"how high?\"."
-    u ""
+    u "When you say jump, I say \"how high?\"."
 
 # game/v3/scene34.rpy:29
-translate francais v3s34_48b33ba3:
+translate francais v3s34_e0243018_1:
 
-    # cl "*Chuckles* Whatever that means."
-    cl ""
+    # cl "*Mmm, good boy."
+    cl "*Mmm, good boy."
 
 # game/v3/scene34.rpy:34
-translate francais v3s34_ae6d9d7b:
+translate francais v3s34_ae6d9d7b_1:
 
     # cl "Let's go in."
-    cl ""
+    cl "Let's go in."
 
 # game/v3/scene34.rpy:39
-translate francais v3s34_ba4ca141:
+translate francais v3s34_ba4ca141_1:
 
     # u "It says to knock before entering."
-    u ""
+    u "It says to knock before entering."
 
 # game/v3/scene34.rpy:44
-translate francais v3s34_b06d90f3:
+translate francais v3s34_b06d90f3_1:
 
     # cl "That's just a stupid sign."
-    cl ""
+    cl "That's just a stupid sign."
 
 # game/v3/scene34.rpy:49
-translate francais v3s34_f11f972e:
+translate francais v3s34_e7819425_1:
 
-    # u "If Elijah put it there, wouldn't he want his rules followed?"
-    u ""
+    # u "If Elijah put it there, won't he want his weird Elijah-rules followed?"
+    u "If Elijah put it there, won't he want his weird Elijah-rules followed?"
 
-# game/v3/scene34.rpy:63
-translate francais v3s34_70feea9d:
+# game/v3/scene34.rpy:64
+translate francais v3s34_70feea9d_1:
 
     # el "*Muffled* Come in!"
-    el ""
+    el "*Muffled* Come in!"
 
-# game/v3/scene34.rpy:68
-translate francais v3s34_9eb6631b:
+# game/v3/scene34.rpy:69
+translate francais v3s34_9eb6631b_1:
 
     # cl "Yes, your majesty."
-    cl ""
+    cl "Yes, your majesty."
 
-# game/v3/scene34.rpy:73
-translate francais v3s34_8569c4fa:
+# game/v3/scene34.rpy:74
+translate francais v3s34_5a0497ca_1:
 
-    # u "*Chuckles*"
-    u ""
+    # u "What a weird guy."
+    u "What a weird guy."
 
-# game/v3/scene34.rpy:92
-translate francais v3s34_3877f2ba:
+# game/v3/scene34.rpy:93
+translate francais v3s34_3877f2ba_1:
 
     # el "Thanks for respecting the editor and knocking first. You wouldn't believe the number of idiots that just barge in here."
-    el ""
+    el "Thanks for respecting the editor and knocking first. You wouldn't believe the number of idiots that just barge in here."
 
-# game/v3/scene34.rpy:97
-translate francais v3s34_7bc1dba3:
+# game/v3/scene34.rpy:98
+translate francais v3s34_b90b2b22_1:
 
-    # u "Civilized people know how to knock before entering a room."
-    u ""
+    # u "Oh yeah, of course. Civilized people know how to knock before entering a room."
+    u "Oh yeah, of course. Civilized people know how to knock before entering a room."
 
-# game/v3/scene34.rpy:102
-translate francais v3s34_075a4ec6:
+# game/v3/scene34.rpy:103
+translate francais v3s34_075a4ec6_1:
 
     # el "My sentiments exactly!"
-    el ""
+    el "My sentiments exactly!"
 
-# game/v3/scene34.rpy:115
-translate francais v3s34_cb795cf3:
+# game/v3/scene34.rpy:116
+translate francais v3s34_cb795cf3_1:
 
     # u "Ah, who the fuck cares."
-    u ""
+    u "Ah, who the fuck cares."
 
-# game/v3/scene34.rpy:120
-translate francais v3s34_c5cd9e86:
+# game/v3/scene34.rpy:121
+translate francais v3s34_c5cd9e86_1:
 
     # cl "Exactly. Acting like he's the Dean."
-    cl ""
+    cl "Exactly. Acting like he's the Dean."
 
-# game/v3/scene34.rpy:139
-translate francais v3s34_a1f17474:
+# game/v3/scene34.rpy:140
+translate francais v3s34_a1f17474_1:
 
     # el "You- Seriously?!"
-    el ""
+    el "You- Seriously?!"
 
-# game/v3/scene34.rpy:144
-translate francais v3s34_1ced1c89:
+# game/v3/scene34.rpy:145
+translate francais v3s34_1ced1c89_1:
 
     # el "What's the point of putting a sign up if everyone's just going to ignore it?"
-    el ""
+    el "What's the point of putting a sign up if everyone's just going to ignore it?"
 
-# game/v3/scene34.rpy:149
-translate francais v3s34_f19da2a1:
+# game/v3/scene34.rpy:150
+translate francais v3s34_47e38ccc_1:
 
-    # u "What's the matter? Worried we'd catch you jerking off? *Laughs*"
-    u ""
+    # u "What's the matter? Worried we'd catch you jerking off?"
+    u "What's the matter? Worried we'd catch you jerking off?"
 
-# game/v3/scene34.rpy:154
-translate francais v3s34_bbdb4fed:
+# game/v3/scene34.rpy:155
+translate francais v3s34_bbdb4fed_1:
 
     # el "That's not the point, [name]! I've created a protocol here and want it to be followed."
-    el ""
+    el "That's not the point, [name]! I've created a protocol here and want it to be followed."
 
-# game/v3/scene34.rpy:159
-translate francais v3s34_427d6d63:
+# game/v3/scene34.rpy:160
+translate francais v3s34_427d6d63_1:
 
     # u "So, you do jerk off in here?"
-    u ""
+    u "So, you do jerk off in here?"
 
-# game/v3/scene34.rpy:164
-translate francais v3s34_20fb5f3c:
+# game/v3/scene34.rpy:165
+translate francais v3s34_20fb5f3c_1:
 
     # el "No!"
-    el ""
+    el "No!"
 
-# game/v3/scene34.rpy:169
-translate francais v3s34_5eb098c0:
+# game/v3/scene34.rpy:170
+translate francais v3s34_5eb098c0_1:
 
     # cl "Sorry, Elijah. We'll make sure it doesn't happen again."
-    cl ""
+    cl "Sorry, Elijah. We'll make sure it doesn't happen again."
 
-# game/v3/scene34.rpy:174
-translate francais v3s34_568a4701:
+# game/v3/scene34.rpy:175
+translate francais v3s34_568a4701_1:
 
     # el "*Sighs* Yes, please do."
-    el ""
+    el "*Sighs* Yes, please do."
 
-# game/v3/scene34.rpy:179
-translate francais v3s34_e924b958:
+# game/v3/scene34.rpy:180
+translate francais v3s34_e924b958_1:
 
     # el "Sorry for raising my voice, Chloe."
-    el ""
+    el "Sorry for raising my voice, Chloe."
 
-# game/v3/scene34.rpy:184
-translate francais v3s34_06773a12:
+# game/v3/scene34.rpy:185
+translate francais v3s34_06773a12_1:
 
     # cl "Oh, it's okay. Don't worry about it."
-    cl ""
+    cl "Oh, it's okay. Don't worry about it."
 
-# game/v3/scene34.rpy:189
-translate francais v3s34_239c9d87:
+# game/v3/scene34.rpy:190
+translate francais v3s34_a9e5e6ab_1:
 
-    # u "(I bet he jerks off in here.)"
-    u ""
+    # u "(He definitely jerks off in here.)"
+    u "(He definitely jerks off in here.)"
 
-# game/v3/scene34.rpy:194
-translate francais v3s34_8cedafe5:
+# game/v3/scene34.rpy:195
+translate francais v3s34_8cedafe5_1:
 
     # el "So how can I help you?"
-    el ""
+    el "So how can I help you?"
 
-# game/v3/scene34.rpy:199
-translate francais v3s34_b95f2115:
+# game/v3/scene34.rpy:200
+translate francais v3s34_d4f1d058_1:
 
-    # cl "Right, well... As you know, I'm deep into my presidential campaign right now."
-    cl ""
+    # cl "Right, well... As you know, I'm deep into my Chicks presidential campaign right now."
+    cl "Right, well... As you know, I'm deep into my Chicks presidential campaign right now."
 
-# game/v3/scene34.rpy:204
-translate francais v3s34_e2c86e5d:
+# game/v3/scene34.rpy:205
+translate francais v3s34_7b66a372_1:
 
-    # el "Indeed. I can tell that you and Lindsey are both very committed to being the President of the Chicks."
-    el ""
+    # el "Indeed. You and Lindsey are putting a lot of work in your campaigns."
+    el "Indeed. You and Lindsey are putting a lot of work in your campaigns."
 
-# game/v3/scene34.rpy:209
-translate francais v3s34_0094b9a6:
+# game/v3/scene34.rpy:210
+translate francais v3s34_fc7d01b0_1:
 
-    # cl "Right, I certainly am committed. I just need some help proving to SVC that I'm the most dedicated and responsible candidate."
-    cl ""
+    # cl "Right, I am very committed. I just need some help proving to SVC that I'm the most dedicated and responsible candidate."
+    cl "Right, I am very committed. I just need some help proving to SVC that I'm the most dedicated and responsible candidate."
 
-# game/v3/scene34.rpy:214
-translate francais v3s34_b4b57875:
+# game/v3/scene34.rpy:215
+translate francais v3s34_eab250ae_1:
 
-    # el "Okay, and?"
-    el ""
+    # el "Okay, so what can I do for you?"
+    el "Okay, so what can I do for you?"
 
-# game/v3/scene34.rpy:219
-translate francais v3s34_9a907bc8:
+# game/v3/scene34.rpy:220
+translate francais v3s34_7c495108_1:
 
-    # cl "And with the current hype about the SVC Newspaper, I can tell that your first edition is going to be a major hit."
-    cl ""
+    # cl "With the current hype about the SVC Newspaper, I can tell that your first edition is going to be a major hit."
+    cl "With the current hype about the SVC Newspaper, I can tell that your first edition is going to be a major hit."
 
-# game/v3/scene34.rpy:224
-translate francais v3s34_39d50120:
+# game/v3/scene34.rpy:225
+translate francais v3s34_1213f198_1:
 
-    # el "Oh, why thank you. I'm glad to hear that the student body is reacting well to the idea."
-    el ""
+    # el "Oh, why thank you. I'm glad to hear that the student body is excited about the idea."
+    el "Oh, why thank you. I'm glad to hear that the student body is excited about the idea."
 
-# game/v3/scene34.rpy:229
-translate francais v3s34_cd54e895:
+# game/v3/scene34.rpy:230
+translate francais v3s34_cd54e895_1:
 
     # cl "Trust me, everyone's talking about it."
-    cl ""
+    cl "Trust me, everyone's talking about it."
 
-# game/v3/scene34.rpy:239
-translate francais v3s34_51af3e69:
+# game/v3/scene34.rpy:240
+translate francais v3s34_830f195e_1:
 
-    # u "It is kind of surprising... everyone liking something that Elijah did? *Laughs*"
-    u ""
+    # u "It is kind of surprising... everyone liking something that Elijah did, right?"
+    u "It is kind of surprising... everyone liking something that Elijah did, right?"
 
-# game/v3/scene34.rpy:244
-translate francais v3s34_82c91867:
+# game/v3/scene34.rpy:245
+translate francais v3s34_82c91867_1:
 
     # u "Did we wake up in a parallel universe?"
-    u ""
+    u "Did we wake up in a parallel universe?"
 
-# game/v3/scene34.rpy:249
-translate francais v3s34_3b1a847e:
+# game/v3/scene34.rpy:250
+translate francais v3s34_97e89ccb_1:
 
-    # cl "[name], no jokes today please."
-    cl ""
+    # cl "*Sighs* [name], no jokes today please."
+    cl "*Sighs* [name], no jokes today please."
 
-# game/v3/scene34.rpy:254
-translate francais v3s34_78bbce3b:
+# game/v3/scene34.rpy:255
+translate francais v3s34_78bbce3b_1:
 
     # cl "Seriously, this is a cool thing you're doing."
-    cl ""
+    cl "Seriously, this is a cool thing you're doing."
 
-# game/v3/scene34.rpy:259
-translate francais v3s34_b74eed5e:
+# game/v3/scene34.rpy:260
+translate francais v3s34_b74eed5e_1:
 
     # el "Thank you, Chloe."
-    el ""
+    el "Thank you, Chloe."
 
-# game/v3/scene34.rpy:264
-translate francais v3s34_ac8910d4:
+# game/v3/scene34.rpy:265
+translate francais v3s34_ac8910d4_1:
 
     # el "Fuck you, [name]."
-    el ""
+    el "Fuck you, [name]."
 
-# game/v3/scene34.rpy:269
-translate francais v3s34_a947744d:
+# game/v3/scene34.rpy:270
+translate francais v3s34_a947744d_1:
 
     # u "Cheers."
-    u ""
+    u "Cheers."
 
-# game/v3/scene34.rpy:274
-translate francais v3s34_d1d69b64:
+# game/v3/scene34.rpy:275
+translate francais v3s34_d1d69b64_1:
 
     # cl "Moving on..."
-    cl ""
+    cl "Moving on..."
 
-# game/v3/scene34.rpy:282
-translate francais v3s34_3c98de21:
+# game/v3/scene34.rpy:283
+translate francais v3s34_3c98de21_1:
 
     # u "It's true, a lot of people are intrigued by the idea of a school newspaper. Seriously, good idea."
-    u ""
+    u "It's true, a lot of people are intrigued by the idea of a school newspaper. Seriously, good idea."
 
-# game/v3/scene34.rpy:287
-translate francais v3s34_7e047ea5:
+# game/v3/scene34.rpy:288
+translate francais v3s34_7e047ea5_1:
 
     # el "Oh, uh... thanks. I'm excited to get started on it."
-    el ""
+    el "Oh, uh... thanks. I'm excited to get started on it."
 
-# game/v3/scene34.rpy:292
-translate francais v3s34_df65cea1:
+# game/v3/scene34.rpy:293
+translate francais v3s34_df65cea1_1:
 
     # cl "So, with that being said..."
-    cl ""
+    cl "So, with that being said..."
 
-# game/v3/scene34.rpy:297
-translate francais v3s34_22820dba:
+# game/v3/scene34.rpy:298
+translate francais v3s34_22820dba_1:
 
     # cl "I would love it if you'd consider my help with the cover for the first edition."
-    cl ""
+    cl "I would love it if you'd consider my help with the cover for the first edition."
 
-# game/v3/scene34.rpy:302
-translate francais v3s34_3a7e31de:
+# game/v3/scene34.rpy:303
+translate francais v3s34_3a7e31de_1:
 
     # el "You want to design the cover?"
-    el ""
+    el "You want to design the cover?"
 
-# game/v3/scene34.rpy:307
-translate francais v3s34_ac1a58e5:
+# game/v3/scene34.rpy:308
+translate francais v3s34_d019e734_1:
 
-    # cl "With your help, of course. But yeah, this is the perfect opportunity to create a front cover that'll help me win this thing."
-    cl ""
+    # cl "With your help, of course. But yeah, this is the perfect opportunity to create a front cover that'll show SVC what I'm all about."
+    cl "With your help, of course. But yeah, this is the perfect opportunity to create a front cover that'll show SVC what I'm all about."
 
-# game/v3/scene34.rpy:312
-translate francais v3s34_edfe7033:
+# game/v3/scene34.rpy:313
+translate francais v3s34_eb968c02_1:
 
-    # el "That's a very interesting idea."
-    el ""
+    # el "Hmm, that is an interesting idea."
+    el "Hmm, that is an interesting idea."
 
-# game/v3/scene34.rpy:317
-translate francais v3s34_dc3e51d1:
+# game/v3/scene34.rpy:318
+translate francais v3s34_dc3e51d1_1:
 
     # el "So, you effectively want free reign on the design of the front cover?"
-    el ""
+    el "So, you effectively want free reign on the design of the front cover?"
 
-# game/v3/scene34.rpy:322
-translate francais v3s34_4b9fd518:
+# game/v3/scene34.rpy:323
+translate francais v3s34_983e122a_1:
 
-    # u "Pretty much, yes."
-    u ""
+    # u "Pretty much, yeah."
+    u "Pretty much, yeah."
 
-# game/v3/scene34.rpy:329
-translate francais v3s34_cd283510:
+# game/v3/scene34.rpy:330
+translate francais v3s34_cd283510_1:
 
     # cl "Oh, I really need to take this. I'll just be a minute. Sorry."
-    cl ""
+    cl "Oh, I really need to take this. I'll just be a minute. Sorry."
 
-# game/v3/scene34.rpy:339
-translate francais v3s34_b966ed83:
+# game/v3/scene34.rpy:340
+translate francais v3s34_b966ed83_1:
 
     # u "So, what do you think?"
-    u ""
+    u "So, what do you think?"
 
-# game/v3/scene34.rpy:344
-translate francais v3s34_28210d04:
+# game/v3/scene34.rpy:345
+translate francais v3s34_28210d04_1:
 
     # el "It sounds like a brilliant idea for Chloe's campaign, but what's in it for me?"
-    el ""
+    el "It sounds like a brilliant idea for Chloe's campaign, but what's in it for me?"
 
-# game/v3/scene34.rpy:349
-translate francais v3s34_057346e6:
+# game/v3/scene34.rpy:350
+translate francais v3s34_858563fa_1:
 
-    # u "When Chloe wins, you'll feel proud to have helped? Haha."
-    u ""
+    # u "When Chloe wins, you'll feel proud to have helped?"
+    u "When Chloe wins, you'll feel proud to have helped?"
 
-# game/v3/scene34.rpy:354
-translate francais v3s34_f6d26f76:
+# game/v3/scene34.rpy:355
+translate francais v3s34_f6d26f76_1:
 
     # el "*Laughs* You think I'll jeopardize the impartiality of my first official paper in its debut issue because I'd feel proud?"
-    el ""
+    el "*Laughs* You think I'll jeopardize the impartiality of my first official paper in its debut issue because I'd feel proud?"
 
-# game/v3/scene34.rpy:356
-translate francais v3s34_54640948:
+# game/v3/scene34.rpy:357
+translate francais v3s34_54640948_1:
 
     # el "Is that really all you've got?"
-    el ""
+    el "Is that really all you've got?"
 
-# game/v3/scene34.rpy:363
-translate francais v3s34_162c44df:
+# game/v3/scene34.rpy:364
+translate francais v3s34_162c44df_1:
 
     # el "We haven't spoken much in the past, [name], but when we do, you always take the opportunity to make fun of me."
-    el ""
+    el "We haven't spoken much in the past, [name], but when we do, you always take the opportunity to make fun of me."
 
-# game/v3/scene34.rpy:368
-translate francais v3s34_9c427339:
+# game/v3/scene34.rpy:369
+translate francais v3s34_9c427339_1:
 
     # u "It's a little too easy if I'm being honest, man."
-    u ""
+    u "It's a little too easy if I'm being honest, man."
 
-# game/v3/scene34.rpy:373
-translate francais v3s34_1920487b:
+# game/v3/scene34.rpy:374
+translate francais v3s34_1920487b_1:
 
     # el "Well now the tables have turned."
-    el ""
+    el "Well now the tables have turned."
 
-# game/v3/scene34.rpy:378
-translate francais v3s34_361dbe03:
+# game/v3/scene34.rpy:379
+translate francais v3s34_7efdf97a_1:
 
-    # u "Have they? *Laughs*"
-    u ""
+    # u "Ha! Oh yeah? Have they?"
+    u "Ha! Oh yeah? Have they?"
 
-# game/v3/scene34.rpy:383
-translate francais v3s34_17a8a0cb:
+# game/v3/scene34.rpy:384
+translate francais v3s34_17a8a0cb_1:
 
     # el "Here's what's going to happen..."
-    el ""
+    el "Here's what's going to happen..."
 
-# game/v3/scene34.rpy:388
-translate francais v3s34_807c9651:
+# game/v3/scene34.rpy:389
+translate francais v3s34_807c9651_1:
 
     # el "It seems to me that this is a huge deal for Chloe, and I'd be compromising my journalistic integrity by doing this favor for her."
-    el ""
+    el "It seems to me that this is a huge deal for Chloe, and I'd be compromising my journalistic integrity by doing this favor for her."
 
-# game/v3/scene34.rpy:393
-translate francais v3s34_265c7e75:
+# game/v3/scene34.rpy:394
+translate francais v3s34_a0835e7d_1:
 
-    # u "(Is he speaking English?)"
-    u ""
+    # u "(Oh yeah, fuckwit. The SVC Times is right up there with the Bluffington Post.)"
+    u "(Oh yeah, fuckwit. The SVC Times is right up there with the Bluffington Post.)"
 
-# game/v3/scene34.rpy:398
-translate francais v3s34_9ce88f1b:
+# game/v3/scene34.rpy:399
+translate francais v3s34_9ce88f1b_1:
 
     # el "Which means doing this favor for her will require a large form of payment."
-    el ""
+    el "Which means doing this favor for her will require a large form of payment."
 
-# game/v3/scene34.rpy:403
-translate francais v3s34_2d13156b:
+# game/v3/scene34.rpy:404
+translate francais v3s34_6ba0f7c1_1:
 
-    # u "Seriously? You want money? If you're that desperate then I'm sure Chloe can-"
-    u ""
+    # u "So... your fix to the whole \"journalistic integrity\" thing is to ask for... a bribe?"
+    u "So... your fix to the whole \"journalistic integrity\" thing is to ask for... a bribe?"
 
-# game/v3/scene34.rpy:408
-translate francais v3s34_4a289273:
+# game/v3/scene34.rpy:406
+translate francais v3s34_02867c7b_1:
+
+    # u "So you want money? If you're that desperate then I'm sure Chloe can-"
+    u "So you want money? If you're that desperate then I'm sure Chloe can-"
+
+# game/v3/scene34.rpy:411
+translate francais v3s34_4a289273_1:
 
     # el "I don't want your money."
-    el ""
+    el "I don't want your money."
 
-# game/v3/scene34.rpy:413
-translate francais v3s34_43db0418:
+# game/v3/scene34.rpy:416
+translate francais v3s34_e125ef2e_1:
 
-    # u "What do you want, then?"
-    u ""
+    # u "Okay, do I dare ask what you do want?"
+    u "Okay, do I dare ask what you do want?"
 
-# game/v3/scene34.rpy:418
-translate francais v3s34_7b9ec25b:
+# game/v3/scene34.rpy:421
+translate francais v3s34_7b9ec25b_1:
 
     # el "Hmm, you see [name]... I'll let you in on an unknown secret. I'm still a virgin."
-    el ""
+    el "Hmm, you see [name]... I'll let you in on an unknown secret. I'm still a virgin."
 
-# game/v3/scene34.rpy:423
-translate francais v3s34_a2ac7af0:
+# game/v3/scene34.rpy:426
+translate francais v3s34_a2ac7af0_1:
 
     # u "Ha- *Coughs*"
-    u ""
+    u "Ha- *Coughs*"
 
-# game/v3/scene34.rpy:428
-translate francais v3s34_13733a87:
+# game/v3/scene34.rpy:431
+translate francais v3s34_c5e9c30d_1:
 
-    # u "Um, alright? (Where the fuck is this going?)"
-    u ""
+    # u "Oh, really? I'm very, uh... surprised. Very. (Where the fuck is this going?)"
+    u "Oh, really? I'm very, uh... surprised. Very. (Where the fuck is this going?)"
 
-# game/v3/scene34.rpy:433
-translate francais v3s34_a3f5ccfc:
+# game/v3/scene34.rpy:436
+translate francais v3s34_a3f5ccfc_1:
 
     # el "I want to lose my virginity to the most popular girl at SVC."
-    el ""
+    el "I want to lose my virginity to the most popular girl at SVC."
 
-# game/v3/scene34.rpy:438
-translate francais v3s34_942a6125:
+# game/v3/scene34.rpy:441
+translate francais v3s34_942a6125_1:
 
     # u "(Is he being serious right now?)"
-    u ""
+    u "(Is he being serious right now?)"
 
-# game/v3/scene34.rpy:443
-translate francais v3s34_f08b6f41:
+# game/v3/scene34.rpy:446
+translate francais v3s34_f08b6f41_1:
 
     # el "I want Chloe to take my virginity."
-    el ""
+    el "I want Chloe to take my virginity."
 
-# game/v3/scene34.rpy:450
-translate francais v3s34_6788bb4b:
+# game/v3/scene34.rpy:453
+translate francais v3s34_6788bb4b_1:
 
     # u "Pffft, hahaha!"
-    u ""
+    u "Pffft, hahaha!"
 
-# game/v3/scene34.rpy:455
-translate francais v3s34_0b0786cc:
+# game/v3/scene34.rpy:458
+translate francais v3s34_13a9d4bb_1:
 
-    # u "Haha! You fucking idiot. *Laughs*"
-    u ""
+    # u "Oh my God! You fucking idiot."
+    u "Oh my God! You fucking idiot."
 
-# game/v3/scene34.rpy:460
-translate francais v3s34_a740242e:
+# game/v3/scene34.rpy:463
+translate francais v3s34_22189246_1:
 
-    # u "Haha, oh fuck, it hurts..."
-    u ""
+    # u "Oh fuck, Oh my God, it hurts..."
+    u "Oh fuck, Oh my God, it hurts..."
 
-# game/v3/scene34.rpy:465
-translate francais v3s34_d9e7fed6:
+# game/v3/scene34.rpy:468
+translate francais v3s34_d9e7fed6_1:
 
     # el "Are you done?"
-    el ""
+    el "Are you done?"
 
-# game/v3/scene34.rpy:470
-translate francais v3s34_b1189855:
+# game/v3/scene34.rpy:473
+translate francais v3s34_7832707b_1:
 
-    # u "You... *Laughs*"
-    u ""
+    # u "You... *Coughs violently*"
+    u "You... *Coughs violently*"
 
-# game/v3/scene34.rpy:472
-translate francais v3s34_85526983:
+# game/v3/scene34.rpy:475
+translate francais v3s34_427cc59c_1:
 
-    # u "You're actually serious right now? *Chuckles*"
-    u ""
+    # u "Oh my God. I can't handle this. You're actually serious right now?"
+    u "Oh my God. I can't handle this. You're actually serious right now?"
 
-# game/v3/scene34.rpy:477
-translate francais v3s34_bdbb767e:
+# game/v3/scene34.rpy:480
+translate francais v3s34_bdbb767e_1:
 
     # el "Of course, I'm serious."
-    el ""
+    el "Of course, I'm serious."
 
-# game/v3/scene34.rpy:483
-translate francais v3s34_356dd3d7:
+# game/v3/scene34.rpy:486
+translate francais v3s34_356dd3d7_1:
 
     # u "You realize you're asking to fuck my girlfriend?"
-    u ""
+    u "You realize you're asking to fuck my girlfriend?"
 
-# game/v3/scene34.rpy:488
-translate francais v3s34_0893f1aa:
+# game/v3/scene34.rpy:491
+translate francais v3s34_0893f1aa_1:
 
     # el "I-"
-    el ""
+    el "I-"
 
-# game/v3/scene34.rpy:493
-translate francais v3s34_65df2583:
+# game/v3/scene34.rpy:496
+translate francais v3s34_1df10988_1:
 
-    # u "Are you out of your mind, Elijah?"
-    u ""
+    # u "Are you out of your fucking mind, Elijah?"
+    u "Are you out of your fucking mind, Elijah?"
 
-# game/v3/scene34.rpy:502
-translate francais v3s34_90ffee85:
+# game/v3/scene34.rpy:505
+translate francais v3s34_90ffee85_1:
 
     # u "Are you being serious?"
-    u ""
+    u "Are you being serious?"
 
-# game/v3/scene34.rpy:507
-translate francais v3s34_3d23b704:
+# game/v3/scene34.rpy:510
+translate francais v3s34_3d23b704_1:
 
     # el "I think you heard me."
-    el ""
+    el "I think you heard me."
 
-# game/v3/scene34.rpy:512
-translate francais v3s34_b06d4027:
+# game/v3/scene34.rpy:515
+translate francais v3s34_b06d4027_1:
 
     # u "Have you lost your fucking mind?"
-    u ""
+    u "Have you lost your fucking mind?"
 
-# game/v3/scene34.rpy:517
-translate francais v3s34_5478acc1:
+# game/v3/scene34.rpy:520
+translate francais v3s34_5478acc1_1:
 
     # el "No, I don't think-"
-    el ""
+    el "No, I don't think-"
 
-# game/v3/scene34.rpy:523
-translate francais v3s34_0439964b:
+# game/v3/scene34.rpy:526
+translate francais v3s34_fc941eea_1:
 
-    # u "If I didn't have any self-control, I'd shove your head so far up your ass it'd come out of your mouth."
-    u ""
+    # u "You. Want to fuck. My girlfriend. That's where we're at."
+    u "You. Want to fuck. My girlfriend. That's where we're at."
 
-# game/v3/scene34.rpy:528
-translate francais v3s34_96a3cc1d:
+# game/v3/scene34.rpy:531
+translate francais v3s34_47e012df_1:
 
-    # el "Excuse me?"
-    el ""
+    # el "I just mean-"
+    el "I just mean-"
 
-# game/v3/scene34.rpy:533
-translate francais v3s34_0ad7f883:
+# game/v3/scene34.rpy:536
+translate francais v3s34_d99b8682_1:
 
-    # u "I will excuse you. For the way you just spoke about my girlfriend. You're lucky Chloe needs you, you son of a bitch."
-    u ""
+    # u "You're lucky Chloe needs you, you son of a bitch. Because I feel like putting your head through that monitor."
+    u "You're lucky Chloe needs you, you son of a bitch. Because I feel like putting your head through that monitor."
 
-# game/v3/scene34.rpy:538
-translate francais v3s34_833dfd41:
+# game/v3/scene34.rpy:541
+translate francais v3s34_8619d847_1:
 
-    # el "At least talk to her about it. See what she thinks?"
-    el ""
+    # el "Come on. At least talk to her about it. See what she thinks?"
+    el "Come on. At least talk to her about it. See what she thinks?"
 
-# game/v3/scene34.rpy:543
-translate francais v3s34_f8e7759c:
+# game/v3/scene34.rpy:546
+translate francais v3s34_f8e7759c_1:
 
     # u "You're actually insane."
-    u ""
+    u "You're actually insane."
 
-# game/v3/scene34.rpy:548
-translate francais v3s34_8ef3ad13:
+# game/v3/scene34.rpy:551
+translate francais v3s34_8ef3ad13_1:
 
     # u "(Wait until Chloe hears what this creepy asshole just said to me.)"
-    u ""
+    u "(Wait until Chloe hears what this creepy asshole just said to me.)"
 
-# game/v3/scene34.rpy:559
-translate francais v3s34_5d68c2d4:
+# game/v3/scene34.rpy:561
+translate francais v3s34_5d68c2d4_1:
 
     # cl "Did he agree?"
-    cl ""
+    cl "Did he agree?"
 
-# game/v3/scene34.rpy:564
-translate francais v3s34_78672582:
+# game/v3/scene34.rpy:566
+translate francais v3s34_78672582_1:
 
     # u "Not yet."
-    u ""
+    u "Not yet."
 
-# game/v3/scene34.rpy:569
-translate francais v3s34_c2689159:
+# game/v3/scene34.rpy:571
+translate francais v3s34_c2689159_1:
 
     # cl "What do you mean?"
-    cl ""
+    cl "What do you mean?"
 
-# game/v3/scene34.rpy:575
-translate francais v3s34_886b61e6:
+# game/v3/scene34.rpy:577
+translate francais v3s34_e6cdf206_1:
 
-    # cl "And why do you look angry?"
-    cl ""
+    # cl "And why do you look so angry?"
+    cl "And why do you look so angry?"
 
-# game/v3/scene34.rpy:580
-translate francais v3s34_32a66162:
+# game/v3/scene34.rpy:582
+translate francais v3s34_088b24e8_1:
 
-    # u "*Sighs* In return for giving us the cover, he wants..."
-    u ""
+    # u "*Sighs* Get this. In return for giving us the cover, he wants..."
+    u "*Sighs* Get this. In return for giving us the cover, he wants..."
 
-# game/v3/scene34.rpy:585
-translate francais v3s34_f8e43d5a:
+# game/v3/scene34.rpy:587
+translate francais v3s34_f8e43d5a_1:
 
     # u "Well... He-"
-    u ""
+    u "Well... He-"
 
-# game/v3/scene34.rpy:590
-translate francais v3s34_13caec41:
+# game/v3/scene34.rpy:592
+translate francais v3s34_1779c6b4_1:
 
-    # cl "Fucking hell. Spit it out, [name]. Please!"
-    cl ""
+    # cl "Fuck, just spit it out, [name]. Please! You're freaking me out."
+    cl "Fuck, just spit it out, [name]. Please! You're freaking me out."
 
-# game/v3/scene34.rpy:595
-translate francais v3s34_2d297513:
+# game/v3/scene34.rpy:597
+translate francais v3s34_2d297513_1:
 
     # u "He wants to have sex with you."
-    u ""
+    u "He wants to have sex with you."
 
-# game/v3/scene34.rpy:600
-translate francais v3s34_91c684bb:
+# game/v3/scene34.rpy:602
+translate francais v3s34_91c684bb_1:
 
     # cl "What the-"
-    cl ""
+    cl "What the-"
 
-# game/v3/scene34.rpy:605
-translate francais v3s34_a64c2485:
+# game/v3/scene34.rpy:607
+translate francais v3s34_a64c2485_1:
 
     # u "(I'm about to witness a murder.)"
-    u ""
+    u "(I'm about to witness a murder.)"
 
-# game/v3/scene34.rpy:610
-translate francais v3s34_80c64b26:
+# game/v3/scene34.rpy:612
+translate francais v3s34_155d54fc_1:
 
-    # cl "*Laughs*"
-    cl ""
+    # cl "Oh my God. Oh my God, this is too good."
+    cl "Oh my God. Oh my God, this is too good."
 
-# game/v3/scene34.rpy:615
-translate francais v3s34_b38f439d:
+# game/v3/scene34.rpy:617
+translate francais v3s34_c6957ce6_1:
 
-    # u "Ha... ha... (We're laughing?)"
-    u ""
+    # u "Yeah... so funny... (We're laughing?)"
+    u "Yeah... so funny... (We're laughing?)"
 
-# game/v3/scene34.rpy:620
-translate francais v3s34_0d8e4783:
+# game/v3/scene34.rpy:622
+translate francais v3s34_2c8c7e87_1:
 
-    # cl "Oh my God... Haha! *Whispers* That's so gross!"
-    cl ""
+    # cl "Oh my God... you're serious?! *Whispers* That is sooo gross!"
+    cl "Oh my God... you're serious?! *Whispers* That is sooo gross!"
 
-# game/v3/scene34.rpy:625
-translate francais v3s34_f531f69e:
+# game/v3/scene34.rpy:627
+translate francais v3s34_f531f69e_1:
 
     # u "Uh, beyond gross."
-    u ""
+    u "Uh, beyond gross."
 
-# game/v3/scene34.rpy:630
-translate francais v3s34_b7d918d6:
+# game/v3/scene34.rpy:632
+translate francais v3s34_a7aade23_1:
 
-    # cl "I hope you went easy on him. *Giggles*"
-    cl ""
+    # cl "Oh my God, I can't even deal with that. I hope you went easy on him."
+    cl "Oh my God, I can't even deal with that. I hope you went easy on him."
 
-# game/v3/scene34.rpy:636
-translate francais v3s34_515a84b7:
+# game/v3/scene34.rpy:638
+translate francais v3s34_515a84b7_1:
 
     # u "I managed to control myself, yes."
-    u ""
+    u "I managed to control myself, yes."
 
-# game/v3/scene34.rpy:641
-translate francais v3s34_b072dcdb:
+# game/v3/scene34.rpy:643
+translate francais v3s34_ef83c53c_1:
 
-    # cl "Hehe, my protective boy."
-    cl ""
+    # cl "Aww, my protective boy."
+    cl "Aww, my protective boy."
 
-# game/v3/scene34.rpy:646
-translate francais v3s34_b20599e9:
+# game/v3/scene34.rpy:648
+translate francais v3s34_b20599e9_1:
 
     # u "But I may have threatened him."
-    u ""
+    u "But I may have threatened him."
 
-# game/v3/scene34.rpy:651
-translate francais v3s34_e08c3736:
+# game/v3/scene34.rpy:653
+translate francais v3s34_6af13111_1:
 
-    # cl "Haha, deserved."
-    cl ""
+    # cl "Well deserved."
+    cl "Well deserved."
 
-# game/v3/scene34.rpy:657
-translate francais v3s34_588aa26b:
+# game/v3/scene34.rpy:659
+translate francais v3s34_e1a8fd23_1:
 
-    # u "I almost pissed myself."
-    u ""
+    # u "I almost pissed myself. Not even joking."
+    u "I almost pissed myself. Not even joking."
 
-# game/v3/scene34.rpy:662
-translate francais v3s34_cac422e3:
+# game/v3/scene34.rpy:664
+translate francais v3s34_b848afe6_1:
 
-    # cl "Haha! I would've too! Holy shit. *Chuckles*"
-    cl ""
+    # cl "I would've too! Holy shit."
+    cl "I would've too! Holy shit."
 
-# game/v3/scene34.rpy:667
-translate francais v3s34_2a653db8:
+# game/v3/scene34.rpy:669
+translate francais v3s34_2a653db8_1:
 
     # cl "I could make that twerp cum just by looking at him."
-    cl ""
+    cl "I could make that twerp cum just by looking at him."
 
-# game/v3/scene34.rpy:672
-translate francais v3s34_28e33ae7:
+# game/v3/scene34.rpy:671
+translate francais v3s34_55ac8b30_1:
 
-    # u "Ha. I wouldn't doubt it, honestly."
-    u ""
+    # cl "I'm not even joking, I've done it before. Obviously not with Elijah. Ew."
+    cl "I'm not even joking, I've done it before. Obviously not with Elijah. Ew."
 
-# game/v3/scene34.rpy:677
-translate francais v3s34_1fe93b96:
+# game/v3/scene34.rpy:676
+translate francais v3s34_fea7df96_1:
 
-    # cl "*Sighs* Alright, here's the way I see it. We have two choices."
-    cl ""
+    # u "I mean, I wouldn't doubt it, honestly."
+    u "I mean, I wouldn't doubt it, honestly."
 
-# game/v3/scene34.rpy:682
-translate francais v3s34_98495c34:
+# game/v3/scene34.rpy:681
+translate francais v3s34_a703305f_1:
 
-    # u "We do?"
-    u ""
+    # cl "*Sighs* All right, here's the way I see it. We have two choices."
+    cl "*Sighs* All right, here's the way I see it. We have two choices."
 
-# game/v3/scene34.rpy:687
-translate francais v3s34_970763f5:
+# game/v3/scene34.rpy:686
+translate francais v3s34_32ff83a1_1:
 
-    # cl "Yes. Either I offer him a kiss-"
-    cl ""
+    # u "Ugh, let's hear this..."
+    u "Ugh, let's hear this..."
 
-# game/v3/scene34.rpy:692
-translate francais v3s34_685590fb:
+# game/v3/scene34.rpy:691
+translate francais v3s34_e86bc92a_1:
+
+    # cl "Either I offer him a kiss-"
+    cl "Either I offer him a kiss-"
+
+# game/v3/scene34.rpy:696
+translate francais v3s34_685590fb_1:
 
     # u "Eww."
-    u ""
+    u "Eww."
 
-# game/v3/scene34.rpy:698
-translate francais v3s34_dedb69a9:
+# game/v3/scene34.rpy:702
+translate francais v3s34_dedb69a9_1:
 
     # cl "A simple, premature cum-inducing, peck."
-    cl ""
+    cl "A simple, premature cum-inducing, peck."
 
-# game/v3/scene34.rpy:703
-translate francais v3s34_8b940739:
+# game/v3/scene34.rpy:707
+translate francais v3s34_8b940739_1:
 
     # u "Right..."
-    u ""
+    u "Right..."
 
-# game/v3/scene34.rpy:708
-translate francais v3s34_960267f7:
+# game/v3/scene34.rpy:712
+translate francais v3s34_960267f7_1:
 
     # cl "Or we tell him to go fuck himself."
-    cl ""
+    cl "Or we tell him to go fuck himself."
 
-# game/v3/scene34.rpy:713
-translate francais v3s34_9414b72a:
+# game/v3/scene34.rpy:717
+translate francais v3s34_9414b72a_1:
 
     # u "Easy. I've decided."
-    u ""
+    u "Easy. I've decided."
 
-# game/v3/scene34.rpy:718
-translate francais v3s34_b47c0f39:
+# game/v3/scene34.rpy:722
+translate francais v3s34_dea597f5_1:
 
-    # cl "Wait, haha. The second option definitely means no front cover, though. So, seriously... what do you think?"
-    cl ""
+    # cl "Wait, you crazy boy. The second option definitely means no front cover, though. So, seriously... what do you think?"
+    cl "Wait, you crazy boy. The second option definitely means no front cover, though. So, seriously... what do you think?"
 
-# game/v3/scene34.rpy:727
-translate francais v3s34_897effeb:
+# game/v3/scene34.rpy:731
+translate francais v3s34_897effeb_1:
 
     # u "It is just a kiss."
-    u ""
+    u "It is just a kiss."
 
-# game/v3/scene34.rpy:732
-translate francais v3s34_e5e9bf06:
+# game/v3/scene34.rpy:736
+translate francais v3s34_e5e9bf06_1:
 
     # cl "It is. Just a... Ugh... Just a kiss."
-    cl ""
+    cl "It is. Just a... Ugh... Just a kiss."
 
-# game/v3/scene34.rpy:737
-translate francais v3s34_1ed89a61:
+# game/v3/scene34.rpy:741
+translate francais v3s34_1ed89a61_1:
 
     # u "A small price to pay for what we need."
-    u ""
+    u "A small price to pay for what we need."
 
-# game/v3/scene34.rpy:742
-translate francais v3s34_0103c00e:
+# game/v3/scene34.rpy:746
+translate francais v3s34_413d3537_1:
 
-    # cl "Real and true. That's what I needed. *Deep breaths* Okay, let's do this."
-    cl ""
+    # cl "Very true. That's what I needed. *Deep breaths* Okay, let's do this."
+    cl "Very true. That's what I needed. *Deep breaths* Okay, let's do this."
 
-# game/v3/scene34.rpy:762
-translate francais v3s34_1d605605:
+# game/v3/scene34.rpy:766
+translate francais v3s34_6b4944b7_1:
 
-    # el "So? What's your decision?"
-    el ""
+    # el "Um, so? What's your decision?"
+    el "Um, so? What's your decision?"
 
-# game/v3/scene34.rpy:777
-translate francais v3s34_5381bbd6:
+# game/v3/scene34.rpy:771
+translate francais v3s34_ebf159a1_1:
+
+    # el "*High pitched whining*"
+    el "*High pitched whining*"
+
+# game/v3/scene34.rpy:778
+translate francais v3s34_f38d84c9_1:
+
+    # el "*Elijah shudders slightly where he stands*"
+    el "*Elijah shudders slightly where he stands*"
+
+# game/v3/scene34.rpy:785
+translate francais v3s34_5381bbd6_1:
 
     # cl "There. Pleasure doing business with you, freak."
-    cl ""
+    cl "There. Pleasure doing business with you, freak."
 
-# game/v3/scene34.rpy:782
-translate francais v3s34_e4523dfd:
+# game/v3/scene34.rpy:790
+translate francais v3s34_e4523dfd_1:
 
     # el "Oh. Oh my... that was-"
-    el ""
+    el "Oh. Oh my... that was-"
 
-# game/v3/scene34.rpy:787
-translate francais v3s34_15cde7e2:
+# game/v3/scene34.rpy:795
+translate francais v3s34_15cde7e2_1:
 
     # u "Did you just fucking cum in your pants?"
-    u ""
+    u "Did you just fucking cum in your pants?"
 
-# game/v3/scene34.rpy:792
-translate francais v3s34_768b0761:
+# game/v3/scene34.rpy:800
+translate francais v3s34_768b0761_1:
 
     # cl "I told you!"
-    cl ""
+    cl "I told you!"
 
-# game/v3/scene34.rpy:797
-translate francais v3s34_2877d942:
+# game/v3/scene34.rpy:805
+translate francais v3s34_2877d942_1:
 
     # u "You did."
-    u ""
+    u "You did."
 
-# game/v3/scene34.rpy:802
-translate francais v3s34_4fa6206f:
+# game/v3/scene34.rpy:810
+translate francais v3s34_4fa6206f_1:
 
     # u "She did."
-    u ""
+    u "She did."
 
-# game/v3/scene34.rpy:807
-translate francais v3s34_d3c6c69a:
+# game/v3/scene34.rpy:815
+translate francais v3s34_d3c6c69a_1:
 
     # el "Please, just- Go. Now."
-    el ""
+    el "Please, just- Go. Now."
 
-# game/v3/scene34.rpy:812
-translate francais v3s34_f06e0bae:
+# game/v3/scene34.rpy:820
+translate francais v3s34_f06e0bae_1:
 
     # cl "Do I have the front cover?"
-    cl ""
+    cl "Do I have the front cover?"
 
-# game/v3/scene34.rpy:817
-translate francais v3s34_235080c5:
+# game/v3/scene34.rpy:825
+translate francais v3s34_235080c5_1:
 
     # el "Yes! Yes, you do! Please, go!"
-    el ""
+    el "Yes! Yes, you do! Please, go!"
 
-# game/v3/scene34.rpy:822
-translate francais v3s34_1fe565e5:
+# game/v3/scene34.rpy:830
+translate francais v3s34_85fb668b_1:
 
-    # u "Gladly. Clean yourself up, buddy. *Chuckles*"
-    u ""
+    # u "Gladly. Don't forget to clean yourself up there, buddy!"
+    u "Gladly. Don't forget to clean yourself up there, buddy!"
 
-# game/v3/scene34.rpy:827
-translate francais v3s34_964b4619:
+# game/v3/scene34.rpy:835
+translate francais v3s34_964b4619_1:
 
     # el "Shut the door behind you, please."
-    el ""
+    el "Shut the door behind you, please."
 
-# game/v3/scene34.rpy:837
-translate francais v3s34_afc306f9:
+# game/v3/scene34.rpy:845
+translate francais v3s34_6f67e92c_1:
 
-    # cl "*Sighs* Well, now that I can mark that off the list... I have about twenty more things to do before tonight."
-    cl ""
+    # u "Well, that was traumatizing."
+    u "Well, that was traumatizing."
 
-# game/v3/scene34.rpy:842
-translate francais v3s34_8642765f:
+# game/v3/scene34.rpy:850
+translate francais v3s34_ce0e4878_1:
 
-    # u "Ha, you need a break."
-    u ""
+    # cl "At least you just had to watch. I got to experience that bullshit up close."
+    cl "At least you just had to watch. I got to experience that bullshit up close."
 
-# game/v3/scene34.rpy:847
-translate francais v3s34_21226631:
+# game/v3/scene34.rpy:852
+translate francais v3s34_ed1366ff_1:
+
+    # cl "*Sighs* Well, now that I can at least mark that off the list... I have about twenty more things to do before tonight."
+    cl "*Sighs* Well, now that I can at least mark that off the list... I have about twenty more things to do before tonight."
+
+# game/v3/scene34.rpy:857
+translate francais v3s34_5e2a17bd_1:
+
+    # u "You need a break."
+    u "You need a break."
+
+# game/v3/scene34.rpy:862
+translate francais v3s34_21226631_2:
 
     # cl "Way too much to do! I'll catch you later."
-    cl ""
+    cl "Way too much to do! I'll catch you later."
 
-# game/v3/scene34.rpy:860
-translate francais v3s34_aee680eb:
+# game/v3/scene34.rpy:875
+translate francais v3s34_31e6d9c8_1:
 
-    # cl "There. You're the only one that gets the tongue."
-    cl ""
+    # cl "There. You're the only one that gets tongue."
+    cl "There. You're the only one that gets tongue."
 
-# game/v3/scene34.rpy:865
-translate francais v3s34_9baaec51:
+# game/v3/scene34.rpy:880
+translate francais v3s34_6d19dba4_1:
 
-    # u "Haha, and for free too? I'm the luckiest guy in town."
-    u ""
+    # u "For free, too? I'm the luckiest guy in town."
+    u "For free, too? I'm the luckiest guy in town."
 
-# game/v3/scene34.rpy:870
-translate francais v3s34_e21b0108:
+# game/v3/scene34.rpy:885
+translate francais v3s34_60cc9f61_1:
 
-    # cl "That must make me the luckiest girl."
-    cl ""
+    # cl "I guess that makes me the luckiest girl."
+    cl "I guess that makes me the luckiest girl."
 
-# game/v3/scene34.rpy:878
-translate francais v3s34_29c439c7:
+# game/v3/scene34.rpy:894
+translate francais v3s34_29c439c7_1:
 
     # u "He's lucky we're walking away without breaking one of his bones. Or reporting him to the Dean."
-    u ""
-
-# game/v3/scene34.rpy:883
-translate francais v3s34_c0bbfd21:
-
-    # cl "*Laughs* Or both."
-    cl ""
-
-# game/v3/scene34.rpy:888
-translate francais v3s34_2241aead:
-
-    # u "Definitely both. I'm thinking we just tell him to get bent, fuck this guy."
-    u ""
-
-# game/v3/scene34.rpy:893
-translate francais v3s34_43fb7448:
-
-    # cl "Yeah, that creepy little prick doesn't even deserve the satisfaction of my lips..."
-    cl ""
+    u "He's lucky we're walking away without breaking one of his bones. Or reporting him to the Dean."
 
 # game/v3/scene34.rpy:899
-translate francais v3s34_287147a8:
+translate francais v3s34_71994472_1:
+
+    # cl "Ha! Or both."
+    cl "Ha! Or both."
+
+# game/v3/scene34.rpy:904
+translate francais v3s34_2241aead_1:
+
+    # u "Definitely both. I'm thinking we just tell him to get bent, fuck this guy."
+    u "Definitely both. I'm thinking we just tell him to get bent, fuck this guy."
+
+# game/v3/scene34.rpy:909
+translate francais v3s34_221a1d65_1:
+
+    # cl "You're right, that little perv doesn't even deserve the satisfaction of my lips..."
+    cl "You're right, that little perv doesn't even deserve the satisfaction of my lips..."
+
+# game/v3/scene34.rpy:915
+translate francais v3s34_287147a8_1:
 
     # u "No one does. Except me."
-    u ""
+    u "No one does. Except me."
 
-# game/v3/scene34.rpy:916
-translate francais v3s34_fb7b9628:
+# game/v3/scene34.rpy:932
+translate francais v3s34_fb7b9628_1:
 
     # cl "Let's do this."
-    cl ""
+    cl "Let's do this."
 
-# game/v3/scene34.rpy:936
+# game/v3/scene34.rpy:952
 translate francais v3s34_1d605605_1:
 
     # el "So? What's your decision?"
-    el ""
+    el "So? What's your decision?"
 
-# game/v3/scene34.rpy:941
-translate francais v3s34_9dded48a:
+# game/v3/scene34.rpy:957
+translate francais v3s34_9dded48a_1:
 
     # u "You can go fuck yourself."
-    u ""
+    u "You can go fuck yourself."
 
-# game/v3/scene34.rpy:946
-translate francais v3s34_37b60b4f:
+# game/v3/scene34.rpy:962
+translate francais v3s34_37b60b4f_1:
 
     # el "Oh, can I now?"
-    el ""
+    el "Oh, can I now?"
 
-# game/v3/scene34.rpy:951
-translate francais v3s34_4d2b9f25:
+# game/v3/scene34.rpy:967
+translate francais v3s34_4d2b9f25_1:
 
     # cl "Oh, you can. Quite literally."
-    cl ""
+    cl "Oh, you can. Quite literally."
 
-# game/v3/scene34.rpy:956
-translate francais v3s34_16dfb535:
+# game/v3/scene34.rpy:972
+translate francais v3s34_16dfb535_1:
 
     # cl "I'm still deciding whether I should tell the Dean about your little request, or if I should just share it with the rest of SVC."
-    cl ""
+    cl "I'm still deciding whether I should tell the Dean about your little request, or if I should just share it with the rest of SVC."
 
-# game/v3/scene34.rpy:961
-translate francais v3s34_f1974f5b:
+# game/v3/scene34.rpy:977
+translate francais v3s34_f1974f5b_1:
 
     # u "What kind of creep asks for sex in exchange for a favor? Like, holy shit dude."
-    u ""
+    u "What kind of creep asks for sex in exchange for a favor? Like, holy shit dude."
 
-# game/v3/scene34.rpy:966
-translate francais v3s34_31715bd7:
+# game/v3/scene34.rpy:982
+translate francais v3s34_31715bd7_1:
 
     # el "Report me? I'm one of the top students here. No one would believe anything that comes out of either one of your mouths."
-    el ""
+    el "Report me? I'm one of the top students here. No one would believe anything that comes out of either one of your mouths."
 
-# game/v3/scene34.rpy:971
-translate francais v3s34_bda0f659:
+# game/v3/scene34.rpy:987
+translate francais v3s34_bda0f659_1:
 
     # u "We'll see about that."
-    u ""
+    u "We'll see about that."
 
-# game/v3/scene34.rpy:976
-translate francais v3s34_e97bc913:
+# game/v3/scene34.rpy:992
+translate francais v3s34_e97bc913_1:
 
     # cl "Oh, we won't, but the backbone of the Chicks will. Good luck hearing from Mr. Rose! Later, pervert."
-    cl ""
+    cl "Oh, we won't, but the backbone of the Chicks will. Good luck hearing from Mr. Rose! Later, pervert."
 
-# game/v3/scene34.rpy:981
-translate francais v3s34_560842a1:
+# game/v3/scene34.rpy:997
+translate francais v3s34_560842a1_1:
 
     # el "Wait! Chloe! Don't-"
-    el ""
+    el "Wait! Chloe! Don't-"
 
-# game/v3/scene34.rpy:986
-translate francais v3s34_05ad19ed:
+# game/v3/scene34.rpy:1002
+translate francais v3s34_05ad19ed_1:
 
     # cl "*Sighs* Well, now that I can mark that off the list, I have about twenty more things to do before tonight."
-    cl ""
+    cl "*Sighs* Well, now that I can mark that off the list, I have about twenty more things to do before tonight."
 
-# game/v3/scene34.rpy:991
+# game/v3/scene34.rpy:1007
 translate francais v3s34_8642765f_1:
 
     # u "Ha, you need a break."
-    u ""
+    u "Ha, you need a break."
 
-# game/v3/scene34.rpy:996
-translate francais v3s34_21226631_1:
+# game/v3/scene34.rpy:1012
+translate francais v3s34_21226631_3:
 
     # cl "Way too much to do! I'll catch you later."
-    cl ""
+    cl "Way too much to do! I'll catch you later."
 
-# game/v3/scene34.rpy:1019
-translate francais v3s34_7d7818e0:
+# game/v3/scene34.rpy:1035
+translate francais v3s34_9265a04e_1:
 
-    # u "(I hope I don't walk into any more frat drama when I get home!)"
-    u ""
+    # u "(Just hope there's not more frat drama when I get home!)"
+    u "(Just hope there's not more frat drama when I get home!)"
 
 translate francais strings:
 
     # game/v3/scene34.rpy:51
     old "Knock"
-    new ""
+    new "Knock"
 
     # game/v3/scene34.rpy:51
     old "Just walk in"
-    new ""
+    new "Just walk in"
 
-    # game/v3/scene34.rpy:231
+    # game/v3/scene34.rpy:232
     old "Joke about Elijah"
-    new ""
+    new "Joke about Elijah"
 
-    # game/v3/scene34.rpy:231
+    # game/v3/scene34.rpy:232
     old "Compliment the idea"
-    new ""
+    new "Compliment the idea"
 
-    # game/v3/scene34.rpy:445
+    # game/v3/scene34.rpy:448
     old "Laugh hysterically"
-    new ""
+    new "Laugh hysterically"
 
-    # game/v3/scene34.rpy:445
+    # game/v3/scene34.rpy:448
     old "Get aggressive"
-    new ""
+    new "Get aggressive"
 
-    # game/v3/scene34.rpy:720
+    # game/v3/scene34.rpy:724
     old "It's just a kiss"
-    new ""
+    new "It's just a kiss"
 
-    # game/v3/scene34.rpy:720
+    # game/v3/scene34.rpy:724
     old "Tell him to fuck off"
-    new ""
+    new "Tell him to fuck off"
 

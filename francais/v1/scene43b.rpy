@@ -1,598 +1,570 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v1/scene43b.rpy:57
-translate francais v1s43b_ae066a0a:
+# game/v1/scene43b.rpy:12
+translate francais v1s43b_ae066a0a_1:
 
     # lee "Good morning, students!"
-    lee ""
+    lee "Good morning, students!"
 
-# game/v1/scene43b.rpy:64
-translate francais v1s43b_3b608183:
+# game/v1/scene43b.rpy:19
+translate francais v1s43b_3b608183_1:
 
     # u "(What's he so excited about?)"
-    u ""
+    u "(What's he so excited about?)"
 
-# game/v1/scene43b.rpy:69
-translate francais v1s43b_b44a1631:
+# game/v1/scene43b.rpy:24
+translate francais v1s43b_9546e7c4_1:
 
-    # lee "Today is a very good day, everyone. Although, I understand that you're unaware."
-    lee ""
+    # lee "Today is a very good day, everyone. Although, I understand you're unaware of why that is."
+    lee "Today is a very good day, everyone. Although, I understand you're unaware of why that is."
 
-# game/v1/scene43b.rpy:74
-translate francais v1s43b_99f26781:
+# game/v1/scene43b.rpy:29
+translate francais v1s43b_99f26781_1:
 
     # ri "Mind letting us know what's happening?"
-    ri ""
+    ri "Mind letting us know what's happening?"
 
-# game/v1/scene43b.rpy:79
-translate francais v1s43b_47b74055:
+# game/v1/scene43b.rpy:34
+translate francais v1s43b_47b74055_1:
 
     # lee "Riley! Yes! I'm so glad you asked."
-    lee ""
+    lee "Riley! Yes! I'm so glad you asked."
 
-# game/v1/scene43b.rpy:84
-translate francais v1s43b_8cce4a6a:
+# game/v1/scene43b.rpy:39
+translate francais v1s43b_8cce4a6a_1:
 
     # lee "The college has recently begun to advance its usage of the teacher assistant program and so have I."
-    lee ""
+    lee "The college has recently begun to advance its usage of the teacher assistant program and so have I."
 
-# game/v1/scene43b.rpy:89
-translate francais v1s43b_e8464b91:
+# game/v1/scene43b.rpy:44
+translate francais v1s43b_c919f496_1:
 
-    # u "(Oh, haha... That's why Riley is here.)"
-    u ""
+    # u "(Oh... that's why Riley is here.)"
+    u "(Oh... that's why Riley is here.)"
 
-# game/v1/scene43b.rpy:94
-translate francais v1s43b_e4a7433f:
+# game/v1/scene43b.rpy:49
+translate francais v1s43b_e4a7433f_1:
 
     # lee "Let me introduce my new student assistant..."
-    lee ""
+    lee "Let me introduce my new student assistant..."
 
-# game/v1/scene43b.rpy:99
-translate francais v1s43b_cbec7a37:
+# game/v1/scene43b.rpy:54
+translate francais v1s43b_cbec7a37_1:
 
     # u "Oh!"
-    u ""
+    u "Oh!"
 
-# game/v1/scene43b.rpy:104
-translate francais v1s43b_d266a549:
+# game/v1/scene43b.rpy:59
+translate francais v1s43b_d266a549_1:
 
     # lee "Riley!"
-    lee ""
+    lee "Riley!"
 
-# game/v1/scene43b.rpy:109
-translate francais v1s43b_536f3e2a:
+# game/v1/scene43b.rpy:64
+translate francais v1s43b_11b7134e_1:
 
-    # ri "I, thank you... I mean, you could've just told me that's what was happening. *Chuckles* But really, thanks. Im excited!"
-    ri ""
+    # ri "I, thank you... I mean, you could've just told me that's what was happening. But really, thanks. I'm excited!"
+    ri "I, thank you... I mean, you could've just told me that's what was happening. But really, thanks. I'm excited!"
 
-# game/v1/scene43b.rpy:114
-translate francais v1s43b_78847f99:
+# game/v1/scene43b.rpy:69
+translate francais v1s43b_97db3dd1_1:
 
-    # lee "So are we. Right class?"
-    lee ""
+    # lee "So are we. Right, class?"
+    lee "So are we. Right, class?"
 
-# game/v1/scene43b.rpy:119
-translate francais v1s43b_ebb0294d:
+# game/v1/scene43b.rpy:74
+translate francais v1s43b_6fb277c6_1:
 
-    # ri "Haha, it's okay."
-    ri ""
+    # ri "Ha, it's okay."
+    ri "Ha, it's okay."
 
-# game/v1/scene43b.rpy:124
-translate francais v1s43b_d35f1fd9:
+# game/v1/scene43b.rpy:79
+translate francais v1s43b_50b51aa1_1:
 
-    # u "(This should be interesting... haha.)"
-    u ""
+    # u "(This should be interesting...)"
+    u "(This should be interesting...)"
 
-# game/v1/scene43b.rpy:129
-translate francais v1s43b_d924f118:
+# game/v1/scene43b.rpy:84
+translate francais v1s43b_d924f118_1:
 
     # lee "Come introduce yourself to the class."
-    lee ""
+    lee "Come introduce yourself to the class."
 
-# game/v1/scene43b.rpy:134
-translate francais v1s43b_216a225a:
+# game/v1/scene43b.rpy:89
+translate francais v1s43b_216a225a_1:
 
     # ri "Really? Now?"
-    ri ""
+    ri "Really? Now?"
 
-# game/v1/scene43b.rpy:139
-translate francais v1s43b_bbbb0ca0:
+# game/v1/scene43b.rpy:94
+translate francais v1s43b_bbbb0ca0_1:
 
     # lee "Really. Now."
-    lee ""
+    lee "Really. Now."
 
-# game/v1/scene43b.rpy:144
-translate francais v1s43b_613ad5e2:
+# game/v1/scene43b.rpy:99
+translate francais v1s43b_613ad5e2_1:
 
     # ri "Okay..."
-    ri ""
+    ri "Okay..."
 
-# game/v1/scene43b.rpy:149
-translate francais v1s43b_f398a57a:
+# game/v1/scene43b.rpy:104
+translate francais v1s43b_f398a57a_1:
 
     # ri "For all of you who don't know me, my name is Riley. I'm a freshman and a free spirit..."
-    ri ""
+    ri "For all of you who don't know me, my name is Riley. I'm a freshman and a free spirit..."
 
-# game/v1/scene43b.rpy:154
-translate francais v1s43b_fea00bf8:
+# game/v1/scene43b.rpy:109
+translate francais v1s43b_fea00bf8_1:
 
     # lee "True, tried, and tested!"
-    lee ""
+    lee "True, tried, and tested!"
 
-# game/v1/scene43b.rpy:159
-translate francais v1s43b_abf2719f:
+# game/v1/scene43b.rpy:114
+translate francais v1s43b_1945552a_1:
 
-    # ri "Ahem, I uh... I'm very approachable, so I don't know what all my responsibilities will be as a teacher's assistant, but feel free to talk to me."
-    ri ""
+    # ri "Ahem, I, uh... I'm very approachable, so even though I don't know what all my responsibilities will be as a teacher's assistant, feel free to talk to me."
+    ri "Ahem, I, uh... I'm very approachable, so even though I don't know what all my responsibilities will be as a teacher's assistant, feel free to talk to me."
 
-# game/v1/scene43b.rpy:169
-translate francais v1s43b_dab92700:
+# game/v1/scene43b.rpy:124
+translate francais v1s43b_bbcc9f18_1:
 
-    # lee "Very good! Thank you. Now, on to class..."
-    lee ""
+    # lee "Very good! Thank you. Now, onto class..."
+    lee "Very good! Thank you. Now, onto class..."
 
-# game/v1/scene43b.rpy:174
-translate francais v1s43b_256c2e50:
+# game/v1/scene43b.rpy:129
+translate francais v1s43b_4886b50a_1:
 
-    # lee "Today we will once again be doing a roleplay."
-    lee ""
+    # lee "Today, we will once again be doing a roleplay."
+    lee "Today, we will once again be doing a roleplay."
 
-# game/v1/scene43b.rpy:179
-translate francais v1s43b_1366510c:
+# game/v1/scene43b.rpy:134
+translate francais v1s43b_1366510c_1:
 
     # ca "*Mumbles* Fuck!"
-    ca ""
+    ca "*Mumbles* Fuck!"
 
-# game/v1/scene43b.rpy:184
-translate francais v1s43b_46346231:
+# game/v1/scene43b.rpy:139
+translate francais v1s43b_46346231_1:
 
     # lee "It's all about the relationship between a king and a queen during medieval times."
-    lee ""
+    lee "It's all about the relationship between a king and a queen during medieval times."
 
-# game/v1/scene43b.rpy:185
-translate francais v1s43b_8105b141:
+# game/v1/scene43b.rpy:140
+translate francais v1s43b_8105b141_1:
 
     # lee "Each gentleman will be paired with a lady, but we will need Riley to take part to make sure everyone can be paired up."
-    lee ""
+    lee "Each gentleman will be paired with a lady, but we will need Riley to take part to make sure everyone can be paired up."
 
-# game/v1/scene43b.rpy:190
-translate francais v1s43b_f23e0afd:
+# game/v1/scene43b.rpy:145
+translate francais v1s43b_f23e0afd_1:
 
     # ri "Oh."
-    ri ""
+    ri "Oh."
 
-# game/v1/scene43b.rpy:195
-translate francais v1s43b_f515f860:
+# game/v1/scene43b.rpy:150
+translate francais v1s43b_f515f860_1:
 
     # lee "Start pairing up!"
-    lee ""
+    lee "Start pairing up!"
 
-# game/v1/scene43b.rpy:215
-translate francais v1s43b_b1f024dc:
+# game/v1/scene43b.rpy:170
+translate francais v1s43b_b1f024dc_1:
 
     # u "Guess we were meant to work together."
-    u ""
+    u "Guess we were meant to work together."
 
-# game/v1/scene43b.rpy:230
-translate francais v1s43b_4f51850b:
+# game/v1/scene43b.rpy:185
+translate francais v1s43b_4f51850b_1:
 
     # imre "Hey."
-    imre ""
+    imre "Hey."
 
-# game/v1/scene43b.rpy:235
-translate francais v1s43b_ef2f1671:
+# game/v1/scene43b.rpy:190
+translate francais v1s43b_ef2f1671_1:
 
     # u "What?"
-    u ""
+    u "What?"
 
-# game/v1/scene43b.rpy:240
-translate francais v1s43b_c16cfaed:
+# game/v1/scene43b.rpy:195
+translate francais v1s43b_c16cfaed_1:
 
     # imre "Were you getting ready to go over there and work with Penelope?"
-    imre ""
+    imre "Were you getting ready to go over there and work with Penelope?"
 
-# game/v1/scene43b.rpy:245
-translate francais v1s43b_c1f8129a:
+# game/v1/scene43b.rpy:200
+translate francais v1s43b_c1f8129a_1:
 
     # u "Yeah. Why?"
-    u ""
+    u "Yeah. Why?"
 
-# game/v1/scene43b.rpy:250
-translate francais v1s43b_f5e83b4d:
+# game/v1/scene43b.rpy:205
+translate francais v1s43b_f5e83b4d_1:
 
     # imre "I was actually already planning to."
-    imre ""
+    imre "I was actually already planning to."
 
-# game/v1/scene43b.rpy:255
-translate francais v1s43b_10ccbb51:
+# game/v1/scene43b.rpy:210
+translate francais v1s43b_10ccbb51_1:
 
     # u "Why is it that you're always trying to stop me?"
-    u ""
+    u "Why is it that you're always trying to stop me?"
 
-# game/v1/scene43b.rpy:260
-translate francais v1s43b_1c959f8e:
+# game/v1/scene43b.rpy:215
+translate francais v1s43b_b78faa87_1:
 
-    # imre "Look man... Ugh, please? Just let me work with her."
-    imre ""
+    # imre "Look, man... ugh, please? Just let me work with her."
+    imre "Look, man... ugh, please? Just let me work with her."
 
-# game/v1/scene43b.rpy:265
-translate francais v1s43b_57a296dc:
+# game/v1/scene43b.rpy:220
+translate francais v1s43b_57a296dc_1:
 
     # u "I need an answer first. Why?"
-    u ""
+    u "I need an answer first. Why?"
 
-# game/v1/scene43b.rpy:270
-translate francais v1s43b_cb7b6ef8:
+# game/v1/scene43b.rpy:225
+translate francais v1s43b_51d3d2db_1:
 
-    # imre "*Sighs* Okay fine, I sent some drunk texts to Riley last night and she hasn't replied, so it'd be awkward having to work with her. You know?"
-    imre ""
+    # imre "*Sighs* Okay, fine, I sent some drunk texts to Riley last night and she hasn't replied, so it'd be awkward having to work with her. You know?"
+    imre "*Sighs* Okay, fine, I sent some drunk texts to Riley last night and she hasn't replied, so it'd be awkward having to work with her. You know?"
 
-# game/v1/scene43b.rpy:275
-translate francais v1s43b_10f43815:
+# game/v1/scene43b.rpy:230
+translate francais v1s43b_2050996e_1:
 
-    # u "*Laughs* Yeah. I get that..."
-    u ""
+    # u "Yeah. I get that..."
+    u "Yeah. I get that..."
 
-# game/v1/scene43b.rpy:287
-translate francais v1s43b_36f78d5c:
+# game/v1/scene43b.rpy:242
+translate francais v1s43b_36f78d5c_1:
 
     # u "But sorry, man. This will be too good to miss."
-    u ""
+    u "But sorry, man. This will be too good to miss."
 
-# game/v1/scene43b.rpy:292
-translate francais v1s43b_13f0c38a:
+# game/v1/scene43b.rpy:247
+translate francais v1s43b_13f0c38a_1:
 
     # imre "Bro, please."
-    imre ""
+    imre "Bro, please."
 
-# game/v1/scene43b.rpy:297
-translate francais v1s43b_d7c3ea57:
+# game/v1/scene43b.rpy:252
+translate francais v1s43b_d7c3ea57_1:
 
     # u "Nope."
-    u ""
+    u "Nope."
 
-# game/v1/scene43b.rpy:307
-translate francais v1s43b_a3cb1b2a:
+# game/v1/scene43b.rpy:262
+translate francais v1s43b_a3cb1b2a_1:
 
     # u "Me and you?"
-    u ""
+    u "Me and you?"
 
-# game/v1/scene43b.rpy:312
-translate francais v1s43b_bd8082b1:
+# game/v1/scene43b.rpy:267
+translate francais v1s43b_bd8082b1_1:
 
     # pe "You and me?"
-    pe ""
+    pe "You and me?"
 
-# game/v1/scene43b.rpy:317
-translate francais v1s43b_f2538aab:
+# game/v1/scene43b.rpy:272
+translate francais v1s43b_f2538aab_1:
 
     # u "No, no, no. Me and you."
-    u ""
+    u "No, no, no. Me and you."
 
-# game/v1/scene43b.rpy:323
-translate francais v1s43b_937379fc:
+# game/v1/scene43b.rpy:278
+translate francais v1s43b_937379fc_1:
 
     # pe "No, no, no. You..."
-    pe ""
+    pe "No, no, no. You..."
 
-# game/v1/scene43b.rpy:328
-translate francais v1s43b_9de1e5cd:
+# game/v1/scene43b.rpy:283
+translate francais v1s43b_5e23b096_1:
 
-    # pe "*Whispers* And me. *Chuckles*"
-    pe ""
+    # pe "*Whispers* And me."
+    pe "*Whispers* And me."
 
-# game/v1/scene43b.rpy:334
-translate francais v1s43b_44d4e085:
+# game/v1/scene43b.rpy:289
+translate francais v1s43b_0737a6bd_1:
 
-    # pe "No, no, no. You and me. *Chuckles*"
-    pe ""
+    # pe "No, no, no. You and me."
+    pe "No, no, no. You and me."
 
-# game/v1/scene43b.rpy:339
-translate francais v1s43b_fe33d72c:
+# game/v1/scene43b.rpy:294
+translate francais v1s43b_fe33d72c_1:
 
     # u "Fine... You and me."
-    u ""
+    u "Fine... You and me."
 
-# game/v1/scene43b.rpy:344
-translate francais v1s43b_84f1c6cc:
+# game/v1/scene43b.rpy:299
+translate francais v1s43b_84f1c6cc_1:
 
     # pe "Yay."
-    pe ""
+    pe "Yay."
 
-# game/v1/scene43b.rpy:354
-translate francais v1s43b_ff7ee2fa:
+# game/v1/scene43b.rpy:309
+translate francais v1s43b_ff7ee2fa_1:
 
     # lee "Everyone's paired up? Good!"
-    lee ""
+    lee "Everyone's paired up? Good!"
 
-# game/v1/scene43b.rpy:356
-translate francais v1s43b_042b57fd:
+# game/v1/scene43b.rpy:311
+translate francais v1s43b_b541e817_1:
 
-    # lee "Now, once I'm finished speaking you may leave the classroom and begin reading pages 100-103 in your textbook."
-    lee ""
+    # lee "Now, once I'm finished speaking, you may leave the classroom and begin reading pages 100-103 in your textbook."
+    lee "Now, once I'm finished speaking, you may leave the classroom and begin reading pages 100-103 in your textbook."
 
-# game/v1/scene43b.rpy:358
-translate francais v1s43b_56fc6f0c:
+# game/v1/scene43b.rpy:313
+translate francais v1s43b_56fc6f0c_1:
 
     # lee "After that, you'll come up with a short scene involving a king and a queen interaction that you'll present next week to the rest of the class."
-    lee ""
+    lee "After that, you'll come up with a short scene involving a king and a queen interaction that you'll present next week to the rest of the class."
 
-# game/v1/scene43b.rpy:364
-translate francais v1s43b_6cea4070:
+# game/v1/scene43b.rpy:319
+translate francais v1s43b_6cea4070_1:
 
     # pe "Ooh, this sounds fun."
-    pe ""
+    pe "Ooh, this sounds fun."
+
+# game/v1/scene43b.rpy:326
+translate francais v1s43b_11d52f58_1:
+
+    # u "Hmm? Let me check this real quick."
+    u "Hmm? Let me check this real quick."
+
+# game/v1/scene43b.rpy:366
+translate francais v1s43Chloe_PhoneContinue1_e4edb176_1:
+
+    # u "(I should reply to Chloe.)"
+    u "(I should reply to Chloe.)"
 
 # game/v1/scene43b.rpy:371
-translate francais v1s43b_11d52f58:
-
-    # u "Hmm? Let me check this real quick."
-    u ""
-
-# game/v1/scene43b.rpy:411
-translate francais v1s43Chloe_PhoneContinue1_e4edb176:
-
-    # u "(I should reply to Chloe.)"
-    u ""
-
-# game/v1/scene43b.rpy:416
-translate francais v1s43Chloe_PhoneContinue1_812c6164:
+translate francais v1s43Chloe_PhoneContinue1_812c6164_1:
 
     # u "(Fuck... Where did that come from?)"
-    u ""
+    u "(Fuck... Where did that come from?)"
 
-# game/v1/scene43b.rpy:419
-translate francais v1s43Chloe_PhoneContinue1_9929f69d:
+# game/v1/scene43b.rpy:374
+translate francais v1s43Chloe_PhoneContinue1_9929f69d_1:
 
     # u "(Fuck... I'm glad I didn't go through with posting that shit.)"
-    u ""
+    u "(Fuck... I'm glad I didn't go through with posting that shit.)"
 
-# game/v1/scene43b.rpy:424
-translate francais v1s43Chloe_PhoneContinue1_82a24ae7:
+# game/v1/scene43b.rpy:379
+translate francais v1s43Chloe_PhoneContinue1_82a24ae7_1:
 
     # pe "Ready to go?"
-    pe ""
+    pe "Ready to go?"
 
-# game/v1/scene43b.rpy:429
-translate francais v1s43Chloe_PhoneContinue1_3cab5643:
+# game/v1/scene43b.rpy:384
+translate francais v1s43Chloe_PhoneContinue1_3cab5643_1:
 
     # u "*Sighs* Yeah, sorry. Where to?"
-    u ""
+    u "*Sighs* Yeah, sorry. Where to?"
 
-# game/v1/scene43b.rpy:434
-translate francais v1s43Chloe_PhoneContinue1_3d48716d:
+# game/v1/scene43b.rpy:389
+translate francais v1s43Chloe_PhoneContinue1_3d48716d_2:
 
     # pe "We can just go sit outside on the stairs and work, if that's cool."
-    pe ""
+    pe "We can just go sit outside on the stairs and work, if that's cool."
 
-# game/v1/scene43b.rpy:439
-translate francais v1s43Chloe_PhoneContinue1_5619d9e0:
+# game/v1/scene43b.rpy:394
+translate francais v1s43Chloe_PhoneContinue1_5619d9e0_2:
 
     # u "Sounds good, lead the way."
-    u ""
+    u "Sounds good, lead the way."
 
-# game/v1/scene43b.rpy:464
-translate francais v1s43Chloe_PhoneContinue1_6cea4070:
+# game/v1/scene43b.rpy:419
+translate francais v1s43Chloe_PhoneContinue1_6cea4070_1:
 
     # pe "Ooh, this sounds fun."
-    pe ""
+    pe "Ooh, this sounds fun."
 
-# game/v1/scene43b.rpy:466
-translate francais v1s43Chloe_PhoneContinue1_3d48716d_1:
+# game/v1/scene43b.rpy:421
+translate francais v1s43Chloe_PhoneContinue1_3d48716d_3:
 
     # pe "We can just go sit outside on the stairs and work, if that's cool."
-    pe ""
+    pe "We can just go sit outside on the stairs and work, if that's cool."
 
-# game/v1/scene43b.rpy:471
-translate francais v1s43Chloe_PhoneContinue1_5619d9e0_1:
+# game/v1/scene43b.rpy:426
+translate francais v1s43Chloe_PhoneContinue1_5619d9e0_3:
 
     # u "Sounds good, lead the way."
-    u ""
+    u "Sounds good, lead the way."
 
-# game/v1/scene43b.rpy:494
-translate francais v1s43Chloe_PhoneContinue1_0513c611:
+# game/v1/scene43b.rpy:449
+translate francais v1s43Chloe_PhoneContinue1_0513c611_1:
 
     # u "But sorry, bro..."
-    u ""
+    u "But sorry, bro..."
 
-# game/v1/scene43b.rpy:499
-translate francais v1s43Chloe_PhoneContinue1_9538cb51:
+# game/v1/scene43b.rpy:454
+translate francais v1s43Chloe_PhoneContinue1_9538cb51_1:
 
     # u "(Let's mess with him a bit.) I'm working with Penelope."
-    u ""
+    u "(Let's mess with him a bit.) I'm working with Penelope."
 
-# game/v1/scene43b.rpy:504
-translate francais v1s43Chloe_PhoneContinue1_13f0c38a:
+# game/v1/scene43b.rpy:459
+translate francais v1s43Chloe_PhoneContinue1_13f0c38a_1:
 
     # imre "Bro, please."
-    imre ""
+    imre "Bro, please."
 
-# game/v1/scene43b.rpy:509
-translate francais v1s43Chloe_PhoneContinue1_89955d67:
+# game/v1/scene43b.rpy:464
+translate francais v1s43Chloe_PhoneContinue1_89955d67_1:
 
     # u "Sorry, man. What are you gonna do about the Riley situation?"
-    u ""
+    u "Sorry, man. What are you gonna do about the Riley situation?"
 
-# game/v1/scene43b.rpy:514
-translate francais v1s43Chloe_PhoneContinue1_911296f7:
+# game/v1/scene43b.rpy:469
+translate francais v1s43Chloe_PhoneContinue1_8e95cc18_1:
 
-    # imre "Fuck, dude... I don't know. Maybe she'll pretend like it never happened? Or should I bring it up? What the fuck should i do here?"
-    imre ""
+    # imre "Fuck, dude... I don't know. Maybe she'll pretend like it never happened? Or should I bring it up? What the fuck should I do here?"
+    imre "Fuck, dude... I don't know. Maybe she'll pretend like it never happened? Or should I bring it up? What the fuck should I do here?"
 
-# game/v1/scene43b.rpy:519
-translate francais v1s43Chloe_PhoneContinue1_3175571f:
+# game/v1/scene43b.rpy:474
+translate francais v1s43Chloe_PhoneContinue1_274ab15f_1:
 
-    # u "Haha... I just wanted to see you squirm for a second. I wouldn't actually do you like that, have fun with Penelope."
-    u ""
+    # u "Ha... I just wanted to see you squirm for a second. I wouldn't actually do you like that. Have fun with Penelope."
+    u "Ha... I just wanted to see you squirm for a second. I wouldn't actually do you like that. Have fun with Penelope."
 
-# game/v1/scene43b.rpy:524
-translate francais v1s43Chloe_PhoneContinue1_887433de:
+# game/v1/scene43b.rpy:479
+translate francais v1s43Chloe_PhoneContinue1_94755924_1:
 
-    # imre "Oh shit, haha... Thanks man."
-    imre ""
+    # imre "Oh shit, ha, phew... thanks, man."
+    imre "Oh shit, ha, phew... thanks, man."
 
-# game/v1/scene43b.rpy:529
-translate francais v1s43Chloe_PhoneContinue1_fc1e19ab:
+# game/v1/scene43b.rpy:484
+translate francais v1s43Chloe_PhoneContinue1_fc1e19ab_1:
 
     # u "No problem. Just be more careful, yeah?"
-    u ""
+    u "No problem. Just be more careful, yeah?"
 
-# game/v1/scene43b.rpy:534
-translate francais v1s43Chloe_PhoneContinue1_3747a9f6:
+# game/v1/scene43b.rpy:489
+translate francais v1s43Chloe_PhoneContinue1_3747a9f6_1:
 
     # imre "No shit."
-    imre ""
+    imre "No shit."
 
-# game/v1/scene43b.rpy:544
-translate francais v1s43Chloe_PhoneContinue1_a2a9a789:
+# game/v1/scene43b.rpy:499
+translate francais v1s43Chloe_PhoneContinue1_a2a9a789_1:
 
     # u "*Whisper* I'll be the \"additional gentleman\", just for you."
-    u ""
+    u "*Whisper* I'll be the \"additional gentleman\", just for you."
 
-# game/v1/scene43b.rpy:549
-translate francais v1s43Chloe_PhoneContinue1_92264795:
+# game/v1/scene43b.rpy:504
+translate francais v1s43Chloe_PhoneContinue1_92264795_1:
 
     # ri "*Whispers* Thank you, so so so much."
-    ri ""
+    ri "*Whispers* Thank you, so so so much."
 
-# game/v1/scene43b.rpy:565
-translate francais v1s43Chloe_PhoneContinue1_ff7ee2fa:
+# game/v1/scene43b.rpy:520
+translate francais v1s43Chloe_PhoneContinue1_ff7ee2fa_1:
 
     # lee "Everyone's paired up? Good!"
-    lee ""
+    lee "Everyone's paired up? Good!"
 
-# game/v1/scene43b.rpy:567
-translate francais v1s43Chloe_PhoneContinue1_042b57fd:
+# game/v1/scene43b.rpy:522
+translate francais v1s43Chloe_PhoneContinue1_042b57fd_1:
 
     # lee "Now, once I'm finished speaking you may leave the classroom and begin reading pages 100-103 in your textbook."
-    lee ""
+    lee "Now, once I'm finished speaking you may leave the classroom and begin reading pages 100-103 in your textbook."
 
-# game/v1/scene43b.rpy:569
-translate francais v1s43Chloe_PhoneContinue1_56fc6f0c:
+# game/v1/scene43b.rpy:524
+translate francais v1s43Chloe_PhoneContinue1_56fc6f0c_1:
 
     # lee "After that, you'll come up with a short scene involving a king and a queen interaction that you'll present next week to the rest of the class."
-    lee ""
+    lee "After that, you'll come up with a short scene involving a king and a queen interaction that you'll present next week to the rest of the class."
 
-# game/v1/scene43b.rpy:575
-translate francais v1s43Chloe_PhoneContinue1_0a0ded35:
+# game/v1/scene43b.rpy:530
+translate francais v1s43Chloe_PhoneContinue1_0a0ded35_1:
 
     # ri "Oh, that seems easy enough."
-    ri ""
+    ri "Oh, that seems easy enough."
 
-# game/v1/scene43b.rpy:582
-translate francais v1s43Chloe_PhoneContinue1_11d52f58:
+# game/v1/scene43b.rpy:537
+translate francais v1s43Chloe_PhoneContinue1_11d52f58_1:
 
     # u "Hmm? Let me check this real quick."
-    u ""
+    u "Hmm? Let me check this real quick."
 
-# game/v1/scene43b.rpy:622
-translate francais v1s43Chloe_PhoneContinue2_e4edb176:
+# game/v1/scene43b.rpy:577
+translate francais v1s43Chloe_PhoneContinue2_e4edb176_1:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(I should reply to Chloe.)"
 
-# game/v1/scene43b.rpy:630
-translate francais v1s43Chloe_PhoneContinue2_812c6164:
+# game/v1/scene43b.rpy:585
+translate francais v1s43Chloe_PhoneContinue2_812c6164_1:
 
     # u "(Fuck... Where did that come from?)"
-    u ""
+    u "(Fuck... Where did that come from?)"
 
-# game/v1/scene43b.rpy:633
-translate francais v1s43Chloe_PhoneContinue2_9929f69d:
+# game/v1/scene43b.rpy:588
+translate francais v1s43Chloe_PhoneContinue2_9929f69d_1:
 
     # u "(Fuck... I'm glad I didn't go through with posting that shit.)"
-    u ""
+    u "(Fuck... I'm glad I didn't go through with posting that shit.)"
 
-# game/v1/scene43b.rpy:638
-translate francais v1s43Chloe_PhoneContinue2_7b24288c:
+# game/v1/scene43b.rpy:593
+translate francais v1s43Chloe_PhoneContinue2_7b24288c_1:
 
     # u "*Sighs* Okay, are you ready to go?"
-    u ""
+    u "*Sighs* Okay, are you ready to go?"
 
-# game/v1/scene43b.rpy:643
-translate francais v1s43Chloe_PhoneContinue2_27544913:
-
-    # ri "Yeah, but where do you wanna work?"
-    ri ""
-
-# game/v1/scene43b.rpy:648
-translate francais v1s43Chloe_PhoneContinue2_077b7471:
-
-    # u "Let's just work in the classroom across the hall, it's always empty."
-    u ""
-
-# game/v1/scene43b.rpy:653
-translate francais v1s43Chloe_PhoneContinue2_3bd922ae:
-
-    # ri "Okay, then. Sure."
-    ri ""
-
-# game/v1/scene43b.rpy:678
-translate francais v1s43Chloe_PhoneContinue2_0a0ded35:
-
-    # ri "Oh, that seems easy enough."
-    ri ""
-
-# game/v1/scene43b.rpy:683
-translate francais v1s43Chloe_PhoneContinue2_8abc1659:
-
-    # u "Okay, are you ready to go?"
-    u ""
-
-# game/v1/scene43b.rpy:688
-translate francais v1s43Chloe_PhoneContinue2_27544913_1:
+# game/v1/scene43b.rpy:598
+translate francais v1s43Chloe_PhoneContinue2_27544913_2:
 
     # ri "Yeah, but where do you wanna work?"
-    ri ""
+    ri "Yeah, but where do you wanna work?"
 
-# game/v1/scene43b.rpy:693
+# game/v1/scene43b.rpy:603
 translate francais v1s43Chloe_PhoneContinue2_077b7471_1:
 
     # u "Let's just work in the classroom across the hall, it's always empty."
-    u ""
+    u "Let's just work in the classroom across the hall, it's always empty."
 
-# game/v1/scene43b.rpy:698
-translate francais v1s43Chloe_PhoneContinue2_3bd922ae_1:
+# game/v1/scene43b.rpy:608
+translate francais v1s43Chloe_PhoneContinue2_3bd922ae_2:
 
     # ri "Okay, then. Sure."
-    ri ""
+    ri "Okay, then. Sure."
+
+# game/v1/scene43b.rpy:633
+translate francais v1s43Chloe_PhoneContinue2_0a0ded35_1:
+
+    # ri "Oh, that seems easy enough."
+    ri "Oh, that seems easy enough."
+
+# game/v1/scene43b.rpy:638
+translate francais v1s43Chloe_PhoneContinue2_8abc1659_1:
+
+    # u "Okay, are you ready to go?"
+    u "Okay, are you ready to go?"
+
+# game/v1/scene43b.rpy:643
+translate francais v1s43Chloe_PhoneContinue2_27544913_3:
+
+    # ri "Yeah, but where do you wanna work?"
+    ri "Yeah, but where do you wanna work?"
+
+# game/v1/scene43b.rpy:648
+translate francais v1s43Chloe_PhoneContinue2_1a8f2da2_1:
+
+    # u "Let's just work in the classroom across the hall. It's always empty."
+    u "Let's just work in the classroom across the hall. It's always empty."
+
+# game/v1/scene43b.rpy:653
+translate francais v1s43Chloe_PhoneContinue2_3bd922ae_3:
+
+    # ri "Okay, then. Sure."
+    ri "Okay, then. Sure."
 
 translate francais strings:
 
-    # game/v1/scene43b.rpy:10
-    old "I'm more than happy that we matched, especially after knowing that you're just as excited as I am, haha!"
-    new ""
-
-    # game/v1/scene43b.rpy:13
-    old "So, how are you? Who are you? What are you up to? Lmao"
-    new ""
-
-    # game/v1/scene43b.rpy:14
-    old "You're single, right?"
-    new ""
-
-    # game/v1/scene43b.rpy:19
-    old "You're in France?! We literally just got back to America from a class trip to Europe..."
-    new ""
-
-    # game/v1/scene43b.rpy:24
-    old "Uh, yeah. Of course! I just felt like I needed to ask for some reason."
-    new ""
-
-    # game/v1/scene43b.rpy:43
-    old "Sure thing, hottie."
-    new ""
-
-    # game/v1/scene43b.rpy:52
-    old "Hey, Iris. So sorry if you felt like I wasn't interested, my Simplr has just been glitchy and I've been stuck out of it for a while. Back for good now."
-    new ""
-
-    # game/v1/scene43b.rpy:277
+    # game/v1/scene43b.rpy:232
     old "Work with Penelope"
-    new ""
+    new "Work with Penelope"
 
-    # game/v1/scene43b.rpy:277
+    # game/v1/scene43b.rpy:232
     old "Work with Riley"
-    new ""
+    new "Work with Riley"
 

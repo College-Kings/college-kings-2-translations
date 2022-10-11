@@ -1,838 +1,838 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene51.rpy:25
-translate francais v1s51_fdf6b2cb:
+translate francais v1s51_fdf6b2cb_1:
 
     # u "(Listening in for so long definitely cost me a lot of time. I won't be able to look through most of Chloe's stuff, so I really need to prioritize which locations I want to search.)"
-    u ""
+    u "(Listening in for so long definitely cost me a lot of time. I won't be able to look through most of Chloe's stuff, so I really need to prioritize which locations I want to search.)"
 
 # game/v1/scene51.rpy:28
-translate francais v1s51_b0c23926:
+translate francais v1s51_b0c23926_1:
 
     # u "(Listening in may have cost me a bit of time, hopefully I'll still have enough to look through most Chloe's stuff, but I definitely won't be able to search everywhere.)"
-    u ""
+    u "(Listening in may have cost me a bit of time, hopefully I'll still have enough to look through most Chloe's stuff, but I definitely won't be able to search everywhere.)"
 
 # game/v1/scene51.rpy:31
-translate francais v1s51_f0e227ab:
+translate francais v1s51_f0e227ab_1:
 
     # u "(I think Lindsey will be able to hold Aubrey off a bit, so hopefully I'll have enough time to look everywhere.)"
-    u ""
+    u "(I think Lindsey will be able to hold Aubrey off a bit, so hopefully I'll have enough time to look everywhere.)"
 
 # game/v1/scene51.rpy:33
-translate francais v1s51_c554238b:
+translate francais v1s51_c554238b_1:
 
     # u "(So... where would Chloe keep the money?)"
-    u ""
+    u "(So... where would Chloe keep the money?)"
 
 # game/v1/scene51.rpy:51
-translate francais v1s51_bedside_table_28792f53:
+translate francais v1s51_bedside_table_28792f53_1:
 
     # u "(No money here. But there is a vibrator.)"
-    u ""
+    u "(No money here. But there is a vibrator.)"
 
 # game/v1/scene51.rpy:53
-translate francais v1s51_bedside_table_5db286c4:
+translate francais v1s51_bedside_table_6995d0eb_1:
 
-    # u "(Pretty basic bedside table for a woman... Wonder how often she uses that thing... Let's search somewhere else.)"
-    u ""
+    # u "(Pretty basic bedside table for a woman... wonder how often she uses that thing... let's search somewhere else.)"
+    u "(Pretty basic bedside table for a woman... wonder how often she uses that thing... let's search somewhere else.)"
 
 # game/v1/scene51.rpy:67
-translate francais v1s51_text_86327f11:
+translate francais v1s51_text_86327f11_1:
 
     # u "(That's probably Chloe texting me, fuck.)"
-    u ""
+    u "(That's probably Chloe texting me, fuck.)"
 
 # game/v1/scene51.rpy:82
-translate francais v1s51_PhoneContinue_e4edb176:
+translate francais v1s51_PhoneContinue_e4edb176_1:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(I should reply to Chloe.)"
 
 # game/v1/scene51.rpy:88
-translate francais v1s51_PhoneContinue_d764307a:
+translate francais v1s51_PhoneContinue_d764307a_1:
 
     # u "(*Sighs* I can't worry right now about Chloe being angry with me. Back to the search.)"
-    u ""
+    u "(*Sighs* I can't worry right now about Chloe being angry with me. Back to the search.)"
 
 # game/v1/scene51.rpy:96
-translate francais v1s51_desk_drawer_6c799bbc:
+translate francais v1s51_desk_drawer_6c799bbc_1:
 
     # u "(Let's see what's hiding in this drawer.)"
-    u ""
+    u "(Let's see what's hiding in this drawer.)"
 
 # game/v1/scene51.rpy:106
-translate francais v1s51_desk_drawer_0d4904f9:
+translate francais v1s51_desk_drawer_0813f31c_1:
 
-    # u "(A list of Chloe's passwords... This could probably help Lindsey in some way, but I'm not comfortable with something like that.)"
-    u ""
+    # u "(A list of Chloe's passwords... this could probably help Lindsey in some way, but I'm not comfortable with something like that.)"
+    u "(A list of Chloe's passwords... this could probably help Lindsey in some way, but I'm not comfortable with something like that.)"
 
 # game/v1/scene51.rpy:111
-translate francais v1s51_desk_drawer_ca3fe95d:
+translate francais v1s51_desk_drawer_ca3fe95d_1:
 
     # u "(And what's this? I didn't know Chloe was into old-school video games...? Hmm, that knowledge might come in handy someday...)"
-    u ""
+    u "(And what's this? I didn't know Chloe was into old-school video games...? Hmm, that knowledge might come in handy someday...)"
 
 # game/v1/scene51.rpy:116
-translate francais v1s51_desk_drawer_3a3d20d5:
+translate francais v1s51_desk_drawer_3a3d20d5_1:
 
     # u "(This must be Chloe's parents. And she has a pig as a pet? I'm learning a lot about her today...)"
-    u ""
+    u "(This must be Chloe's parents. And she has a pig as a pet? I'm learning a lot about her today...)"
 
 # game/v1/scene51.rpy:121
-translate francais v1s51_desk_drawer_5635871f:
+translate francais v1s51_desk_drawer_5635871f_1:
 
     # u "(No money here though, so that's more time wasted. *Sighs*)"
-    u ""
+    u "(No money here though, so that's more time wasted. *Sighs*)"
 
 # game/v1/scene51.rpy:134
-translate francais v1s51_closet_f28db2d9:
+translate francais v1s51_closet_f28db2d9_1:
 
     # u "(A mystery box? Perfect.)"
-    u ""
+    u "(A mystery box? Perfect.)"
 
 # game/v1/scene51.rpy:150
-translate francais v1s51_closet_54335fe9:
+translate francais v1s51_closet_a273e5e5_1:
 
-    # u "(Jackpot! That's $500, baby! *Laughs*)"
-    u ""
+    # u "(Jackpot! That's $500, baby!)"
+    u "(Jackpot! That's $500, baby!)"
 
 # game/v1/scene51.rpy:152
-translate francais v1s51_closet_5b24999a:
+translate francais v1s51_closet_81868e32_1:
 
-    # u "(Jackpot! That's $900, baby! *Laughs*)"
-    u ""
+    # u "(Jackpot! That's $900, baby!)"
+    u "(Jackpot! That's $900, baby!)"
 
 # game/v1/scene51.rpy:154
-translate francais v1s51_closet_b3c940d3:
+translate francais v1s51_closet_b3c940d3_1:
 
     # u "(I'm here for the money and all, but now that it's in my hands...)"
-    u ""
+    u "(I'm here for the money and all, but now that it's in my hands...)"
 
 # game/v1/scene51.rpy:156
-translate francais v1s51_closet_d9c287c9:
+translate francais v1s51_closet_d9c287c9_1:
 
     # u "(Can I really do this to her?)"
-    u ""
+    u "(Can I really do this to her?)"
 
-# game/v1/scene51.rpy:167
-translate francais v1s51_closet_9a54d146:
+# game/v1/scene51.rpy:169
+translate francais v1s51_closet_9a54d146_2:
 
     # u "(I've come this far already. I'm here to help Lindsey, and that's what I'm going to do.)"
-    u ""
+    u "(I've come this far already. I'm here to help Lindsey, and that's what I'm going to do.)"
 
-# game/v1/scene51.rpy:173
-translate francais v1s51_closet_b60b0aa7:
+# game/v1/scene51.rpy:177
+translate francais v1s51_closet_b60b0aa7_2:
 
     # u "(I guess I'm having second thoughts about this... I can't take nearly a thousand dollars from Chloe's private closet. What the fuck was I thinking?)"
-    u ""
-
-# game/v1/scene51.rpy:184
-translate francais v1s51_closet_9a54d146_1:
-
-    # u "(I've come this far already. I'm here to help Lindsey, and that's what I'm going to do.)"
-    u ""
+    u "(I guess I'm having second thoughts about this... I can't take nearly a thousand dollars from Chloe's private closet. What the fuck was I thinking?)"
 
 # game/v1/scene51.rpy:190
-translate francais v1s51_closet_b60b0aa7_1:
+translate francais v1s51_closet_9a54d146_3:
+
+    # u "(I've come this far already. I'm here to help Lindsey, and that's what I'm going to do.)"
+    u "(I've come this far already. I'm here to help Lindsey, and that's what I'm going to do.)"
+
+# game/v1/scene51.rpy:198
+translate francais v1s51_closet_b60b0aa7_3:
 
     # u "(I guess I'm having second thoughts about this... I can't take nearly a thousand dollars from Chloe's private closet. What the fuck was I thinking?)"
-    u ""
+    u "(I guess I'm having second thoughts about this... I can't take nearly a thousand dollars from Chloe's private closet. What the fuck was I thinking?)"
 
-# game/v1/scene51.rpy:202
-translate francais v1s51_purse_b6ff6426:
+# game/v1/scene51.rpy:210
+translate francais v1s51_purse_b6ff6426_1:
 
     # u "(Surely this is too obvious...)"
-    u ""
+    u "(Surely this is too obvious...)"
 
-# game/v1/scene51.rpy:232
-translate francais v1s51_purse_21f189cd:
+# game/v1/scene51.rpy:240
+translate francais v1s51_purse_21f189cd_1:
 
     # u "(Oh shit! Cash in a purse? Who would have thought?)"
-    u ""
+    u "(Oh shit! Cash in a purse? Who would have thought?)"
 
-# game/v1/scene51.rpy:234
-translate francais v1s51_purse_27c7384a:
+# game/v1/scene51.rpy:242
+translate francais v1s51_purse_27c7384a_1:
 
     # u "($300 is a lot of money... Lindsey really needs it, but ultimately this is my choice.)"
-    u ""
+    u "($300 is a lot of money... Lindsey really needs it, but ultimately this is my choice.)"
 
-# game/v1/scene51.rpy:246
-translate francais v1s51_purse_7898847f:
+# game/v1/scene51.rpy:254
+translate francais v1s51_purse_7898847f_1:
 
     # u "(If I don't take this money, I could be the reason Lindsey loses this race. I don't want it to be my fault.)"
-    u ""
+    u "(If I don't take this money, I could be the reason Lindsey loses this race. I don't want it to be my fault.)"
 
-# game/v1/scene51.rpy:253
-translate francais v1s51_purse_8fd28fcd:
+# game/v1/scene51.rpy:261
+translate francais v1s51_purse_8fd28fcd_1:
 
     # u "(I guess my conscience has caught up with me. It doesn't feel right to take it.)"
-    u ""
+    u "(I guess my conscience has caught up with me. It doesn't feel right to take it.)"
 
-# game/v1/scene51.rpy:270
-translate francais v1s51_pillow_f08a8661:
+# game/v1/scene51.rpy:278
+translate francais v1s51_pillow_a9382bc8_1:
 
-    # u "Hey, man. You don't have a secret camera in your eye, do you? *Chuckles*"
-    u ""
+    # u "Hey, man. You don't have a secret camera in your eye, do you?"
+    u "Hey, man. You don't have a secret camera in your eye, do you?"
 
-# game/v1/scene51.rpy:272
-translate francais v1s51_pillow_01394f4a:
+# game/v1/scene51.rpy:280
+translate francais v1s51_pillow_01394f4a_1:
 
     # u "(Let's fucking hope not.)"
-    u ""
+    u "(Let's fucking hope not.)"
 
-# game/v1/scene51.rpy:277
-translate francais v1s51_pillow_7d243392:
+# game/v1/scene51.rpy:285
+translate francais v1s51_pillow_7d243392_1:
 
     # u "(There could be something under her pillow.)"
-    u ""
+    u "(There could be something under her pillow.)"
 
-# game/v1/scene51.rpy:292
-translate francais v1s51_pillow_bca6df02:
+# game/v1/scene51.rpy:300
+translate francais v1s51_pillow_9d7d5cd3_1:
 
-    # u "(Chloe's diary... Shit. I wonder what secrets are waiting to be found in here.)"
-    u ""
+    # u "(Chloe's diary... shit. I wonder what secrets are waiting to be found in here.)"
+    u "(Chloe's diary... shit. I wonder what secrets are waiting to be found in here.)"
 
-# game/v1/scene51.rpy:294
-translate francais v1s51_pillow_e453d3e9:
+# game/v1/scene51.rpy:302
+translate francais v1s51_pillow_129d3375_1:
 
-    # u "(It's locked but I'm sure it wouldn't be too hard to open, and Lindsey could find something useful to help her win.)"
-    u ""
+    # u "(It's locked, but I'm sure it wouldn't be too hard to open, and Lindsey could find something useful to help her win.)"
+    u "(It's locked, but I'm sure it wouldn't be too hard to open, and Lindsey could find something useful to help her win.)"
 
-# game/v1/scene51.rpy:296
-translate francais v1s51_pillow_fdcd15be:
+# game/v1/scene51.rpy:304
+translate francais v1s51_pillow_76d99f04_1:
 
-    # u "(But this contains all of Chloe's secrets... Should I take it?)"
-    u ""
+    # u "(But this contains all of Chloe's secrets... should I take it?)"
+    u "(But this contains all of Chloe's secrets... should I take it?)"
 
-# game/v1/scene51.rpy:305
-translate francais v1s51_pillow_85abedd0:
+# game/v1/scene51.rpy:314
+translate francais v1s51_pillow_85abedd0_1:
 
     # u "(I think Lindsey will appreciate this little bonus item. Plus, I'm curious to see what we'll learn.)"
-    u ""
+    u "(I think Lindsey will appreciate this little bonus item. Plus, I'm curious to see what we'll learn.)"
 
-# game/v1/scene51.rpy:312
-translate francais v1s51_pillow_b48f19dc:
+# game/v1/scene51.rpy:322
+translate francais v1s51_pillow_74c34afd_1:
 
-    # u "(There's going to be some extremely private things in here... It's best if I leave it.)"
-    u ""
+    # u "(There's going to be some extremely private things in here... it's best if I leave it.)"
+    u "(There's going to be some extremely private things in here... it's best if I leave it.)"
 
-# game/v1/scene51.rpy:333
-translate francais v1s51_continue_e929ff41:
+# game/v1/scene51.rpy:343
+translate francais v1s51_continue_e929ff41_1:
 
     # u "(Huh? What was that?)"
-    u ""
+    u "(Huh? What was that?)"
 
-# game/v1/scene51.rpy:338
-translate francais v1s51_continue_af58d902:
+# game/v1/scene51.rpy:348
+translate francais v1s51_continue_af58d902_1:
 
     # unknown "*Distant chatter*"
-    unknown ""
+    unknown "*Distant chatter*"
 
-# game/v1/scene51.rpy:340
-translate francais v1s51_continue_9f3001f7:
+# game/v1/scene51.rpy:350
+translate francais v1s51_continue_9f3001f7_1:
 
     # u "(Sounds like some of the girls just got home. I need to get out of here, NOW!)"
-    u ""
+    u "(Sounds like some of the girls just got home. I need to get out of here, NOW!)"
 
-# game/v1/scene51.rpy:359
-translate francais v1s51_continue_fef3be4d:
+# game/v1/scene51.rpy:369
+translate francais v1s51_continue_fef3be4d_1:
 
     # u "('Our secret place'?)"
-    u ""
+    u "('Our secret place'?)"
 
-# game/v1/scene51.rpy:366
-translate francais v1s51_continue_656da2d4:
+# game/v1/scene51.rpy:376
+translate francais v1s51_continue_656da2d4_1:
 
     # u "(Locked. Damnit! What the hell is in here, though?)"
-    u ""
-
-# game/v1/scene51.rpy:381
-translate francais v1s51_continue_7b44f9c3:
-
-    # unknown "*Whistling badly*"
-    unknown ""
-
-# game/v1/scene51.rpy:383
-translate francais v1s51_continue_c0a23535:
-
-    # u "(Shit, shit, shit!!! There's someone in the shower...) *Whispers* Fuck."
-    u ""
-
-# game/v1/scene51.rpy:385
-translate francais v1s51_continue_6918a268:
-
-    # unknown "Hello? Who's there?"
-    unknown ""
-
-# game/v1/scene51.rpy:387
-translate francais v1s51_continue_38e97bf3:
-
-    # u "(OH. SHIT.)"
-    u ""
-
-# game/v1/scene51.rpy:389
-translate francais v1s51_continue_ab597e93:
-
-    # unknown "Catie, is it you?"
-    unknown ""
+    u "(Locked. Damnit! What the hell is in here, though?)"
 
 # game/v1/scene51.rpy:391
-translate francais v1s51_continue_ca1ee76a:
+translate francais v1s51_continue_7b44f9c3_1:
 
-    # u "(Quick! Think of something before she steps out and sees me!)"
-    u ""
+    # unknown "*Whistling badly*"
+    unknown "*Whistling badly*"
+
+# game/v1/scene51.rpy:393
+translate francais v1s51_continue_c0a23535_1:
+
+    # u "(Shit, shit, shit!!! There's someone in the shower...) *Whispers* Fuck."
+    u "(Shit, shit, shit!!! There's someone in the shower...) *Whispers* Fuck."
+
+# game/v1/scene51.rpy:395
+translate francais v1s51_continue_6918a268_1:
+
+    # unknown "Hello? Who's there?"
+    unknown "Hello? Who's there?"
 
 # game/v1/scene51.rpy:397
-translate francais v1s51_continue_e920ea0e:
+translate francais v1s51_continue_38e97bf3_1:
 
-    # u "(Why am I even in here? I need to get the fuck out.)"
-    u ""
+    # u "(OH. SHIT.)"
+    u "(OH. SHIT.)"
 
 # game/v1/scene51.rpy:399
-translate francais v1s51_continue_f855f2ee:
+translate francais v1s51_continue_ab597e93_1:
 
-    # unknown "If it's you, make sure you lock the door this time..."
-    unknown ""
+    # unknown "Catie, is it you?"
+    unknown "Catie, is it you?"
 
 # game/v1/scene51.rpy:401
-translate francais v1s51_continue_586696f1:
+translate francais v1s51_continue_ca1ee76a_1:
 
-    # u "(These Chicks are wildin'.)"
-    u ""
+    # u "(Quick! Think of something before she steps out and sees me!)"
+    u "(Quick! Think of something before she steps out and sees me!)"
 
-# game/v1/scene51.rpy:406
-translate francais v1s51_continue_f77df04f:
+# game/v1/scene51.rpy:407
+translate francais v1s51_continue_e920ea0e_1:
 
-    # u "(I don't hear those girls talking anymore. Maybe I can creep downstairs...)"
-    u ""
+    # u "(Why am I even in here? I need to get the fuck out.)"
+    u "(Why am I even in here? I need to get the fuck out.)"
 
-# game/v1/scene51.rpy:426
-translate francais v1s51_continue_b57f2c08:
-
-    # u "(Okay, now what? Go out the same way we came in? Or try the kitchen?"
-    u ""
-
-# game/v1/scene51.rpy:435
-translate francais v1s51_continue_8253698b:
-
-    # unknown "*Muffled chatter*"
-    unknown ""
-
-# game/v1/scene51.rpy:437
-translate francais v1s51_continue_3d665997:
-
-    # u "(Fuck me! Whoever that is, it sounds like they're about to come in. Let's try the kitchen!)"
-    u ""
-
-# game/v1/scene51.rpy:453
-translate francais v1s51_continue_6ac34614:
-
-    # u "*Whispers* Please be unlocked, please be unlocked..."
-    u ""
-
-# game/v1/scene51.rpy:460
-translate francais v1s51_continue_0218aa3e:
-
-    # u "(YOU'RE FUCKING KIDDING ME?! Why is the back door locked?!)"
-    u ""
-
-# game/v1/scene51.rpy:481
-translate francais v1s51_continue_f2cd13de:
-
-    # u "*Grunts* (Come... On...)"
-    u ""
-
-# game/v1/scene51.rpy:486
-translate francais v1s51_continue_c9334358:
-
-    # u "(YES! FREEDOM!)"
-    u ""
-
-# game/v1/scene51.rpy:496
-translate francais v1s51_continue_60074598:
-
-    # u "*Whispers* Damnit..."
-    u ""
-
-# game/v1/scene51.rpy:523
-translate francais v1s51_continue_1a60acaa:
-
-    # u "(So lucky that the vase didn't smash... Holy shit.)"
-    u ""
-
-# game/v1/scene51.rpy:530
-translate francais v1s51_continue_55bfa5ad:
-
-    # u "(I need to get the fuck out this house ASAP! Let's try the window.)"
-    u ""
-
-# game/v1/scene51.rpy:532
-translate francais v1s51_continue_f855f2ee_1:
+# game/v1/scene51.rpy:409
+translate francais v1s51_continue_f855f2ee_2:
 
     # unknown "If it's you, make sure you lock the door this time..."
-    unknown ""
+    unknown "If it's you, make sure you lock the door this time..."
 
-# game/v1/scene51.rpy:534
-translate francais v1s51_continue_54f8acca:
+# game/v1/scene51.rpy:411
+translate francais v1s51_continue_586696f1_1:
+
+    # u "(These Chicks are wildin'.)"
+    u "(These Chicks are wildin'.)"
+
+# game/v1/scene51.rpy:416
+translate francais v1s51_continue_f77df04f_1:
+
+    # u "(I don't hear those girls talking anymore. Maybe I can creep downstairs...)"
+    u "(I don't hear those girls talking anymore. Maybe I can creep downstairs...)"
+
+# game/v1/scene51.rpy:436
+translate francais v1s51_continue_b57f2c08_1:
+
+    # u "(Okay, now what? Go out the same way we came in? Or try the kitchen?"
+    u "(Okay, now what? Go out the same way we came in? Or try the kitchen?"
+
+# game/v1/scene51.rpy:445
+translate francais v1s51_continue_8253698b_1:
+
+    # unknown "*Muffled chatter*"
+    unknown "*Muffled chatter*"
+
+# game/v1/scene51.rpy:447
+translate francais v1s51_continue_3d665997_1:
+
+    # u "(Fuck me! Whoever that is, it sounds like they're about to come in. Let's try the kitchen!)"
+    u "(Fuck me! Whoever that is, it sounds like they're about to come in. Let's try the kitchen!)"
+
+# game/v1/scene51.rpy:463
+translate francais v1s51_continue_6ac34614_1:
+
+    # u "*Whispers* Please be unlocked, please be unlocked..."
+    u "*Whispers* Please be unlocked, please be unlocked..."
+
+# game/v1/scene51.rpy:470
+translate francais v1s51_continue_0218aa3e_1:
+
+    # u "(YOU'RE FUCKING KIDDING ME?! Why is the back door locked?!)"
+    u "(YOU'RE FUCKING KIDDING ME?! Why is the back door locked?!)"
+
+# game/v1/scene51.rpy:491
+translate francais v1s51_continue_f2cd13de_1:
+
+    # u "*Grunts* (Come... On...)"
+    u "*Grunts* (Come... On...)"
+
+# game/v1/scene51.rpy:496
+translate francais v1s51_continue_c9334358_1:
+
+    # u "(YES! FREEDOM!)"
+    u "(YES! FREEDOM!)"
+
+# game/v1/scene51.rpy:506
+translate francais v1s51_continue_60074598_1:
+
+    # u "*Whispers* Damnit..."
+    u "*Whispers* Damnit..."
+
+# game/v1/scene51.rpy:533
+translate francais v1s51_continue_1a60acaa_1:
+
+    # u "(So lucky that the vase didn't smash... Holy shit.)"
+    u "(So lucky that the vase didn't smash... Holy shit.)"
+
+# game/v1/scene51.rpy:540
+translate francais v1s51_continue_55bfa5ad_1:
+
+    # u "(I need to get the fuck out this house ASAP! Let's try the window.)"
+    u "(I need to get the fuck out this house ASAP! Let's try the window.)"
+
+# game/v1/scene51.rpy:542
+translate francais v1s51_continue_f855f2ee_3:
+
+    # unknown "If it's you, make sure you lock the door this time..."
+    unknown "If it's you, make sure you lock the door this time..."
+
+# game/v1/scene51.rpy:544
+translate francais v1s51_continue_54f8acca_1:
 
     # u "(Lock the door... What do these Chicks get up to in private?)"
-    u ""
+    u "(Lock the door... What do these Chicks get up to in private?)"
 
-# game/v1/scene51.rpy:541
-translate francais v1s51_continue_30b0f619:
+# game/v1/scene51.rpy:551
+translate francais v1s51_continue_463fe45a_1:
 
-    # unknown "Ow- Fuck! My toe! *Whines* Damn you, shampoo..."
-    unknown ""
-
-# game/v1/scene51.rpy:554
-translate francais v1s51_continue_95e8a69c:
-
-    # u "(Sheeeeeesh...)"
-    u ""
+    # unknown "Ow, fuck! My toe! *Whines* Damn you, shampoo..."
+    unknown "Ow, fuck! My toe! *Whines* Damn you, shampoo..."
 
 # game/v1/scene51.rpy:564
-translate francais v1s51_continue_4994c728:
+translate francais v1s51_continue_95e8a69c_1:
+
+    # u "(Sheeeeeesh...)"
+    u "(Sheeeeeesh...)"
+
+# game/v1/scene51.rpy:574
+translate francais v1s51_continue_4994c728_1:
 
     # u "(What a nice little treat... Now it's time to get the fuck out of here.)"
-    u ""
+    u "(What a nice little treat... Now it's time to get the fuck out of here.)"
 
-# game/v1/scene51.rpy:571
-translate francais v1s51_continue_78c78ef8:
+# game/v1/scene51.rpy:581
+translate francais v1s51_continue_78c78ef8_1:
 
     # u "(No time for peeking, [name]. Don't even think about it. FOCUS!)"
-    u ""
-
-# game/v1/scene51.rpy:588
-translate francais v1s51_continue_8d40b265:
-
-    # u "(Fuck! That was loud.)"
-    u ""
-
-# game/v1/scene51.rpy:593
-translate francais v1s51_continue_17f13d0b:
-
-    # u "(And it's not over yet... I need to get down without breaking my legs.)"
-    u ""
+    u "(No time for peeking, [name]. Don't even think about it. FOCUS!)"
 
 # game/v1/scene51.rpy:598
-translate francais v1s51_continue_5e97c402:
+translate francais v1s51_continue_8d40b265_1:
 
-    # u "*Grunts* (This better... have been... worth it...) *Panting*"
-    u ""
+    # u "(Fuck! That was loud.)"
+    u "(Fuck! That was loud.)"
 
 # game/v1/scene51.rpy:603
-translate francais v1s51_continue_f2880612:
+translate francais v1s51_continue_17f13d0b_1:
+
+    # u "(And it's not over yet... I need to get down without breaking my legs.)"
+    u "(And it's not over yet... I need to get down without breaking my legs.)"
+
+# game/v1/scene51.rpy:608
+translate francais v1s51_continue_5e97c402_1:
+
+    # u "*Grunts* (This better... have been... worth it...) *Panting*"
+    u "*Grunts* (This better... have been... worth it...) *Panting*"
+
+# game/v1/scene51.rpy:613
+translate francais v1s51_continue_f2880612_1:
 
     # u "Phew!"
-    u ""
+    u "Phew!"
 
-# game/v1/scene51.rpy:612
-translate francais v1s51_continue_0ab11823:
+# game/v1/scene51.rpy:622
+translate francais v1s51_continue_0ab11823_1:
 
     # u "(And now, a quick text to Lindsey...)"
-    u ""
+    u "(And now, a quick text to Lindsey...)"
 
-# game/v1/scene51.rpy:621
-translate francais v1s51Lindsey_PhoneContinue_f9e9813d:
+# game/v1/scene51.rpy:631
+translate francais v1s51Lindsey_PhoneContinue_f9e9813d_1:
 
     # u "(I should reply to Lindsey.)"
-    u ""
+    u "(I should reply to Lindsey.)"
 
-# game/v1/scene51.rpy:627
-translate francais v1s51Lindsey_PhoneContinue_e81c1e19:
+# game/v1/scene51.rpy:637
+translate francais v1s51Lindsey_PhoneContinue_e81c1e19_1:
 
     # u "(Uh oh... it's a message from Chloe...)"
-    u ""
+    u "(Uh oh... it's a message from Chloe...)"
 
-# game/v1/scene51.rpy:636
-translate francais v1s51Chloe_PhoneContinue_e4edb176:
+# game/v1/scene51.rpy:646
+translate francais v1s51Chloe_PhoneContinue_e4edb176_1:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(I should reply to Chloe.)"
 
-# game/v1/scene51.rpy:657
-translate francais v1s51Chloe_PhoneContinue_dfcbd50d:
+# game/v1/scene51.rpy:667
+translate francais v1s51Chloe_PhoneContinue_dfcbd50d_1:
 
     # li "*Whispers* Thank God that's over!"
-    li ""
-
-# game/v1/scene51.rpy:660
-translate francais v1s51Chloe_PhoneContinue_a552f471:
-
-    # li "*Whispers* What was that loud bang?! Was that you?"
-    li ""
-
-# game/v1/scene51.rpy:665
-translate francais v1s51Chloe_PhoneContinue_af549b83:
-
-    # u "*Whispers* Yeah, that was me risking my life by jumping out of the bathroom window!"
-    u ""
+    li "*Whispers* Thank God that's over!"
 
 # game/v1/scene51.rpy:670
-translate francais v1s51Chloe_PhoneContinue_91298ff4:
+translate francais v1s51Chloe_PhoneContinue_a552f471_1:
 
-    # li "*Whispers* Oh shit..."
-    li ""
+    # li "*Whispers* What was that loud bang?! Was that you?"
+    li "*Whispers* What was that loud bang?! Was that you?"
 
 # game/v1/scene51.rpy:675
-translate francais v1s51Chloe_PhoneContinue_b8ac56de:
+translate francais v1s51Chloe_PhoneContinue_af549b83_1:
 
-    # u "*Whispers* Oh shit is right, haha."
-    u ""
+    # u "*Whispers* Yeah, that was me risking my life by jumping out of the bathroom window!"
+    u "*Whispers* Yeah, that was me risking my life by jumping out of the bathroom window!"
 
 # game/v1/scene51.rpy:680
-translate francais v1s51Chloe_PhoneContinue_9bc94be1:
+translate francais v1s51Chloe_PhoneContinue_91298ff4_1:
 
-    # li "*Whispers* Aubrey heard it."
-    li ""
+    # li "*Whispers* Oh shit..."
+    li "*Whispers* Oh shit..."
 
 # game/v1/scene51.rpy:685
-translate francais v1s51Chloe_PhoneContinue_fdbce207:
+translate francais v1s51Chloe_PhoneContinue_24057a0f_1:
 
-    # u "Oh..."
-    u ""
+    # u "*Whispers* Oh shit is right."
+    u "*Whispers* Oh shit is right."
 
 # game/v1/scene51.rpy:690
-translate francais v1s51Chloe_PhoneContinue_746f0beb:
+translate francais v1s51Chloe_PhoneContinue_9bc94be1_1:
+
+    # li "*Whispers* Aubrey heard it."
+    li "*Whispers* Aubrey heard it."
+
+# game/v1/scene51.rpy:695
+translate francais v1s51Chloe_PhoneContinue_fdbce207_1:
+
+    # u "Oh..."
+    u "Oh..."
+
+# game/v1/scene51.rpy:700
+translate francais v1s51Chloe_PhoneContinue_746f0beb_1:
 
     # li "I thought it must have been you, so I just said something about how I think we've got a nest of pigeons."
-    li ""
-
-# game/v1/scene51.rpy:692
-translate francais v1s51Chloe_PhoneContinue_fb866a8f:
-
-    # li "I always hear them banging like that."
-    li ""
-
-# game/v1/scene51.rpy:697
-translate francais v1s51Chloe_PhoneContinue_06f38abc:
-
-    # u "*Whispers* Fucking pigeons."
-    u ""
+    li "I thought it must have been you, so I just said something about how I think we've got a nest of pigeons."
 
 # game/v1/scene51.rpy:702
-translate francais v1s51Chloe_PhoneContinue_eafa4053:
+translate francais v1s51Chloe_PhoneContinue_fb866a8f_1:
 
-    # li "*Quiet laugh* *Whispers* I'm glad you survived."
-    li ""
+    # li "I always hear them banging like that."
+    li "I always hear them banging like that."
 
 # game/v1/scene51.rpy:707
-translate francais v1s51Chloe_PhoneContinue_201fd9bb:
+translate francais v1s51Chloe_PhoneContinue_06f38abc_1:
+
+    # u "*Whispers* Fucking pigeons."
+    u "*Whispers* Fucking pigeons."
+
+# game/v1/scene51.rpy:712
+translate francais v1s51Chloe_PhoneContinue_84e77792_1:
+
+    # li "*Whispers* I'm glad you survived."
+    li "*Whispers* I'm glad you survived."
+
+# game/v1/scene51.rpy:717
+translate francais v1s51Chloe_PhoneContinue_201fd9bb_1:
 
     # u "*Whispers* Yeah, just about."
-    u ""
-
-# game/v1/scene51.rpy:713
-translate francais v1s51Chloe_PhoneContinue_a692497c:
-
-    # li "*Whispers* Happy to see you survived!"
-    li ""
-
-# game/v1/scene51.rpy:718
-translate francais v1s51Chloe_PhoneContinue_498f1b58:
-
-    # u "*Whispers* Yeah, my body is intact, but my nerves are shot."
-    u ""
+    u "*Whispers* Yeah, just about."
 
 # game/v1/scene51.rpy:723
-translate francais v1s51Chloe_PhoneContinue_5c35686d:
+translate francais v1s51Chloe_PhoneContinue_a692497c_1:
 
-    # li "*Quiet chuckle* *Whispers* I'm proud of you."
-    li ""
+    # li "*Whispers* Happy to see you survived!"
+    li "*Whispers* Happy to see you survived!"
 
-# game/v1/scene51.rpy:729
-translate francais v1s51Chloe_PhoneContinue_69844942:
+# game/v1/scene51.rpy:728
+translate francais v1s51Chloe_PhoneContinue_498f1b58_1:
 
-    # u "*Whispers* I'm sorry, but I didn't find any money."
-    u ""
+    # u "*Whispers* Yeah, my body is intact, but my nerves are shot."
+    u "*Whispers* Yeah, my body is intact, but my nerves are shot."
 
-# game/v1/scene51.rpy:734
-translate francais v1s51Chloe_PhoneContinue_2bd0d87c:
+# game/v1/scene51.rpy:733
+translate francais v1s51Chloe_PhoneContinue_1fe05248_1:
 
-    # li "*Whispers* Seriously? Ugh! She must have hidden it somewhere insane."
-    li ""
+    # li "*Whispers* I'm proud of you."
+    li "*Whispers* I'm proud of you."
 
 # game/v1/scene51.rpy:739
-translate francais v1s51Chloe_PhoneContinue_7cfe10b4:
+translate francais v1s51Chloe_PhoneContinue_69844942_1:
 
-    # u "*Whispers* Yeah, I did my best. Sorry, Linds."
-    u ""
+    # u "*Whispers* I'm sorry, but I didn't find any money."
+    u "*Whispers* I'm sorry, but I didn't find any money."
 
 # game/v1/scene51.rpy:744
-translate francais v1s51Chloe_PhoneContinue_915db9ad:
+translate francais v1s51Chloe_PhoneContinue_2bd0d87c_1:
 
-    # li "*Whispers* I know, yeah... My campaign is really going to suffer without that money."
-    li ""
+    # li "*Whispers* Seriously? Ugh! She must have hidden it somewhere insane."
+    li "*Whispers* Seriously? Ugh! She must have hidden it somewhere insane."
 
 # game/v1/scene51.rpy:749
-translate francais v1s51Chloe_PhoneContinue_e18e3349:
+translate francais v1s51Chloe_PhoneContinue_7cfe10b4_1:
 
-    # u "*Whispers* Well, I did find this..."
-    u ""
+    # u "*Whispers* Yeah, I did my best. Sorry, Linds."
+    u "*Whispers* Yeah, I did my best. Sorry, Linds."
 
 # game/v1/scene51.rpy:754
-translate francais v1s51Chloe_PhoneContinue_b34f7b8d:
+translate francais v1s51Chloe_PhoneContinue_1ad9c34d_1:
 
-    # li "*Whispers* Chloe's diary?!"
-    li ""
+    # li "*Whispers* I know, yeah... my campaign is really going to suffer without that money."
+    li "*Whispers* I know, yeah... my campaign is really going to suffer without that money."
 
 # game/v1/scene51.rpy:759
-translate francais v1s51Chloe_PhoneContinue_fd25579d:
+translate francais v1s51Chloe_PhoneContinue_e18e3349_1:
 
-    # u "*Whispers* It might have some useful information for you."
-    u ""
+    # u "*Whispers* Well, I did find this..."
+    u "*Whispers* Well, I did find this..."
 
 # game/v1/scene51.rpy:764
-translate francais v1s51Chloe_PhoneContinue_ffdbbd62:
+translate francais v1s51Chloe_PhoneContinue_b34f7b8d_1:
 
-    # li "*Whispers* True. That's a great idea, [name]. Thanks for getting this at least. Really sucks about the money though."
-    li ""
+    # li "*Whispers* Chloe's diary?!"
+    li "*Whispers* Chloe's diary?!"
 
 # game/v1/scene51.rpy:769
-translate francais v1s51Chloe_PhoneContinue_a320bbe2:
+translate francais v1s51Chloe_PhoneContinue_fd25579d_1:
+
+    # u "*Whispers* It might have some useful information for you."
+    u "*Whispers* It might have some useful information for you."
+
+# game/v1/scene51.rpy:774
+translate francais v1s51Chloe_PhoneContinue_253b0bab_1:
+
+    # li "*Whispers* True. That's a great idea, [name]. Thanks for getting this, at least. Really sucks about the money, though."
+    li "*Whispers* True. That's a great idea, [name]. Thanks for getting this, at least. Really sucks about the money, though."
+
+# game/v1/scene51.rpy:779
+translate francais v1s51Chloe_PhoneContinue_a320bbe2_1:
 
     # u "*Whispers* Yeah. I know, I'm really sorry."
-    u ""
+    u "*Whispers* Yeah. I know, I'm really sorry."
 
-# game/v1/scene51.rpy:771
-translate francais v1s51Chloe_PhoneContinue_01a2a4c9:
+# game/v1/scene51.rpy:781
+translate francais v1s51Chloe_PhoneContinue_ae49f2f9_2:
 
-    # u "*Whispers* I should really get home now, though. Getting a little tired."
-    u ""
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Whispers* I should really get home now. Getting a little tired."
 
-# game/v1/scene51.rpy:776
-translate francais v1s51Chloe_PhoneContinue_ca7332dd:
+# game/v1/scene51.rpy:786
+translate francais v1s51Chloe_PhoneContinue_ca7332dd_2:
 
     # li "*Whispers* Yeah, okay. Thanks again. See you..."
-    li ""
-
-# game/v1/scene51.rpy:785
-translate francais v1s51Chloe_PhoneContinue_3fdbc86f:
-
-    # u "*Whispers* I'm so sorry, Linds. I didn't find anything."
-    u ""
-
-# game/v1/scene51.rpy:790
-translate francais v1s51Chloe_PhoneContinue_0ee82982:
-
-    # li "*Whispers* What? How?! That money must be in her room somewhere, [name]."
-    li ""
+    li "*Whispers* Yeah, okay. Thanks again. See you..."
 
 # game/v1/scene51.rpy:795
-translate francais v1s51Chloe_PhoneContinue_8ea48fa9:
+translate francais v1s51Chloe_PhoneContinue_3fdbc86f_1:
 
-    # u "*Whispers* I don't know what to say. I did my best... I'm sorry"
-    u ""
+    # u "*Whispers* I'm so sorry, Linds. I didn't find anything."
+    u "*Whispers* I'm so sorry, Linds. I didn't find anything."
 
 # game/v1/scene51.rpy:800
-translate francais v1s51Chloe_PhoneContinue_d40a8ae6:
+translate francais v1s51Chloe_PhoneContinue_0ee82982_1:
+
+    # li "*Whispers* What? How?! That money must be in her room somewhere, [name]."
+    li "*Whispers* What? How?! That money must be in her room somewhere, [name]."
+
+# game/v1/scene51.rpy:805
+translate francais v1s51Chloe_PhoneContinue_15988bd5_1:
+
+    # u "*Whispers* I don't know what to say. I did my best... I'm sorry."
+    u "*Whispers* I don't know what to say. I did my best... I'm sorry."
+
+# game/v1/scene51.rpy:810
+translate francais v1s51Chloe_PhoneContinue_d40a8ae6_1:
 
     # li "*Whispers* I'm sure you did, [name], but that doesn't help my campaign. *Sighs*"
-    li ""
-
-# game/v1/scene51.rpy:802
-translate francais v1s51Chloe_PhoneContinue_7f1bf42b:
-
-    # li "Thanks for trying anyway."
-    li ""
-
-# game/v1/scene51.rpy:807
-translate francais v1s51Chloe_PhoneContinue_01a2a4c9_1:
-
-    # u "*Whispers* I should really get home now, though. Getting a little tired."
-    u ""
+    li "*Whispers* I'm sure you did, [name], but that doesn't help my campaign. *Sighs*"
 
 # game/v1/scene51.rpy:812
-translate francais v1s51Chloe_PhoneContinue_ca7332dd_1:
+translate francais v1s51Chloe_PhoneContinue_7f1bf42b_1:
+
+    # li "Thanks for trying anyway."
+    li "Thanks for trying anyway."
+
+# game/v1/scene51.rpy:817
+translate francais v1s51Chloe_PhoneContinue_ae49f2f9_3:
+
+    # u "*Whispers* I should really get home now. Getting a little tired."
+    u "*Whispers* I should really get home now. Getting a little tired."
+
+# game/v1/scene51.rpy:822
+translate francais v1s51Chloe_PhoneContinue_ca7332dd_3:
 
     # li "*Whispers* Yeah, okay. Thanks again. See you..."
-    li ""
+    li "*Whispers* Yeah, okay. Thanks again. See you..."
 
-# game/v1/scene51.rpy:821
-translate francais v1s51Chloe_PhoneContinue_ca8f77cb:
+# game/v1/scene51.rpy:831
+translate francais v1s51Chloe_PhoneContinue_ca8f77cb_1:
 
     # u "*Whispers* Here's what I managed to find."
-    u ""
-
-# game/v1/scene51.rpy:826
-translate francais v1s51Chloe_PhoneContinue_7bd8212d:
-
-    # li "*Whispers* This is... amazing! This is going to help tremendously, [name]! You're incredible."
-    li ""
+    u "*Whispers* Here's what I managed to find."
 
 # game/v1/scene51.rpy:836
-translate francais v1s51Chloe_PhoneContinue_d61475a5:
+translate francais v1s51Chloe_PhoneContinue_7bd8212d_1:
+
+    # li "*Whispers* This is... amazing! This is going to help tremendously, [name]! You're incredible."
+    li "*Whispers* This is... amazing! This is going to help tremendously, [name]! You're incredible."
+
+# game/v1/scene51.rpy:846
+translate francais v1s51Chloe_PhoneContinue_d61475a5_1:
 
     # u "*Whispers* So it was worth risking my life for, then?"
-    u ""
+    u "*Whispers* So it was worth risking my life for, then?"
 
-# game/v1/scene51.rpy:841
-translate francais v1s51Chloe_PhoneContinue_5f9ac0d3:
+# game/v1/scene51.rpy:851
+translate francais v1s51Chloe_PhoneContinue_a80c446e_1:
 
-    # li "*Whispers* Of course! *Chuckles*"
-    li ""
-
-# game/v1/scene51.rpy:849
-translate francais v1s51Chloe_PhoneContinue_9454ebe1:
-
-    # u "*Whispers* I also found this..."
-    u ""
-
-# game/v1/scene51.rpy:854
-translate francais v1s51Chloe_PhoneContinue_b2f7775b:
-
-    # li "*Whispers* What's that- Wait, Chloe's... diary?"
-    li ""
+    # li "*Whispers* Of course!"
+    li "*Whispers* Of course!"
 
 # game/v1/scene51.rpy:859
-translate francais v1s51Chloe_PhoneContinue_7300dfe9:
+translate francais v1s51Chloe_PhoneContinue_9454ebe1_1:
 
-    # u "*Whispers* Yeah. You might find something useful there, but it is locked."
-    u ""
+    # u "*Whispers* I also found this..."
+    u "*Whispers* I also found this..."
 
 # game/v1/scene51.rpy:864
-translate francais v1s51Chloe_PhoneContinue_bccb21a3:
+translate francais v1s51Chloe_PhoneContinue_440fb94f_1:
 
-    # li "*Whispers* I'm sure I can get it open, this is crazy!"
-    li ""
+    # li "*Whispers* What's that... wait, Chloe's... diary?"
+    li "*Whispers* What's that... wait, Chloe's... diary?"
 
 # game/v1/scene51.rpy:869
-translate francais v1s51Chloe_PhoneContinue_0dacddb5:
+translate francais v1s51Chloe_PhoneContinue_0224825d_1:
 
-    # u "*Whispers* Your best friend, the janitor, can probably help."
-    u ""
+    # u "*Whispers* Yeah. You might find something useful there, but it's locked."
+    u "*Whispers* Yeah. You might find something useful there, but it's locked."
 
 # game/v1/scene51.rpy:874
-translate francais v1s51Chloe_PhoneContinue_24edef7f:
+translate francais v1s51Chloe_PhoneContinue_73adc116_1:
 
-    # li "*Whispers* True, he probably can."
-    li ""
+    # li "*Whispers* I'm sure I can get it open. This is crazy!"
+    li "*Whispers* I'm sure I can get it open. This is crazy!"
 
 # game/v1/scene51.rpy:879
-translate francais v1s51Chloe_PhoneContinue_f76e2718:
+translate francais v1s51Chloe_PhoneContinue_0dacddb5_1:
 
-    # u "*Whispers* Anyways, I better get home. I'm getting a little tired after all that, haha."
-    u ""
+    # u "*Whispers* Your best friend, the janitor, can probably help."
+    u "*Whispers* Your best friend, the janitor, can probably help."
 
 # game/v1/scene51.rpy:884
-translate francais v1s51Chloe_PhoneContinue_cfb3f935:
+translate francais v1s51Chloe_PhoneContinue_24edef7f_1:
 
-    # li "*Whispers* Okay. Thank you, [name]. I really mean it. You did an amazing job."
-    li ""
+    # li "*Whispers* True, he probably can."
+    li "*Whispers* True, he probably can."
 
 # game/v1/scene51.rpy:889
-translate francais v1s51Chloe_PhoneContinue_135005ae:
+translate francais v1s51Chloe_PhoneContinue_bb53a663_1:
+
+    # u "*Whispers* Anyways, I better get home. I'm getting a little tired after all that action."
+    u "*Whispers* Anyways, I better get home. I'm getting a little tired after all that action."
+
+# game/v1/scene51.rpy:894
+translate francais v1s51Chloe_PhoneContinue_cfb3f935_1:
+
+    # li "*Whispers* Okay. Thank you, [name]. I really mean it. You did an amazing job."
+    li "*Whispers* Okay. Thank you, [name]. I really mean it. You did an amazing job."
+
+# game/v1/scene51.rpy:899
+translate francais v1s51Chloe_PhoneContinue_135005ae_1:
 
     # u "*Whispers* Anytime, Linds."
-    u ""
+    u "*Whispers* Anytime, Linds."
 
 translate francais strings:
 
     # game/v1/scene51.rpy:8
     old "I'm already full on breadsticks... Ugh! Hurry up, [name]. Please?"
-    new ""
+    new "I'm already full on breadsticks... Ugh! Hurry up, [name]. Please?"
 
     # game/v1/scene51.rpy:9
     old "I'll be there as soon as I can, Chloe."
-    new ""
+    new "I'll be there as soon as I can, Chloe."
 
     # game/v1/scene51.rpy:10
     old "I'll give you 10 more minutes. If you're still not here by then, I'm going home."
-    new ""
+    new "I'll give you 10 more minutes. If you're still not here by then, I'm going home."
 
     # game/v1/scene51.rpy:72
     old "Hey, where are you??"
-    new ""
+    new "Hey, where are you??"
 
     # game/v1/scene51.rpy:73
     old "Sorry, I'm running late. The cab broke down, waiting on another."
-    new ""
+    new "Sorry, I'm running late. The cab broke down, waiting on another."
 
     # game/v1/scene51.rpy:74
     old "I thought you'd already be here? Are you lying to me?"
-    new ""
+    new "I thought you'd already be here? Are you lying to me?"
 
     # game/v1/scene51.rpy:75
     old "I'm coming, I promise. Just order your starter."
-    new ""
+    new "I'm coming, I promise. Just order your starter."
 
     # game/v1/scene51.rpy:76
     old "I'd never lie to you, I'll be there soon."
-    new ""
+    new "I'd never lie to you, I'll be there soon."
 
     # game/v1/scene51.rpy:159
     old "Take the $500"
-    new ""
+    new "Take the $500"
 
     # game/v1/scene51.rpy:159
     old "Don't take the money"
-    new ""
+    new "Don't take the money"
 
-    # game/v1/scene51.rpy:176
+    # game/v1/scene51.rpy:180
     old "Take the $900"
-    new ""
+    new "Take the $900"
 
-    # game/v1/scene51.rpy:236
+    # game/v1/scene51.rpy:244
     old "Take the $300"
-    new ""
+    new "Take the $300"
 
-    # game/v1/scene51.rpy:298
+    # game/v1/scene51.rpy:306
     old "Take Chloe's diary"
-    new ""
+    new "Take Chloe's diary"
 
-    # game/v1/scene51.rpy:298
+    # game/v1/scene51.rpy:306
     old "Don't take the diary"
-    new ""
+    new "Don't take the diary"
 
-    # game/v1/scene51.rpy:393
+    # game/v1/scene51.rpy:403
     old "Return to the hallway"
-    new ""
+    new "Return to the hallway"
 
-    # game/v1/scene51.rpy:393
+    # game/v1/scene51.rpy:403
     old "Go out the window"
-    new ""
+    new "Go out the window"
 
-    # game/v1/scene51.rpy:428
+    # game/v1/scene51.rpy:438
     old "Front door"
-    new ""
+    new "Front door"
 
-    # game/v1/scene51.rpy:428
+    # game/v1/scene51.rpy:438
     old "Kitchen"
-    new ""
+    new "Kitchen"
 
-    # game/v1/scene51.rpy:448
+    # game/v1/scene51.rpy:458
     old "Back door"
-    new ""
+    new "Back door"
 
-    # game/v1/scene51.rpy:448
+    # game/v1/scene51.rpy:458
     old "Window"
-    new ""
+    new "Window"
 
-    # game/v1/scene51.rpy:543
+    # game/v1/scene51.rpy:553
     old "Peek"
-    new ""
+    new "Peek"
 
-    # game/v1/scene51.rpy:543
+    # game/v1/scene51.rpy:553
     old "Don't peek"
-    new ""
+    new "Don't peek"
 
-    # game/v1/scene51.rpy:614
+    # game/v1/scene51.rpy:624
     old "I'm around the back of the house. Come quick!"
-    new ""
+    new "I'm around the back of the house. Come quick!"
 
-    # game/v1/scene51.rpy:615
+    # game/v1/scene51.rpy:625
     old "OMW!"
-    new ""
+    new "OMW!"
 
-    # game/v1/scene51.rpy:628
+    # game/v1/scene51.rpy:638
     old "What the hell is going on?!"
-    new ""
+    new "What the hell is going on?!"
 
-    # game/v1/scene51.rpy:629
+    # game/v1/scene51.rpy:639
     old "[name]??? I'm about to order food to go"
-    new ""
+    new "[name]??? I'm about to order food to go"
 
-    # game/v1/scene51.rpy:630
+    # game/v1/scene51.rpy:640
     old "Well, you were right. The food was to die for. You fucking prick."
-    new ""
+    new "Well, you were right. The food was to die for. You fucking prick."
 

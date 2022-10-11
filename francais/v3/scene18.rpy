@@ -1,26 +1,26 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene18.rpy:23
 translate francais v3s18_4fc9b107:
 
     # u "(Is there ever going to be a day without drama? *Sighs* Maybe now I can finally get some rest.)"
-    u ""
+    u "(Is there ever going to be a day without drama? *Sighs* Maybe now I can finally get some rest.)"
 
-# game/v3/scene18.rpy:34
+# game/v3/scene18.rpy:33
 translate francais v3s18_e6946a9c:
 
     # u "(Spoke too soon.)"
-    u ""
+    u "(Spoke too soon.)"
 
-# game/v3/scene18.rpy:53
+# game/v3/scene18.rpy:52
 translate francais v3s18_phoneContinue_d5c404f8:
 
     # u "(I should reply to Amber.)"
-    u ""
+    u "(I should reply to Amber.)"
 
-# game/v3/scene18.rpy:62
+# game/v3/scene18.rpy:61
 translate francais v3s18_phoneContinue_6d92bc04:
 
     # u "(A hero's work is never done!)"
-    u ""
+    u "(A hero's work is never done!)"
 

@@ -1,572 +1,572 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene32.rpy:22
-translate francais v2s32_858b6e2b:
+translate francais v2s32_858b6e2b_1:
 
     # u "(Hmm, it's a special day for Aubrey... I could just knock on the door, or I could do something more romantic and funnier.)"
-    u ""
+    u "(Hmm, it's a special day for Aubrey... I could just knock on the door, or I could do something more romantic and funnier.)"
 
 # game/v2/scene32.rpy:31
-translate francais v2s32_5ebc90a9:
+translate francais v2s32_5ebc90a9_1:
 
     # u "(I won't overthink it. I'll just knock on the door like a regular person.)"
-    u ""
+    u "(I won't overthink it. I'll just knock on the door like a regular person.)"
 
 # game/v2/scene32.rpy:60
-translate francais v2s32_74896459:
+translate francais v2s32_74896459_1:
 
     # u "(This'll be funny. It happens in all the corny romance movies, right? Now, which window do I aim at?)"
-    u ""
+    u "(This'll be funny. It happens in all the corny romance movies, right? Now, which window do I aim at?)"
 
 # game/v2/scene32.rpy:89
-translate francais v2s32_5399d0da:
+translate francais v2s32_5399d0da_1:
 
     # cl "[name]? Why are you throwing stones at my window?"
-    cl ""
+    cl "[name]? Why are you throwing stones at my window?"
 
 # game/v2/scene32.rpy:94
-translate francais v2s32_a3790ec7:
+translate francais v2s32_8ce7acc3_1:
 
-    # u "Oh- Shit! Sorry Chloe, wrong window! *Laughs*"
-    u ""
+    # u "Oh, shit! Sorry Chloe, wrong window!"
+    u "Oh, shit! Sorry Chloe, wrong window!"
 
 # game/v2/scene32.rpy:99
-translate francais v2s32_8bc3ff66:
+translate francais v2s32_8bc3ff66_1:
 
     # u "I was just trying to get Aubrey's attention. We're going to her parent's wedding ceremony today."
-    u ""
+    u "I was just trying to get Aubrey's attention. We're going to her parent's wedding ceremony today."
 
 # game/v2/scene32.rpy:104
-translate francais v2s32_a0062b98:
+translate francais v2s32_a0062b98_1:
 
     # cl "Get her attention by... breaking her window?"
-    cl ""
+    cl "Get her attention by... breaking her window?"
 
 # game/v2/scene32.rpy:109
-translate francais v2s32_0d773137:
+translate francais v2s32_16db915c_1:
 
-    # u "Not exactly... Just trying out those smooth rom com moves, haha."
-    u ""
+    # u "Not exactly... just trying out those smooth rom-com moves."
+    u "Not exactly... just trying out those smooth rom-com moves."
 
 # game/v2/scene32.rpy:117
-translate francais v2s32_36a1664e:
+translate francais v2s32_36a1664e_1:
 
     # cl "You're trying to be romantic?"
-    cl ""
+    cl "You're trying to be romantic?"
 
 # game/v2/scene32.rpy:122
-translate francais v2s32_320dcf1b:
+translate francais v2s32_320dcf1b_1:
 
     # u "Well, yeah, like they do in the movies. But, more funny than romantic. I-"
-    u ""
+    u "Well, yeah, like they do in the movies. But, more funny than romantic. I-"
 
 # game/v2/scene32.rpy:127
-translate francais v2s32_1d92b1f4:
+translate francais v2s32_1d92b1f4_1:
 
     # u "(Shit...)"
-    u ""
+    u "(Shit...)"
 
 # game/v2/scene32.rpy:132
-translate francais v2s32_5b015d42:
+translate francais v2s32_5b015d42_1:
 
     # u "Don't think anything by it. I'm just being silly."
-    u ""
+    u "Don't think anything by it. I'm just being silly."
 
 # game/v2/scene32.rpy:137
-translate francais v2s32_3c736c47:
+translate francais v2s32_3c736c47_1:
 
     # cl "Okay. Well, you go have fun while I'm working hard on my campaign."
-    cl ""
+    cl "Okay. Well, you go have fun while I'm working hard on my campaign."
 
 # game/v2/scene32.rpy:143
-translate francais v2s32_f4fa17af:
+translate francais v2s32_f4fa17af_1:
 
     # cl "Aw, her very own Romeo! Have a nice time."
-    cl ""
+    cl "Aw, her very own Romeo! Have a nice time."
 
 # game/v2/scene32.rpy:148
-translate francais v2s32_1aeedb96:
+translate francais v2s32_1aeedb96_1:
 
     # u "Thanks. I'm sure we will. Sorry again!"
-    u ""
+    u "Thanks. I'm sure we will. Sorry again!"
 
 # game/v2/scene32.rpy:153
-translate francais v2s32_ef085251:
+translate francais v2s32_ef085251_1:
 
     # u "(Nice going... *Sighs* Let's try again.)"
-    u ""
+    u "(Nice going... *Sighs* Let's try again.)"
 
 # game/v2/scene32.rpy:183
-translate francais v2s32_right_window_091fdd23:
+translate francais v2s32_right_window_d52afc9a_1:
 
-    # au "Haha, doing the old pebble throwing thing, are we?"
-    au ""
+    # au "Ha, doing the old pebble throwing thing, are we?"
+    au "Ha, doing the old pebble throwing thing, are we?"
 
 # game/v2/scene32.rpy:188
-translate francais v2s32_right_window_743c31f5:
+translate francais v2s32_right_window_743c31f5_1:
 
     # u "My Juliet! Thou Romeo art here to whisk you away for a fine day of merriment!"
-    u ""
+    u "My Juliet! Thou Romeo art here to whisk you away for a fine day of merriment!"
 
 # game/v2/scene32.rpy:190
-translate francais v2s32_right_window_161f2adc:
+translate francais v2s32_right_window_161f2adc_1:
 
     # u "Might thy accompany me in the horse-drawn carriage that awaits thy beauty like the..."
-    u ""
+    u "Might thy accompany me in the horse-drawn carriage that awaits thy beauty like the..."
 
 # game/v2/scene32.rpy:192
-translate francais v2s32_right_window_06fad3fa:
+translate francais v2s32_right_window_4de2c479_1:
 
-    # u "Pale... Moon...? Um... something. *Chuckles*"
-    u ""
+    # u "Pale... moon...? Um... something."
+    u "Pale... moon...? Um... something."
 
 # game/v2/scene32.rpy:197
-translate francais v2s32_right_window_2f87a843:
+translate francais v2s32_right_window_dfaa0409_1:
 
-    # au "*Laughs* What the hell are you even saying?"
-    au ""
+    # au "What the hell are you even saying?"
+    au "What the hell are you even saying?"
 
 # game/v2/scene32.rpy:202
-translate francais v2s32_right_window_d180215f:
+translate francais v2s32_right_window_d180215f_1:
 
     # u "I'm Romeo! You know... Shakespeare stuff?"
-    u ""
+    u "I'm Romeo! You know... Shakespeare stuff?"
 
 # game/v2/scene32.rpy:207
-translate francais v2s32_right_window_83fb8cba:
+translate francais v2s32_right_window_3aec08de_1:
 
-    # au "I know Shakespeare, handsome. Whatever you're doing right now is definitely not Shakespeare. *Laughs*"
-    au ""
+    # au "I know Shakespeare, handsome. Whatever you're doing right now is definitely not Shakespeare."
+    au "I know Shakespeare, handsome. Whatever you're doing right now is definitely not Shakespeare."
 
 # game/v2/scene32.rpy:209
-translate francais v2s32_right_window_dbbe2aff:
+translate francais v2s32_right_window_e48d8f19_1:
 
-    # au "Nice try though!"
-    au ""
+    # au "Nice try, though!"
+    au "Nice try, though!"
 
 # game/v2/scene32.rpy:214
-translate francais v2s32_right_window_01564546:
+translate francais v2s32_right_window_01564546_1:
 
     # u "Thou art most welcome."
-    u ""
+    u "Thou art most welcome."
 
 # game/v2/scene32.rpy:219
-translate francais v2s32_right_window_37802403:
+translate francais v2s32_right_window_37802403_1:
 
     # au "Come to the front door, Romeo."
-    au ""
+    au "Come to the front door, Romeo."
 
 # game/v2/scene32.rpy:224
-translate francais v2s32_right_window_e72aaadf:
+translate francais v2s32_right_window_e72aaadf_1:
 
     # u "I will see you there, fair maiden."
-    u ""
+    u "I will see you there, fair maiden."
 
 # game/v2/scene32.rpy:252
-translate francais v2s32_right_window_6f4eb381:
+translate francais v2s32_right_window_6f4eb381_1:
 
     # ri "Hey, the groom is here!"
-    ri ""
+    ri "Hey, the groom is here!"
 
 # game/v2/scene32.rpy:257
-translate francais v2s32_right_window_9673dba1:
+translate francais v2s32_right_window_7abc4dfb_1:
 
-    # u "Haha, that's a scary thought... I'm way too young to get married."
-    u ""
+    # u "Ha, that's a scary thought... I'm way too young to get married."
+    u "Ha, that's a scary thought... I'm way too young to get married."
 
 # game/v2/scene32.rpy:259
-translate francais v2s32_right_window_f62869bc:
+translate francais v2s32_right_window_f62869bc_1:
 
     # u "How come you're still here?"
-    u ""
+    u "How come you're still here?"
 
 # game/v2/scene32.rpy:264
-translate francais v2s32_right_window_f29dda13:
+translate francais v2s32_right_window_4693e0ca_1:
 
-    # ri "I've been helping Aubrey get ready. And I've done a pretty good job if I can say so myself!"
-    ri ""
+    # ri "I've been helping Aubrey get ready. And I've done a pretty good job, if I do say so myself!"
+    ri "I've been helping Aubrey get ready. And I've done a pretty good job, if I do say so myself!"
 
 # game/v2/scene32.rpy:269
-translate francais v2s32_right_window_ce78bab0:
+translate francais v2s32_right_window_ce78bab0_1:
 
     # u "Aww, that's sweet of you."
-    u ""
+    u "Aww, that's sweet of you."
 
 # game/v2/scene32.rpy:275
-translate francais v2s32_right_window_811eed00:
+translate francais v2s32_right_window_17ccce18_1:
 
-    # ri "You look amazing by the way."
-    ri ""
+    # ri "You look amazing, by the way."
+    ri "You look amazing, by the way."
 
 # game/v2/scene32.rpy:293
-translate francais v2s32_right_window_cad6809e:
+translate francais v2s32_right_window_cad6809e_1:
 
     # u "Ha, thanks."
-    u ""
+    u "Ha, thanks."
 
 # game/v2/scene32.rpy:299
-translate francais v2s32_right_window_73e2e27f:
+translate francais v2s32_right_window_73e2e27f_1:
 
     # ri "She'll be down any minute now."
-    ri ""
+    ri "She'll be down any minute now."
 
 # game/v2/scene32.rpy:301
-translate francais v2s32_right_window_9b3215a6:
+translate francais v2s32_right_window_9b3215a6_1:
 
     # ri "I'm so excited for you guys. You're gonna have a blast."
-    ri ""
+    ri "I'm so excited for you guys. You're gonna have a blast."
 
 # game/v2/scene32.rpy:306
-translate francais v2s32_right_window_b3406111:
+translate francais v2s32_right_window_b3406111_1:
 
     # ri "Hey, come on, Aubrey!"
-    ri ""
+    ri "Hey, come on, Aubrey!"
 
 # game/v2/scene32.rpy:328
-translate francais v2s32_right_window_dfc0d854:
+translate francais v2s32_right_window_dfc0d854_1:
 
     # u "Oh-"
-    u ""
+    u "Oh-"
 
 # game/v2/scene32.rpy:330
-translate francais v2s32_right_window_e2fdf3e1:
+translate francais v2s32_right_window_e2fdf3e1_1:
 
     # u "(Holy...)"
-    u ""
+    u "(Holy...)"
 
 # game/v2/scene32.rpy:335
-translate francais v2s32_right_window_f7249ba9:
+translate francais v2s32_right_window_f7249ba9_1:
 
     # ri "*Giggles*"
-    ri ""
+    ri "*Giggles*"
 
 # game/v2/scene32.rpy:340
-translate francais v2s32_right_window_16b8f079:
+translate francais v2s32_right_window_67640015_1:
 
-    # u "Wow, she looks... Incredible."
-    u ""
+    # u "Wow, she looks... incredible."
+    u "Wow, she looks... incredible."
 
 # game/v2/scene32.rpy:345
-translate francais v2s32_right_window_2da08b9a:
+translate francais v2s32_right_window_2da08b9a_1:
 
     # ri "You're a very lucky guy, [name]."
-    ri ""
+    ri "You're a very lucky guy, [name]."
 
 # game/v2/scene32.rpy:350
-translate francais v2s32_right_window_6b987bbc:
+translate francais v2s32_right_window_711c297b_1:
 
-    # u "Haha, I know."
-    u ""
+    # u "Ha, I know."
+    u "Ha, I know."
 
 # game/v2/scene32.rpy:358
-translate francais v2s32_right_window_cc9b7ccf:
+translate francais v2s32_right_window_cc9b7ccf_1:
 
     # ri "I helped you get ready, and my jaw still dropped when you came down those stairs!"
-    ri ""
+    ri "I helped you get ready, and my jaw still dropped when you came down those stairs!"
 
 # game/v2/scene32.rpy:363
-translate francais v2s32_right_window_87273b5e:
+translate francais v2s32_right_window_06e73946_1:
 
-    # au "Aww, thanks babe."
-    au ""
+    # au "Aww, thanks, babe."
+    au "Aww, thanks, babe."
 
-# game/v2/scene32.rpy:371
-translate francais v2s32_right_window_d776b076:
+# game/v2/scene32.rpy:369
+translate francais v2s32_right_window_d776b076_1:
 
     # u "She's right. You look absolutely stunning."
-    u ""
+    u "She's right. You look absolutely stunning."
 
-# game/v2/scene32.rpy:374
-translate francais v2s32_right_window_74a7c78f:
+# game/v2/scene32.rpy:372
+translate francais v2s32_right_window_5bb4f522_1:
 
-    # u "Yeah, seriously... It was like seeing an actual princess coming down the stairs."
-    u ""
+    # u "Yeah, seriously... it was like seeing an actual princess coming down the stairs."
+    u "Yeah, seriously... it was like seeing an actual princess coming down the stairs."
 
-# game/v2/scene32.rpy:382
-translate francais v2s32_right_window_b3f2d5eb:
+# game/v2/scene32.rpy:380
+translate francais v2s32_right_window_a480b762_1:
 
-    # au "Haha, okay... Stop it you two, I'm already wearing too much blush."
-    au ""
+    # au "Okay, stop it, you two. I'm already wearing too much blush."
+    au "Okay, stop it, you two. I'm already wearing too much blush."
 
-# game/v2/scene32.rpy:388
-translate francais v2s32_right_window_62a79946:
+# game/v2/scene32.rpy:386
+translate francais v2s32_right_window_0fa343e6_1:
 
-    # au "And you... You look very handsome today, [name]."
-    au ""
+    # au "And you... you look very handsome today, [name]."
+    au "And you... you look very handsome today, [name]."
 
-# game/v2/scene32.rpy:393
-translate francais v2s32_right_window_3933e2f5:
+# game/v2/scene32.rpy:391
+translate francais v2s32_right_window_272b8030_1:
 
-    # u "Thank you very much. I thought I'd make the effort, haha."
-    u ""
+    # u "Thank you very much. I thought I'd make the effort."
+    u "Thank you very much. I thought I'd make the effort."
 
-# game/v2/scene32.rpy:398
-translate francais v2s32_right_window_63714f96:
+# game/v2/scene32.rpy:396
+translate francais v2s32_right_window_6ada6d25_1:
 
-    # au "I'm grateful that you did. *Chuckles*"
-    au ""
+    # au "I'm grateful that you did."
+    au "I'm grateful that you did."
 
-# game/v2/scene32.rpy:402
-translate francais v2s32_right_window_f0e11430:
+# game/v2/scene32.rpy:400
+translate francais v2s32_right_window_cf30c911_1:
 
-    # au "It certainly beats your Halloween costume, ha!"
-    au ""
+    # au "It certainly beats your Halloween costume!"
+    au "It certainly beats your Halloween costume!"
 
-# game/v2/scene32.rpy:407
-translate francais v2s32_right_window_2a6adc27:
+# game/v2/scene32.rpy:405
+translate francais v2s32_right_window_2a6adc27_1:
 
     # u "Damn, I was hoping people would start forgetting about that thing..."
-    u ""
+    u "Damn, I was hoping people would start forgetting about that thing..."
 
-# game/v2/scene32.rpy:412
-translate francais v2s32_right_window_0ace2981:
+# game/v2/scene32.rpy:410
+translate francais v2s32_right_window_1494edb2_1:
 
-    # ri "*Laughs* That costume will go down in history!"
-    ri ""
+    # ri "That costume will go down in history!"
+    ri "That costume will go down in history!"
 
-# game/v2/scene32.rpy:424
-translate francais v2s32_right_window_de81137f:
+# game/v2/scene32.rpy:421
+translate francais v2s32_right_window_6ff1fafb_1:
 
-    # au "I didn't realize the car was already here! Let's get in before it drives away without us, haha."
-    au ""
+    # au "I didn't realize the car was already here! Let's get in before it drives away without us."
+    au "I didn't realize the car was already here! Let's get in before it drives away without us."
 
-# game/v2/scene32.rpy:429
-translate francais v2s32_right_window_5b2f7a15:
+# game/v2/scene32.rpy:426
+translate francais v2s32_right_window_5b2f7a15_1:
 
     # u "Good! We can stop talking about the costume."
-    u ""
+    u "Good! We can stop talking about the costume."
 
-# game/v2/scene32.rpy:434
-translate francais v2s32_right_window_d1a879d8:
+# game/v2/scene32.rpy:431
+translate francais v2s32_right_window_56304e7f_1:
 
-    # ri "*Giggles* For now..."
-    ri ""
+    # ri "For now..."
+    ri "For now..."
 
-# game/v2/scene32.rpy:447
-translate francais v2s32_right_window_fd2c5c45:
+# game/v2/scene32.rpy:444
+translate francais v2s32_right_window_fd2c5c45_1:
 
     # u "Oh, hey Riley. You're still here?"
-    u ""
+    u "Oh, hey Riley. You're still here?"
 
-# game/v2/scene32.rpy:452
-translate francais v2s32_right_window_6255f883:
+# game/v2/scene32.rpy:449
+translate francais v2s32_right_window_6255f883_1:
 
     # ri "I fell asleep watching that movie, ha. I had nothing else to do so I started the sequel..."
-    ri ""
+    ri "I fell asleep watching that movie, ha. I had nothing else to do so I started the sequel..."
 
-# game/v2/scene32.rpy:462
-translate francais v2s32_right_window_d96aa300:
+# game/v2/scene32.rpy:459
+translate francais v2s32_right_window_d96aa300_1:
 
     # ri "*Yawns* I'm halfway through it."
-    ri ""
+    ri "*Yawns* I'm halfway through it."
 
-# game/v2/scene32.rpy:472
-translate francais v2s32_right_window_eb21bd0b:
+# game/v2/scene32.rpy:469
+translate francais v2s32_right_window_eb21bd0b_1:
 
     # u "They made a sequel?"
-    u ""
+    u "They made a sequel?"
 
-# game/v2/scene32.rpy:477
-translate francais v2s32_right_window_09c590ca:
+# game/v2/scene32.rpy:474
+translate francais v2s32_right_window_09c590ca_1:
 
     # ri "Yeah, The Poly Dilemma 2."
-    ri ""
+    ri "Yeah, The Poly Dilemma 2."
 
-# game/v2/scene32.rpy:482
-translate francais v2s32_right_window_29cc252c:
+# game/v2/scene32.rpy:479
+translate francais v2s32_right_window_29cc252c_1:
 
     # u "How original."
-    u ""
+    u "How original."
 
-# game/v2/scene32.rpy:487
-translate francais v2s32_right_window_eba16ac1:
+# game/v2/scene32.rpy:484
+translate francais v2s32_right_window_eba16ac1_1:
 
     # ri "Yeah, I think they're running out of ideas. He's trying to get four wives in this one."
-    ri ""
+    ri "Yeah, I think they're running out of ideas. He's trying to get four wives in this one."
 
-# game/v2/scene32.rpy:492
-translate francais v2s32_right_window_08b1333f:
+# game/v2/scene32.rpy:489
+translate francais v2s32_right_window_08b1333f_1:
 
     # u "Damn, that guy never learns, does he?"
-    u ""
+    u "Damn, that guy never learns, does he?"
 
-# game/v2/scene32.rpy:497
-translate francais v2s32_right_window_65330edd:
+# game/v2/scene32.rpy:494
+translate francais v2s32_right_window_d6c8fb2c_1:
 
-    # ri "I still like the concept, but... It's not as good as the original."
-    ri ""
+    # ri "I still like the concept, but... it's not as good as the original."
+    ri "I still like the concept, but... it's not as good as the original."
 
-# game/v2/scene32.rpy:502
-translate francais v2s32_right_window_430c65bc:
+# game/v2/scene32.rpy:499
+translate francais v2s32_right_window_2cb9ba1a_1:
 
-    # u "They never are, haha."
-    u ""
+    # u "They never are."
+    u "They never are."
 
-# game/v2/scene32.rpy:507
-translate francais v2s32_right_window_b6c05614:
+# game/v2/scene32.rpy:504
+translate francais v2s32_right_window_b6c05614_1:
 
     # ri "You're going to Aubrey's parent's wedding today, right?"
-    ri ""
+    ri "You're going to Aubrey's parent's wedding today, right?"
 
-# game/v2/scene32.rpy:512
-translate francais v2s32_right_window_8cc3ef60:
+# game/v2/scene32.rpy:509
+translate francais v2s32_right_window_8cc3ef60_1:
 
     # u "Yeah, how do I look?"
-    u ""
+    u "Yeah, how do I look?"
 
-# game/v2/scene32.rpy:517
-translate francais v2s32_right_window_3cc0b873:
+# game/v2/scene32.rpy:514
+translate francais v2s32_right_window_10de4192_1:
 
-    # ri "You're looking very handsome... *Chuckles*"
-    ri ""
+    # ri "You're looking very handsome..."
+    ri "You're looking very handsome..."
 
-# game/v2/scene32.rpy:522
-translate francais v2s32_right_window_c0638f45:
+# game/v2/scene32.rpy:519
+translate francais v2s32_right_window_c0638f45_1:
 
     # u "Well, thanks! But I'm handsome every day, so..."
-    u ""
+    u "Well, thanks! But I'm handsome every day, so..."
 
-# game/v2/scene32.rpy:527
-translate francais v2s32_right_window_1a7ad4f3:
+# game/v2/scene32.rpy:524
+translate francais v2s32_right_window_1a7ad4f3_1:
 
     # ri "Hmm, depends on who you ask, doesn't it?"
-    ri ""
+    ri "Hmm, depends on who you ask, doesn't it?"
 
-# game/v2/scene32.rpy:532
-translate francais v2s32_right_window_04b77a4a:
+# game/v2/scene32.rpy:529
+translate francais v2s32_right_window_f9157f24_1:
 
-    # u "Haha, ouch!"
-    u ""
+    # u "Ouch!"
+    u "Ouch!"
 
-# game/v2/scene32.rpy:537
-translate francais v2s32_right_window_cf5c7ea1:
+# game/v2/scene32.rpy:534
+translate francais v2s32_right_window_fe85f7b9_1:
 
-    # ri "*Laughs*"
-    ri ""
+    # ri "Ha! Gotcha."
+    ri "Ha! Gotcha."
 
-# game/v2/scene32.rpy:542
-translate francais v2s32_right_window_3cab8c29:
+# game/v2/scene32.rpy:539
+translate francais v2s32_right_window_3cab8c29_1:
 
     # ri "Oh, here she is."
-    ri ""
+    ri "Oh, here she is."
 
-# game/v2/scene32.rpy:555
-translate francais v2s32_right_window_3c38d114:
+# game/v2/scene32.rpy:552
+translate francais v2s32_right_window_3c38d114_1:
 
     # u "(Oh, wow!)"
-    u ""
+    u "(Oh, wow!)"
 
-# game/v2/scene32.rpy:560
-translate francais v2s32_right_window_470f8b0f:
+# game/v2/scene32.rpy:557
+translate francais v2s32_right_window_470f8b0f_1:
 
     # u "Aubrey, you-"
-    u ""
+    u "Aubrey, you-"
 
-# game/v2/scene32.rpy:562
-translate francais v2s32_right_window_91946fdc:
+# game/v2/scene32.rpy:559
+translate francais v2s32_right_window_91946fdc_1:
 
     # u "You look... incredible."
-    u ""
+    u "You look... incredible."
 
-# game/v2/scene32.rpy:567
-translate francais v2s32_right_window_aa9abeb8:
+# game/v2/scene32.rpy:564
+translate francais v2s32_right_window_37dd6bac_1:
 
-    # au "Aw, haha! Thanks, [name]."
-    au ""
+    # au "Aw! Thanks, [name]."
+    au "Aw! Thanks, [name]."
 
-# game/v2/scene32.rpy:572
-translate francais v2s32_right_window_e30ff708:
+# game/v2/scene32.rpy:569
+translate francais v2s32_right_window_e30ff708_1:
 
     # ri "Yeah, stunning."
-    ri ""
+    ri "Yeah, stunning."
 
-# game/v2/scene32.rpy:577
-translate francais v2s32_right_window_af5c1cd3:
+# game/v2/scene32.rpy:574
+translate francais v2s32_right_window_af5c1cd3_1:
 
     # au "Thanks."
-    au ""
+    au "Thanks."
 
-# game/v2/scene32.rpy:583
-translate francais v2s32_right_window_5d88c4cc:
+# game/v2/scene32.rpy:580
+translate francais v2s32_right_window_5d88c4cc_1:
 
     # u "Like, holy hell... I'm one lucky guy."
-    u ""
+    u "Like, holy hell... I'm one lucky guy."
 
-# game/v2/scene32.rpy:588
-translate francais v2s32_right_window_1b4eb939:
+# game/v2/scene32.rpy:585
+translate francais v2s32_right_window_1b4eb939_1:
 
     # au "Okay, easy tiger."
-    au ""
+    au "Okay, easy tiger."
 
-# game/v2/scene32.rpy:594
-translate francais v2s32_right_window_0d45665f:
+# game/v2/scene32.rpy:591
+translate francais v2s32_right_window_af200782_1:
 
-    # au "You're looking pretty great yourself"
-    au ""
+    # au "You're looking pretty great yourself."
+    au "You're looking pretty great yourself."
 
-# game/v2/scene32.rpy:599
-translate francais v2s32_right_window_bfe56c88:
+# game/v2/scene32.rpy:596
+translate francais v2s32_right_window_bfe56c88_1:
 
     # u "Thanks. It does feel nice to dress up for someone special."
-    u ""
+    u "Thanks. It does feel nice to dress up for someone special."
 
-# game/v2/scene32.rpy:609
-translate francais v2s32_right_window_f94854ce:
+# game/v2/scene32.rpy:606
+translate francais v2s32_right_window_f94854ce_1:
 
     # ri "I think I'll finish my movie now."
-    ri ""
+    ri "I think I'll finish my movie now."
 
-# game/v2/scene32.rpy:611
-translate francais v2s32_right_window_3fd62a04:
+# game/v2/scene32.rpy:608
+translate francais v2s32_right_window_0b53c488_1:
 
-    # ri "Have a great time you guys."
-    ri ""
+    # ri "Have a great time, you guys."
+    ri "Have a great time, you guys."
 
-# game/v2/scene32.rpy:616
-translate francais v2s32_right_window_d7cdc824:
+# game/v2/scene32.rpy:613
+translate francais v2s32_right_window_d7cdc824_1:
 
     # u "Thanks, Riley."
-    u ""
+    u "Thanks, Riley."
 
-# game/v2/scene32.rpy:621
-translate francais v2s32_right_window_331b0736:
+# game/v2/scene32.rpy:618
+translate francais v2s32_right_window_331b0736_1:
 
     # au "Mhmm, bye."
-    au ""
+    au "Mhmm, bye."
 
-# game/v2/scene32.rpy:633
-translate francais v2s32_right_window_e7041857:
+# game/v2/scene32.rpy:630
+translate francais v2s32_right_window_e7041857_1:
 
     # au "Oh, the car's already here?"
-    au ""
+    au "Oh, the car's already here?"
 
-# game/v2/scene32.rpy:638
-translate francais v2s32_right_window_e5311f0d:
+# game/v2/scene32.rpy:635
+translate francais v2s32_right_window_95f05155_1:
 
-    # u "Oh shit, haha. The poor driver's probably dying of boredom watching us stand here."
-    u ""
+    # u "Oh shit. The poor driver's probably dying of boredom watching us stand here."
+    u "Oh shit. The poor driver's probably dying of boredom watching us stand here."
 
-# game/v2/scene32.rpy:643
-translate francais v2s32_right_window_0f8d59b2:
+# game/v2/scene32.rpy:640
+translate francais v2s32_right_window_0f8d59b2_1:
 
     # au "Well, come on. Let's go to a wedding!"
-    au ""
+    au "Well, come on. Let's go to a wedding!"
 
 translate francais strings:
 
     # game/v2/scene32.rpy:24
     old "Simple approach"
-    new ""
+    new "Simple approach"
 
     # game/v2/scene32.rpy:24
     old "Be her Romeo"
-    new ""
+    new "Be her Romeo"
 
     # game/v2/scene32.rpy:62
     old "Left window"
-    new ""
+    new "Left window"
 
     # game/v2/scene32.rpy:62
     old "Right window"
-    new ""
+    new "Right window"
 

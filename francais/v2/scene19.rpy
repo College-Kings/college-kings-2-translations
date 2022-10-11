@@ -1,246 +1,246 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene19.rpy:29
-translate francais v2s19_74984bb2:
+translate francais v2s19_74984bb2_1:
 
     # u "(Hmm?) Lauren?"
-    u ""
+    u "(Hmm?) Lauren?"
 
 # game/v2/scene19.rpy:34
-translate francais v2s19_0c2951e7:
+translate francais v2s19_0c2951e7_1:
 
     # u "(She must be up already.)"
-    u ""
+    u "(She must be up already.)"
 
 # game/v2/scene19.rpy:39
-translate francais v2s19_b65f7152:
+translate francais v2s19_b65f7152_1:
 
     # u "I really should've brought an extra pair of clothes... *Sighs*"
-    u ""
+    u "I really should've brought an extra pair of clothes... *Sighs*"
 
 # game/v2/scene19.rpy:80
-translate francais v2s19_29e72e2d:
+translate francais v2s19_29e72e2d_1:
 
     # u "Morning, Lauren."
-    u ""
+    u "Morning, Lauren."
 
 # game/v2/scene19.rpy:85
-translate francais v2s19_09bd6f59:
+translate francais v2s19_09bd6f59_1:
 
     # la "Hey! Good morning."
-    la ""
+    la "Hey! Good morning."
 
 # game/v2/scene19.rpy:87
-translate francais v2s19_da07801f:
+translate francais v2s19_fdbb70bf_1:
 
-    # la "I officially regret not cleaning all of this up last night, haha."
-    la ""
+    # la "I officially regret not cleaning all of this up last night."
+    la "I officially regret not cleaning all of this up last night."
 
 # game/v2/scene19.rpy:92
-translate francais v2s19_4b356133:
+translate francais v2s19_4b356133_1:
 
     # u "*Sighs* Yeah, we probably should've."
-    u ""
+    u "*Sighs* Yeah, we probably should've."
 
 # game/v2/scene19.rpy:97
-translate francais v2s19_b0f7cf7c:
+translate francais v2s19_5f978a57_1:
 
-    # la "No worries though, it was worth it. I had a really good time."
-    la ""
+    # la "No worries, though. It was worth it. I had a really good time."
+    la "No worries, though. It was worth it. I had a really good time."
 
 # game/v2/scene19.rpy:106
-translate francais v2s19_7f4c40ac:
+translate francais v2s19_cb40d7a1_1:
 
-    # u "Haha, that it was."
-    u ""
+    # u "Ha, that it was."
+    u "Ha, that it was."
 
 # game/v2/scene19.rpy:111
-translate francais v2s19_359f178b:
+translate francais v2s19_359f178b_1:
 
     # la "Oh, no, I wasn't suggesting-"
-    la ""
+    la "Oh, no, I wasn't suggesting-"
 
 # game/v2/scene19.rpy:116
-translate francais v2s19_50247abf:
+translate francais v2s19_cc5df064_1:
 
-    # u "It's okay, Lauren. You don't have to clean up your own birthday party all by yourself. *Laughs*"
-    u ""
+    # u "It's okay, Lauren. You don't have to clean up your own birthday party all by yourself."
+    u "It's okay, Lauren. You don't have to clean up your own birthday party all by yourself."
 
 # game/v2/scene19.rpy:121
-translate francais v2s19_c631639e:
+translate francais v2s19_c631639e_1:
 
     # la "Thank you, [name]."
-    la ""
+    la "Thank you, [name]."
 
 # game/v2/scene19.rpy:126
-translate francais v2s19_8e46ede3:
+translate francais v2s19_e658f8b0_1:
 
-    # u "Of course, now where should I start?"
-    u ""
+    # u "Of course. Where should I start?"
+    u "Of course. Where should I start?"
 
 # game/v2/scene19.rpy:131
-translate francais v2s19_9a3faad1:
+translate francais v2s19_b54e236a_1:
 
-    # la "Can you hold this bag open for me? And I'll put this trash in it."
-    la ""
+    # la "Can you hold this bag open for me? And I'll put trash in it."
+    la "Can you hold this bag open for me? And I'll put trash in it."
 
 # game/v2/scene19.rpy:136
-translate francais v2s19_93fc7d91:
+translate francais v2s19_93fc7d91_1:
 
     # u "Sure, I can do that."
-    u ""
+    u "Sure, I can do that."
 
 # game/v2/scene19.rpy:169
-translate francais v2s19_37ee4679:
+translate francais v2s19_37bae29d_1:
 
-    # la "Ugh... Gross!"
-    la ""
+    # la "Ugh. Gross!"
+    la "Ugh. Gross!"
 
 # game/v2/scene19.rpy:174
-translate francais v2s19_fcc18885:
+translate francais v2s19_e377aead_1:
 
-    # u "*Laughs*"
-    u ""
+    # u "It wasn't that bad."
+    u "It wasn't that bad."
 
 # game/v2/scene19.rpy:179
-translate francais v2s19_f9305dc9:
+translate francais v2s19_0429e4af_1:
 
-    # la "Okay. I'm so glad that's done, haha. You're the best."
-    la ""
+    # la "I'm so glad that's done. You're the best."
+    la "I'm so glad that's done. You're the best."
 
 # game/v2/scene19.rpy:184
-translate francais v2s19_02da5d19:
+translate francais v2s19_02da5d19_1:
 
     # u "Yeah, I am."
-    u ""
+    u "Yeah, I am."
 
 # game/v2/scene19.rpy:197
-translate francais v2s19_66047429:
+translate francais v2s19_66047429_1:
 
     # u "Yeah, everyone did. It was a great party."
-    u ""
+    u "Yeah, everyone did. It was a great party."
 
 # game/v2/scene19.rpy:199
-translate francais v2s19_f544d626:
+translate francais v2s19_f544d626_1:
 
     # u "I'm sorry, Lauren... I would offer to help, but I really have to get on with my day."
-    u ""
+    u "I'm sorry, Lauren... I would offer to help, but I really have to get on with my day."
 
 # game/v2/scene19.rpy:204
-translate francais v2s19_09e9460a:
+translate francais v2s19_09e9460a_1:
 
     # la "It's okay, really. I'll get it."
-    la ""
+    la "It's okay, really. I'll get it."
 
 # game/v2/scene19.rpy:235
-translate francais v2s19_PhoneContinueChloe_88d710ce:
+translate francais v2s19_PhoneContinueChloe_88d710ce_1:
 
     # u "(I should check my phone.)"
-    u ""
+    u "(I should check my phone.)"
 
 # game/v2/scene19.rpy:251
-translate francais v2s19_PhoneContinueLindsey_88d710ce:
+translate francais v2s19_PhoneContinueLindsey_88d710ce_1:
 
     # u "(I should check my phone.)"
-    u ""
+    u "(I should check my phone.)"
 
 # game/v2/scene19.rpy:261
-translate francais v2s19_PhoneContinueLindsey_e6d36980:
+translate francais v2s19_PhoneContinueLindsey_e6d36980_2:
 
     # u "Well, I gotta go."
-    u ""
+    u "Well, I gotta go."
 
 # game/v2/scene19.rpy:272
-translate francais v2s19_PhoneContinueLindsey_e6d36980_1:
+translate francais v2s19_PhoneContinueLindsey_e6d36980_3:
 
     # u "Well, I gotta go."
-    u ""
+    u "Well, I gotta go."
 
 # game/v2/scene19.rpy:284
-translate francais v2s19_PhoneContinueLindsey_634d29e4:
+translate francais v2s19_PhoneContinueLindsey_49bf6636_1:
 
-    # la "Alright, I'll see you later."
-    la ""
+    # la "All right, I'll see you later."
+    la "All right, I'll see you later."
 
 # game/v2/scene19.rpy:289
-translate francais v2s19_PhoneContinueLindsey_dac52093:
+translate francais v2s19_PhoneContinueLindsey_dac52093_1:
 
     # u "Thanks again for an amazing party last night."
-    u ""
+    u "Thanks again for an amazing party last night."
 
 # game/v2/scene19.rpy:294
-translate francais v2s19_PhoneContinueLindsey_62303172:
+translate francais v2s19_PhoneContinueLindsey_62303172_1:
 
     # la "Are you kidding? Thank you for coming. It was such a special night for me!"
-    la ""
+    la "Are you kidding? Thank you for coming. It was such a special night for me!"
 
 # game/v2/scene19.rpy:313
-translate francais v2s19_PhoneContinueLindsey_6b5d0e65:
+translate francais v2s19_PhoneContinueLindsey_6b5d0e65_1:
 
     # u "I seriously need to go home and change..."
-    u ""
+    u "I seriously need to go home and change..."
 
 # game/v2/scene19.rpy:318
-translate francais v2s19_PhoneContinueLindsey_554f5e7f:
+translate francais v2s19_PhoneContinueLindsey_889ca2d6_1:
 
-    # la "Yeah... that might be a good idea, haha."
-    la ""
+    # la "Yeah... that might be a good idea."
+    la "Yeah... that might be a good idea."
 
 # game/v2/scene19.rpy:323
-translate francais v2s19_PhoneContinueLindsey_6ad162ea:
+translate francais v2s19_PhoneContinueLindsey_6ad162ea_1:
 
     # u "You think I should wear one of those trash bags over top of it?"
-    u ""
+    u "You think I should wear one of those trash bags over top of it?"
 
 # game/v2/scene19.rpy:328
-translate francais v2s19_PhoneContinueLindsey_3b09c809:
+translate francais v2s19_PhoneContinueLindsey_ea5a90f2_1:
 
-    # la "*Chuckles* I know it sounds crazy, but that might just draw more attention to you."
-    la ""
+    # la "I know it sounds crazy, but that might just draw more attention to you."
+    la "I know it sounds crazy, but that might just draw more attention to you."
 
 # game/v2/scene19.rpy:333
-translate francais v2s19_PhoneContinueLindsey_d114c4ea:
+translate francais v2s19_PhoneContinueLindsey_72eacebf_1:
 
-    # u "Haha, you're right."
-    u ""
+    # u "Ha, you're right."
+    u "Ha, you're right."
 
 # game/v2/scene19.rpy:335
-translate francais v2s19_PhoneContinueLindsey_d2f65911:
+translate francais v2s19_PhoneContinueLindsey_d2f65911_1:
 
     # u "It'll be okay. I just have to make a run for it."
-    u ""
+    u "It'll be okay. I just have to make a run for it."
 
 # game/v2/scene19.rpy:340
-translate francais v2s19_PhoneContinueLindsey_fc362f45:
+translate francais v2s19_PhoneContinueLindsey_fc362f45_1:
 
     # la "And avoid as many people as you possibly can, hehe."
-    la ""
+    la "And avoid as many people as you possibly can, hehe."
 
 # game/v2/scene19.rpy:345
-translate francais v2s19_PhoneContinueLindsey_372d1d91:
+translate francais v2s19_PhoneContinueLindsey_46698d44_1:
 
-    # u "*Chuckles* Exactly."
-    u ""
+    # u "Exactly."
+    u "Exactly."
 
 # game/v2/scene19.rpy:350
-translate francais v2s19_PhoneContinueLindsey_e262c5d9:
+translate francais v2s19_PhoneContinueLindsey_fab48e58_1:
 
-    # la "I'll see you later, good luck!"
-    la ""
+    # la "I'll see you later. Good luck!"
+    la "I'll see you later. Good luck!"
 
 # game/v2/scene19.rpy:355
-translate francais v2s19_PhoneContinueLindsey_a31c755e:
+translate francais v2s19_PhoneContinueLindsey_a31c755e_1:
 
     # u "Yeah, thanks. Bye!"
-    u ""
+    u "Yeah, thanks. Bye!"
 
 translate francais strings:
 
     # game/v2/scene19.rpy:99
     old "Help clean up"
-    new ""
+    new "Help clean up"
 
     # game/v2/scene19.rpy:99
     old "Don't help"
-    new ""
+    new "Don't help"
 

@@ -1,724 +1,724 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene55.rpy:17
-translate francais v3s55_2ce9be1c:
+translate francais v3s55_2ce9be1c_1:
 
     # u "Hey, Linds."
-    u ""
+    u "Hey, Linds."
 
 # game/v3/scene55.rpy:27
-translate francais v3s55_cfc8ffb5:
+translate francais v3s55_cfc8ffb5_1:
 
     # li "*yawns*"
-    li ""
+    li "*yawns*"
 
 # game/v3/scene55.rpy:32
-translate francais v3s55_d389dc34:
+translate francais v3s55_ae0b14f3_1:
 
-    # u "Haha, sleepy?"
-    u ""
+    # u "Sleepy?"
+    u "Sleepy?"
 
 # game/v3/scene55.rpy:37
-translate francais v3s55_abecb801:
+translate francais v3s55_abecb801_1:
 
     # li "I really need a nap. I could honestly fall asleep right here on this desk."
-    li ""
+    li "I really need a nap. I could honestly fall asleep right here on this desk."
 
 # game/v3/scene55.rpy:42
-translate francais v3s55_00da368c:
+translate francais v3s55_00da368c_1:
 
     # u "Are you sure you're ready for our interview prep?"
-    u ""
+    u "Are you sure you're ready for our interview prep?"
 
 # game/v3/scene55.rpy:47
-translate francais v3s55_d48f42dd:
+translate francais v3s55_d48f42dd_1:
 
     # li "Yeah, I'll be okay. I'll get some extra strong coffee after this."
-    li ""
+    li "Yeah, I'll be okay. I'll get some extra strong coffee after this."
 
 # game/v3/scene55.rpy:52
-translate francais v3s55_6c0bc8eb:
+translate francais v3s55_6c0bc8eb_1:
 
     # li "About a gallon should get me through the day."
-    li ""
+    li "About a gallon should get me through the day."
 
 # game/v3/scene55.rpy:57
-translate francais v3s55_769d2c58:
+translate francais v3s55_dad16ccc_1:
 
-    # u "Haha, okay. If you're sure."
-    u ""
+    # u "Ha, okay. If you're sure."
+    u "Ha, okay. If you're sure."
 
 # game/v3/scene55.rpy:62
-translate francais v3s55_23947599:
+translate francais v3s55_23947599_1:
 
     # li "Totally. Let's not overthink this. It should be pretty straight forward, so just ask me a couple of questions."
-    li ""
+    li "Totally. Let's not overthink this. It should be pretty straight forward, so just ask me a couple of questions."
 
 # game/v3/scene55.rpy:72
-translate francais v3s55_e24a320d:
+translate francais v3s55_e24a320d_1:
 
     # u "(Hmmm, there's a lot of possible questions that can come up in the interview...)"
-    u ""
+    u "(Hmmm, there's a lot of possible questions that can come up in the interview...)"
 
 # game/v3/scene55.rpy:74
-translate francais v3s55_70519d3d:
+translate francais v3s55_70519d3d_1:
 
     # u "(I think they will ask her...)"
-    u ""
+    u "(I think they will ask her...)"
 
 # game/v3/scene55.rpy:81
-translate francais v3s55_730a42da:
+translate francais v3s55_730a42da_3:
 
     # u "Okay, are you ready?"
-    u ""
+    u "Okay, are you ready?"
 
 # game/v3/scene55.rpy:86
-translate francais v3s55_7ad9ff85:
+translate francais v3s55_7ad9ff85_3:
 
     # li "Fire away."
-    li ""
+    li "Fire away."
 
 # game/v3/scene55.rpy:94
-translate francais v3s55_730a42da_1:
+translate francais v3s55_730a42da_4:
 
     # u "Okay, are you ready?"
-    u ""
+    u "Okay, are you ready?"
 
 # game/v3/scene55.rpy:99
-translate francais v3s55_7ad9ff85_1:
+translate francais v3s55_7ad9ff85_4:
 
     # li "Fire away."
-    li ""
+    li "Fire away."
 
 # game/v3/scene55.rpy:107
-translate francais v3s55_730a42da_2:
+translate francais v3s55_730a42da_5:
 
     # u "Okay, are you ready?"
-    u ""
+    u "Okay, are you ready?"
 
 # game/v3/scene55.rpy:112
-translate francais v3s55_7ad9ff85_2:
+translate francais v3s55_7ad9ff85_5:
 
     # li "Fire away."
-    li ""
+    li "Fire away."
 
 # game/v3/scene55.rpy:122
-translate francais v3s55_threepositives_6fef46d5:
+translate francais v3s55_threepositives_6fef46d5_1:
 
     # u "Tell me three positive things about your campaign opponent."
-    u ""
+    u "Tell me three positive things about your campaign opponent."
 
 # game/v3/scene55.rpy:127
-translate francais v3s55_threepositives_584737e8:
+translate francais v3s55_threepositives_584737e8_1:
 
     # li "Shit. Really?"
-    li ""
+    li "Shit. Really?"
 
 # game/v3/scene55.rpy:132
-translate francais v3s55_threepositives_b64a6f9c:
+translate francais v3s55_threepositives_505a3f68_1:
 
-    # u "Haha, yeah."
-    u ""
+    # u "Yeah."
+    u "Yeah."
 
 # game/v3/scene55.rpy:137
-translate francais v3s55_threepositives_389b208e:
+translate francais v3s55_threepositives_b9c33f1d_1:
 
-    # li "Um, well, she's blonde. And as we all know, blondes are awesome. *Chuckles*"
-    li ""
+    # li "Um, well, she's blonde. And as we all know, blondes are awesome."
+    li "Um, well, she's blonde. And as we all know, blondes are awesome."
 
 # game/v3/scene55.rpy:142
-translate francais v3s55_threepositives_627302bb:
+translate francais v3s55_threepositives_627302bb_1:
 
     # li "Um..."
-    li ""
+    li "Um..."
 
 # game/v3/scene55.rpy:147
-translate francais v3s55_threepositives_e56c7be4:
+translate francais v3s55_threepositives_e56c7be4_1:
 
     # li "And I mean, it goes without saying really, but she really does have amazing boobs."
-    li ""
+    li "And I mean, it goes without saying really, but she really does have amazing boobs."
 
 # game/v3/scene55.rpy:159
-translate francais v3s55_threepositives_19608f78:
+translate francais v3s55_threepositives_19608f78_1:
 
     # u "Can't argue with that. "
-    u ""
+    u "Can't argue with that. "
 
 # game/v3/scene55.rpy:164
-translate francais v3s55_threepositives_a1321144:
+translate francais v3s55_threepositives_a1321144_1:
 
     # u "Just one more."
-    u ""
+    u "Just one more."
 
 # game/v3/scene55.rpy:169
-translate francais v3s55_threepositives_0c3e9b49:
+translate francais v3s55_threepositives_f121feea_1:
 
-    # li "Um... Oh, and I hear she's good at volleyball too. That's three things."
-    li ""
+    # li "Um... oh, and I hear she's good at volleyball too. That's three things."
+    li "Um... oh, and I hear she's good at volleyball too. That's three things."
 
 # game/v3/scene55.rpy:174
-translate francais v3s55_threepositives_659341c2:
+translate francais v3s55_threepositives_659341c2_1:
 
     # u "Great job."
-    u ""
+    u "Great job."
 
 # game/v3/scene55.rpy:182
-translate francais v3s55_threepositives_12e4fe48:
+translate francais v3s55_threepositives_33c55783_1:
 
-    # u "Haha, anything that isn't about her physical appearance?"
-    u ""
+    # u "Anything that isn't about her physical appearance?"
+    u "Anything that isn't about her physical appearance?"
 
 # game/v3/scene55.rpy:187
-translate francais v3s55_threepositives_9e717813:
+translate francais v3s55_threepositives_9e717813_1:
 
     # li "..."
-    li ""
+    li "..."
 
 # game/v3/scene55.rpy:192
-translate francais v3s55_threepositives_eda9c8f8:
+translate francais v3s55_threepositives_eda9c8f8_1:
 
     # li "I guess you could say she doesn't give up easily?"
-    li ""
+    li "I guess you could say she doesn't give up easily?"
 
 # game/v3/scene55.rpy:197
-translate francais v3s55_threepositives_7f43f7f8:
+translate francais v3s55_threepositives_7f43f7f8_1:
 
     # u "Go on."
-    u ""
+    u "Go on."
 
 # game/v3/scene55.rpy:202
-translate francais v3s55_threepositives_81c5f611:
+translate francais v3s55_threepositives_81c5f611_1:
 
     # li "I mean, I'm destroying her campaign at the moment and yet she's still going, bless her."
-    li ""
+    li "I mean, I'm destroying her campaign at the moment and yet she's still going, bless her."
 
 # game/v3/scene55.rpy:207
-translate francais v3s55_threepositives_dd327fb3:
+translate francais v3s55_threepositives_08c1f49c_1:
 
-    # u "Haha, okay. Great compliment, but maybe leave out that second part. "
-    u ""
+    # u "Ha, okay. Great compliment, but maybe leave out that second part."
+    u "Ha, okay. Great compliment, but maybe leave out that second part."
 
 # game/v3/scene55.rpy:212
-translate francais v3s55_threepositives_04bfccba:
+translate francais v3s55_threepositives_04bfccba_1:
 
     # u "You might sound a little arrogant saying you're 'destroying' her campaign..."
-    u ""
+    u "You might sound a little arrogant saying you're 'destroying' her campaign..."
 
 # game/v3/scene55.rpy:217
-translate francais v3s55_threepositives_a9e69c7a:
+translate francais v3s55_threepositives_efe5fd33_1:
 
-    # li "Damn, do I really need to be that careful with my words?"
-    li ""
+    # li "Do I really need to be that careful with my words?"
+    li "Do I really need to be that careful with my words?"
 
 # game/v3/scene55.rpy:222
-translate francais v3s55_threepositives_8d813447:
+translate francais v3s55_threepositives_8d813447_1:
 
     # u "Yeah, I think so. It needs to come across like a healthy rivalry between friends."
-    u ""
+    u "Yeah, I think so. It needs to come across like a healthy rivalry between friends."
 
 # game/v3/scene55.rpy:224
-translate francais v3s55_threepositives_cc29e598:
+translate francais v3s55_threepositives_cc29e598_1:
 
     # u "If you need to, just pretend like she's your favorite person ever and make up good things about her."
-    u ""
+    u "If you need to, just pretend like she's your favorite person ever and make up good things about her."
 
 # game/v3/scene55.rpy:229
-translate francais v3s55_threepositives_20a614fc:
+translate francais v3s55_threepositives_20a614fc_1:
 
     # li "Like what?"
-    li ""
+    li "Like what?"
 
 # game/v3/scene55.rpy:234
-translate francais v3s55_threepositives_3e4272ae:
+translate francais v3s55_threepositives_3e4272ae_1:
 
     # u "Like, she's a great sorority sister. You can keep it vague like that."
-    u ""
+    u "Like, she's a great sorority sister. You can keep it vague like that."
 
 # game/v3/scene55.rpy:239
-translate francais v3s55_threepositives_224c6c9f:
+translate francais v3s55_threepositives_224c6c9f_1:
 
     # li "Okay, so pay her a vague compliment?"
-    li ""
+    li "Okay, so pay her a vague compliment?"
 
 # game/v3/scene55.rpy:244
-translate francais v3s55_threepositives_d5eb6a60:
+translate francais v3s55_threepositives_d5eb6a60_1:
 
     # u "Yeah, and then move along quickly to the next one. That way you control the interview."
-    u ""
+    u "Yeah, and then move along quickly to the next one. That way you control the interview."
 
 # game/v3/scene55.rpy:249
-translate francais v3s55_threepositives_b16a8aed:
+translate francais v3s55_threepositives_b16a8aed_1:
 
     # li "Okay, got it. Easy enough."
-    li ""
+    li "Okay, got it. Easy enough."
 
 # game/v3/scene55.rpy:262
-translate francais v3s55_importantquality_3bc8e366:
+translate francais v3s55_importantquality_02465245_1:
 
-    # u "What's the most important quality a president needs to have?"
-    u ""
+    # u "What's the most important quality a President needs to have?"
+    u "What's the most important quality a President needs to have?"
 
 # game/v3/scene55.rpy:267
-translate francais v3s55_importantquality_b83258ef:
+translate francais v3s55_importantquality_b83258ef_1:
 
     # li "Ooh, that's a tricky question. Only one?"
-    li ""
+    li "Ooh, that's a tricky question. Only one?"
 
 # game/v3/scene55.rpy:272
-translate francais v3s55_importantquality_afc11042:
+translate francais v3s55_importantquality_afc11042_1:
 
     # u "Just one. Choose wisely."
-    u ""
+    u "Just one. Choose wisely."
 
 # game/v3/scene55.rpy:277
-translate francais v3s55_importantquality_7d0439ce:
+translate francais v3s55_importantquality_7d0439ce_1:
 
     # li "Hmm..."
-    li ""
+    li "Hmm..."
 
 # game/v3/scene55.rpy:282
-translate francais v3s55_importantquality_54c2a7e0:
+translate francais v3s55_importantquality_b791f9ab_1:
 
-    # li "I think a good president should be able to earn the loyalty of all of her sisters, you know, to keep everyone happy."
-    li ""
+    # li "I think a good President should be able to earn the loyalty of all of her sisters, you know, to keep everyone happy."
+    li "I think a good President should be able to earn the loyalty of all of her sisters, you know, to keep everyone happy."
 
 # game/v3/scene55.rpy:289
-translate francais v3s55_importantquality_9c7d7fa2:
+translate francais v3s55_importantquality_9c7d7fa2_1:
 
     # u "Yeah, short but sweet. That'll do."
-    u ""
+    u "Yeah, short but sweet. That'll do."
 
 # game/v3/scene55.rpy:294
-translate francais v3s55_importantquality_9e6bbffa:
+translate francais v3s55_importantquality_9e6bbffa_1:
 
     # li "Are you sure that's enough?"
-    li ""
+    li "Are you sure that's enough?"
 
 # game/v3/scene55.rpy:299
-translate francais v3s55_importantquality_4cec8c29:
+translate francais v3s55_importantquality_4cec8c29_1:
 
     # u "It was a good answer. Let's move on."
-    u ""
+    u "It was a good answer. Let's move on."
 
 # game/v3/scene55.rpy:304
-translate francais v3s55_importantquality_b11aa9a7:
+translate francais v3s55_importantquality_b11aa9a7_1:
 
     # u "Okay, a little vague. What are you saying there? People skills?"
-    u ""
+    u "Okay, a little vague. What are you saying there? People skills?"
 
 # game/v3/scene55.rpy:309
-translate francais v3s55_importantquality_f7bbe1c8:
+translate francais v3s55_importantquality_7a278d93_1:
 
-    # li "Yeah, people skills. So, you can manipulate effectively, haha."
-    li ""
+    # li "Yeah, people skills. So, you can manipulate effectively, ha."
+    li "Yeah, people skills. So, you can manipulate effectively, ha."
 
 # game/v3/scene55.rpy:314
-translate francais v3s55_importantquality_e372c158:
+translate francais v3s55_importantquality_a1757429_1:
 
-    # u "Haha, okay, definitely don't want to use the word manipulate in the interview."
-    u ""
+    # u "Okay, definitely don't want to use the word manipulate in the interview."
+    u "Okay, definitely don't want to use the word manipulate in the interview."
 
 # game/v3/scene55.rpy:319
-translate francais v3s55_importantquality_57f08b02:
+translate francais v3s55_importantquality_950a175c_1:
 
-    # li "No, of course not, duh. *Laughs*"
-    li ""
+    # li "No, of course not. Duh."
+    li "No, of course not. Duh."
 
 # game/v3/scene55.rpy:324
-translate francais v3s55_importantquality_fb078664:
+translate francais v3s55_importantquality_fb078664_1:
 
     # u "You could also say an effective communicator."
-    u ""
+    u "You could also say an effective communicator."
 
 # game/v3/scene55.rpy:329
-translate francais v3s55_importantquality_80a40abe:
+translate francais v3s55_importantquality_4023205a_1:
 
-    # li "Ooh, I like that. Yeah, I'll use that one. Effective communicator."
-    li ""
+    # li "Ooh, I like that. I'll use that one. Effective communicator."
+    li "Ooh, I like that. I'll use that one. Effective communicator."
 
 # game/v3/scene55.rpy:342
-translate francais v3s55_randomkindness_fb17ab43:
+translate francais v3s55_randomkindness_fb17ab43_1:
 
     # u "What was your last random act of kindness?"
-    u ""
+    u "What was your last random act of kindness?"
 
 # game/v3/scene55.rpy:347
-translate francais v3s55_randomkindness_627302bb:
+translate francais v3s55_randomkindness_627302bb_1:
 
     # li "Um..."
-    li ""
+    li "Um..."
 
 # game/v3/scene55.rpy:352
-translate francais v3s55_randomkindness_dfdf447d:
+translate francais v3s55_randomkindness_dfdf447d_1:
 
     # li "Oh! I donated money to the dog shelter!"
-    li ""
+    li "Oh! I donated money to the dog shelter!"
 
 # game/v3/scene55.rpy:359
-translate francais v3s55_randomkindness_9c0ea317:
+translate francais v3s55_randomkindness_9c0ea317_1:
 
     # u "Which was really helpful, by the way. Autumn says thank you."
-    u ""
+    u "Which was really helpful, by the way. Autumn says thank you."
 
 # game/v3/scene55.rpy:366
-translate francais v3s55_randomkindness_abc43642:
+translate francais v3s55_randomkindness_abc43642_1:
 
     # u "(Well, you donated a little less than you think...)"
-    u ""
+    u "(Well, you donated a little less than you think...)"
 
 # game/v3/scene55.rpy:373
-translate francais v3s55_randomkindness_503e3928:
+translate francais v3s55_randomkindness_503e3928_1:
 
     # u "(Well, at least you think you did.)"
-    u ""
+    u "(Well, at least you think you did.)"
 
 # game/v3/scene55.rpy:380
-translate francais v3s55_randomkindness_39c08306:
+translate francais v3s55_randomkindness_39c08306_1:
 
     # li "Or, I wanted to ask you about that. Autumn replied to my comment and asked about the donation...?"
-    li ""
+    li "Or, I wanted to ask you about that. Autumn replied to my comment and asked about the donation...?"
 
 # game/v3/scene55.rpy:387
-translate francais v3s55_randomkindness_1d92b1f4:
+translate francais v3s55_randomkindness_1d92b1f4_1:
 
     # u "(Shit...)"
-    u ""
+    u "(Shit...)"
 
 # game/v3/scene55.rpy:389
-translate francais v3s55_randomkindness_f9429c36:
+translate francais v3s55_randomkindness_f9429c36_1:
 
     # u "Uh, yeah. It actually reminded me. I gave it to her once I saw your comment."
-    u ""
+    u "Uh, yeah. It actually reminded me. I gave it to her once I saw your comment."
 
 # game/v3/scene55.rpy:394
-translate francais v3s55_randomkindness_0412a591:
+translate francais v3s55_randomkindness_a733201b_1:
 
-    # li "Oh, haha. Good thing I reminded you then!"
-    li ""
+    # li "Oh. Good thing I reminded you, then!"
+    li "Oh. Good thing I reminded you, then!"
 
 # game/v3/scene55.rpy:399
-translate francais v3s55_randomkindness_9867b032:
+translate francais v3s55_randomkindness_9867b032_1:
 
     # u "Yeah... (Phew.)"
-    u ""
+    u "Yeah... (Phew.)"
 
 # game/v3/scene55.rpy:409
-translate francais v3s55_randomkindness_096a4f0f:
+translate francais v3s55_randomkindness_096a4f0f_1:
 
     # u "Nice. Who wouldn't like you after hearing that?"
-    u ""
+    u "Nice. Who wouldn't like you after hearing that?"
 
 # game/v3/scene55.rpy:414
-translate francais v3s55_randomkindness_a3d0b169:
+translate francais v3s55_randomkindness_bc7a52bc_1:
 
-    # li "Haha, exactly! I've got this interview in the bag. Pfft."
-    li ""
+    # li "Exactly! I've got this interview in the bag."
+    li "Exactly! I've got this interview in the bag."
 
 # game/v3/scene55.rpy:419
-translate francais v3s55_randomkindness_a525f493:
+translate francais v3s55_randomkindness_eef1dc7a_1:
 
-    # u "I'm loving that confidence, haha."
-    u ""
+    # u "I'm loving that confidence."
+    u "I'm loving that confidence."
 
 # game/v3/scene55.rpy:427
-translate francais v3s55_randomkindness_4517ed8b:
+translate francais v3s55_randomkindness_4517ed8b_1:
 
     # u "And why did you do that?"
-    u ""
+    u "And why did you do that?"
 
 # game/v3/scene55.rpy:432
-translate francais v3s55_randomkindness_e9856534:
+translate francais v3s55_randomkindness_e9856534_1:
 
     # li "It's for a good cause. I donate to charity whenever I can."
-    li ""
+    li "It's for a good cause. I donate to charity whenever I can."
 
 # game/v3/scene55.rpy:437
-translate francais v3s55_randomkindness_5e4c23be:
+translate francais v3s55_randomkindness_5e4c23be_1:
 
     # u "Perfect! Definitely say that."
-    u ""
+    u "Perfect! Definitely say that."
 
 # game/v3/scene55.rpy:439
-translate francais v3s55_randomkindness_23894b13:
+translate francais v3s55_randomkindness_512197e3_1:
 
-    # u "It makes you sound like an awesome person, someone who's really kind."
-    u ""
+    # u "It makes you sound like an awesome person. Someone who's really kind."
+    u "It makes you sound like an awesome person. Someone who's really kind."
 
 # game/v3/scene55.rpy:444
-translate francais v3s55_randomkindness_883e1702:
+translate francais v3s55_randomkindness_883e1702_1:
 
     # li "I am an awesome person who's really kind!"
-    li ""
+    li "I am an awesome person who's really kind!"
 
 # game/v3/scene55.rpy:449
-translate francais v3s55_randomkindness_af9d1ff3:
+translate francais v3s55_randomkindness_d2be5806_1:
 
-    # u "Haha, I know, but hammer it home, hard. Just don't sound too narcissistic."
-    u ""
+    # u "I know, but hammer it home, hard. Just don't sound too narcissistic."
+    u "I know, but hammer it home, hard. Just don't sound too narcissistic."
 
 # game/v3/scene55.rpy:451
-translate francais v3s55_randomkindness_cefc93db:
+translate francais v3s55_randomkindness_cefc93db_1:
 
     # u "We need to spell it out for the slow ones in the back who haven't seen just how awesome you really are yet."
-    u ""
+    u "We need to spell it out for the slow ones in the back who haven't seen just how awesome you really are yet."
 
 # game/v3/scene55.rpy:456
-translate francais v3s55_randomkindness_342d1174:
+translate francais v3s55_randomkindness_48f9763f_1:
 
-    # li "*Laughs* Okay. I got it."
-    li ""
+    # li "Okay. I got it."
+    li "Okay. I got it."
 
 # game/v3/scene55.rpy:468
-translate francais v3s55_secondround_bc307d4f:
+translate francais v3s55_secondround_f3ec7461_1:
 
-    # u "(Alright, time for one more question...)"
-    u ""
+    # u "(All right, time for one more question...)"
+    u "(All right, time for one more question...)"
 
 # game/v3/scene55.rpy:485
-translate francais v3s55_interviewend_8da73426:
+translate francais v3s55_interviewend_8da73426_1:
 
     # li "Is that everything?"
-    li ""
+    li "Is that everything?"
 
 # game/v3/scene55.rpy:490
-translate francais v3s55_interviewend_dab5485c:
+translate francais v3s55_interviewend_dab5485c_1:
 
     # u "Yeah, you only asked for a couple, so we can stop there."
-    u ""
+    u "Yeah, you only asked for a couple, so we can stop there."
 
 # game/v3/scene55.rpy:495
-translate francais v3s55_interviewend_7348208f:
+translate francais v3s55_interviewend_7348208f_1:
 
     # li "Ugh, good. I'm exhausted. I think I did fine, no?"
-    li ""
+    li "Ugh, good. I'm exhausted. I think I did fine, no?"
 
 # game/v3/scene55.rpy:500
-translate francais v3s55_interviewend_0f3ff8af:
+translate francais v3s55_interviewend_0f3ff8af_1:
 
     # u "Yeah. We just need to talk about the person that's actually interviewing you now."
-    u ""
+    u "Yeah. We just need to talk about the person that's actually interviewing you now."
 
 # game/v3/scene55.rpy:505
-translate francais v3s55_interviewend_786ccad6:
+translate francais v3s55_interviewend_786ccad6_1:
 
     # li "Oh, okay, sure."
-    li ""
+    li "Oh, okay, sure."
 
 # game/v3/scene55.rpy:512
-translate francais v3s55_interviewend_26b6332a:
+translate francais v3s55_interviewend_26b6332a_1:
 
     # u "The thing with Elijah is he might want to trip you up in order to get a controversial story, so be careful."
-    u ""
+    u "The thing with Elijah is he might want to trip you up in order to get a controversial story, so be careful."
 
 # game/v3/scene55.rpy:517
-translate francais v3s55_interviewend_24ece853:
+translate francais v3s55_interviewend_24ece853_1:
 
     # u "Just make sure you don't get pulled into ranting about Chloe or sounding like you have a big ego."
-    u ""
+    u "Just make sure you don't get pulled into ranting about Chloe or sounding like you have a big ego."
 
 # game/v3/scene55.rpy:524
-translate francais v3s55_interviewend_e53837e9:
+translate francais v3s55_interviewend_e53837e9_1:
 
     # u "We know Riley much better than Elijah. So just be honest with her. Don't embellish the truth."
-    u ""
+    u "We know Riley much better than Elijah. So just be honest with her. Don't embellish the truth."
 
 # game/v3/scene55.rpy:529
-translate francais v3s55_interviewend_e82291b7:
+translate francais v3s55_interviewend_a4c0d9d5_1:
 
-    # u "And keep the discussion around yourself and how you'd be a strong president instead of criticizing Chloe."
-    u ""
+    # u "And keep the discussion around yourself and how you'd be a strong President instead of criticizing Chloe."
+    u "And keep the discussion around yourself and how you'd be a strong President instead of criticizing Chloe."
 
 # game/v3/scene55.rpy:534
-translate francais v3s55_interviewend_76be2ea2:
+translate francais v3s55_interviewend_76be2ea2_1:
 
     # li "Right. I think I've got it all, it's just a lot at once."
-    li ""
+    li "Right. I think I've got it all, it's just a lot at once."
 
 # game/v3/scene55.rpy:539
-translate francais v3s55_interviewend_07c612b3:
+translate francais v3s55_interviewend_07c612b3_1:
 
     # u "Well..."
-    u ""
+    u "Well..."
 
 # game/v3/scene55.rpy:546
-translate francais v3s55_interviewend_2e634e3d:
+translate francais v3s55_interviewend_2e634e3d_1:
 
     # u "The main thing is to keep control of your emotions. Don't just say the first thing that comes into your head. Think about it first."
-    u ""
+    u "The main thing is to keep control of your emotions. Don't just say the first thing that comes into your head. Think about it first."
 
 # game/v3/scene55.rpy:551
-translate francais v3s55_interviewend_a5271dfc:
+translate francais v3s55_interviewend_a5271dfc_1:
 
     # u "Don't worry if you want to think for a whole minute before answering. It's better than saying something you'll regret."
-    u ""
+    u "Don't worry if you want to think for a whole minute before answering. It's better than saying something you'll regret."
 
 # game/v3/scene55.rpy:554
-translate francais v3s55_interviewend_49d7416a:
+translate francais v3s55_interviewend_49d7416a_1:
 
     # u "And if all else fails, try flirting with him, but keep it subtle. Just give him a little bit of attention and he'll be putty in your hands."
-    u ""
+    u "And if all else fails, try flirting with him, but keep it subtle. Just give him a little bit of attention and he'll be putty in your hands."
 
 # game/v3/scene55.rpy:557
-translate francais v3s55_interviewend_fb3ede12:
+translate francais v3s55_interviewend_fb3ede12_1:
 
     # u "I know Riley is treating her role seriously, so just make sure you're professional and it should go well."
-    u ""
+    u "I know Riley is treating her role seriously, so just make sure you're professional and it should go well."
 
 # game/v3/scene55.rpy:558
-translate francais v3s55_interviewend_8a18ec37:
+translate francais v3s55_interviewend_8a18ec37_1:
 
     # u "Even if she does crack a little joke, don't get over-friendly in the interview."
-    u ""
+    u "Even if she does crack a little joke, don't get over-friendly in the interview."
 
 # game/v3/scene55.rpy:560
-translate francais v3s55_interviewend_0cf0808d:
+translate francais v3s55_interviewend_0cf0808d_1:
 
     # u "Still, a few well-placed compliments will help too."
-    u ""
+    u "Still, a few well-placed compliments will help too."
 
 # game/v3/scene55.rpy:565
-translate francais v3s55_interviewend_a148d778:
+translate francais v3s55_interviewend_a148d778_1:
 
     # li "Got it! That's great advice, [name]!"
-    li ""
+    li "Got it! That's great advice, [name]!"
 
 # game/v3/scene55.rpy:573
-translate francais v3s55_interviewend_af4b841d:
+translate francais v3s55_interviewend_af4b841d_1:
 
     # u "Other than that, I think we're good to go!"
-    u ""
+    u "Other than that, I think we're good to go!"
 
 # game/v3/scene55.rpy:578
-translate francais v3s55_interviewend_96283521:
+translate francais v3s55_interviewend_59dd6934_1:
 
-    # li "I hope the interview goes as smooth as this prep session, haha."
-    li ""
+    # li "I hope the interview goes as smooth as this prep session."
+    li "I hope the interview goes as smooth as this prep session."
 
 # game/v3/scene55.rpy:583
-translate francais v3s55_interviewend_16dd3119:
+translate francais v3s55_interviewend_16dd3119_1:
 
     # u "Of course! You're going to do great."
-    u ""
+    u "Of course! You're going to do great."
 
 # game/v3/scene55.rpy:589
-translate francais v3s55_interviewend_2dc02645:
+translate francais v3s55_interviewend_2dc02645_1:
 
     # u "That's everything I can think of."
-    u ""
+    u "That's everything I can think of."
 
 # game/v3/scene55.rpy:594
-translate francais v3s55_interviewend_bb5bbcdb:
+translate francais v3s55_interviewend_bb5bbcdb_1:
 
     # li "Okay, great. Thank you for prepping me!"
-    li ""
+    li "Okay, great. Thank you for prepping me!"
 
 # game/v3/scene55.rpy:604
-translate francais v3s55_interviewend_ec720975:
+translate francais v3s55_interviewend_ec720975_1:
 
     # u "Of course. Do you feel ready for it?"
-    u ""
+    u "Of course. Do you feel ready for it?"
 
 # game/v3/scene55.rpy:609
-translate francais v3s55_interviewend_86435360:
+translate francais v3s55_interviewend_b71d97c9_1:
 
-    # li "As ready as I'll ever be, haha."
-    li ""
+    # li "As ready as I'll ever be."
+    li "As ready as I'll ever be."
 
 # game/v3/scene55.rpy:614
-translate francais v3s55_interviewend_ee0947e3:
+translate francais v3s55_interviewend_d1bb5a27_1:
 
-    # u "I'll see you a bit later then for the main event."
-    u ""
+    # u "I'll see you a bit later for the main event."
+    u "I'll see you a bit later for the main event."
 
 # game/v3/scene55.rpy:626
-translate francais v3s55_interviewend_33f0fa9c:
+translate francais v3s55_interviewend_33f0fa9c_1:
 
     # li "Okay, wait! Can I have a kiss?"
-    li ""
+    li "Okay, wait! Can I have a kiss?"
 
 # game/v3/scene55.rpy:635
-translate francais v3s55_interviewend_f56ac527:
+translate francais v3s55_interviewend_f56ac527_1:
 
     # u "Ha, absolutely. Come here."
-    u ""
+    u "Ha, absolutely. Come here."
 
 # game/v3/scene55.rpy:645
-translate francais v3s55_interviewend_d783efbe:
+translate francais v3s55_interviewend_d783efbe_1:
 
     # li "Mmm... My favorite."
-    li ""
+    li "Mmm... My favorite."
 
 # game/v3/scene55.rpy:650
-translate francais v3s55_interviewend_00ff7a86:
+translate francais v3s55_interviewend_b24084ae_1:
 
-    # u "My breath smells pretty bad right now... *Chuckles* I'm sorry."
-    u ""
+    # u "My breath smells pretty bad right now... sorry 'bout that."
+    u "My breath smells pretty bad right now... sorry 'bout that."
 
 # game/v3/scene55.rpy:655
-translate francais v3s55_interviewend_d7daa2b1:
+translate francais v3s55_interviewend_b9e3aceb_1:
 
-    # li "Oh, ew! Hah, okay. Bye then."
-    li ""
+    # li "Oh, ew! Okay. Bye then."
+    li "Oh, ew! Okay. Bye then."
 
 # game/v3/scene55.rpy:661
-translate francais v3s55_interviewend_aa04e4fa:
+translate francais v3s55_interviewend_aa04e4fa_1:
 
     # li "Okay, yeah. See you soon."
-    li ""
+    li "Okay, yeah. See you soon."
 
 # game/v3/scene55.rpy:666
-translate francais v3s55_interviewend_5c22df4c:
+translate francais v3s55_interviewend_5c22df4c_1:
 
     # u "Later, Linds."
-    u ""
+    u "Later, Linds."
 
 translate francais strings:
 
     # game/v3/scene55.rpy:76
     old "Name 3 positive things about your opponent"
-    new ""
+    new "Name 3 positive things about your opponent"
 
     # game/v3/scene55.rpy:76
-    old "The most important quality of a good president"
-    new ""
+    old "The most important quality of a good President"
+    new "The most important quality of a good President"
 
     # game/v3/scene55.rpy:76
     old "What was your last random act of kindness?"
-    new ""
+    new "What was your last random act of kindness?"
 
     # game/v3/scene55.rpy:152
     old "Make a suggestion"
-    new ""
+    new "Make a suggestion"
 
     # game/v3/scene55.rpy:287
     old "That'll do"
-    new ""
+    new "That'll do"
 
     # game/v3/scene55.rpy:287
     old "Expand on that"
-    new ""
+    new "Expand on that"
 
     # game/v3/scene55.rpy:402
     old "That's good to mention"
-    new ""
+    new "That's good to mention"
 
     # game/v3/scene55.rpy:402
     old "Ask her why"
-    new ""
+    new "Ask her why"
 
     # game/v3/scene55.rpy:541
     old "More advice"
-    new ""
+    new "More advice"
 
     # game/v3/scene55.rpy:541
     old "Let's finish up"
-    new ""
+    new "Let's finish up"
 
     # game/v3/scene55.rpy:631
     old "Absolutely"
-    new ""
+    new "Absolutely"
 
     # game/v3/scene55.rpy:631
     old "I have bad breath"
-    new ""
+    new "I have bad breath"
 

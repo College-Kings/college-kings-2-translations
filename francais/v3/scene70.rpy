@@ -1,62 +1,62 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene70.rpy:12
-translate francais v3s70_a_094125be:
+translate francais v3s70_a_094125be_1:
 
     # u "I don't want to sound like a deadbeat dad, but it felt so good dropping off [v3_baby_name]."
-    u ""
+    u "I don't want to sound like a deadbeat dad, but it felt so good dropping off [v3_baby_name]."
 
 # game/v3/scene70.rpy:17
-translate francais v3s70_a_ffdb8c72:
+translate francais v3s70_a_1c9aaefc_1:
 
-    # pe "*Laughs* Aw, that poor baby. It's been abandoned."
-    pe ""
+    # pe "Aw, that poor baby. It's been abandoned."
+    pe "Aw, that poor baby. It's been abandoned."
 
 # game/v3/scene70.rpy:22
-translate francais v3s70_a_98b0f0b1:
+translate francais v3s70_a_d5a69355_1:
 
-    # u "I'm sure it'll find a new father in about a day or two. *Laughs*"
-    u ""
+    # u "I'm sure it'll find a new father in about a day or two."
+    u "I'm sure it'll find a new father in about a day or two."
 
 # game/v3/scene70.rpy:27
-translate francais v3s70_a_796acd60:
+translate francais v3s70_a_796acd60_1:
 
     # pe "Well here we are"
-    pe ""
+    pe "Well here we are"
 
 # game/v3/scene70.rpy:35
-translate francais v3s70_b_6d0f48a1:
+translate francais v3s70_b_6d0f48a1_1:
 
     # pe "Hey, thanks for coming. I wasn't too sure if I'd be able to handle this on my own."
-    pe ""
+    pe "Hey, thanks for coming. I wasn't too sure if I'd be able to handle this on my own."
 
 # game/v3/scene70.rpy:40
-translate francais v3s70_b_c2c042e5:
+translate francais v3s70_b_c2c042e5_1:
 
     # u "He's a chill dog. Like, a stoner almost."
-    u ""
+    u "He's a chill dog. Like, a stoner almost."
 
 # game/v3/scene70.rpy:45
-translate francais v3s70_b_19f9ebfd:
+translate francais v3s70_b_19f9ebfd_1:
 
     # pe "I know, but this is the Dean's dog. We can't fuck it up."
-    pe ""
+    pe "I know, but this is the Dean's dog. We can't fuck it up."
 
 # game/v3/scene70.rpy:50
-translate francais v3s70_b_39acf6b0:
+translate francais v3s70_b_39acf6b0_1:
 
     # u "Yeah, yeah, I get it. We can't kill the Dean's new dog. Noted."
-    u ""
+    u "Yeah, yeah, I get it. We can't kill the Dean's new dog. Noted."
 
 # game/v3/scene70.rpy:55
-translate francais v3s70_b_61cdffe9:
+translate francais v3s70_b_61cdffe9_1:
 
     # pe "Great. I'm glad we're on the same page now. *Giggles*"
-    pe ""
+    pe "Great. I'm glad we're on the same page now. *Giggles*"
 
 # game/v3/scene70.rpy:66
-translate francais v3s70_continue_eedb2033:
+translate francais v3s70_continue_eedb2033_1:
 
     # de "Yes, come in!"
-    de ""
+    de "Yes, come in!"
 

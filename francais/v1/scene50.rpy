@@ -1,558 +1,558 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene50.rpy:26
-translate francais v1s50_a9e5331e:
+translate francais v1s50_a9e5331e_1:
 
     # li "Shhhh..."
-    li ""
+    li "Shhhh..."
 
 # game/v1/scene50.rpy:31
-translate francais v1s50_a9ddc10e:
+translate francais v1s50_a9ddc10e_1:
 
     # li "*Whispers* Aubrey's in the next room. I need to deal with her first, so she doesn't see you."
-    li ""
+    li "*Whispers* Aubrey's in the next room. I need to deal with her first, so she doesn't see you."
 
 # game/v1/scene50.rpy:36
-translate francais v1s50_46b6e599:
+translate francais v1s50_46b6e599_1:
 
     # u "Got it."
-    u ""
+    u "Got it."
 
 # game/v1/scene50.rpy:42
-translate francais v1s50_94066efb:
+translate francais v1s50_94066efb_1:
 
     # li "*Whispers* I'll ask her to show me some-"
-    li ""
+    li "*Whispers* I'll ask her to show me some-"
 
 # game/v1/scene50.rpy:47
-translate francais v1s50_00bd37eb:
+translate francais v1s50_00bd37eb_1:
 
     # u "*Whispers* You look cute, by the way."
-    u ""
+    u "*Whispers* You look cute, by the way."
 
 # game/v1/scene50.rpy:52
-translate francais v1s50_80cbee5a:
+translate francais v1s50_80cbee5a_1:
 
     # li "Shh! Focus! Thank you!"
-    li ""
+    li "Shh! Focus! Thank you!"
 
 # game/v1/scene50.rpy:57
-translate francais v1s50_8569c4fa:
+translate francais v1s50_fa0c5734_1:
 
-    # u "*Chuckles*"
-    u ""
+    # u "Heh, okay, okay."
+    u "Heh, okay, okay."
 
 # game/v1/scene50.rpy:62
-translate francais v1s50_c998caf7:
+translate francais v1s50_c998caf7_1:
 
     # li "*Whispers* I'll ask her to show me something in her bedroom, you'll follow us up quietly..."
-    li ""
+    li "*Whispers* I'll ask her to show me something in her bedroom, you'll follow us up quietly..."
 
 # game/v1/scene50.rpy:64
-translate francais v1s50_1918bc25:
+translate francais v1s50_1918bc25_1:
 
     # li "*Whispers* And then wait until you hear our secret word before going to Chloe's room."
-    li ""
+    li "*Whispers* And then wait until you hear our secret word before going to Chloe's room."
 
 # game/v1/scene50.rpy:69
-translate francais v1s50_9922ddd2:
+translate francais v1s50_9922ddd2_1:
 
     # u "*Whispers* What's our secret word?"
-    u ""
+    u "*Whispers* What's our secret word?"
 
 # game/v1/scene50.rpy:74
-translate francais v1s50_a8c88c75:
+translate francais v1s50_afd6ccd1_1:
 
-    # li "*Whispers* Umm... Anal."
-    li ""
+    # li "*Whispers* Umm... anal."
+    li "*Whispers* Umm... anal."
 
 # game/v1/scene50.rpy:79
-translate francais v1s50_ed6dff43:
+translate francais v1s50_ed6dff43_1:
 
     # u "*Stifled laugh* *Whispers* Anal?"
-    u ""
+    u "*Stifled laugh* *Whispers* Anal?"
 
 # game/v1/scene50.rpy:84
-translate francais v1s50_570a8bce:
+translate francais v1s50_2ebe8790_1:
 
-    # li "*Giggles* Shhh! *Whispers* Yes... Anal."
-    li ""
+    # li "*Giggles* Shhh! *Whispers* Yes... anal."
+    li "*Giggles* Shhh! *Whispers* Yes... anal."
 
 # game/v1/scene50.rpy:89
-translate francais v1s50_11496761:
+translate francais v1s50_11496761_1:
 
     # u "*Whispers* You thought long and hard about that one, didn't you?"
-    u ""
+    u "*Whispers* You thought long and hard about that one, didn't you?"
 
 # game/v1/scene50.rpy:94
-translate francais v1s50_3f453395:
+translate francais v1s50_3f453395_1:
 
     # li "*Whispers* Yes. Yes, I did."
-    li ""
+    li "*Whispers* Yes. Yes, I did."
 
 # game/v1/scene50.rpy:99
-translate francais v1s50_41d76d2f:
+translate francais v1s50_32a69dae_1:
 
-    # u "*Whispers* Good to know. *Laughs*"
-    u ""
+    # u "*Whispers* Good to know."
+    u "*Whispers* Good to know."
 
 # game/v1/scene50.rpy:104
-translate francais v1s50_82755192:
+translate francais v1s50_82755192_1:
 
     # li "*Whispers* Let's get on with it."
-    li ""
+    li "*Whispers* Let's get on with it."
 
 # game/v1/scene50.rpy:109
-translate francais v1s50_f0c3d734:
+translate francais v1s50_f0c3d734_1:
 
     # u "*Whispers* Get on with anal, got it."
-    u ""
+    u "*Whispers* Get on with anal, got it."
 
 # game/v1/scene50.rpy:114
-translate francais v1s50_039f9276:
+translate francais v1s50_8fea9195_1:
 
-    # li "*Chuckles* Wait here."
-    li ""
+    # li "Wait here."
+    li "Wait here."
 
 # game/v1/scene50.rpy:119
-translate francais v1s50_b3d86b99:
+translate francais v1s50_b3d86b99_1:
 
     # li "Hey, Aubrey. I was wondering if I could talk to you about something."
-    li ""
+    li "Hey, Aubrey. I was wondering if I could talk to you about something."
 
 # game/v1/scene50.rpy:121
-translate francais v1s50_4d26afd0:
+translate francais v1s50_4d26afd0_1:
 
     # au "Yeah, of course. What's going on?"
-    au ""
+    au "Yeah, of course. What's going on?"
 
 # game/v1/scene50.rpy:126
-translate francais v1s50_d9ec0feb:
+translate francais v1s50_d9ec0feb_1:
 
     # li "It's kind of private, actually. *Nervous chuckle* I don't want anyone else hearing."
-    li ""
+    li "It's kind of private, actually. *Nervous chuckle* I don't want anyone else hearing."
 
 # game/v1/scene50.rpy:128
-translate francais v1s50_a07566dc:
+translate francais v1s50_a07566dc_1:
 
     # au "*Whispers* Lindsey! Are you...? You're not-"
-    au ""
+    au "*Whispers* Lindsey! Are you...? You're not-"
 
 # game/v1/scene50.rpy:133
-translate francais v1s50_ee8ebad6:
+translate francais v1s50_33139eb1_1:
 
-    # li "No, no! No, I am not pregnant. I promise. That's not it, haha."
-    li ""
+    # li "No, no! No, I am not pregnant. I promise. That's not it. No. No way."
+    li "No, no! No, I am not pregnant. I promise. That's not it. No. No way."
 
 # game/v1/scene50.rpy:135
-translate francais v1s50_f5bf38a4:
+translate francais v1s50_f5bf38a4_1:
 
     # au "For fuck's sake! Thank God."
-    au ""
+    au "For fuck's sake! Thank God."
 
 # game/v1/scene50.rpy:140
-translate francais v1s50_491551bb:
+translate francais v1s50_04239b1f_1:
 
-    # li "Ha! Can we go up to your room?"
-    li ""
+    # li "Can we go up to your room?"
+    li "Can we go up to your room?"
 
 # game/v1/scene50.rpy:142
-translate francais v1s50_94fc1771:
+translate francais v1s50_94fc1771_1:
 
     # au "Oooh, super serious! Come on, let's go."
-    au ""
+    au "Oooh, super serious! Come on, let's go."
 
 # game/v1/scene50.rpy:147
-translate francais v1s50_f242bd3a:
+translate francais v1s50_f242bd3a_1:
 
     # u "(Time to go.)"
-    u ""
+    u "(Time to go.)"
 
 # game/v1/scene50.rpy:167
-translate francais v1s50_c0df781a:
+translate francais v1s50_ee6e7b1b_1:
 
-    # u "(I feel like a ninja, haha.)"
-    u ""
+    # u "(I feel like a ninja.)"
+    u "(I feel like a ninja.)"
 
 # game/v1/scene50.rpy:182
-translate francais v1s50_184411e4:
+translate francais v1s50_89db3ebe_1:
 
-    # au "So... What can I help you with today?"
-    au ""
+    # au "So... what can I help you with today?"
+    au "So... what can I help you with today?"
 
 # game/v1/scene50.rpy:184
-translate francais v1s50_e29cf26b:
+translate francais v1s50_5d8dd013_1:
 
-    # li "*Laughs* Thanks, Aubrey. I feel a little weird about asking, but..."
-    li ""
+    # li "Thanks, Aubrey. I feel a little weird about asking, but..."
+    li "Thanks, Aubrey. I feel a little weird about asking, but..."
 
 # game/v1/scene50.rpy:189
-translate francais v1s50_0db9fd8e:
+translate francais v1s50_0db9fd8e_1:
 
     # li "Have you ever tried anal?"
-    li ""
+    li "Have you ever tried anal?"
 
 # game/v1/scene50.rpy:191
-translate francais v1s50_59f6c592:
+translate francais v1s50_a4d4f64b_1:
 
-    # li "I- I was thinking maybe I'd like to try it."
-    li ""
+    # li "I... I was thinking maybe I'd like to try it."
+    li "I... I was thinking maybe I'd like to try it."
 
 # game/v1/scene50.rpy:196
-translate francais v1s50_8a17c499:
+translate francais v1s50_8a17c499_1:
 
     # au "Oh. Is that it?"
-    au ""
+    au "Oh. Is that it?"
 
 # game/v1/scene50.rpy:198
-translate francais v1s50_070162f2:
+translate francais v1s50_070162f2_1:
 
     # li "Well, yeah-"
-    li ""
+    li "Well, yeah-"
 
 # game/v1/scene50.rpy:203
-translate francais v1s50_64357566:
+translate francais v1s50_5447e605_1:
 
-    # au "Haha, you have nothing to be embarrassed about. You actually came to the perfect person"
-    au ""
+    # au "You have nothing to be embarrassed about. You actually came to the perfect person."
+    au "You have nothing to be embarrassed about. You actually came to the perfect person."
 
 # game/v1/scene50.rpy:205
-translate francais v1s50_20a3e801:
+translate francais v1s50_20a3e801_1:
 
     # li "Ha, yeah. I figured."
-    li ""
+    li "Ha, yeah. I figured."
 
 # game/v1/scene50.rpy:210
-translate francais v1s50_94c987ad:
+translate francais v1s50_94c987ad_1:
 
     # au "So, yeah. I've tried it a few times."
-    au ""
+    au "So, yeah. I've tried it a few times."
 
 # game/v1/scene50.rpy:212
-translate francais v1s50_81e9c699:
+translate francais v1s50_81e9c699_1:
 
     # li "*Clears throat* And?"
-    li ""
+    li "*Clears throat* And?"
 
 # game/v1/scene50.rpy:217
-translate francais v1s50_d715b66b:
+translate francais v1s50_d715b66b_1:
 
     # u "(Lindsey said the secret word already. I should go to Chloe's room now and stop wasting time, but this conversation could get interesting.)"
-    u ""
+    u "(Lindsey said the secret word already. I should go to Chloe's room now and stop wasting time, but this conversation could get interesting.)"
 
 # game/v1/scene50.rpy:231
-translate francais v1s50_fa5a736b:
+translate francais v1s50_fa5a736b_1:
 
     # au "It's great with the right person if they're someone you trust."
-    au ""
+    au "It's great with the right person if they're someone you trust."
 
 # game/v1/scene50.rpy:233
-translate francais v1s50_7562a745:
+translate francais v1s50_7562a745_1:
 
     # li "But I've heard horror stories about it. Like my friend, Maria."
-    li ""
+    li "But I've heard horror stories about it. Like my friend, Maria."
 
 # game/v1/scene50.rpy:238
-translate francais v1s50_f1d5656d:
+translate francais v1s50_f1d5656d_1:
 
     # li "She had her ass, like... rip?"
-    li ""
+    li "She had her ass, like... rip?"
 
 # game/v1/scene50.rpy:240
-translate francais v1s50_c67b6f26:
+translate francais v1s50_c67b6f26_1:
 
     # au "Oh, fuck!"
-    au ""
+    au "Oh, fuck!"
 
 # game/v1/scene50.rpy:245
-translate francais v1s50_42ee7328:
+translate francais v1s50_42ee7328_1:
 
     # u "(What the fuck?!)"
-    u ""
+    u "(What the fuck?!)"
 
 # game/v1/scene50.rpy:250
-translate francais v1s50_f6c44579:
+translate francais v1s50_f6c44579_1:
 
     # li "Yeah, he just... shoved it right in there, I guess."
-    li ""
+    li "Yeah, he just... shoved it right in there, I guess."
 
 # game/v1/scene50.rpy:252
-translate francais v1s50_a15693ce:
+translate francais v1s50_a15693ce_1:
 
     # au "Is she... okay?"
-    au ""
+    au "Is she... okay?"
 
 # game/v1/scene50.rpy:257
-translate francais v1s50_1fc71c89:
+translate francais v1s50_1fc71c89_1:
 
     # li "She ended up having surgery to stitch it up."
-    li ""
+    li "She ended up having surgery to stitch it up."
 
 # game/v1/scene50.rpy:259
-translate francais v1s50_78dbb63e:
+translate francais v1s50_78dbb63e_1:
 
     # au "They stitched it up?!"
-    au ""
+    au "They stitched it up?!"
 
 # game/v1/scene50.rpy:264
-translate francais v1s50_b5052e54:
+translate francais v1s50_b5052e54_1:
 
     # li "Not completely!"
-    li ""
+    li "Not completely!"
 
 # game/v1/scene50.rpy:266
-translate francais v1s50_80943cb4:
+translate francais v1s50_9db8440f_1:
 
-    # au "I'd hope not! *Laughs*"
-    au ""
+    # au "I'd hope not!"
+    au "I'd hope not!"
 
 # game/v1/scene50.rpy:271
-translate francais v1s50_5905c3ad:
+translate francais v1s50_be44e44b_1:
 
-    # li "Haha! Yeah, no. Just a few stitches to make it tight again, I guess."
-    li ""
+    # li "Yeah, no. Just a few stitches to make it tight again, I guess."
+    li "Yeah, no. Just a few stitches to make it tight again, I guess."
 
 # game/v1/scene50.rpy:276
-translate francais v1s50_4bd93060:
+translate francais v1s50_4bd93060_1:
 
     # u "(Is this story real or did she just pull this out of her ass? Pun intended...)"
-    u ""
+    u "(Is this story real or did she just pull this out of her ass? Pun intended...)"
 
 # game/v1/scene50.rpy:281
-translate francais v1s50_25a0e550:
+translate francais v1s50_a6b77811_1:
 
-    # au "Well, fuck Linds! That sounds awful! I think that's a very rare occurrence, though. *Laughs*"
-    au ""
+    # au "Well, fuck, Linds! That sounds awful! I think that's a very rare occurrence, though."
+    au "Well, fuck, Linds! That sounds awful! I think that's a very rare occurrence, though."
 
 # game/v1/scene50.rpy:283
-translate francais v1s50_7a18ff18:
+translate francais v1s50_791efb21_1:
 
-    # li "Haha, yeah maybe."
-    li ""
+    # li "Yeah... maybe."
+    li "Yeah... maybe."
 
 # game/v1/scene50.rpy:288
-translate francais v1s50_358dace8:
+translate francais v1s50_48fd3def_1:
 
-    # au "Like I said, just make sure you're with someone you trust, and make sure you use lots of lube as well. *Chuckles*"
-    au ""
+    # au "Like I said, just make sure you're with someone you trust, and make sure you use lots of lube as well."
+    au "Like I said, just make sure you're with someone you trust, and make sure you use lots of lube as well."
 
 # game/v1/scene50.rpy:293
-translate francais v1s50_34a44c7d:
+translate francais v1s50_34a44c7d_1:
 
     # u "(This isn't the best conversation to be eavesdropping on. I should get to Chloe's room while I still have time.)"
-    u ""
+    u "(This isn't the best conversation to be eavesdropping on. I should get to Chloe's room while I still have time.)"
 
 # game/v1/scene50.rpy:308
-translate francais v1s50_0de477ec:
+translate francais v1s50_0de477ec_1:
 
     # li "Noted. So, what does it feel like?"
-    li ""
+    li "Noted. So, what does it feel like?"
 
 # game/v1/scene50.rpy:310
-translate francais v1s50_8eae14e6:
+translate francais v1s50_8eae14e6_1:
 
     # au "It feels..."
-    au ""
+    au "It feels..."
 
 # game/v1/scene50.rpy:315
-translate francais v1s50_9cda5f0b:
+translate francais v1s50_9cda5f0b_1:
 
     # u "(Why am I listening to this?)"
-    u ""
+    u "(Why am I listening to this?)"
 
 # game/v1/scene50.rpy:320
-translate francais v1s50_55c8c4aa:
+translate francais v1s50_55c8c4aa_1:
 
     # au "Like you're being pushed to your max limit."
-    au ""
+    au "Like you're being pushed to your max limit."
 
 # game/v1/scene50.rpy:322
-translate francais v1s50_18e8e2fe:
+translate francais v1s50_18e8e2fe_1:
 
     # li "Oh..."
-    li ""
+    li "Oh..."
 
 # game/v1/scene50.rpy:327
-translate francais v1s50_ed7f44e4:
+translate francais v1s50_ed7f44e4_1:
 
     # au "Like, it's scary to think about the pain, right? And weird to talk about?"
-    au ""
+    au "Like, it's scary to think about the pain, right? And weird to talk about?"
 
 # game/v1/scene50.rpy:329
-translate francais v1s50_62d6d551:
+translate francais v1s50_62d6d551_1:
 
     # li "Right!"
-    li ""
+    li "Right!"
 
 # game/v1/scene50.rpy:334
-translate francais v1s50_063d30aa:
+translate francais v1s50_47acc908_1:
 
-    # au "That's a part of the pleasure, I think. It's going to hurt a little. Or a lot, ha!"
-    au ""
+    # au "That's a part of the pleasure, I think. It's going to hurt a little. Or a lot!"
+    au "That's a part of the pleasure, I think. It's going to hurt a little. Or a lot!"
 
 # game/v1/scene50.rpy:336
-translate francais v1s50_362ecabc:
+translate francais v1s50_362ecabc_1:
 
     # au "And it's a thrill."
-    au ""
+    au "And it's a thrill."
 
 # game/v1/scene50.rpy:341
-translate francais v1s50_2d6834a4:
+translate francais v1s50_a8f68bdc_1:
 
-    # li "Okay gotcha. So that's it then? Like, it's a rebellious thing?"
-    li ""
+    # li "Okay gotcha. So that's it, then? Like, it's a rebellious thing?"
+    li "Okay gotcha. So that's it, then? Like, it's a rebellious thing?"
 
 # game/v1/scene50.rpy:343
-translate francais v1s50_aaa1822e:
+translate francais v1s50_aaa1822e_1:
 
     # au "Well, no. It doesn't have to be. It can be the meaning of loyalty to the other person. Or the trust that you have in each other."
-    au ""
+    au "Well, no. It doesn't have to be. It can be the meaning of loyalty to the other person. Or the trust that you have in each other."
 
 # game/v1/scene50.rpy:348
-translate francais v1s50_084908f9:
+translate francais v1s50_fc3b08dc_1:
 
-    # au "But in the end, it just feels good to get fucked in the ass sometimes. *Laughs*"
-    au ""
+    # au "But in the end, it just feels good to get fucked in the ass sometimes."
+    au "But in the end, it just feels good to get fucked in the ass sometimes."
 
 # game/v1/scene50.rpy:350
-translate francais v1s50_b610f02a:
+translate francais v1s50_28fc8082_1:
 
-    # li "*Laughs* Aubrey!"
-    li ""
+    # li "Aubrey!"
+    li "Aubrey!"
 
 # game/v1/scene50.rpy:355
-translate francais v1s50_80dd47e6:
+translate francais v1s50_80dd47e6_1:
 
     # au "Hey, you asked! There's pressure, pleasure, pain..."
-    au ""
+    au "Hey, you asked! There's pressure, pleasure, pain..."
 
 # game/v1/scene50.rpy:360
-translate francais v1s50_564a9d24:
+translate francais v1s50_564a9d24_1:
 
     # u "(Aubrey has some strong feelings about anal...)"
-    u ""
+    u "(Aubrey has some strong feelings about anal...)"
 
 # game/v1/scene50.rpy:365
-translate francais v1s50_bd50ebf2:
+translate francais v1s50_bd50ebf2_1:
 
     # au "If you're truly considering it, maybe try some toys first. To see if you like it, you know."
-    au ""
+    au "If you're truly considering it, maybe try some toys first. To see if you like it, you know."
 
 # game/v1/scene50.rpy:367
-translate francais v1s50_64f4a98e:
+translate francais v1s50_64f4a98e_1:
 
     # li "That's a great idea! What would you recommend?"
-    li ""
+    li "That's a great idea! What would you recommend?"
 
 # game/v1/scene50.rpy:372
-translate francais v1s50_d3620efb:
+translate francais v1s50_82f29d6a_1:
 
-    # au "Haha. Come take a look at my collection."
-    au ""
+    # au "Come take a look at my collection."
+    au "Come take a look at my collection."
 
 # game/v1/scene50.rpy:374
-translate francais v1s50_000362bc:
+translate francais v1s50_000362bc_1:
 
     # li "Collection?! Oh my!"
-    li ""
+    li "Collection?! Oh my!"
 
 # game/v1/scene50.rpy:379
-translate francais v1s50_961120c6:
+translate francais v1s50_961120c6_1:
 
     # u "(Collection?)"
-    u ""
+    u "(Collection?)"
 
 # game/v1/scene50.rpy:384
-translate francais v1s50_06f2a21f:
+translate francais v1s50_06f2a21f_1:
 
     # au "If you see something you like, we can order it online."
-    au ""
+    au "If you see something you like, we can order it online."
 
 # game/v1/scene50.rpy:386
-translate francais v1s50_c9c96b1b:
+translate francais v1s50_5069bda1_1:
 
-    # li "This is amazing... Thank you."
-    li ""
+    # li "This is amazing... thank you."
+    li "This is amazing... thank you."
 
 # game/v1/scene50.rpy:391
-translate francais v1s50_f469e2c6:
+translate francais v1s50_f469e2c6_1:
 
     # u "(As much as I'm enjoying this, I'm supposed to be rummaging through Chloe's room by now.)"
-    u ""
+    u "(As much as I'm enjoying this, I'm supposed to be rummaging through Chloe's room by now.)"
 
 # game/v1/scene50.rpy:407
-translate francais v1s50_78fbd54b:
+translate francais v1s50_78fbd54b_1:
 
     # li "I think I'd need something small for my first time, right? Don't want to end up like Maria..."
-    li ""
+    li "I think I'd need something small for my first time, right? Don't want to end up like Maria..."
 
 # game/v1/scene50.rpy:412
-translate francais v1s50_3684555b:
+translate francais v1s50_1911853e_1:
 
-    # au "Definitely not this one then."
-    au ""
+    # au "Definitely not this one, then."
+    au "Definitely not this one, then."
 
 # game/v1/scene50.rpy:417
-translate francais v1s50_555f343b:
+translate francais v1s50_555f343b_1:
 
     # li "*Gasps* Oh my!"
-    li ""
+    li "*Gasps* Oh my!"
 
 # game/v1/scene50.rpy:419
-translate francais v1s50_e7374b37:
+translate francais v1s50_b2f3a891_1:
 
-    # au "My favorite. *Laughs*"
-    au ""
+    # au "My favorite."
+    au "My favorite."
 
 # game/v1/scene50.rpy:424
-translate francais v1s50_b9abe91c:
+translate francais v1s50_b9abe91c_1:
 
     # li "How many inches is that?"
-    li ""
+    li "How many inches is that?"
 
 # game/v1/scene50.rpy:429
-translate francais v1s50_e676baaf:
+translate francais v1s50_bdae7eaa_1:
 
-    # au "Inches? Haha! This is well past inches, Linds."
-    au ""
+    # au "Inches? Pfft. This is well past inches, Linds."
+    au "Inches? Pfft. This is well past inches, Linds."
 
 # game/v1/scene50.rpy:431
-translate francais v1s50_6627fd83:
+translate francais v1s50_6627fd83_1:
 
     # li "Oh!"
-    li ""
+    li "Oh!"
 
 # game/v1/scene50.rpy:436
-translate francais v1s50_7cab5b8c:
+translate francais v1s50_7cab5b8c_1:
 
     # u "(Oh!)"
-    u ""
+    u "(Oh!)"
 
 # game/v1/scene50.rpy:441
-translate francais v1s50_f5820d67:
+translate francais v1s50_f5820d67_1:
 
     # u "(I think I've heard enough about Maria's injury. And gained enough knowledge about anal thanks to Aubrey...)"
-    u ""
+    u "(I think I've heard enough about Maria's injury. And gained enough knowledge about anal thanks to Aubrey...)"
 
 # game/v1/scene50.rpy:447
-translate francais v1s50_e7c970cf:
+translate francais v1s50_e7c970cf_1:
 
     # u "(I'll have to keep this information in mind for the next time I get her alone...)"
-    u ""
+    u "(I'll have to keep this information in mind for the next time I get her alone...)"
 
 # game/v1/scene50.rpy:452
-translate francais v1s50_20e09927:
+translate francais v1s50_20e09927_1:
 
     # u "(I've wasted a lot of time here already, so I'd better hurry up and go to Chloe's room.)"
-    u ""
+    u "(I've wasted a lot of time here already, so I'd better hurry up and go to Chloe's room.)"
 
 translate francais strings:
 
     # game/v1/scene50.rpy:219
     old "Go to Chloe's room"
-    new ""
+    new "Go to Chloe's room"
 
     # game/v1/scene50.rpy:219
     old "Keep listening"
-    new ""
+    new "Keep listening"
 

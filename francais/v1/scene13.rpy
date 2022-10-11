@@ -1,140 +1,140 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene13.rpy:17
-translate francais v1s13_646b1da4:
+translate francais v1s13_646b1da4_1:
 
     # u "(Look at that beautiful bed. Oh, the things I'm gonna do to you.)"
-    u ""
+    u "(Look at that beautiful bed. Oh, the things I'm gonna do to you.)"
 
 # game/v1/scene13.rpy:27
-translate francais v1s13_fda3532c:
+translate francais v1s13_fda3532c_1:
 
     # se "Hey, hey! Were you just gonna go to sleep without letting us all know you're back?"
-    se ""
+    se "Hey, hey! Were you just gonna go to sleep without letting us all know you're back?"
 
 # game/v1/scene13.rpy:32
-translate francais v1s13_e3be0ca1:
+translate francais v1s13_a8178cbb_1:
 
-    # u "Hah, sorry Seb. I was gonna save that for the morning."
-    u ""
+    # u "Ha, sorry Seb. I was gonna save that for the morning."
+    u "Ha, sorry Seb. I was gonna save that for the morning."
 
 # game/v1/scene13.rpy:37
-translate francais v1s13_257a1b61:
+translate francais v1s13_9f1a78d4_1:
 
-    # se "*Chuckles* Wolves don't roll like that, my man."
-    se ""
+    # se "Wolves don't roll like that, my man."
+    se "Wolves don't roll like that, my man."
 
 # game/v1/scene13.rpy:42
-translate francais v1s13_8a9913f8:
+translate francais v1s13_8a9913f8_1:
 
     # se "You never know when it's the last time you'll see someone, so you've gotta take advantage of the little moments."
-    se ""
+    se "You never know when it's the last time you'll see someone, so you've gotta take advantage of the little moments."
 
 # game/v1/scene13.rpy:47
-translate francais v1s13_bee905be:
+translate francais v1s13_4dc99f0e_1:
 
-    # u "Alright... You make it sound like you're dying though. *Laughs*"
-    u ""
+    # u "All right, sure, yeah... You make it sound like you're dying, though."
+    u "All right, sure, yeah... You make it sound like you're dying, though."
 
 # game/v1/scene13.rpy:52
-translate francais v1s13_db82acd6:
+translate francais v1s13_db82acd6_1:
 
     # se "Well, you never know."
-    se ""
+    se "Well, you never know."
 
 # game/v1/scene13.rpy:57
-translate francais v1s13_f394c73b:
+translate francais v1s13_d9dd728b_1:
 
-    # u "Wait... Sebastian, are you-?"
-    u ""
+    # u "Wait... Sebastian, are you...?"
+    u "Wait... Sebastian, are you...?"
 
 # game/v1/scene13.rpy:62
-translate francais v1s13_1ce89caa:
+translate francais v1s13_1ce89caa_1:
 
     # se "No, but that's my point."
-    se ""
+    se "No, but that's my point."
 
 # game/v1/scene13.rpy:67
-translate francais v1s13_2f56b5be:
+translate francais v1s13_2f56b5be_1:
 
     # ch "Sebastian, I need your help!"
-    ch ""
+    ch "Sebastian, I need your help!"
 
 # game/v1/scene13.rpy:72
-translate francais v1s13_0d222301:
+translate francais v1s13_0d222301_1:
 
     # u "Sounds like the boss is calling."
-    u ""
+    u "Sounds like the boss is calling."
 
 # game/v1/scene13.rpy:77
-translate francais v1s13_7b149733:
+translate francais v1s13_7e3dc5a4_1:
 
-    # se "Friend. Sounds like my friend is calling. There's no bosses around here, [name]."
-    se ""
+    # se "Friend, you mean. Sounds like a friend is calling. There are no bosses around here, [name]."
+    se "Friend, you mean. Sounds like a friend is calling. There are no bosses around here, [name]."
 
 # game/v1/scene13.rpy:82
-translate francais v1s13_3901a768:
+translate francais v1s13_c4bf05e5_1:
 
-    # se "Didn't you notice how he asked for my help rather than telling me to do something?"
-    se ""
+    # se "Didn't you notice how he asked for my help instead of barking out an order?"
+    se "Didn't you notice how he asked for my help instead of barking out an order?"
 
 # game/v1/scene13.rpy:87
-translate francais v1s13_84a87c38:
+translate francais v1s13_68f8388e_1:
 
-    # u "Yeah, man. Whatever you say, but a President is still the boss."
-    u ""
+    # u "Yeah, man. Whatever you say. But a President is still the boss."
+    u "Yeah, man. Whatever you say. But a President is still the boss."
 
 # game/v1/scene13.rpy:92
-translate francais v1s13_7eb2778c:
+translate francais v1s13_ac390f55_1:
 
-    # se "Different perspectives always cause conflict-"
-    se ""
+    # se "Different perspectives cause conflict-"
+    se "Different perspectives cause conflict-"
 
 # game/v1/scene13.rpy:97
-translate francais v1s13_1d34c3df:
+translate francais v1s13_1d34c3df_1:
 
     # ch "SEBASTIAN!"
-    ch ""
+    ch "SEBASTIAN!"
 
 # game/v1/scene13.rpy:102
-translate francais v1s13_f089ef39:
+translate francais v1s13_f089ef39_1:
 
     # se "I'm coming!"
-    se ""
+    se "I'm coming!"
 
 # game/v1/scene13.rpy:107
-translate francais v1s13_d856ba79:
+translate francais v1s13_3b0d6a92_1:
 
-    # u "*Laughs* Your friend sounds very patient."
-    u ""
+    # u "Your friend sounds very patient."
+    u "Your friend sounds very patient."
 
 # game/v1/scene13.rpy:112
-translate francais v1s13_34c89875:
+translate francais v1s13_701a6ea0_1:
 
-    # se "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would. *Laughs*"
-    se ""
+    # se "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would."
+    se "Very funny. I'm glad you're back, man. Really, I kinda missed you guys more than I thought I would."
 
 # game/v1/scene13.rpy:117
-translate francais v1s13_d443f1a2:
+translate francais v1s13_47fea160_1:
 
-    # u "I'm happy to be home, haha. We'll catch up tomorrow, alright? Have a good one."
-    u ""
+    # u "I'm happy to be home, haha. We'll catch up tomorrow, all right? Have a good one."
+    u "I'm happy to be home, haha. We'll catch up tomorrow, all right? Have a good one."
 
 # game/v1/scene13.rpy:122
-translate francais v1s13_dc055df8:
+translate francais v1s13_dc055df8_1:
 
     # se "Yep, you too."
-    se ""
+    se "Yep, you too."
 
 # game/v1/scene13.rpy:132
-translate francais v1s13_fda225e4:
+translate francais v1s13_b851361c_1:
 
-    # u "(Sounded like he was being given an order to me. It may have been in a polite manner, but it was an order nonetheless, definitely not a request...) *Laughs*"
-    u ""
+    # u "(Sure sounded to me like he was being given an order. It may have been a polite one, but it was an order nonetheless. Definitely not a request...)"
+    u "(Sure sounded to me like he was being given an order. It may have been a polite one, but it was an order nonetheless. Definitely not a request...)"
 
 # game/v1/scene13.rpy:147
-translate francais v1s13_1eb0edab:
+translate francais v1s13_cdd8c6ba_1:
 
-    # u "(Jet lag recovery begins in five... four... three... two...-)"
-    u ""
+    # u "(Jet lag recovery begins in five... four... three... two...)"
+    u "(Jet lag recovery begins in five... four... three... two...)"
 

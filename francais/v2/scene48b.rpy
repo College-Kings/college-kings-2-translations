@@ -1,192 +1,192 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene48b.rpy:40
-translate francais v2s48b_fccdd165:
+translate francais v2s48b_fccdd165_1:
 
     # no "That was... incredible, [name]."
-    no ""
+    no "That was... incredible, [name]."
 
 # game/v2/scene48b.rpy:45
-translate francais v2s48b_8138d6f7:
+translate francais v2s48b_70295d23_1:
 
-    # u "It really was. I hate to break it to you, but I don't think it'll be the last time either."
-    u ""
+    # u "It really was. I hate to break it to you, but I don't think it'll be the last time, either."
+    u "It really was. I hate to break it to you, but I don't think it'll be the last time, either."
 
 # game/v2/scene48b.rpy:50
-translate francais v2s48b_ed7c541b:
+translate francais v2s48b_ed7c541b_1:
 
     # no "*Laughs* Fine by me."
-    no ""
+    no "*Laughs* Fine by me."
 
 # game/v2/scene48b.rpy:55
-translate francais v2s48b_1ba3e7cb:
+translate francais v2s48b_1ba3e7cb_1:
 
     # no "I guess it's time to switch this on."
-    no ""
+    no "I guess it's time to switch this on."
 
 # game/v2/scene48b.rpy:62
-translate francais v2s48b_46bff76d:
+translate francais v2s48b_46bff76d_1:
 
     # no "Oh, God. So many messages."
-    no ""
+    no "Oh, God. So many messages."
 
 # game/v2/scene48b.rpy:67
-translate francais v2s48b_afb4de61:
+translate francais v2s48b_afb4de61_1:
 
     # u "See how many people care about you?"
-    u ""
+    u "See how many people care about you?"
 
 # game/v2/scene48b.rpy:72
-translate francais v2s48b_561fd442:
+translate francais v2s48b_561fd442_1:
 
     # no "*Sighs* Yeah. Better get back to the Chicks house."
-    no ""
+    no "*Sighs* Yeah. Better get back to the Chicks house."
 
 # game/v2/scene48b.rpy:82
-translate francais v2s48b_5bf46117:
+translate francais v2s48b_5bf46117_1:
 
     # u "Are you sure?"
-    u ""
+    u "Are you sure?"
 
 # game/v2/scene48b.rpy:87
-translate francais v2s48b_790d5e46:
+translate francais v2s48b_790d5e46_1:
 
     # no "Believe me, I could stay here all week and do what we just did. But I've got some explaining to do."
-    no ""
+    no "Believe me, I could stay here all week and do what we just did. But I've got some explaining to do."
 
 # game/v2/scene48b.rpy:89
-translate francais v2s48b_e09caf68:
+translate francais v2s48b_e09caf68_1:
 
     # no "I can't hide here forever."
-    no ""
+    no "I can't hide here forever."
 
 # game/v2/scene48b.rpy:94
-translate francais v2s48b_b61ad066:
+translate francais v2s48b_b61ad066_1:
 
     # u "You want to get a cab with me?"
-    u ""
+    u "You want to get a cab with me?"
 
 # game/v2/scene48b.rpy:99
-translate francais v2s48b_186f5132:
+translate francais v2s48b_186f5132_1:
 
     # no "No, you go home. I just texted Lorraine to come pick me up."
-    no ""
+    no "No, you go home. I just texted Lorraine to come pick me up."
 
 # game/v2/scene48b.rpy:104
-translate francais v2s48b_66aaf154:
+translate francais v2s48b_66aaf154_1:
 
     # u "Oh, okay. Yeah, probably best I leave you to talk through some stuff."
-    u ""
+    u "Oh, okay. Yeah, probably best I leave you to talk through some stuff."
 
 # game/v2/scene48b.rpy:109
-translate francais v2s48b_a14b97dc:
+translate francais v2s48b_a14b97dc_1:
 
     # no "Yeah. Thanks again, for everything. Tonight was... perfect."
-    no ""
+    no "Yeah. Thanks again, for everything. Tonight was... perfect."
 
 # game/v2/scene48b.rpy:114
-translate francais v2s48b_9b9986cf:
+translate francais v2s48b_344a3a8b_1:
 
-    # u "You really don't have to thank me, Nora. I'd do it all over again a million times, you know that."
-    u ""
+    # u "You really don't have to thank me, Nora. I'd do it all over again a million times. You know that."
+    u "You really don't have to thank me, Nora. I'd do it all over again a million times. You know that."
 
 # game/v2/scene48b.rpy:125
-translate francais v2s48b_90c24dd1:
+translate francais v2s48b_90c24dd1_1:
 
     # u "I'd better go find my clothes first."
-    u ""
+    u "I'd better go find my clothes first."
 
 # game/v2/scene48b.rpy:130
-translate francais v2s48b_b3481496:
+translate francais v2s48b_f122a67d_1:
 
-    # no "Haha, good idea."
-    no ""
+    # no "Ha, good idea."
+    no "Ha, good idea."
 
 # game/v2/scene48b.rpy:160
-translate francais v2s48bnosex_279d5f9c:
+translate francais v2s48bnosex_279d5f9c_1:
 
     # u "Nora, I think I'll head back now. Thanks for the wine."
-    u ""
+    u "Nora, I think I'll head back now. Thanks for the wine."
 
 # game/v2/scene48b.rpy:165
-translate francais v2s48bnosex_ecd66db7:
+translate francais v2s48bnosex_cdfac132_1:
 
-    # no "Oh, okay... If you're sure."
-    no ""
+    # no "Oh, okay... if you're sure."
+    no "Oh, okay... if you're sure."
 
 # game/v2/scene48b.rpy:170
-translate francais v2s48bnosex_a422a4e7:
+translate francais v2s48bnosex_a422a4e7_1:
 
     # u "Yeah, it's getting late. I'll order a cab."
-    u ""
+    u "Yeah, it's getting late. I'll order a cab."
 
 # game/v2/scene48b.rpy:185
-translate francais v2s48bnosex_1d1b7bcf:
+translate francais v2s48bnosex_1d1b7bcf_1:
 
     # u "Shouldn't be long."
-    u ""
+    u "Shouldn't be long."
 
 # game/v2/scene48b.rpy:190
-translate francais v2s48bnosex_5bc91e18:
+translate francais v2s48bnosex_5bc91e18_1:
 
     # no "It's okay. I was about to text Lorraine to come pick me up soon anyway."
-    no ""
+    no "It's okay. I was about to text Lorraine to come pick me up soon anyway."
 
 # game/v2/scene48b.rpy:195
-translate francais v2s48bnosex_88d2dbb1:
+translate francais v2s48bnosex_88d2dbb1_1:
 
     # u "Oh, okay."
-    u ""
+    u "Oh, okay."
 
 # game/v2/scene48b.rpy:197
-translate francais v2s48bnosex_b046025b:
+translate francais v2s48bnosex_b046025b_1:
 
     # u "I'm glad I came out here. Maybe do it again sometime. You can show me around."
-    u ""
+    u "I'm glad I came out here. Maybe do it again sometime. You can show me around."
 
 # game/v2/scene48b.rpy:202
-translate francais v2s48bnosex_487f8861:
+translate francais v2s48bnosex_487f8861_1:
 
     # no "I'd like that. Thanks for always being the guy who listens to all my shit."
-    no ""
+    no "I'd like that. Thanks for always being the guy who listens to all my shit."
 
 # game/v2/scene48b.rpy:211
-translate francais v2s48bnosex_00c763f2:
+translate francais v2s48bnosex_fd7a948f_1:
 
-    # u "Haha, it's not shit. It's important to talk through your feelings with someone. Helps you figure things out."
-    u ""
+    # u "Ha, it's not shit. It's important to talk through your feelings with someone. Helps you figure things out."
+    u "Ha, it's not shit. It's important to talk through your feelings with someone. Helps you figure things out."
 
 # game/v2/scene48b.rpy:216
-translate francais v2s48bnosex_bbeb3cc2:
+translate francais v2s48bnosex_cc33559c_1:
 
-    # u "Haha, you're welcome. Any time, Nora."
-    u ""
+    # u "You're welcome. Any time, Nora."
+    u "You're welcome. Any time, Nora."
 
 # game/v2/scene48b.rpy:221
-translate francais v2s48bnosex_e3a6a99a:
+translate francais v2s48bnosex_e3a6a99a_1:
 
     # no "Thanks, [name]."
-    no ""
+    no "Thanks, [name]."
 
 # game/v2/scene48b.rpy:236
-translate francais v2s48bnosex_786b6197:
+translate francais v2s48bnosex_786b6197_1:
 
     # no "See you soon."
-    no ""
+    no "See you soon."
 
 # game/v2/scene48b.rpy:241
-translate francais v2s48bnosex_604e5884:
+translate francais v2s48bnosex_604e5884_1:
 
     # u "Bye."
-    u ""
+    u "Bye."
 
 translate francais strings:
 
     # game/v2/scene48b.rpy:207
     old "It's not shit"
-    new ""
+    new "It's not shit"
 
     # game/v2/scene48b.rpy:207
     old "You're welcome"
-    new ""
+    new "You're welcome"
 

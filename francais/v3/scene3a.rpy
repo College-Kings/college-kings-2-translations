@@ -1,240 +1,240 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene3a.rpy:17
-translate francais v3s3a_2f1f54a5:
+translate francais v3s3a_2f1f54a5_1:
 
     # ri "I'm going to take such good care of you..."
-    ri ""
+    ri "I'm going to take such good care of you..."
 
 # game/v3/scene3a.rpy:23
-translate francais v3s3a_beff5662:
+translate francais v3s3a_beff5662_1:
 
     # ri "This is going to be much better than that handjob I gave you at Lauren's party."
-    ri ""
+    ri "This is going to be much better than that handjob I gave you at Lauren's party."
 
 # game/v3/scene3a.rpy:28
-translate francais v3s3a_d7a9baf2:
+translate francais v3s3a_d7a9baf2_1:
 
     # u "Oh, yeah? What do you have in mind?"
-    u ""
+    u "Oh, yeah? What do you have in mind?"
 
 # game/v3/scene3a.rpy:33
-translate francais v3s3a_1d190a60:
+translate francais v3s3a_1d190a60_1:
 
     # ri "Just relax. I've got this."
-    ri ""
+    ri "Just relax. I've got this."
 
-# game/v3/scene3a.rpy:72
-translate francais v3s3a_24de2554:
+# game/v3/scene3a.rpy:75
+translate francais v3s3a_d655043c_1:
 
-    # u "Oh, fuck, Riley..."
-    u ""
+    # u "Oh, hell, Riley..."
+    u "Oh, hell, Riley..."
 
-# game/v3/scene3a.rpy:74
-translate francais v3s3a_dcaaf3d3:
+# game/v3/scene3a.rpy:77
+translate francais v3s3a_25a74cca_1:
 
-    # u "You're... so fucking hot."
-    u ""
+    # u "You're... so good with your mouth."
+    u "You're... so good with your mouth."
 
-# game/v3/scene3a.rpy:76
-translate francais v3s3a_18218615:
+# game/v3/scene3a.rpy:79
+translate francais v3s3a_18218615_1:
 
     # u "That..."
-    u ""
+    u "That..."
 
-# game/v3/scene3a.rpy:78
-translate francais v3s3a_7131ce2a:
+# game/v3/scene3a.rpy:81
+translate francais v3s3a_7131ce2a_1:
 
     # u "*Gasps*"
-    u ""
+    u "*Gasps*"
 
-# game/v3/scene3a.rpy:85
-translate francais v3s3a_8e2f0a34:
+# game/v3/scene3a.rpy:88
+translate francais v3s3a_fc13d591_1:
 
-    # u "Yes... This feels amazing, Riley."
-    u ""
+    # u "God damn, Riley."
+    u "God damn, Riley."
 
-# game/v3/scene3a.rpy:87
-translate francais v3s3a_870de498:
+# game/v3/scene3a.rpy:90
+translate francais v3s3a_870de498_2:
 
     # ri "Mmm..."
-    ri ""
+    ri "Mmm..."
 
-# game/v3/scene3a.rpy:94
-translate francais v3s3a_95aff3ef:
+# game/v3/scene3a.rpy:97
+translate francais v3s3a_95aff3ef_1:
 
     # u "You really enjoy this, huh?"
-    u ""
+    u "You really enjoy this, huh?"
 
-# game/v3/scene3a.rpy:96
-translate francais v3s3a_518ed523:
+# game/v3/scene3a.rpy:99
+translate francais v3s3a_518ed523_1:
 
     # ri "Mm-hmm!"
-    ri ""
+    ri "Mm-hmm!"
 
-# game/v3/scene3a.rpy:103
-translate francais v3s3a_a209b4ce:
+# game/v3/scene3a.rpy:106
+translate francais v3s3a_a209b4ce_1:
 
     # u "I'm so close to cumming already, I-"
-    u ""
+    u "I'm so close to cumming already, I-"
 
-# game/v3/scene3a.rpy:105
-translate francais v3s3a_870de498_1:
+# game/v3/scene3a.rpy:108
+translate francais v3s3a_870de498_3:
 
     # ri "Mmm..."
-    ri ""
+    ri "Mmm..."
 
-# game/v3/scene3a.rpy:110
-translate francais v3s3a_1a387dd3:
+# game/v3/scene3a.rpy:113
+translate francais v3s3a_ba0b7596_1:
 
-    # u "*Moans* I'm gonna cum... You-"
-    u ""
+    # u "*Moans* I'm gonna explode... you-"
+    u "*Moans* I'm gonna explode... you-"
 
-# game/v3/scene3a.rpy:112
-translate francais v3s3a_f31d55e7:
+# game/v3/scene3a.rpy:115
+translate francais v3s3a_f31d55e7_1:
 
     # u "*Grunts*"
-    u ""
+    u "*Grunts*"
 
-# game/v3/scene3a.rpy:117
-translate francais v3s3a_69819798:
+# game/v3/scene3a.rpy:120
+translate francais v3s3a_4a6a9e12_1:
 
-    # u "Oh... Fuuuck, yeah."
-    u ""
+    # u "Oh... you're incredible."
+    u "Oh... you're incredible."
 
-# game/v3/scene3a.rpy:132
-translate francais v3s3a_0c300354:
+# game/v3/scene3a.rpy:135
+translate francais v3s3a_d84830a7_1:
 
-    # ri "Mmm, delicious. *Giggles*"
-    ri ""
-
-# game/v3/scene3a.rpy:142
-translate francais v3s3a_ca988ecd:
-
-    # ri "I hope you feel nice and relaxed now."
-    ri ""
+    # ri "Mmm, delicious."
+    ri "Mmm, delicious."
 
 # game/v3/scene3a.rpy:147
-translate francais v3s3a_7156b3a8:
+translate francais v3s3a_nsfwSkipLabel1_ca988ecd_1:
 
-    # u "Oh, my God. I can't even explain how relaxing that was, haha."
-    u ""
+    # ri "I hope you feel nice and relaxed now."
+    ri "I hope you feel nice and relaxed now."
 
 # game/v3/scene3a.rpy:152
-translate francais v3s3a_9d8d881f:
+translate francais v3s3a_nsfwSkipLabel1_b317947f_1:
+
+    # u "Oh my GOD. I can't even explain how relaxing that was."
+    u "Oh my GOD. I can't even explain how relaxing that was."
+
+# game/v3/scene3a.rpy:157
+translate francais v3s3a_nsfwSkipLabel1_9d8d881f_1:
 
     # ri "I'm glad. I love pleasing you."
-    ri ""
+    ri "I'm glad. I love pleasing you."
 
-# game/v3/scene3a.rpy:162
-translate francais v3s3a_b7bddc6f:
+# game/v3/scene3a.rpy:168
+translate francais v3s3a_nsfwSkipLabel1_a40ece9c_1:
 
-    # u "Haha, well thank you. But, I also like pleasing you."
-    u ""
+    # u "Well, thank you. But don't forget I also like pleasing you."
+    u "Well, thank you. But don't forget I also like pleasing you."
 
-# game/v3/scene3a.rpy:167
-translate francais v3s3a_470957df:
+# game/v3/scene3a.rpy:173
+translate francais v3s3a_nsfwSkipLabel1_470957df_1:
 
     # ri "Well, how is this gonna work then?"
-    ri ""
+    ri "Well, how is this gonna work then?"
 
-# game/v3/scene3a.rpy:172
-translate francais v3s3a_1dfa59d3:
+# game/v3/scene3a.rpy:178
+translate francais v3s3a_nsfwSkipLabel1_1dfa59d3_1:
 
     # u "I guess we'll have to fight over who pleases who every time."
-    u ""
+    u "I guess we'll have to fight over who pleases who every time."
 
-# game/v3/scene3a.rpy:177
-translate francais v3s3a_e113fa58:
+# game/v3/scene3a.rpy:183
+translate francais v3s3a_nsfwSkipLabel1_9a9744a1_1:
 
-    # ri "Hmm... We can always take turns."
-    ri ""
+    # ri "Hmm... we can always take turns."
+    ri "Hmm... we can always take turns."
 
-# game/v3/scene3a.rpy:182
-translate francais v3s3a_d812ec80:
+# game/v3/scene3a.rpy:188
+translate francais v3s3a_nsfwSkipLabel1_e9a8d5a0_1:
 
-    # u "Eh, or we could fight about it. *Laughs*"
-    u ""
+    # u "Eh, or we could fight about it."
+    u "Eh, or we could fight about it."
 
-# game/v3/scene3a.rpy:187
-translate francais v3s3a_5c94830a:
+# game/v3/scene3a.rpy:193
+translate francais v3s3a_nsfwSkipLabel1_1a20c725_1:
 
-    # ri "Haha, okay, that sounds fun too."
-    ri ""
+    # ri "That sounds fun too."
+    ri "That sounds fun too."
 
-# game/v3/scene3a.rpy:198
-translate francais v3s3a_8dc75497:
+# game/v3/scene3a.rpy:205
+translate francais v3s3a_nsfwSkipLabel1_8dc75497_1:
 
     # u "Well, I just so happen to like being pleased."
-    u ""
+    u "Well, I just so happen to like being pleased."
 
-# game/v3/scene3a.rpy:203
-translate francais v3s3a_1beb3a7d:
+# game/v3/scene3a.rpy:210
+translate francais v3s3a_nsfwSkipLabel1_ff95418b_1:
 
-    # ri "*Gasps* No way! What are the odds? *Giggles*"
-    ri ""
+    # ri "No way! What are the odds?"
+    ri "No way! What are the odds?"
 
-# game/v3/scene3a.rpy:208
-translate francais v3s3a_d03143bf:
+# game/v3/scene3a.rpy:215
+translate francais v3s3a_nsfwSkipLabel1_d03143bf_1:
 
     # u "One in a million?"
-    u ""
+    u "One in a million?"
 
-# game/v3/scene3a.rpy:213
-translate francais v3s3a_1167c3aa:
+# game/v3/scene3a.rpy:220
+translate francais v3s3a_nsfwSkipLabel1_1167c3aa_1:
 
     # ri "I know I am."
-    ri ""
+    ri "I know I am."
 
-# game/v3/scene3a.rpy:238
-translate francais v3s3a_d36a2a4c:
+# game/v3/scene3a.rpy:246
+translate francais v3s3a_nsfwSkipLabel1_62be68ad_1:
 
-    # u "Alright well, I know this is going to sound lame, but I really need to get home. Tomorrow's another big day."
-    u ""
+    # u "All right well, I know this is going to sound lame, but I really need to get home. Tomorrow's another big day."
+    u "All right well, I know this is going to sound lame, but I really need to get home. Tomorrow's another big day."
 
-# game/v3/scene3a.rpy:243
-translate francais v3s3a_135b8492:
+# game/v3/scene3a.rpy:251
+translate francais v3s3a_nsfwSkipLabel1_9c31c058_1:
 
-    # ri "Yeah, no problem. Nurse Riley has done her job, hehe."
-    ri ""
+    # ri "Yeah, no problem. Nurse Riley has done her job."
+    ri "Yeah, no problem. Nurse Riley has done her job."
 
-# game/v3/scene3a.rpy:248
-translate francais v3s3a_e392c1bf:
+# game/v3/scene3a.rpy:256
+translate francais v3s3a_nsfwSkipLabel1_e392c1bf_1:
 
     # u "One hell of a job. I don't know if I'll ever experience that feeling again."
-    u ""
+    u "One hell of a job. I don't know if I'll ever experience that feeling again."
 
-# game/v3/scene3a.rpy:253
-translate francais v3s3a_ef1dec95:
+# game/v3/scene3a.rpy:261
+translate francais v3s3a_nsfwSkipLabel1_84dd8441_1:
 
-    # ri "Haha... Guess I'll have to step up my game next time?"
-    ri ""
+    # ri "Guess I'll have to step up my game next time?"
+    ri "Guess I'll have to step up my game next time?"
 
-# game/v3/scene3a.rpy:258
-translate francais v3s3a_e500e382:
+# game/v3/scene3a.rpy:266
+translate francais v3s3a_nsfwSkipLabel1_e500e382_1:
 
     # u "I'm already looking forward to it."
-    u ""
+    u "I'm already looking forward to it."
 
-# game/v3/scene3a.rpy:268
-translate francais v3s3a_05c7a440:
+# game/v3/scene3a.rpy:276
+translate francais v3s3a_nsfwSkipLabel1_05c7a440_1:
 
     # u "Goodnight, Nurse Riley."
-    u ""
+    u "Goodnight, Nurse Riley."
 
-# game/v3/scene3a.rpy:273
-translate francais v3s3a_848edceb:
+# game/v3/scene3a.rpy:281
+translate francais v3s3a_nsfwSkipLabel1_accf436e_1:
 
-    # ri "Goodnight, my hero! *Chortles*"
-    ri ""
+    # ri "Goodnight, my hero!"
+    ri "Goodnight, my hero!"
 
 translate francais strings:
 
-    # game/v3/scene3a.rpy:157
+    # game/v3/scene3a.rpy:162
     old "I like pleasing you"
-    new ""
+    new "I like pleasing you"
 
-    # game/v3/scene3a.rpy:157
+    # game/v3/scene3a.rpy:162
     old "I like being pleased"
-    new ""
+    new "I like being pleased"
 

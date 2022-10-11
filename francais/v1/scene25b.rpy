@@ -1,68 +1,68 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene25b.rpy:10
-translate francais v1s25b_db6c5698:
+translate francais v1s25b_db6c5698_1:
 
     # u "(I'm not used to being the first one awake...)"
-    u ""
+    u "(I'm not used to being the first one awake...)"
 
 # game/v1/scene25b.rpy:37
-translate francais v1s25b_69aceaff:
+translate francais v1s25b_69aceaff_1:
 
     # u "*Whispers* Amber... Amber!"
-    u ""
+    u "*Whispers* Amber... Amber!"
 
 # game/v1/scene25b.rpy:43
-translate francais v1s25b_946795bc:
+translate francais v1s25b_946795bc_1:
 
     # am "Hm? You headed out?"
-    am ""
+    am "Hm? You headed out?"
 
 # game/v1/scene25b.rpy:48
-translate francais v1s25b_1041628d:
+translate francais v1s25b_1041628d_1:
 
     # u "Yeah, gonna go check on this bake sale situation."
-    u ""
+    u "Yeah, gonna go check on this bake sale situation."
 
 # game/v1/scene25b.rpy:53
-translate francais v1s25b_981baead:
+translate francais v1s25b_981baead_1:
 
     # am "Be safe, okay? I'll be headed that way soon... I may or may not see you."
-    am ""
+    am "Be safe, okay? I'll be headed that way soon... I may or may not see you."
 
 # game/v1/scene25b.rpy:58
-translate francais v1s25b_c05b0fae:
+translate francais v1s25b_c05b0fae_1:
 
     # u "Sounds good, see you soon."
-    u ""
+    u "Sounds good, see you soon."
 
 # game/v1/scene25b.rpy:63
-translate francais v1s25b_850fd858:
+translate francais v1s25b_850fd858_1:
 
     # am "Thank you for everything."
-    am ""
+    am "Thank you for everything."
 
 # game/v1/scene25b.rpy:74
-translate francais v1s25b_66686979:
+translate francais v1s25b_66686979_1:
 
     # u "Always."
-    u ""
+    u "Always."
 
-# game/v1/scene25b.rpy:85
-translate francais v1s25b_6a228559:
+# game/v1/scene25b.rpy:86
+translate francais v1s25b_6a228559_1:
 
     # am "*Mumbles*"
-    am ""
+    am "*Mumbles*"
 
-# game/v1/scene25b.rpy:87
-translate francais v1s25b_62383092:
+# game/v1/scene25b.rpy:91
+translate francais v1s25b_62383092_1:
 
     # u "(Guess she's too fucked up from last night. Oh well...)"
-    u ""
+    u "(Guess she's too fucked up from last night. Oh well...)"
 
-# game/v1/scene25b.rpy:92
-translate francais v1s25b_aa6405a2:
+# game/v1/scene25b.rpy:93
+translate francais v1s25b_aa6405a2_1:
 
     # u "(I'll catch up with her later. I gotta get to the bake sale and see how that's all going.)"
-    u ""
+    u "(I'll catch up with her later. I gotta get to the bake sale and see how that's all going.)"
 

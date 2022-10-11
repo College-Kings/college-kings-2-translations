@@ -1,892 +1,892 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene63b.rpy:19
 translate francais v3s63b_78d4d55f:
 
     # u "So, what's next?"
-    u ""
+    u "So, what's next?"
 
 # game/v3/scene63b.rpy:24
 translate francais v3s63b_5aac7892:
 
     # jen "More drinking!"
-    jen ""
+    jen "More drinking!"
 
 # game/v3/scene63b.rpy:34
-translate francais v3s63b_c122313d:
+translate francais v3s63b_ec6b2fc2:
 
-    # u "Haha, good idea."
-    u ""
+    # u "Good idea!"
+    u "Good idea!"
 
 # game/v3/scene63b.rpy:44
 translate francais v3s63b_f4599c55:
 
     # jen "This is kinda like a slumber party, and you know what's traditional at slumber parties?"
-    jen ""
+    jen "This is kinda like a slumber party, and you know what's traditional at slumber parties?"
 
 # game/v3/scene63b.rpy:49
 translate francais v3s63b_c83c3a9e:
 
     # li "Talking about guys?"
-    li ""
+    li "Talking about guys?"
 
 # game/v3/scene63b.rpy:54
 translate francais v3s63b_e5bfa0b2:
 
     # no "Playing with each other's hair?"
-    no ""
+    no "Playing with each other's hair?"
 
 # game/v3/scene63b.rpy:59
 translate francais v3s63b_244da124:
 
     # jen "Making out with each other!"
-    jen ""
+    jen "Making out with each other!"
 
 # game/v3/scene63b.rpy:64
 translate francais v3s63b_75f284b8:
 
     # u "Hm?"
-    u ""
+    u "Hm?"
 
 # game/v3/scene63b.rpy:69
 translate francais v3s63b_c3befb19:
 
     # cl "*Laughs* Jenny!"
-    cl ""
+    cl "*Laughs* Jenny!"
 
 # game/v3/scene63b.rpy:74
 translate francais v3s63b_5188d78e:
 
     # li "*Giggles* Well, you got [name]'s attention."
-    li ""
+    li "*Giggles* Well, you got [name]'s attention."
 
 # game/v3/scene63b.rpy:79
 translate francais v3s63b_65e1bee4:
 
     # jen "Aw, come on! I wanna know who the best kisser is."
-    jen ""
+    jen "Aw, come on! I wanna know who the best kisser is."
 
 # game/v3/scene63b.rpy:84
 translate francais v3s63b_8d0eec82:
 
     # cl "Is this really a great idea?"
-    cl ""
+    cl "Is this really a great idea?"
 
 # game/v3/scene63b.rpy:89
 translate francais v3s63b_de5af206:
 
     # jen "We kissed each other a few years ago, who cares?"
-    jen ""
+    jen "We kissed each other a few years ago, who cares?"
 
 # game/v3/scene63b.rpy:94
 translate francais v3s63b_5fb00c60:
 
     # cl "Well, yeah. That was just to see what it was like."
-    cl ""
+    cl "Well, yeah. That was just to see what it was like."
 
 # game/v3/scene63b.rpy:99
 translate francais v3s63b_a39aee10:
 
     # u "(Hm?)"
-    u ""
+    u "(Hm?)"
 
 # game/v3/scene63b.rpy:104
 translate francais v3s63b_467bc379:
 
     # jen "Well, now it's time for a refresh."
-    jen ""
+    jen "Well, now it's time for a refresh."
 
 # game/v3/scene63b.rpy:109
 translate francais v3s63b_8ec67854:
 
     # no "Remember we played spin the bottle in Paris, and we had to kiss? Ha."
-    no ""
+    no "Remember we played spin the bottle in Paris, and we had to kiss? Ha."
 
 # game/v3/scene63b.rpy:114
-translate francais v3s63b_f028fb2b:
+translate francais v3s63b_b4e2e4bd:
 
-    # cl "Haha, yeah, I remember. That was kind of awkward."
-    cl ""
+    # cl "Oh yeah, I remember. That was kind of awkward."
+    cl "Oh yeah, I remember. That was kind of awkward."
 
 # game/v3/scene63b.rpy:119
 translate francais v3s63b_5b8cf881:
 
     # no "Yeah, definitely. That's the fun of it though."
-    no ""
+    no "Yeah, definitely. That's the fun of it though."
 
 # game/v3/scene63b.rpy:124
 translate francais v3s63b_712149ef:
 
     # cl "I kissed Aubrey too that night."
-    cl ""
+    cl "I kissed Aubrey too that night."
 
 # game/v3/scene63b.rpy:129
 translate francais v3s63b_483bcda7:
 
     # li "Yup! And I remember seeing tongues!"
-    li ""
+    li "Yup! And I remember seeing tongues!"
 
 # game/v3/scene63b.rpy:134
-translate francais v3s63b_09baea9d:
+translate francais v3s63b_56bd5dae:
 
-    # jen "Haha! See? This is gonna be fun, let's do it."
-    jen ""
+    # jen "Ha! See? This is gonna be fun, let's do it."
+    jen "Ha! See? This is gonna be fun, let's do it."
 
 # game/v3/scene63b.rpy:139
 translate francais v3s63b_c00d34a7:
 
     # u "(Am I dreaming?)"
-    u ""
+    u "(Am I dreaming?)"
 
 # game/v3/scene63b.rpy:144
 translate francais v3s63b_6e6ace38:
 
     # u "(Oh, fffuuck...)"
-    u ""
+    u "(Oh, fffuuck...)"
 
 # game/v3/scene63b.rpy:149
 translate francais v3s63b_25a9cf66:
 
     # u "(Oh, shiiitt!)"
-    u ""
+    u "(Oh, shiiitt!)"
 
 # game/v3/scene63b.rpy:154
 translate francais v3s63b_9024d5f3:
 
     # no "Caramel?"
-    no ""
+    no "Caramel?"
 
 # game/v3/scene63b.rpy:159
-translate francais v3s63b_0dc84dc2:
+translate francais v3s63b_ed58843c:
 
-    # li "Haha, my favorite coffee flavor."
-    li ""
+    # li "Yum, my favorite coffee flavor."
+    li "Yum, my favorite coffee flavor."
 
 # game/v3/scene63b.rpy:169
 translate francais v3s63b_316e3393:
 
     # li "Who's next?"
-    li ""
+    li "Who's next?"
 
 # game/v3/scene63b.rpy:174
-translate francais v3s63b_c68bbd44:
+translate francais v3s63b_e935c420:
 
-    # jen "Sorry, Lindsey but you're Chloe's opposition for president. I can't make out with you in good conscience, haha."
-    jen ""
+    # jen "Sorry, Lindsey but you're Chloe's opposition for President. I can't make out with you in good conscience."
+    jen "Sorry, Lindsey but you're Chloe's opposition for President. I can't make out with you in good conscience."
 
 # game/v3/scene63b.rpy:179
 translate francais v3s63b_a495bdef:
 
     # li "Shit... Respect. That's a loyal friend right there."
-    li ""
+    li "Shit... Respect. That's a loyal friend right there."
 
 # game/v3/scene63b.rpy:184
 translate francais v3s63b_80c64b26:
 
     # cl "*Laughs*"
-    cl ""
+    cl "*Laughs*"
 
 # game/v3/scene63b.rpy:189
 translate francais v3s63b_472c9200:
 
     # li "I'm not offended, just know that you're missing out."
-    li ""
+    li "I'm not offended, just know that you're missing out."
 
 # game/v3/scene63b.rpy:194
 translate francais v3s63b_9e04e237:
 
     # jen "Eh, I'll take my chances."
-    jen ""
+    jen "Eh, I'll take my chances."
 
 # game/v3/scene63b.rpy:199
 translate francais v3s63b_be11eb81:
 
     # u "(Damn, Jenny's starting to bite. I thought everyone was playing nice tonight.)"
-    u ""
+    u "(Damn, Jenny's starting to bite. I thought everyone was playing nice tonight.)"
 
 # game/v3/scene63b.rpy:209
 translate francais v3s63b_3a2bde7d:
 
     # no "Let's make this better than the Paris kiss then."
-    no ""
+    no "Let's make this better than the Paris kiss then."
 
 # game/v3/scene63b.rpy:214
 translate francais v3s63b_c10b8f8c:
 
     # cl "That won't be difficult."
-    cl ""
+    cl "That won't be difficult."
 
 # game/v3/scene63b.rpy:224
 translate francais v3s63b_d1d905de:
 
     # u "(That was... passionate?)"
-    u ""
+    u "(That was... passionate?)"
 
 # game/v3/scene63b.rpy:229
 translate francais v3s63b_cd356e07:
 
     # u "(Am I invisible or something? What is happening right now?)"
-    u ""
+    u "(Am I invisible or something? What is happening right now?)"
 
 # game/v3/scene63b.rpy:234
 translate francais v3s63b_fe644893:
 
     # u "(Not that I really mind. *Laughs*)"
-    u ""
+    u "(Not that I really mind. *Laughs*)"
 
 # game/v3/scene63b.rpy:244
 translate francais v3s63b_89a65437:
 
     # no "Much better."
-    no ""
+    no "Much better."
 
 # game/v3/scene63b.rpy:249
 translate francais v3s63b_d7dcd52a:
 
     # cl "That was the plan..."
-    cl ""
+    cl "That was the plan..."
 
 # game/v3/scene63b.rpy:259
 translate francais v3s63b_bd12c622:
 
     # au "Hello, hello."
-    au ""
+    au "Hello, hello."
 
 # game/v3/scene63b.rpy:264
 translate francais v3s63b_dff7c808:
 
     # cl "Did you have a good massage?"
-    cl ""
+    cl "Did you have a good massage?"
 
 # game/v3/scene63b.rpy:269
 translate francais v3s63b_770a69b6:
 
     # au "It was incredible... Ugh, I'm so relaxed now."
-    au ""
+    au "It was incredible... Ugh, I'm so relaxed now."
 
 # game/v3/scene63b.rpy:271
 translate francais v3s63b_ef134095:
 
     # au "You hired a really good masseuse."
-    au ""
+    au "You hired a really good masseuse."
 
 # game/v3/scene63b.rpy:276
 translate francais v3s63b_abcb9be8:
 
     # cl "Only the best for my Chicks."
-    cl ""
+    cl "Only the best for my Chicks."
 
 # game/v3/scene63b.rpy:286
 translate francais v3s63b_855d1471:
 
     # no "It's my turn now, bye bitches!"
-    no ""
+    no "It's my turn now, bye bitches!"
 
 # game/v3/scene63b.rpy:291
 translate francais v3s63b_13b7e47f:
 
     # au "So, what did I miss while I was at the spa?"
-    au ""
+    au "So, what did I miss while I was at the spa?"
 
 # game/v3/scene63b.rpy:296
 translate francais v3s63b_51a6088c:
 
     # jen "Slumber party make-out sessions."
-    jen ""
+    jen "Slumber party make-out sessions."
 
 # game/v3/scene63b.rpy:301
-translate francais v3s63b_b82b7e55:
+translate francais v3s63b_9abf0ba0:
 
-    # au "Haha, for real?"
-    au ""
+    # au "Huh, for real?"
+    au "Huh, for real?"
 
 # game/v3/scene63b.rpy:306
 translate francais v3s63b_945d0c4a:
 
     # li "Yeah, very real."
-    li ""
+    li "Yeah, very real."
 
 # game/v3/scene63b.rpy:311
 translate francais v3s63b_2856d607:
 
     # li "Ask [name]. I think he's been enjoying the show. *Laughs*"
-    li ""
+    li "Ask [name]. I think he's been enjoying the show. *Laughs*"
 
 # game/v3/scene63b.rpy:316
 translate francais v3s63b_096414b6:
 
     # u "(Oh shit, I'm not invisible!)"
-    u ""
+    u "(Oh shit, I'm not invisible!)"
 
 # game/v3/scene63b.rpy:321
-translate francais v3s63b_a9d9a830:
+translate francais v3s63b_280d14e4:
 
-    # u "Uh, yeah. It's been fun, haha."
-    u ""
+    # u "Uh, yeah. It's been fun!"
+    u "Uh, yeah. It's been fun!"
 
 # game/v3/scene63b.rpy:326
 translate francais v3s63b_17ddabbe:
 
     # au "I guess I've got some catching up to do. Hmm..."
-    au ""
+    au "I guess I've got some catching up to do. Hmm..."
 
 # game/v3/scene63b.rpy:331
 translate francais v3s63b_e5a5d51a:
 
     # u "(Classic Aubrey. No messing around)"
-    u ""
+    u "(Classic Aubrey. No messing around)"
 
 # game/v3/scene63b.rpy:346
 translate francais v3s63b_c338da9d:
 
     # li "Oh, wow. That was amazing, Aubrey. *Awkward chuckle*"
-    li ""
+    li "Oh, wow. That was amazing, Aubrey. *Awkward chuckle*"
 
 # game/v3/scene63b.rpy:351
 translate francais v3s63b_12798133:
 
     # au "You're not so bad yourself."
-    au ""
+    au "You're not so bad yourself."
 
 # game/v3/scene63b.rpy:356
 translate francais v3s63b_ec126451:
 
     # au "Who's next? Jenny?"
-    au ""
+    au "Who's next? Jenny?"
 
 # game/v3/scene63b.rpy:361
 translate francais v3s63b_dd6d0cc8:
 
     # jen "Well after that review, I guess I'd better. *Giggles*"
-    jen ""
+    jen "Well after that review, I guess I'd better. *Giggles*"
 
 # game/v3/scene63b.rpy:376
 translate francais v3s63b_a1a339d5:
 
     # cl "Oooo!"
-    cl ""
+    cl "Oooo!"
 
 # game/v3/scene63b.rpy:381
 translate francais v3s63b_d5aa50f7:
 
     # li "Okay, that's hot. That's actually hot."
-    li ""
+    li "Okay, that's hot. That's actually hot."
 
 # game/v3/scene63b.rpy:386
 translate francais v3s63b_c636a6cc:
 
     # u "(Still waiting for someone to pinch me! Holy...)"
-    u ""
+    u "(Still waiting for someone to pinch me! Holy...)"
 
 # game/v3/scene63b.rpy:401
-translate francais v3s63b_74aace0c:
+translate francais v3s63b_674b6782:
 
-    # jen "Yep, it was an accurate review, haha."
-    jen ""
+    # jen "Yep, it was an accurate review."
+    jen "Yep, it was an accurate review."
 
 # game/v3/scene63b.rpy:406
 translate francais v3s63b_9b988ca5:
 
     # au "Five stars across the board."
-    au ""
+    au "Five stars across the board."
 
 # game/v3/scene63b.rpy:411
 translate francais v3s63b_19700b88:
 
     # jen "Thanks, babe."
-    jen ""
+    jen "Thanks, babe."
 
 # game/v3/scene63b.rpy:416
 translate francais v3s63b_165eb121:
 
     # au "So, even Chloe and Lindsey have kissed?"
-    au ""
+    au "So, even Chloe and Lindsey have kissed?"
 
 # game/v3/scene63b.rpy:421
 translate francais v3s63b_7defd8ec:
 
     # li "HA!"
-    li ""
+    li "HA!"
 
 # game/v3/scene63b.rpy:426
 translate francais v3s63b_631fdfab:
 
     # cl "Um... no, we didn't."
-    cl ""
+    cl "Um... no, we didn't."
 
 # game/v3/scene63b.rpy:431
 translate francais v3s63b_db4cd524:
 
     # au "Come on... Kiss and make up!"
-    au ""
+    au "Come on... Kiss and make up!"
 
 # game/v3/scene63b.rpy:441
 translate francais v3s63b_6605b6a8:
 
     # au "I dare you."
-    au ""
+    au "I dare you."
 
 # game/v3/scene63b.rpy:446
 translate francais v3s63b_dac6639b:
 
     # li "*Sighs*"
-    li ""
+    li "*Sighs*"
 
 # game/v3/scene63b.rpy:451
 translate francais v3s63b_ca19a3fa:
 
     # li "I'm willing if you are, I guess."
-    li ""
+    li "I'm willing if you are, I guess."
 
 # game/v3/scene63b.rpy:456
 translate francais v3s63b_231b7096:
 
     # cl "Okay, let's get it over with."
-    cl ""
+    cl "Okay, let's get it over with."
 
 # game/v3/scene63b.rpy:476
 translate francais v3s63b_eb129fa5:
 
     # au "There. That wasn't too painful, was it?"
-    au ""
+    au "There. That wasn't too painful, was it?"
 
 # game/v3/scene63b.rpy:481
 translate francais v3s63b_6531f685:
 
     # u "Wow, slumber parties really do bring people together, huh?"
-    u ""
+    u "Wow, slumber parties really do bring people together, huh?"
 
 # game/v3/scene63b.rpy:486
 translate francais v3s63b_0e771f2e:
 
     # u "(I'm sure they died a little inside, but they're desperate for Aubrey's vote.)"
-    u ""
+    u "(I'm sure they died a little inside, but they're desperate for Aubrey's vote.)"
 
 # game/v3/scene63b.rpy:491
 translate francais v3s63b_337b4ba8:
 
     # au "I almost want to see it again. *Snickers*"
-    au ""
+    au "I almost want to see it again. *Snickers*"
 
 # game/v3/scene63b.rpy:496
 translate francais v3s63b_6aa81be9:
 
     # u "(And I think she knows how desperate they both are. *Laughs*)"
-    u ""
+    u "(And I think she knows how desperate they both are. *Laughs*)"
 
 # game/v3/scene63b.rpy:501
 translate francais v3s63b_0b61806a:
 
     # no "Wow, Aubrey wasn't lying, guys. That felt so refreshing!"
-    no ""
+    no "Wow, Aubrey wasn't lying, guys. That felt so refreshing!"
 
 # game/v3/scene63b.rpy:506
 translate francais v3s63b_7e1c96ea:
 
     # au "Why would I lie to you? Hm? Why?"
-    au ""
+    au "Why would I lie to you? Hm? Why?"
 
 # game/v3/scene63b.rpy:511
 translate francais v3s63b_631ceffb:
 
     # li "*Chuckles* My turn! Can't wait to experience this for myself."
-    li ""
+    li "*Chuckles* My turn! Can't wait to experience this for myself."
 
 # game/v3/scene63b.rpy:521
 translate francais v3s63b_dd8dff0d:
 
     # no "So, what have I missed? Everyone still kissing?"
-    no ""
+    no "So, what have I missed? Everyone still kissing?"
 
 # game/v3/scene63b.rpy:536
 translate francais v3s63b_320b0f0f:
 
     # no "I'll take that as a yes."
-    no ""
+    no "I'll take that as a yes."
 
 # game/v3/scene63b.rpy:541
 translate francais v3s63b_4de7e2c3:
 
     # u "(It looked like a great answer.)"
-    u ""
+    u "(It looked like a great answer.)"
 
 # game/v3/scene63b.rpy:546
 translate francais v3s63b_e49d055c:
 
     # no "Enjoying yourself, [name]?"
-    no ""
+    no "Enjoying yourself, [name]?"
 
 # game/v3/scene63b.rpy:551
 translate francais v3s63b_e9e701d3:
 
     # u "Yeah, uh, of course! I've actually been keeping score."
-    u ""
+    u "Yeah, uh, of course! I've actually been keeping score."
 
 # game/v3/scene63b.rpy:556
-translate francais v3s63b_ab4d4254:
+translate francais v3s63b_e1ea09e6:
 
-    # no "Oh? Haha."
-    no ""
+    # no "Oh yeah?"
+    no "Oh yeah?"
 
 # game/v3/scene63b.rpy:561
 translate francais v3s63b_d67c84e3:
 
     # jen "I think Chloe and Aubrey are winning so far."
-    jen ""
+    jen "I think Chloe and Aubrey are winning so far."
 
 # game/v3/scene63b.rpy:566
 translate francais v3s63b_8a3ec2eb:
 
     # no "Well, hold on now..."
-    no ""
+    no "Well, hold on now..."
 
 # game/v3/scene63b.rpy:576
 translate francais v3s63b_24ee7f1b:
 
     # no "It's my time to shine."
-    no ""
+    no "It's my time to shine."
 
 # game/v3/scene63b.rpy:596
 translate francais v3s63b_1bd4c7af:
 
     # jen "*Moans* I have to say, they have some stiff competition with those lips."
-    jen ""
+    jen "*Moans* I have to say, they have some stiff competition with those lips."
 
 # game/v3/scene63b.rpy:601
 translate francais v3s63b_e2e0322c:
 
     # u "(Stiff is exactly the right word for it.)"
-    u ""
+    u "(Stiff is exactly the right word for it.)"
 
 # game/v3/scene63b.rpy:606
 translate francais v3s63b_5e54268e:
 
     # jen "There's one last combination. Chloe and Aubrey."
-    jen ""
+    jen "There's one last combination. Chloe and Aubrey."
 
 # game/v3/scene63b.rpy:611
-translate francais v3s63b_febb32c4:
+translate francais v3s63b_a96cb7b1:
 
-    # cl "We've already kissed, haha."
-    cl ""
+    # cl "We've already kissed!"
+    cl "We've already kissed!"
 
 # game/v3/scene63b.rpy:616
 translate francais v3s63b_33c12c8b:
 
     # au "*Laughs* Yeah, plenty of times. Most recently in Europe!"
-    au ""
+    au "*Laughs* Yeah, plenty of times. Most recently in Europe!"
 
 # game/v3/scene63b.rpy:621
 translate francais v3s63b_494ab6a4:
 
     # jen "Well, now it's time to show each other how much you've learned since then!"
-    jen ""
+    jen "Well, now it's time to show each other how much you've learned since then!"
 
 # game/v3/scene63b.rpy:626
 translate francais v3s63b_15ba260b:
 
     # cl "You're so bad..."
-    cl ""
+    cl "You're so bad..."
 
 # game/v3/scene63b.rpy:631
 translate francais v3s63b_f74a39bd:
 
     # jen "Yes, I am. Hehe."
-    jen ""
+    jen "Yes, I am. Hehe."
 
 # game/v3/scene63b.rpy:636
 translate francais v3s63b_9fc99007:
 
     # au "Come on, Chloe. Let's give the people what they want."
-    au ""
+    au "Come on, Chloe. Let's give the people what they want."
 
 # game/v3/scene63b.rpy:641
 translate francais v3s63b_c8d72442:
 
     # u "(For the people, by the people...)"
-    u ""
+    u "(For the people, by the people...)"
 
-# game/v3/scene63b.rpy:661
+# game/v3/scene63b.rpy:662
 translate francais v3s63b_5c090234:
 
     # u "Bravo, ladies. Amazing performance tonight!"
-    u ""
+    u "Bravo, ladies. Amazing performance tonight!"
 
-# game/v3/scene63b.rpy:666
-translate francais v3s63b_a917adeb:
+# game/v3/scene63b.rpy:667
+translate francais v3s63b_26fbed2f:
 
-    # jen "Oh my god, I forgot you were even there, [name]! Haha."
-    jen ""
+    # jen "Oh my god, I forgot you were even there, [name]! Sorry!"
+    jen "Oh my god, I forgot you were even there, [name]! Sorry!"
 
-# game/v3/scene63b.rpy:671
+# game/v3/scene63b.rpy:672
 translate francais v3s63b_7e43d1ca:
 
     # u "Yeah, I figured."
-    u ""
+    u "Yeah, I figured."
 
-# game/v3/scene63b.rpy:676
+# game/v3/scene63b.rpy:677
 translate francais v3s63b_e113b69c:
 
     # no "I bet you're happy you came tonight."
-    no ""
+    no "I bet you're happy you came tonight."
 
-# game/v3/scene63b.rpy:681
+# game/v3/scene63b.rpy:682
 translate francais v3s63b_cdf67ceb:
 
     # cl "You didn't get any of that on camera, did you?"
-    cl ""
+    cl "You didn't get any of that on camera, did you?"
 
-# game/v3/scene63b.rpy:686
-translate francais v3s63b_d2190b51:
+# game/v3/scene63b.rpy:687
+translate francais v3s63b_19f61f33:
 
-    # u "Unfortunately, no, haha."
-    u ""
+    # u "Unfortunately, no."
+    u "Unfortunately, no."
 
-# game/v3/scene63b.rpy:691
+# game/v3/scene63b.rpy:692
 translate francais v3s63b_b55357c0:
 
     # jen "You promise?"
-    jen ""
+    jen "You promise?"
 
-# game/v3/scene63b.rpy:696
+# game/v3/scene63b.rpy:697
 translate francais v3s63b_37162ac1:
 
     # u "Yes. I promise!"
-    u ""
+    u "Yes. I promise!"
 
-# game/v3/scene63b.rpy:701
+# game/v3/scene63b.rpy:702
 translate francais v3s63b_17f10294:
 
     # jen "Because if you did, I want a copy. *Laughs*"
-    jen ""
+    jen "Because if you did, I want a copy. *Laughs*"
 
-# game/v3/scene63b.rpy:707
+# game/v3/scene63b.rpy:708
 translate francais v3s63b_d939ef86:
 
     # u "(I'll just keep quiet. It's worked out well so far.)"
-    u ""
+    u "(I'll just keep quiet. It's worked out well so far.)"
 
-# game/v3/scene63b.rpy:714
+# game/v3/scene63b.rpy:715
 translate francais v3s63b_90872c35:
 
     # no "So, who's the winner?"
-    no ""
+    no "So, who's the winner?"
 
-# game/v3/scene63b.rpy:719
+# game/v3/scene63b.rpy:720
 translate francais v3s63b_86527822:
 
     # cl "Hmm, difficult to say."
-    cl ""
+    cl "Hmm, difficult to say."
 
-# game/v3/scene63b.rpy:724
+# game/v3/scene63b.rpy:725
 translate francais v3s63b_2e473dd0:
 
     # jen "Yeah, I'm not sure I can pick."
-    jen ""
+    jen "Yeah, I'm not sure I can pick."
 
 # game/v3/scene63b.rpy:734
 translate francais v3s63b_b3f585eb:
 
     # u "Maybe you need to do it all again? You know, to help you make your final decision."
-    u ""
+    u "Maybe you need to do it all again? You know, to help you make your final decision."
 
 # game/v3/scene63b.rpy:739
 translate francais v3s63b_0c272778:
 
     # au "Hehe... you'd love that, wouldn't you?"
-    au ""
+    au "Hehe... you'd love that, wouldn't you?"
 
 # game/v3/scene63b.rpy:744
 translate francais v3s63b_9c3189cf:
 
     # u "Oh, pfft. I just want it to be a fairly judged competition."
-    u ""
+    u "Oh, pfft. I just want it to be a fairly judged competition."
 
 # game/v3/scene63b.rpy:749
 translate francais v3s63b_fae327fd:
 
     # jen "Right, so honorable!"
-    jen ""
+    jen "Right, so honorable!"
 
 # game/v3/scene63b.rpy:754
-translate francais v3s63b_f36b6973:
+translate francais v3s63b_43868021:
 
-    # no "Interesting that you chose not to speak up until after the kissing was over. Haha."
-    no ""
+    # no "Interesting that you chose not to speak up until after the kissing was over."
+    no "Interesting that you chose not to speak up until after the kissing was over."
 
-# game/v3/scene63b.rpy:760
+# game/v3/scene63b.rpy:759
 translate francais v3s63b_ca3c0c7f:
 
     # u "I think I'm the real winner tonight, if I'm being honest."
-    u ""
+    u "I think I'm the real winner tonight, if I'm being honest."
 
-# game/v3/scene63b.rpy:765
-translate francais v3s63b_62301373:
+# game/v3/scene63b.rpy:764
+translate francais v3s63b_3c05a230:
 
-    # no "Haha, you might be right."
-    no ""
+    # no "You might be right!"
+    no "You might be right!"
 
-# game/v3/scene63b.rpy:772
+# game/v3/scene63b.rpy:771
 translate francais v3s63b_dd410a07:
 
     # au "Let's just agree that we're all fucking hot and amazing kissers."
-    au ""
+    au "Let's just agree that we're all fucking hot and amazing kissers."
 
-# game/v3/scene63b.rpy:777
-translate francais v3s63b_de11293c:
+# game/v3/scene63b.rpy:776
+translate francais v3s63b_df23edf0:
 
-    # cl "Haha, agreed."
-    cl ""
+    # cl "Agreed!"
+    cl "Agreed!"
 
-# game/v3/scene63b.rpy:782
+# game/v3/scene63b.rpy:781
 translate francais v3s63b_c38b9689:
 
     # jen "I'll drink to that!"
-    jen ""
+    jen "I'll drink to that!"
 
-# game/v3/scene63b.rpy:792
-translate francais v3s63b_4b3be8d8:
+# game/v3/scene63b.rpy:791
+translate francais v3s63b_406e9433:
 
-    # cl "Alright, girls. It's time to head outside now for our next treat."
-    cl ""
+    # cl "All right, girls. It's time to head outside now for our next treat."
+    cl "All right, girls. It's time to head outside now for our next treat."
 
-# game/v3/scene63b.rpy:797
+# game/v3/scene63b.rpy:796
 translate francais v3s63b_20e1bfc5:
 
     # no "Another treat?"
-    no ""
+    no "Another treat?"
 
-# game/v3/scene63b.rpy:802
+# game/v3/scene63b.rpy:801
 translate francais v3s63b_953b5ea6:
 
     # au "How much are you gonna spoil us tonight, Chloe? I'm starting to feel special. *Giggles*"
-    au ""
+    au "How much are you gonna spoil us tonight, Chloe? I'm starting to feel special. *Giggles*"
 
-# game/v3/scene63b.rpy:807
+# game/v3/scene63b.rpy:806
 translate francais v3s63b_3ecf9dfa:
 
     # cl "Just to remind you, there's a suggestion box on the table for any ideas you have. I want to go through them when we go outside."
-    cl ""
+    cl "Just to remind you, there's a suggestion box on the table for any ideas you have. I want to go through them when we go outside."
 
-# game/v3/scene63b.rpy:812
+# game/v3/scene63b.rpy:811
 translate francais v3s63b_edc1d504:
 
     # cl "[name], can you bring them with you after everyone is done with it?"
-    cl ""
+    cl "[name], can you bring them with you after everyone is done with it?"
 
-# game/v3/scene63b.rpy:817
+# game/v3/scene63b.rpy:816
 translate francais v3s63b_67ed563e:
 
     # u "Yeah, sure thing."
-    u ""
+    u "Yeah, sure thing."
 
-# game/v3/scene63b.rpy:822
+# game/v3/scene63b.rpy:821
 translate francais v3s63b_ddf41daf:
 
     # no "What about Lindsey? Shouldn't we wait?"
-    no ""
+    no "What about Lindsey? Shouldn't we wait?"
 
-# game/v3/scene63b.rpy:827
+# game/v3/scene63b.rpy:826
 translate francais v3s63b_74ee8e5b:
 
     # cl "She'll come find us when her massage is finished. She knows her way around the house, Nora. *Laughs*"
-    cl ""
+    cl "She'll come find us when her massage is finished. She knows her way around the house, Nora. *Laughs*"
 
-# game/v3/scene63b.rpy:832
+# game/v3/scene63b.rpy:831
 translate francais v3s63b_9b032fdd:
 
     # no "Okay..."
-    no ""
+    no "Okay..."
 
-# game/v3/scene63b.rpy:842
-translate francais v3s63b_30e070b1:
+# game/v3/scene63b.rpy:841
+translate francais v3s63b_5fe90d21:
 
-    # u "(I've got time to add another suggestion... Hmm, what should I write?)"
-    u ""
+    # u "(Well, I've got time to add another suggestion.)"
+    u "(Well, I've got time to add another suggestion.)"
 
 # game/v3/scene63b.rpy:844
-translate francais v3s63b_db4ca03b:
+translate francais v3s63b_1b1f428e:
 
-    # u "(I've got time to add another suggestion. Hmm, what should I write?)"
-    u ""
+    # u "(Hmm, what should I write?)"
+    u "(Hmm, what should I write?)"
 
 # game/v3/scene63b.rpy:846
 translate francais v3s63b_741efe8c:
 
     # u "(Hmm, what should I write this time?)"
-    u ""
+    u "(Hmm, what should I write this time?)"
 
-# game/v3/scene63b.rpy:858
+# game/v3/scene63b.rpy:859
 translate francais v3s63b_127c088c:
 
     # u "(Let's put... \"Keep doing what you're doing!\".)"
-    u ""
+    u "(Let's put... \"Keep doing what you're doing!\".)"
 
-# game/v3/scene63b.rpy:871
+# game/v3/scene63b.rpy:873
 translate francais v3s63b_3591b09e:
 
     # u "(I'll suggest that she buys some mints for her stinky breath. Heh, I feel like stirring up the pot a little bit.)"
-    u ""
+    u "(I'll suggest that she buys some mints for her stinky breath. Heh, I feel like stirring up the pot a little bit.)"
 
-# game/v3/scene63b.rpy:876
+# game/v3/scene63b.rpy:878
 translate francais v3s63b_de289b16:
 
     # u "(Plus, after that kissing session, I'm the only one she won't expect to have written this. Perfect!)"
-    u ""
+    u "(Plus, after that kissing session, I'm the only one she won't expect to have written this. Perfect!)"
 
-# game/v3/scene63b.rpy:882
+# game/v3/scene63b.rpy:881
 translate francais v3s63b_e742e25f:
 
     # u "(Actually, let's not.)"
-    u ""
+    u "(Actually, let's not.)"
 
-# game/v3/scene63b.rpy:887
+# game/v3/scene63b.rpy:886
 translate francais v3s63b_b5d6eab2:
 
     # li "Hey, where did everyone go?"
-    li ""
+    li "Hey, where did everyone go?"
 
-# game/v3/scene63b.rpy:892
+# game/v3/scene63b.rpy:891
 translate francais v3s63b_552cda2d:
 
     # u "Outside, apparently there's another treat for us."
-    u ""
+    u "Outside, apparently there's another treat for us."
 
-# game/v3/scene63b.rpy:897
+# game/v3/scene63b.rpy:896
 translate francais v3s63b_e8baebfa:
 
     # li "Ugh..."
-    li ""
+    li "Ugh..."
 
-# game/v3/scene63b.rpy:902
-translate francais v3s63b_8ca24ca0:
+# game/v3/scene63b.rpy:901
+translate francais v3s63b_576bb8d3:
 
-    # u "Haha, come on."
-    u ""
+    # u "Aww, come on!"
+    u "Aww, come on!"
 
 translate francais strings:
 
     # game/v3/scene63b.rpy:656
     old "Applaud"
-    new ""
+    new "Applaud"
 
-    # game/v3/scene63b.rpy:729
+    # game/v3/scene63b.rpy:730
     old "Suggest a do-over"
-    new ""
+    new "Suggest a do-over"
 
-    # game/v3/scene63b.rpy:729
+    # game/v3/scene63b.rpy:730
     old "I'm the winner"
-    new ""
+    new "I'm the winner"
 
     # game/v3/scene63b.rpy:851
     old "Add a compliment"
-    new ""
+    new "Add a compliment"
 
     # game/v3/scene63b.rpy:851
     old "Suggest a breath mint"
-    new ""
+    new "Suggest a breath mint"
 
     # game/v3/scene63b.rpy:851
     old "Don't add anything"
-    new ""
+    new "Don't add anything"
 

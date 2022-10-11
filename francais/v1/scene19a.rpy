@@ -1,312 +1,312 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene19a.rpy:12
-translate francais v1s19a_a58bdbfc:
+translate francais v1s19a_a58bdbfc_1:
 
     # cl "I really think this is the most solid plan."
-    cl ""
+    cl "I really think this is the most solid plan."
 
 # game/v1/scene19a.rpy:17
-translate francais v1s19a_300ea018:
+translate francais v1s19a_300ea018_1:
 
     # u "I do too."
-    u ""
+    u "I do too."
 
-# game/v1/scene19a.rpy:24
-translate francais v1s19a_8f0103b4:
+# game/v1/scene19a.rpy:23
+translate francais v1s19a_8f0103b4_1:
 
     # cl "Especially since I basically already have the Wolves' support, I feel confident about this."
-    cl ""
+    cl "Especially since I basically already have the Wolves' support, I feel confident about this."
 
-# game/v1/scene19a.rpy:29
-translate francais v1s19a_14a528aa:
+# game/v1/scene19a.rpy:28
+translate francais v1s19a_14a528aa_1:
 
     # u "Oh, yeah? How'd that come about?"
-    u ""
+    u "Oh, yeah? How'd that come about?"
 
-# game/v1/scene19a.rpy:34
-translate francais v1s19a_a8e4b929:
+# game/v1/scene19a.rpy:33
+translate francais v1s19a_a8e4b929_1:
 
     # cl "How did what come about?"
-    cl ""
+    cl "How did what come about?"
 
-# game/v1/scene19a.rpy:39
-translate francais v1s19a_68ed2d22:
+# game/v1/scene19a.rpy:38
+translate francais v1s19a_68ed2d22_1:
 
     # u "The Wolves supporting you already? I ran into Imre this morning while he was chanting in your favor."
-    u ""
+    u "The Wolves supporting you already? I ran into Imre this morning while he was chanting in your favor."
 
-# game/v1/scene19a.rpy:44
-translate francais v1s19a_3f31ff6c:
+# game/v1/scene19a.rpy:43
+translate francais v1s19a_3f31ff6c_1:
 
     # cl "Oh.. That's simple."
-    cl ""
+    cl "Oh.. That's simple."
 
-# game/v1/scene19a.rpy:49
-translate francais v1s19a_680f8f9b:
+# game/v1/scene19a.rpy:48
+translate francais v1s19a_680f8f9b_1:
 
     # cl "Chris and I share the same principles when it comes to leadership and loyalty."
-    cl ""
+    cl "Chris and I share the same principles when it comes to leadership and loyalty."
 
-# game/v1/scene19a.rpy:50
-translate francais v1s19a_1d442d8c:
+# game/v1/scene19a.rpy:49
+translate francais v1s19a_c247dcec_1:
 
-    # cl "You can't blame all of the issues on the leader and give up on them, throwing them away, thinking that'll change things."
-    cl ""
+    # cl "You can't blame all of the issues on the leader, give up on them, throw them away, and think that'll change things."
+    cl "You can't blame all of the issues on the leader, give up on them, throw them away, and think that'll change things."
 
-# game/v1/scene19a.rpy:55
-translate francais v1s19a_b38d381b:
+# game/v1/scene19a.rpy:54
+translate francais v1s19a_b38d381b_1:
 
     # cl "You have to work on improving the leadership that's already comfortably in place."
-    cl ""
+    cl "You have to work on improving the leadership that's already comfortably in place."
 
-# game/v1/scene19a.rpy:60
-translate francais v1s19a_57a4b11d:
+# game/v1/scene19a.rpy:59
+translate francais v1s19a_57a4b11d_1:
 
     # u "So, you and Chris aren't that close? Just share some perspectives?"
-    u ""
+    u "So, you and Chris aren't that close? Just share some perspectives?"
 
-# game/v1/scene19a.rpy:65
-translate francais v1s19a_a790c4a5:
+# game/v1/scene19a.rpy:64
+translate francais v1s19a_a790c4a5_1:
 
     # cl "Well, no... I mean, we're pretty close."
-    cl ""
+    cl "Well, no... I mean, we're pretty close."
 
-# game/v1/scene19a.rpy:70
-translate francais v1s19a_c290fe94:
+# game/v1/scene19a.rpy:69
+translate francais v1s19a_c290fe94_1:
 
     # u "Even with Nor-"
-    u ""
+    u "Even with Nor-"
 
-# game/v1/scene19a.rpy:75
-translate francais v1s19a_86e36e97:
+# game/v1/scene19a.rpy:74
+translate francais v1s19a_b6ae06a4_1:
 
-    # cl "I already know what you're gonna say, haha."
-    cl ""
+    # cl "I already know what you're gonna say."
+    cl "I already know what you're gonna say."
 
-# game/v1/scene19a.rpy:80
-translate francais v1s19a_c4c61d9a:
+# game/v1/scene19a.rpy:79
+translate francais v1s19a_c4c61d9a_1:
 
     # cl "Whatever's happening between Chris and Nora is their business..."
-    cl ""
+    cl "Whatever's happening between Chris and Nora is their business..."
 
-# game/v1/scene19a.rpy:81
-translate francais v1s19a_5a93c43c:
+# game/v1/scene19a.rpy:80
+translate francais v1s19a_e93046dd_1:
 
-    # cl "And I think because I don't get involved as much as others, we have this unspoken respective relationship, you know?"
-    cl ""
+    # cl "And I think because I don't get involved as much as others, we have this unspoken, respectful relationship, you know?"
+    cl "And I think because I don't get involved as much as others, we have this unspoken, respectful relationship, you know?"
 
-# game/v1/scene19a.rpy:86
-translate francais v1s19a_91785a99:
+# game/v1/scene19a.rpy:85
+translate francais v1s19a_e26437cb_1:
 
-    # u "Yeah, makes sense, the Wolves are very much about loyalty."
-    u ""
+    # u "Yeah, makes sense. The Wolves are very much about loyalty."
+    u "Yeah, makes sense. The Wolves are very much about loyalty."
 
-# game/v1/scene19a.rpy:91
-translate francais v1s19a_2e6183d5:
+# game/v1/scene19a.rpy:90
+translate francais v1s19a_2e6183d5_1:
 
     # cl "Exactly, and though Chris may support me as a leader, it doesn't mean all of the Wolves will want to..."
-    cl ""
+    cl "Exactly, and though Chris may support me as a leader, it doesn't mean all of the Wolves will want to..."
 
-# game/v1/scene19a.rpy:92
-translate francais v1s19a_6268b72c:
+# game/v1/scene19a.rpy:91
+translate francais v1s19a_6268b72c_1:
 
     # cl "That's where a little favor from my favorite guy comes in."
-    cl ""
+    cl "That's where a little favor from my favorite guy comes in."
 
-# game/v1/scene19a.rpy:97
-translate francais v1s19a_9f8cf748:
+# game/v1/scene19a.rpy:96
+translate francais v1s19a_9f8cf748_1:
 
     # u "*Sighs* What now?"
-    u ""
+    u "*Sighs* What now?"
 
-# game/v1/scene19a.rpy:102
-translate francais v1s19a_c5eba73c:
+# game/v1/scene19a.rpy:101
+translate francais v1s19a_c5eba73c_1:
 
     # cl "Am I asking you for too much?"
-    cl ""
+    cl "Am I asking you for too much?"
 
-# game/v1/scene19a.rpy:107
-translate francais v1s19a_a93d361f:
+# game/v1/scene19a.rpy:106
+translate francais v1s19a_7eb85fb2_1:
 
-    # u "Haha, no... I'm just teasing."
-    u ""
+    # u "Ha, no... I'm just teasing."
+    u "Ha, no... I'm just teasing."
 
-# game/v1/scene19a.rpy:112
-translate francais v1s19a_b46d2918:
+# game/v1/scene19a.rpy:111
+translate francais v1s19a_f529f3a6_1:
 
-    # cl "Okay good, ha. I was nervous for a second..."
-    cl ""
+    # cl "Okay good. I was nervous for a second..."
+    cl "Okay good. I was nervous for a second..."
 
-# game/v1/scene19a.rpy:117
-translate francais v1s19a_6860ab9b:
+# game/v1/scene19a.rpy:116
+translate francais v1s19a_30dc0154_1:
 
-    # u "*Laughs* No, go ahead. What's the favor?"
-    u ""
+    # u "No, go ahead. What's the favor?"
+    u "No, go ahead. What's the favor?"
 
-# game/v1/scene19a.rpy:122
-translate francais v1s19a_a5a16b59:
+# game/v1/scene19a.rpy:121
+translate francais v1s19a_a5a16b59_1:
 
     # cl "I was wondering if you could talk to Chris about the Wolves actively supporting me."
-    cl ""
+    cl "I was wondering if you could talk to Chris about the Wolves actively supporting me."
 
-# game/v1/scene19a.rpy:127
-translate francais v1s19a_6ea5c55c:
+# game/v1/scene19a.rpy:126
+translate francais v1s19a_1b703228_1:
 
-    # u "Is he not already? I told you, Imre said he was rooting for you. He was screaming it to the world in fact, haha."
-    u ""
+    # u "Is he not already? I told you, Imre said he was rooting for you. He was screaming it to the world, in fact."
+    u "Is he not already? I told you, Imre said he was rooting for you. He was screaming it to the world, in fact."
 
-# game/v1/scene19a.rpy:132
-translate francais v1s19a_b0b2c8b7:
+# game/v1/scene19a.rpy:131
+translate francais v1s19a_a35de9f4_1:
 
-    # cl "*Chuckles* Rooting for and actively supporting are two very different things."
-    cl ""
+    # cl "Rooting for and actively supporting are two very different things."
+    cl "Rooting for and actively supporting are two very different things."
 
-# game/v1/scene19a.rpy:137
-translate francais v1s19a_27ae8d4a:
+# game/v1/scene19a.rpy:136
+translate francais v1s19a_7d364c65_1:
 
-    # cl "I need the Wolves' help with things on a grand scale if I want to beat Lindsey."
-    cl ""
+    # cl "I need the Wolves' help on a grand scale if I want to beat Lindsey."
+    cl "I need the Wolves' help on a grand scale if I want to beat Lindsey."
+
+# game/v1/scene19a.rpy:141
+translate francais v1s19a_cfb2cd80_1:
+
+    # cl "And honestly, when it comes to Imre, he's had a crush on me for as long as I can remember."
+    cl "And honestly, when it comes to Imre, he's had a crush on me for as long as I can remember."
 
 # game/v1/scene19a.rpy:142
-translate francais v1s19a_6a63d9ce:
-
-    # cl "And honestly when it comes to Imre, he's had a crush on me for as long as I can remember. *Laughs*"
-    cl ""
-
-# game/v1/scene19a.rpy:143
-translate francais v1s19a_0716f529:
+translate francais v1s19a_0716f529_1:
 
     # cl "When I called him this morning he picked up right away and was way too excited to help..."
-    cl ""
+    cl "When I called him this morning he picked up right away and was way too excited to help..."
 
-# game/v1/scene19a.rpy:148
-translate francais v1s19a_dabf04ab:
+# game/v1/scene19a.rpy:147
+translate francais v1s19a_dd59b8ee_1:
 
-    # u "*Laughs* That's amazing."
-    u ""
+    # u "That's amazing."
+    u "That's amazing."
 
-# game/v1/scene19a.rpy:153
-translate francais v1s19a_d90c42f3:
+# game/v1/scene19a.rpy:152
+translate francais v1s19a_d90c42f3_1:
 
     # cl "So, do you think you can talk to Chris about this? Today?"
-    cl ""
+    cl "So, do you think you can talk to Chris about this? Today?"
 
-# game/v1/scene19a.rpy:162
-translate francais v1s19a_d98828a0:
+# game/v1/scene19a.rpy:160
+translate francais v1s19a_d98828a0_2:
 
     # u "Of course I can."
-    u ""
+    u "Of course I can."
 
-# game/v1/scene19a.rpy:167
-translate francais v1s19a_127c938a:
+# game/v1/scene19a.rpy:165
+translate francais v1s19a_127c938a_1:
 
     # cl "Perfect! Thank you so so so much, [name]."
-    cl ""
+    cl "Perfect! Thank you so so so much, [name]."
 
-# game/v1/scene19a.rpy:173
-translate francais v1s19a_6fab9b02:
+# game/v1/scene19a.rpy:171
+translate francais v1s19a_6fab9b02_1:
 
     # u "(Damn, I promised to go meet Lindsey later. Do I have time for both? This \"double agent\" life might get tricky...)"
-    u ""
+    u "(Damn, I promised to go meet Lindsey later. Do I have time for both? This \"double agent\" life might get tricky...)"
 
-# game/v1/scene19a.rpy:181
-translate francais v1s19a_d98828a0_1:
+# game/v1/scene19a.rpy:178
+translate francais v1s19a_d98828a0_3:
 
     # u "Of course I can."
-    u ""
+    u "Of course I can."
 
-# game/v1/scene19a.rpy:186
-translate francais v1s19a_72c4ac08:
+# game/v1/scene19a.rpy:183
+translate francais v1s19a_72c4ac08_1:
 
     # cl "Perfect! Thank you so much, [name]. This means the world to me."
-    cl ""
+    cl "Perfect! Thank you so much, [name]. This means the world to me."
 
-# game/v1/scene19a.rpy:194
-translate francais v1s19a_867b967f:
+# game/v1/scene19a.rpy:191
+translate francais v1s19a_867b967f_1:
 
     # u "I hate to state the obvious but, Chris and I aren't on the best of terms right now... And he's got Nora on his mind, so..."
-    u ""
+    u "I hate to state the obvious but, Chris and I aren't on the best of terms right now... And he's got Nora on his mind, so..."
 
-# game/v1/scene19a.rpy:199
-translate francais v1s19a_2581285b:
+# game/v1/scene19a.rpy:196
+translate francais v1s19a_2581285b_1:
 
     # u "It's probably not best if I'm the one who talks to him."
-    u ""
+    u "It's probably not best if I'm the one who talks to him."
 
-# game/v1/scene19a.rpy:204
-translate francais v1s19a_c445d908:
+# game/v1/scene19a.rpy:201
+translate francais v1s19a_c445d908_1:
 
     # cl "*Sighs* Yeah, I get it. His head isn't in the right space around you. Smart thinking."
-    cl ""
+    cl "*Sighs* Yeah, I get it. His head isn't in the right space around you. Smart thinking."
 
-# game/v1/scene19a.rpy:210
-translate francais v1s19a_91d39ecc:
+# game/v1/scene19a.rpy:206
+translate francais v1s19a_79cc894a_1:
 
-    # cl "So yeah, I'll set everything up and will let you know when it's ready."
-    cl ""
+    # cl "So, yeah, I'll set everything up and will let you know when it's ready."
+    cl "So, yeah, I'll set everything up and will let you know when it's ready."
 
-# game/v1/scene19a.rpy:215
-translate francais v1s19a_dad009cb:
+# game/v1/scene19a.rpy:211
+translate francais v1s19a_dad009cb_1:
 
     # u "Awesome."
-    u ""
+    u "Awesome."
 
-# game/v1/scene19a.rpy:230
-translate francais v1s19a_ab246298:
+# game/v1/scene19a.rpy:226
+translate francais v1s19a_ab246298_1:
 
     # cl "*Screams* AH!"
-    cl ""
+    cl "*Screams* AH!"
 
-# game/v1/scene19a.rpy:235
-translate francais v1s19a_5023a294:
+# game/v1/scene19a.rpy:231
+translate francais v1s19a_5023a294_1:
 
     # u "Relax..."
-    u ""
+    u "Relax..."
 
-# game/v1/scene19a.rpy:240
-translate francais v1s19a_68b3c00a:
+# game/v1/scene19a.rpy:236
+translate francais v1s19a_68b3c00a_1:
 
     # cl "That scared me!"
-    cl ""
+    cl "That scared me!"
 
-# game/v1/scene19a.rpy:246
-translate francais v1s19a_601d293b:
+# game/v1/scene19a.rpy:242
+translate francais v1s19a_601d293b_1:
 
     # unknown "SHHH!"
-    unknown ""
+    unknown "SHHH!"
 
-# game/v1/scene19a.rpy:251
-translate francais v1s19a_184c3057:
+# game/v1/scene19a.rpy:247
+translate francais v1s19a_184c3057_1:
 
     # cl "Cliche library kids."
-    cl ""
+    cl "Cliche library kids."
 
-# game/v1/scene19a.rpy:256
-translate francais v1s19a_6b236514:
+# game/v1/scene19a.rpy:252
+translate francais v1s19a_8dedfa2c_1:
 
-    # u "Haha. Just like in the movies."
-    u ""
+    # u "Ha, just like in the movies."
+    u "Ha, just like in the movies."
 
-# game/v1/scene19a.rpy:261
-translate francais v1s19a_6c5d094c:
+# game/v1/scene19a.rpy:257
+translate francais v1s19a_6c5d094c_1:
 
     # cl "Right. Well, I need to be on my way. Thanks again for helping me with the plan."
-    cl ""
+    cl "Right. Well, I need to be on my way. Thanks again for helping me with the plan."
 
-# game/v1/scene19a.rpy:266
-translate francais v1s19a_66686979:
+# game/v1/scene19a.rpy:262
+translate francais v1s19a_66686979_1:
 
     # u "Always."
-    u ""
+    u "Always."
 
 translate francais strings:
 
-    # game/v1/scene19a.rpy:175
+    # game/v1/scene19a.rpy:173
     old "Talk to Chris"
-    new ""
+    new "Talk to Chris"
 
-    # game/v1/scene19a.rpy:175
+    # game/v1/scene19a.rpy:173
     old "Make an excuse"
-    new ""
+    new "Make an excuse"
 

@@ -1,182 +1,182 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene30.rpy:27
-translate francais v1s30_32a51c82:
+translate francais v1s30_32a51c82_1:
 
     # cl "[name], there you are!"
-    cl ""
+    cl "[name], there you are!"
 
 # game/v1/scene30.rpy:37
-translate francais v1s30_74e4cb3b:
+translate francais v1s30_74e4cb3b_1:
 
     # u "Hey, how's it going?"
-    u ""
+    u "Hey, how's it going?"
 
 # game/v1/scene30.rpy:42
-translate francais v1s30_3ad042ca:
+translate francais v1s30_38f0dd52_1:
 
-    # cl "Not too bad... Although, this thing was definitely NOT cheap."
-    cl ""
+    # cl "Not too bad... although, this thing was definitely NOT cheap."
+    cl "Not too bad... although, this thing was definitely NOT cheap."
 
 # game/v1/scene30.rpy:47
-translate francais v1s30_c095ea42:
+translate francais v1s30_c095ea42_1:
 
     # u "How bad was it?"
-    u ""
+    u "How bad was it?"
 
 # game/v1/scene30.rpy:52
-translate francais v1s30_57dd0cb5:
+translate francais v1s30_57dd0cb5_1:
 
     # cl "Well, for it being the only one left at the auction, let's just say it was right under our budget."
-    cl ""
+    cl "Well, for it being the only one left at the auction, let's just say it was right under our budget."
 
 # game/v1/scene30.rpy:57
-translate francais v1s30_f31c5072:
+translate francais v1s30_f31c5072_1:
 
     # u "Damn."
-    u ""
+    u "Damn."
 
 # game/v1/scene30.rpy:63
-translate francais v1s30_73f6ff00:
+translate francais v1s30_73f6ff00_1:
 
     # cl "Chris helped a bit though, so that was nice."
-    cl ""
+    cl "Chris helped a bit though, so that was nice."
 
 # game/v1/scene30.rpy:68
-translate francais v1s30_d58ff1f4:
+translate francais v1s30_fe81a821_1:
 
-    # u "This better be a nice ass toy..."
-    u ""
+    # u "This better be a nice-ass toy..."
+    u "This better be a nice-ass toy..."
 
 # game/v1/scene30.rpy:73
-translate francais v1s30_3764a626:
+translate francais v1s30_5199e85e_1:
 
-    # cl "Haha, it is pretty fancy!"
-    cl ""
+    # cl "It is pretty fancy!"
+    cl "It is pretty fancy!"
 
 # game/v1/scene30.rpy:75
-translate francais v1s30_556b46e7:
+translate francais v1s30_556b46e7_1:
 
     # cl "As soon as we're all set up, I'm just gonna take a few shots and then we can pick our favorites."
-    cl ""
+    cl "As soon as we're all set up, I'm just gonna take a few shots and then we can pick our favorites."
 
 # game/v1/scene30.rpy:80
-translate francais v1s30_e499616e:
+translate francais v1s30_e499616e_1:
 
     # u "So, it's just you and the wolf?"
-    u ""
+    u "So, it's just you and the wolf?"
 
 # game/v1/scene30.rpy:85
-translate francais v1s30_8adc7021:
+translate francais v1s30_8adc7021_1:
 
     # cl "Yeah, I kinda felt like it was too much to ask individual people to get involved, you know?"
-    cl ""
+    cl "Yeah, I kinda felt like it was too much to ask individual people to get involved, you know?"
 
 # game/v1/scene30.rpy:90
-translate francais v1s30_f36ef9ff:
+translate francais v1s30_f23f0960_1:
 
-    # u "Or did Chris tell you that... *Chuckles*"
-    u ""
+    # u "Or did Chris tell you that..."
+    u "Or did Chris tell you that..."
 
 # game/v1/scene30.rpy:95
-translate francais v1s30_6120c7c9:
+translate francais v1s30_6120c7c9_1:
 
     # cl "Okay, yes..."
-    cl ""
+    cl "Okay, yes..."
 
 # game/v1/scene30.rpy:97
-translate francais v1s30_a09604ce:
+translate francais v1s30_2ca6e59f_1:
 
-    # cl "As long as they are supporting me I'm happy."
-    cl ""
+    # cl "As long as they are supporting me, I'm happy."
+    cl "As long as they are supporting me, I'm happy."
 
 # game/v1/scene30.rpy:102
-translate francais v1s30_0bbd3520:
+translate francais v1s30_0bbd3520_1:
 
     # u "Can't go wrong with that."
-    u ""
+    u "Can't go wrong with that."
 
 # game/v1/scene30.rpy:107
-translate francais v1s30_434b9e09:
+translate francais v1s30_434b9e09_1:
 
     # cl "Okay so..."
-    cl ""
+    cl "Okay so..."
 
 # game/v1/scene30.rpy:117
-translate francais v1s30_4898ed50:
+translate francais v1s30_4898ed50_1:
 
     # u "You want me to take them?"
-    u ""
+    u "You want me to take them?"
 
 # game/v1/scene30.rpy:122
-translate francais v1s30_3e3daac6:
+translate francais v1s30_6148c723_1:
 
-    # cl "Yes... Please. *Laughs*"
-    cl ""
+    # cl "Yes... please."
+    cl "Yes... please."
 
 # game/v1/scene30.rpy:127
-translate francais v1s30_9b0a5153:
+translate francais v1s30_9b0a5153_1:
 
     # u "Okay, ready when you are."
-    u ""
+    u "Okay, ready when you are."
 
 # game/v1/scene30.rpy:149
-translate francais v1s30_c2d0308a:
+translate francais v1s30_c2d0308a_1:
 
     # u "Okay, I think I've got a pretty good selection to choose from."
-    u ""
+    u "Okay, I think I've got a pretty good selection to choose from."
 
 # game/v1/scene30.rpy:159
-translate francais v1s30_264cc31d:
+translate francais v1s30_264cc31d_1:
 
     # cl "How do they look? Too cheesy?"
-    cl ""
+    cl "How do they look? Too cheesy?"
 
 # game/v1/scene30.rpy:164
-translate francais v1s30_8ba88eb7:
+translate francais v1s30_3a10513a_1:
 
-    # u "Haha, no. You look great as always."
-    u ""
+    # u "Ha, no. You look great, as always."
+    u "Ha, no. You look great, as always."
 
 # game/v1/scene30.rpy:180
-translate francais v1s30_aac0bbae:
+translate francais v1s30_aac0bbae_1:
 
     # cl "Thank you."
-    cl ""
+    cl "Thank you."
 
 # game/v1/scene30.rpy:185
-translate francais v1s30_1b28a406:
+translate francais v1s30_1b28a406_1:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
 # game/v1/scene30.rpy:190
-translate francais v1s30_dd62ef0e:
+translate francais v1s30_37942a4a_1:
 
-    # cl "Okay, we can leave the stuff here because I think some of The Wolves wanted to... play with it. *Laughs*"
-    cl ""
+    # cl "Okay, we can leave the stuff here because I think some of the Wolves wanted to... play with it."
+    cl "Okay, we can leave the stuff here because I think some of the Wolves wanted to... play with it."
 
 # game/v1/scene30.rpy:195
-translate francais v1s30_184f1b2a:
+translate francais v1s30_9fd5fe5a_1:
 
-    # u "Haha, what?"
-    u ""
+    # u "Ha, what?"
+    u "Ha, what?"
 
 # game/v1/scene30.rpy:200
-translate francais v1s30_05676f94:
+translate francais v1s30_05676f94_1:
 
     # cl "I try not to ask too many questions, you know?"
-    cl ""
+    cl "I try not to ask too many questions, you know?"
 
 # game/v1/scene30.rpy:202
-translate francais v1s30_20e70674:
+translate francais v1s30_50450572_1:
 
-    # cl "Alright, let's head back and look at these closely so we can pick a good one."
-    cl ""
+    # cl "All right, let's head back and look at these closely so we can pick a good one."
+    cl "All right, let's head back and look at these closely so we can pick a good one."
 
 translate francais strings:
 
     # game/v1/scene30.rpy:129
     old "Take Picture"
-    new ""
+    new "Take Picture"
 

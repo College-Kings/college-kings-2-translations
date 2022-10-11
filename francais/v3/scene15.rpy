@@ -1,1768 +1,1768 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene15.rpy:24
 translate francais v3s15_9dd1b2e9:
 
     # u "Well, hello there, young lady. Do you need some company?"
-    u ""
+    u "Well, hello there, young lady. Do you need some company?"
 
 # game/v3/scene15.rpy:29
-translate francais v3s15_947088f9:
+translate francais v3s15_67f33a70:
 
-    # pe "Haha, why thank you, handsome stranger. Someone's finally here to rescue me!"
-    pe ""
+    # pe "Why, thank you, handsome stranger. Someone's finally here to rescue me!"
+    pe "Why, thank you, handsome stranger. Someone's finally here to rescue me!"
 
 # game/v3/scene15.rpy:35
 translate francais v3s15_fa328723:
 
     # pe "Thanks for coming."
-    pe ""
+    pe "Thanks for coming."
 
 # game/v3/scene15.rpy:40
 translate francais v3s15_2266da09:
 
     # u "I'm never one to ignore a damsel in distress."
-    u ""
+    u "I'm never one to ignore a damsel in distress."
 
 # game/v3/scene15.rpy:45
-translate francais v3s15_d7e383d5:
+translate francais v3s15_e4a6bd68:
 
-    # pe "*Laughs* It's not that bad. It's just so awkward being the third wheel."
-    pe ""
+    # pe "Ha. It's not that bad. It's just so awkward being the third wheel."
+    pe "Ha. It's not that bad. It's just so awkward being the third wheel."
 
 # game/v3/scene15.rpy:47
 translate francais v3s15_7e5cd234:
 
     # pe "And I thought it'd be fun having you here with me."
-    pe ""
+    pe "And I thought it'd be fun having you here with me."
 
 # game/v3/scene15.rpy:52
 translate francais v3s15_64eb1e6d:
 
     # u "So, where are the lovebirds?"
-    u ""
+    u "So, where are the lovebirds?"
 
 # game/v3/scene15.rpy:57
 translate francais v3s15_423d2a05:
 
     # pe "They're just over there."
-    pe ""
+    pe "They're just over there."
 
 # game/v3/scene15.rpy:62
 translate francais v3s15_73af63a8:
 
     # u "I need to experience this up close. Come on."
-    u ""
+    u "I need to experience this up close. Come on."
 
 # game/v3/scene15.rpy:72
-translate francais v3s15_a5ef7211:
+translate francais v3s15_7bfe6ca3:
 
-    # imre "Oh, hey man! You're finally here."
-    imre ""
+    # imre "Hey, man! You're finally here."
+    imre "Hey, man! You're finally here."
 
 # game/v3/scene15.rpy:77
 translate francais v3s15_1b15a626:
 
     # dg3 "Hi, [name]."
-    dg3 ""
+    dg3 "Hi, [name]."
 
 # game/v3/scene15.rpy:82
 translate francais v3s15_d11490f1:
 
     # u "Hello, hello. So, how did this come about?"
-    u ""
+    u "Hello, hello. So, how did this come about?"
 
 # game/v3/scene15.rpy:87
-translate francais v3s15_3810e4b4:
+translate francais v3s15_301f22db:
 
-    # imre "You remember that win-a-date stall that Karen was running at the Deer's event a while back? Well-"
-    imre ""
+    # imre "You remember that win-a-date stall that Karen was running at the Deer event a while back? Well-"
+    imre "You remember that win-a-date stall that Karen was running at the Deer event a while back? Well-"
 
 # game/v3/scene15.rpy:92
 translate francais v3s15_ced1623f:
 
     # dg3 "Imre won!"
-    dg3 ""
+    dg3 "Imre won!"
 
 # game/v3/scene15.rpy:97
 translate francais v3s15_ea374dc8:
 
     # u "Nice!"
-    u ""
+    u "Nice!"
 
-# game/v3/scene15.rpy:103
+# game/v3/scene15.rpy:101
 translate francais v3s15_33769f74:
 
     # u "All my hopes and dreams of winning have gone up in flames."
-    u ""
+    u "All my hopes and dreams of winning have gone up in flames."
 
-# game/v3/scene15.rpy:108
+# game/v3/scene15.rpy:106
 translate francais v3s15_07a105da:
 
     # dg3 "Really? Because we could-"
-    dg3 ""
+    dg3 "Really? Because we could-"
 
-# game/v3/scene15.rpy:113
+# game/v3/scene15.rpy:111
 translate francais v3s15_312bb0b4:
 
     # imre "So, yeah, anyway, it's just a fun date."
-    imre ""
+    imre "So, yeah, anyway, it's just a fun date."
 
-# game/v3/scene15.rpy:118
+# game/v3/scene15.rpy:116
 translate francais v3s15_4b026760:
 
     # imre "Are we going back in and hitting some rides or hanging out here like losers?"
-    imre ""
+    imre "Are we going back in and hitting some rides or hanging out here like losers?"
 
-# game/v3/scene15.rpy:123
-translate francais v3s15_f0bb4edf:
+# game/v3/scene15.rpy:121
+translate francais v3s15_e28d6f79:
 
-    # dg3 "We'll go in, you can hang out here, haha."
-    dg3 ""
+    # dg3 "We'll go in. You can hang out here, ha."
+    dg3 "We'll go in. You can hang out here, ha."
 
-# game/v3/scene15.rpy:128
+# game/v3/scene15.rpy:126
 translate francais v3s15_999e824d:
 
     # u "(Oh, shit.)"
-    u ""
+    u "(Oh, shit.)"
 
-# game/v3/scene15.rpy:133
-translate francais v3s15_97949448:
+# game/v3/scene15.rpy:131
+translate francais v3s15_3a1b2cba:
 
-    # pe "Haha! Yeah, Imre."
-    pe ""
+    # pe "Yeah, Imre."
+    pe "Yeah, Imre."
 
-# game/v3/scene15.rpy:138
-translate francais v3s15_85114437:
+# game/v3/scene15.rpy:136
+translate francais v3s15_7d9a18a1:
 
-    # imre "Yeah, yeah... Very funny."
-    imre ""
+    # imre "Very funny."
+    imre "Very funny."
 
-# game/v3/scene15.rpy:143
+# game/v3/scene15.rpy:141
 translate francais v3s15_efe6cc99:
 
     # dg3 "Aw, isn't he cute when he gets embarrassed?"
-    dg3 ""
+    dg3 "Aw, isn't he cute when he gets embarrassed?"
 
-# game/v3/scene15.rpy:148
+# game/v3/scene15.rpy:146
 translate francais v3s15_4c935c68:
 
     # imre "I'm not embarrassed."
-    imre ""
+    imre "I'm not embarrassed."
 
-# game/v3/scene15.rpy:153
+# game/v3/scene15.rpy:151
 translate francais v3s15_11eef307:
 
     # u "(I think Imre has found his soulmate.)"
-    u ""
+    u "(I think Imre has found his soulmate.)"
 
-# game/v3/scene15.rpy:158
+# game/v3/scene15.rpy:156
 translate francais v3s15_423f7cc8:
 
     # imre "Let's go!"
-    imre ""
+    imre "Let's go!"
 
-# game/v3/scene15.rpy:191
-translate francais v3s15pier_carousel_d4ea9925:
+# game/v3/scene15.rpy:189
+translate francais v3s15pier_carousel_16cdf24e:
 
-    # pe "I want one of the horses! The bench seats are for babies. *Laughs*"
-    pe ""
+    # pe "I want one of the horses! The bench seats are for babies."
+    pe "I want one of the horses! The bench seats are for babies."
 
-# game/v3/scene15.rpy:196
-translate francais v3s15pier_carousel_564e9fd2:
+# game/v3/scene15.rpy:194
+translate francais v3s15pier_carousel_646aad0c:
 
-    # u "It's a carousel, Penelope. The whole thing is kind of for babies, haha."
-    u ""
+    # u "It's a carousel, Penelope. The whole thing is kind of for babies."
+    u "It's a carousel, Penelope. The whole thing is kind of for babies."
 
-# game/v3/scene15.rpy:201
+# game/v3/scene15.rpy:199
 translate francais v3s15pier_carousel_d7f4f3c8:
 
     # pe "You know what I mean! I want to have a full carnival experience. Horses only!"
-    pe ""
+    pe "You know what I mean! I want to have a full carnival experience. Horses only!"
 
-# game/v3/scene15.rpy:216
-translate francais v3s15pier_carousel_ef7a15dd:
+# game/v3/scene15.rpy:214
+translate francais v3s15pier_carousel_ebd678e5:
 
-    # u "Haha, agreed. The horses are classic."
-    u ""
+    # u "Agreed. The horses are classic."
+    u "Agreed. The horses are classic."
 
-# game/v3/scene15.rpy:226
+# game/v3/scene15.rpy:224
 translate francais v3s15pier_carousel_00421e61:
 
     # carni "Hold on tight, away we go!"
-    carni ""
+    carni "Hold on tight, away we go!"
 
-# game/v3/scene15.rpy:246
+# game/v3/scene15.rpy:244
 translate francais v3s15pier_carousel_2990e03b:
 
     # u "It's so slow!"
-    u ""
+    u "It's so slow!"
 
-# game/v3/scene15.rpy:251
+# game/v3/scene15.rpy:249
 translate francais v3s15pier_carousel_ef4c7d55:
 
     # pe "I know! Just pretend it's going super fast?"
-    pe ""
+    pe "I know! Just pretend it's going super fast?"
 
-# game/v3/scene15.rpy:256
-translate francais v3s15pier_carousel_484b48b8:
+# game/v3/scene15.rpy:254
+translate francais v3s15pier_carousel_3b26b926:
 
-    # pe "Wooooo! *Laughs*"
-    pe ""
+    # pe "Wooooo!"
+    pe "Wooooo!"
 
-# game/v3/scene15.rpy:261
+# game/v3/scene15.rpy:259
 translate francais v3s15pier_carousel_a08b6186:
 
     # u "Come on, can't they make it go faster?"
-    u ""
+    u "Come on, can't they make it go faster?"
 
-# game/v3/scene15.rpy:266
+# game/v3/scene15.rpy:264
 translate francais v3s15pier_carousel_2423ccac:
 
     # carni "Hey, I'll have you know I've set this ride at the perfect speed."
-    carni ""
+    carni "Hey, I'll have you know I've set this ride at the perfect speed."
 
-# game/v3/scene15.rpy:271
+# game/v3/scene15.rpy:269
 translate francais v3s15pier_carousel_d284283f:
 
     # u "The perfect speed? I can walk faster than this!"
-    u ""
+    u "The perfect speed? I can walk faster than this!"
+
+# game/v3/scene15.rpy:274
+translate francais v3s15pier_carousel_2adaf444:
+
+    # carni "Listen, buddy, you think you know more about being a carousel operator than me? I'm protecting you."
+    carni "Listen, buddy, you think you know more about being a carousel operator than me? I'm protecting you."
 
 # game/v3/scene15.rpy:276
-translate francais v3s15pier_carousel_a2f3ca63:
-
-    # carni "Listen buddy, you think you know more about being a carousel operator than me? I'm protecting you."
-    carni ""
-
-# game/v3/scene15.rpy:278
 translate francais v3s15pier_carousel_e198bdec:
 
     # carni "It used to go a lot faster, but an old lady broke her hip."
-    carni ""
+    carni "It used to go a lot faster, but an old lady broke her hip."
+
+# game/v3/scene15.rpy:285
+translate francais v3s15pier_carousel_1a6449c3:
+
+    # u "Ha!"
+    u "Ha!"
 
 # game/v3/scene15.rpy:290
-translate francais v3s15pier_carousel_fcc18885:
-
-    # u "*Laughs*"
-    u ""
-
-# game/v3/scene15.rpy:295
 translate francais v3s15pier_carousel_74e1834e:
 
     # carni "Is that funny to you?!"
-    carni ""
+    carni "Is that funny to you?!"
 
-# game/v3/scene15.rpy:297
-translate francais v3s15pier_carousel_5ec72ee6:
+# game/v3/scene15.rpy:292
+translate francais v3s15pier_carousel_7e09612c:
 
-    # carni "If shitheads like you were in charge, it'd be cranked up to maximum speed and yourself and everyone else on this ride would be decapitated!"
-    carni ""
+    # carni "If shitheads like you were in charge, it'd be cranked up to maximum speed and you, along with everyone else on this ride, would be decapitated!"
+    carni "If shitheads like you were in charge, it'd be cranked up to maximum speed and you, along with everyone else on this ride, would be decapitated!"
 
-# game/v3/scene15.rpy:307
+# game/v3/scene15.rpy:302
 translate francais v3s15pier_carousel_fba0b28f:
 
     # carni "So maybe you should be more respectful to the man currently holding your fucking life in the palm of his hands!"
-    carni ""
+    carni "So maybe you should be more respectful to the man currently holding your fucking life in the palm of his hands!"
+
+# game/v3/scene15.rpy:307
+translate francais v3s15pier_carousel_b7fddabe:
+
+    # u "(Holy shit, dude... there are kids here. Take it easy.)"
+    u "(Holy shit, dude... there are kids here. Take it easy.)"
 
 # game/v3/scene15.rpy:312
-translate francais v3s15pier_carousel_52a37bcc:
-
-    # u "(Holy shit, dude... There are kids here.)"
-    u ""
-
-# game/v3/scene15.rpy:317
 translate francais v3s15pier_carousel_4720e7f6:
 
     # carni "Also, she sued us for a lot of money, so now we're not allowed to make it go any faster than this."
-    carni ""
+    carni "Also, she sued us for a lot of money, so now we're not allowed to make it go any faster than this."
+
+# game/v3/scene15.rpy:320
+translate francais v3s15pier_carousel_5263d541:
+
+    # u "Oh, um, all right, Well, thanks for letting us know."
+    u "Oh, um, all right, Well, thanks for letting us know."
 
 # game/v3/scene15.rpy:325
-translate francais v3s15pier_carousel_2d1bc347:
-
-    # u "Oh, um, alright, Well, thanks for letting us know."
-    u ""
-
-# game/v3/scene15.rpy:330
 translate francais v3s15pier_carousel_640ceb47:
 
     # carni "You're welcome. We get a lot of complaints about how slow this ride is, but you have to understand I'm just trying to keep you safe!"
-    carni ""
+    carni "You're welcome. We get a lot of complaints about how slow this ride is, but you have to understand I'm just trying to keep you safe!"
 
-# game/v3/scene15.rpy:335
-translate francais v3s15pier_carousel_f8edd407:
+# game/v3/scene15.rpy:330
+translate francais v3s15pier_carousel_78ab9aa2:
 
-    # carni "I won't let anyone get hurt... Not again."
-    carni ""
+    # carni "I won't let anyone get hurt... not again."
+    carni "I won't let anyone get hurt... not again."
 
-# game/v3/scene15.rpy:337
-translate francais v3s15pier_carousel_42905904:
+# game/v3/scene15.rpy:332
+translate francais v3s15pier_carousel_f4ef8357:
 
-    # u "(Wow, this guy is serious about his carousel. *Laughs*)"
-    u ""
+    # u "(Wow, this guy is serious about his carousel. Respect.)"
+    u "(Wow, this guy is serious about his carousel. Respect.)"
 
-# game/v3/scene15.rpy:347
+# game/v3/scene15.rpy:342
 translate francais v3s15pier_carousel_94b13997:
 
     # u "Yeah, okay. Let's get on this one here."
-    u ""
+    u "Yeah, okay. Let's get on this one here."
 
-# game/v3/scene15.rpy:352
+# game/v3/scene15.rpy:347
 translate francais v3s15pier_carousel_3fca6cb5:
 
     # pe "Together?"
-    pe ""
+    pe "Together?"
 
-# game/v3/scene15.rpy:357
+# game/v3/scene15.rpy:352
 translate francais v3s15pier_carousel_c65d6ff3:
 
     # u "Sure. It'll be more fun."
-    u ""
+    u "Sure. It'll be more fun."
 
-# game/v3/scene15.rpy:362
+# game/v3/scene15.rpy:357
 translate francais v3s15pier_carousel_35738857:
 
     # pe "Okay! I hope there's enough room..."
-    pe ""
+    pe "Okay! I hope there's enough room..."
 
-# game/v3/scene15.rpy:367
+# game/v3/scene15.rpy:362
 translate francais v3s15pier_carousel_d9a06e88:
 
     # u "Hey, what is that supposed to mean?"
-    u ""
+    u "Hey, what is that supposed to mean?"
 
-# game/v3/scene15.rpy:378
+# game/v3/scene15.rpy:373
 translate francais v3s15pier_carousel_cc0ace02:
 
     # pe "Um... *Giggles* I can feel something bulging..."
-    pe ""
+    pe "Um... *Giggles* I can feel something bulging..."
+
+# game/v3/scene15.rpy:378
+translate francais v3s15pier_carousel_45c24644:
+
+    # u "Ha, sorry, it's just my... phone."
+    u "Ha, sorry, it's just my... phone."
 
 # game/v3/scene15.rpy:383
-translate francais v3s15pier_carousel_f65af3b5:
-
-    # u "Haha, sorry, it's just my... phone."
-    u ""
-
-# game/v3/scene15.rpy:388
 translate francais v3s15pier_carousel_d0496019:
 
     # pe "Hmm, it doesn't feel like a phone..."
-    pe ""
+    pe "Hmm, it doesn't feel like a phone..."
 
-# game/v3/scene15.rpy:393
+# game/v3/scene15.rpy:388
 translate francais v3s15pier_carousel_4ae955db:
 
     # u "And what exactly does it feel like?"
-    u ""
+    u "And what exactly does it feel like?"
 
-# game/v3/scene15.rpy:398
-translate francais v3s15pier_carousel_e451ed7e:
+# game/v3/scene15.rpy:393
+translate francais v3s15pier_carousel_c64e1084:
 
-    # pe "Haha, [name], behave."
-    pe ""
+    # pe "[name], behave."
+    pe "[name], behave."
 
-# game/v3/scene15.rpy:404
+# game/v3/scene15.rpy:399
 translate francais v3s15pier_carousel_cf894c67:
 
     # u "Oh, yeah? Like you behaved at Lauren's party?"
-    u ""
+    u "Oh, yeah? Like you behaved at Lauren's party?"
+
+# game/v3/scene15.rpy:404
+translate francais v3s15pier_carousel_cceb76fe:
+
+    # pe "Oh my God, [name]... don't bring that up here, I'm gonna turn red!"
+    pe "Oh my God, [name]... don't bring that up here, I'm gonna turn red!"
 
 # game/v3/scene15.rpy:409
-translate francais v3s15pier_carousel_94eb67ec:
+translate francais v3s15pier_carousel_48c99239:
 
-    # pe "Oh, my God, [name]... Don't bring that up here, I'm gonna turn red!"
-    pe ""
+    # u "Why?"
+    u "Why?"
 
 # game/v3/scene15.rpy:414
-translate francais v3s15pier_carousel_6b0366a7:
+translate francais v3s15pier_carousel_09077096:
 
-    # u "*Laughs* Why?"
-    u ""
+    # pe "*Sighs* I admit, that night was amazing. I still think about it a lot."
+    pe "*Sighs* I admit, that night was amazing. I still think about it a lot."
 
 # game/v3/scene15.rpy:419
-translate francais v3s15pier_carousel_af995f1f:
-
-    # pe "*Sighs* That night was amazing. I still think about it a lot, ha."
-    pe ""
-
-# game/v3/scene15.rpy:424
 translate francais v3s15pier_carousel_1c9eec7f:
 
     # u "Oh, yeah?"
-    u ""
+    u "Oh, yeah?"
 
-# game/v3/scene15.rpy:429
+# game/v3/scene15.rpy:424
 translate francais v3s15pier_carousel_8a01c4bd:
 
     # pe "Yeah, when I'm by myself."
-    pe ""
+    pe "Yeah, when I'm by myself."
 
-# game/v3/scene15.rpy:434
+# game/v3/scene15.rpy:429
 translate francais v3s15pier_carousel_689e0ecb:
 
     # u "Ah, sitting around and fantasizing about me? That's what you've been doing these days?"
-    u ""
+    u "Ah, sitting around and fantasizing about me? That's what you've been doing these days?"
 
-# game/v3/scene15.rpy:439
+# game/v3/scene15.rpy:434
 translate francais v3s15pier_carousel_14abf4d7:
 
     # pe "I didn't say that was all I was doing..."
-    pe ""
+    pe "I didn't say that was all I was doing..."
+
+# game/v3/scene15.rpy:439
+translate francais v3s15pier_carousel_89df540c:
+
+    # u "*Gasps* Are you talking dirty to me Penelope?"
+    u "*Gasps* Are you talking dirty to me Penelope?"
 
 # game/v3/scene15.rpy:444
-translate francais v3s15pier_carousel_5200f811:
+translate francais v3s15pier_carousel_c8466332:
 
-    # u "*Gasps* Are you talking dirty to me Penelope? *Chuckles*"
-    u ""
+    # pe "Not anymore! I think I better stop before your \"phone\" bursts through your jeans."
+    pe "Not anymore! I think I better stop before your \"phone\" bursts through your jeans."
 
 # game/v3/scene15.rpy:449
-translate francais v3s15pier_carousel_cf1428bc:
-
-    # pe "Haha, not anymore. I think I better stop before your \"phone\" bursts through your jeans. *Laughs*"
-    pe ""
-
-# game/v3/scene15.rpy:454
 translate francais v3s15pier_carousel_b9fdc2a3:
 
     # u "(Oh, shit.) Yeah, it's a new model that... um..."
-    u ""
+    u "(Oh, shit.) Yeah, it's a new model that... um..."
 
-# game/v3/scene15.rpy:456
+# game/v3/scene15.rpy:451
 translate francais v3s15pier_carousel_2b5547b3:
 
     # u "It does that... when it's, uh... horny?"
-    u ""
+    u "It does that... when it's, uh... horny?"
+
+# game/v3/scene15.rpy:456
+translate francais v3s15pier_carousel_528f8516:
+
+    # pe "Silly."
+    pe "Silly."
 
 # game/v3/scene15.rpy:461
-translate francais v3s15pier_carousel_19605ac4:
+translate francais v3s15pier_carousel_c8881caf:
 
-    # pe "*Laughs*"
-    pe ""
+    # u "Sorry, I couldn't figure out where to take the innuendo from there."
+    u "Sorry, I couldn't figure out where to take the innuendo from there."
 
 # game/v3/scene15.rpy:466
-translate francais v3s15pier_carousel_1131dc5a:
+translate francais v3s15pier_carousel_1b89a6fd:
 
-    # u "Sorry, I couldn't figure out where to take the innuendo from there, haha."
-    u ""
+    # pe "It's okay. You get an A for effort."
+    pe "It's okay. You get an A for effort."
 
-# game/v3/scene15.rpy:471
-translate francais v3s15pier_carousel_10c136f5:
-
-    # pe "It's okay, you get an A for effort."
-    pe ""
-
-# game/v3/scene15.rpy:477
+# game/v3/scene15.rpy:472
 translate francais v3s15pier_carousel_b640e519:
 
     # pe "This is going to be an interesting ride!"
-    pe ""
+    pe "This is going to be an interesting ride!"
+
+# game/v3/scene15.rpy:477
+translate francais v3s15pier_carousel_e12139ca:
+
+    # u "Ha, yeah. Be sure to check on me. I might fall off at any moment."
+    u "Ha, yeah. Be sure to check on me. I might fall off at any moment."
 
 # game/v3/scene15.rpy:482
-translate francais v3s15pier_carousel_1e63a112:
-
-    # u "Hah, yeah. Be sure to check on me. I might fall off at any moment."
-    u ""
-
-# game/v3/scene15.rpy:487
 translate francais v3s15pier_carousel_8561b6fb:
 
     # pe "Right..."
-    pe ""
+    pe "Right..."
 
-# game/v3/scene15.rpy:489
+# game/v3/scene15.rpy:484
 translate francais v3s15pier_carousel_f6fdc9f5:
 
     # carni "Hold on tight! Away we g-"
-    carni ""
+    carni "Hold on tight! Away we g-"
 
-# game/v3/scene15.rpy:494
+# game/v3/scene15.rpy:489
 translate francais v3s15pier_carousel_17f79ede:
 
     # carni "Actually, no. Hang on! You two! On the horse!"
-    carni ""
+    carni "Actually, no. Hang on! You two! On the horse!"
 
-# game/v3/scene15.rpy:499
+# game/v3/scene15.rpy:494
 translate francais v3s15pier_carousel_d91407d9:
 
     # u "(Us?)"
-    u ""
+    u "(Us?)"
 
-# game/v3/scene15.rpy:504
+# game/v3/scene15.rpy:499
 translate francais v3s15pier_carousel_e3f55e32:
 
     # carni "You can't do that! You can't share one. We have weight limits for these horses."
-    carni ""
+    carni "You can't do that! You can't share one. We have weight limits for these horses."
 
-# game/v3/scene15.rpy:509
+# game/v3/scene15.rpy:504
 translate francais v3s15pier_carousel_78cfee7b:
 
     # u "Seriously? A weight limit?"
-    u ""
+    u "Seriously? A weight limit?"
 
-# game/v3/scene15.rpy:514
+# game/v3/scene15.rpy:509
 translate francais v3s15pier_carousel_753cb336:
 
     # carni "Yes. Please get off and sit on one of the seats if you want to sit together."
-    carni ""
+    carni "Yes. Please get off and sit on one of the seats if you want to sit together."
 
-# game/v3/scene15.rpy:519
+# game/v3/scene15.rpy:514
 translate francais v3s15pier_carousel_22bc5407:
 
     # pe "Boooo!"
-    pe ""
+    pe "Boooo!"
 
-# game/v3/scene15.rpy:524
+# game/v3/scene15.rpy:519
 translate francais v3s15pier_carousel_7961f0e3:
 
     # dg3 "Yeah, boo!"
-    dg3 ""
+    dg3 "Yeah, boo!"
 
-# game/v3/scene15.rpy:529
+# game/v3/scene15.rpy:524
 translate francais v3s15pier_carousel_1b3ebfbc:
 
     # carni "We have safety regulations for a reason! Can't you see I'm trying to protect you?!"
-    carni ""
+    carni "We have safety regulations for a reason! Can't you see I'm trying to protect you?!"
 
-# game/v3/scene15.rpy:534
+# game/v3/scene15.rpy:529
 translate francais v3s15pier_carousel_c828eb78:
 
     # carni "I am a carousel operator. I must enforce the safety regulations."
-    carni ""
+    carni "I am a carousel operator. I must enforce the safety regulations."
 
-# game/v3/scene15.rpy:539
+# game/v3/scene15.rpy:534
 translate francais v3s15pier_carousel_3259a6cb:
 
     # carni "I must keep you safe, no matter how much you spit on and boo and jeer me. For that is the oath I have taken."
-    carni ""
+    carni "I must keep you safe, no matter how much you spit on and boo and jeer me. For that is the oath I have taken."
 
-# game/v3/scene15.rpy:544
+# game/v3/scene15.rpy:539
 translate francais v3s15pier_carousel_fca70513:
 
     # carni "So, hate me if you must. But I WILL NOT let any harm fall upon you."
-    carni ""
+    carni "So, hate me if you must. But I WILL NOT let any harm fall upon you."
 
-# game/v3/scene15.rpy:549
+# game/v3/scene15.rpy:544
 translate francais v3s15pier_carousel_4e7909b8:
 
     # u "Whoa, okay. Hey man, we're getting off, see?"
-    u ""
+    u "Whoa, okay. Hey man, we're getting off, see?"
+
+# game/v3/scene15.rpy:569
+translate francais v3s15pier_carousel_7fba9384:
+
+    # carni "Okay, let's try this again. Everybody hold on tight... and awaaay we go!"
+    carni "Okay, let's try this again. Everybody hold on tight... and awaaay we go!"
 
 # game/v3/scene15.rpy:574
-translate francais v3s15pier_carousel_672e387f:
+translate francais v3s15pier_carousel_b6f185c4:
 
-    # carni "Okay, let's try this again. Everybody hold on tight... Away we go!"
-    carni ""
+    # u "Slowest ride ever."
+    u "Slowest ride ever."
 
 # game/v3/scene15.rpy:579
-translate francais v3s15pier_carousel_ba5043b6:
+translate francais v3s15pier_carousel_d40236ff:
 
-    # u "Slowest ride ever. Haha!"
-    u ""
+    # pe "It really is..."
+    pe "It really is..."
 
 # game/v3/scene15.rpy:584
-translate francais v3s15pier_carousel_de3a41dc:
-
-    # pe "It really is, oh my... *Giggles*"
-    pe ""
-
-# game/v3/scene15.rpy:589
 translate francais v3s15pier_carousel_e94bbf42:
 
     # u "Oh, I didn't ask yet. How did you get roped into coming with those guys?"
-    u ""
+    u "Oh, I didn't ask yet. How did you get roped into coming with those guys?"
 
-# game/v3/scene15.rpy:594
+# game/v3/scene15.rpy:589
 translate francais v3s15pier_carousel_5ea8a205:
 
     # pe "Karen invited me. I only realized there was more to it once I had already gotten here."
-    pe ""
+    pe "Karen invited me. I only realized there was more to it once I had already gotten here."
 
-# game/v3/scene15.rpy:599
+# game/v3/scene15.rpy:594
 translate francais v3s15pier_carousel_184e8b27:
 
     # u "It's a bit weird that she invited you on her date, no?"
-    u ""
+    u "It's a bit weird that she invited you on her date, no?"
+
+# game/v3/scene15.rpy:599
+translate francais v3s15pier_carousel_3bf90db7:
+
+    # pe "Yeah. I guess she's just shy and didn't want to meet Imre on her own?"
+    pe "Yeah. I guess she's just shy and didn't want to meet Imre on her own?"
 
 # game/v3/scene15.rpy:604
-translate francais v3s15pier_carousel_fdf0b93d:
+translate francais v3s15pier_carousel_a0eec97f:
 
-    # pe "Yeah, but I guess she's just shy and didn't want to meet Imre on her own?"
-    pe ""
+    # u "Fair enough. One can only take so much of Imre single-handedly."
+    u "Fair enough. One can only take so much of Imre single-handedly."
 
 # game/v3/scene15.rpy:609
-translate francais v3s15pier_carousel_69c5bed5:
+translate francais v3s15pier_carousel_d5d554b3:
 
-    # u "Fair enough. One can only take so much of Imre at once."
-    u ""
+    # pe "Very true."
+    pe "Very true."
 
-# game/v3/scene15.rpy:614
-translate francais v3s15pier_carousel_3c66e51a:
-
-    # pe "*Laughs* True."
-    pe ""
-
-# game/v3/scene15.rpy:633
+# game/v3/scene15.rpy:628
 translate francais v3s15pier_carousel_0a3fb0f1:
 
     # imre "You don't want to kiss?"
-    imre ""
+    imre "You don't want to kiss?"
 
-# game/v3/scene15.rpy:638
-translate francais v3s15pier_carousel_248dc669:
+# game/v3/scene15.rpy:633
+translate francais v3s15pier_carousel_173acf58:
 
-    # dg3 "Not on a first date, Imre... You have to work harder for it."
-    dg3 ""
+    # dg3 "Not on a first date, Imre... you have to work harder for it."
+    dg3 "Not on a first date, Imre... you have to work harder for it."
 
-# game/v3/scene15.rpy:650
+# game/v3/scene15.rpy:645
 translate francais v3s15pier_carousel_940c1802:
 
     # carni "Please be careful as you dismount and exit the ride. If anyone has suffered any injuries, please go to the first-aid tent."
-    carni ""
+    carni "Please be careful as you dismount and exit the ride. If anyone has suffered any injuries, please go to the first-aid tent."
 
-# game/v3/scene15.rpy:655
+# game/v3/scene15.rpy:650
 translate francais v3s15pier_carousel_1f4b84fa:
 
     # carni "I refuse to let anyone die on my watch."
-    carni ""
+    carni "I refuse to let anyone die on my watch."
 
-# game/v3/scene15.rpy:660
+# game/v3/scene15.rpy:655
 translate francais v3s15pier_carousel_8f0d3c8d:
 
     # u "We're good man, thanks."
-    u ""
+    u "We're good man, thanks."
 
-# game/v3/scene15.rpy:665
-translate francais v3s15pier_carousel_4f90b5a6:
+# game/v3/scene15.rpy:660
+translate francais v3s15pier_carousel_52dd017e:
 
-    # pe "*Giggles* Thank you! I felt so safe..."
-    pe ""
+    # pe "Thank you! I felt so safe..."
+    pe "Thank you! I felt so safe..."
 
-# game/v3/scene15.rpy:698
+# game/v3/scene15.rpy:693
 translate francais v3s15pier_wheel_0a82bd4b:
 
     # dy "Don't even bother with that thing! The wheel is completely rigged, bro!"
-    dy ""
+    dy "Don't even bother with that thing! The wheel is completely rigged, bro!"
 
-# game/v3/scene15.rpy:708
+# game/v3/scene15.rpy:703
 translate francais v3s15pier_wheel_087420ff:
 
     # pe "He sounded upset."
-    pe ""
+    pe "He sounded upset."
 
-# game/v3/scene15.rpy:713
+# game/v3/scene15.rpy:708
 translate francais v3s15pier_wheel_a3b1bb90:
 
     # u "Yeah, he's probably right, but that's part of the carnival experience, right?"
-    u ""
+    u "Yeah, he's probably right, but that's part of the carnival experience, right?"
 
-# game/v3/scene15.rpy:718
+# game/v3/scene15.rpy:713
 translate francais v3s15pier_wheel_b6ee7212:
 
     # pe "Getting scammed?"
-    pe ""
+    pe "Getting scammed?"
 
-# game/v3/scene15.rpy:723
+# game/v3/scene15.rpy:718
 translate francais v3s15pier_wheel_e880f166:
 
     # wa "Roll on up, you youngsters, have a spin! Everyone's a winner and it's only a dollar to enter!"
-    wa ""
+    wa "Roll on up, you youngsters, have a spin! Everyone's a winner and it's only a dollar to enter!"
 
-# game/v3/scene15.rpy:728
+# game/v3/scene15.rpy:723
 translate francais v3s15pier_wheel_d21408ff:
 
     # imre "Two spins, please. One for me and one for my date."
-    imre ""
+    imre "Two spins, please. One for me and one for my date."
 
-# game/v3/scene15.rpy:738
+# game/v3/scene15.rpy:733
 translate francais v3s15pier_wheel_803b860c:
 
     # imre "I'm feeling lucky."
-    imre ""
+    imre "I'm feeling lucky."
 
-# game/v3/scene15.rpy:748
+# game/v3/scene15.rpy:743
 translate francais v3s15pier_wheel_5124095c:
 
     # wa "We have a winner! Here's your candy."
-    wa ""
+    wa "We have a winner! Here's your candy."
 
-# game/v3/scene15.rpy:768
+# game/v3/scene15.rpy:763
 translate francais v3s15pier_wheel_e3ef1bdb:
 
     # imre "Nice!"
-    imre ""
+    imre "Nice!"
 
-# game/v3/scene15.rpy:773
+# game/v3/scene15.rpy:768
 translate francais v3s15pier_wheel_a3702a0f:
 
     # dg3 "Eww!"
-    dg3 ""
+    dg3 "Eww!"
 
-# game/v3/scene15.rpy:778
+# game/v3/scene15.rpy:773
 translate francais v3s15pier_wheel_19845023:
 
     # imre "What?"
-    imre ""
+    imre "What?"
 
-# game/v3/scene15.rpy:783
+# game/v3/scene15.rpy:778
 translate francais v3s15pier_wheel_646ded9f:
 
     # u "Imre, that was just a random piece of candy..."
-    u ""
+    u "Imre, that was just a random piece of candy..."
 
-# game/v3/scene15.rpy:788
+# game/v3/scene15.rpy:783
 translate francais v3s15pier_wheel_dc6eb880:
 
     # pe "Out of her pocket? With no wrapper?"
-    pe ""
+    pe "Out of her pocket? With no wrapper?"
 
-# game/v3/scene15.rpy:793
+# game/v3/scene15.rpy:788
 translate francais v3s15pier_wheel_7a947a40:
 
     # wa "We didn't make any promises, ma'am."
-    wa ""
+    wa "We didn't make any promises, ma'am."
 
-# game/v3/scene15.rpy:798
+# game/v3/scene15.rpy:793
 translate francais v3s15pier_wheel_aecab9b6:
 
     # dg3 "That's so gross. Ugh."
-    dg3 ""
+    dg3 "That's so gross. Ugh."
 
-# game/v3/scene15.rpy:803
+# game/v3/scene15.rpy:798
 translate francais v3s15pier_wheel_415e4399:
 
     # imre "It's fine, guys. Germs can't attach to hard candy. It's science."
-    imre ""
+    imre "It's fine, guys. Germs can't attach to hard candy. It's science."
 
-# game/v3/scene15.rpy:808
+# game/v3/scene15.rpy:803
 translate francais v3s15pier_wheel_6e486b67:
 
     # dg3 "What? Who told you that?"
-    dg3 ""
+    dg3 "What? Who told you that?"
 
-# game/v3/scene15.rpy:813
+# game/v3/scene15.rpy:808
 translate francais v3s15pier_wheel_9cf64e34:
 
     # imre "It's just common knowledge. Sugar kills germs. Back me up, [name]."
-    imre ""
+    imre "It's just common knowledge. Sugar kills germs. Back me up, [name]."
 
-# game/v3/scene15.rpy:822
+# game/v3/scene15.rpy:817
 translate francais v3s15pier_wheel_7d98de5b:
 
     # u "Definitely, sugar is the number one germ weapon."
-    u ""
+    u "Definitely, sugar is the number one germ weapon."
 
-# game/v3/scene15.rpy:824
-translate francais v3s15pier_wheel_5b75a672:
+# game/v3/scene15.rpy:822
+translate francais v3s15pier_wheel_f9ab3783:
 
-    # imre "See. Plus, there's the five second rule."
-    imre ""
+    # imre "See. Plus, there's the five-second rule."
+    imre "See. Plus, there's the five-second rule."
 
-# game/v3/scene15.rpy:829
+# game/v3/scene15.rpy:827
 translate francais v3s15pier_wheel_eb7c13f3:
 
     # u "It's literally the opposite, man..."
-    u ""
+    u "It's literally the opposite, man..."
 
-# game/v3/scene15.rpy:831
-translate francais v3s15pier_wheel_b7f70937:
+# game/v3/scene15.rpy:832
+translate francais v3s15pier_wheel_778e2503:
 
-    # imre "Well, what about the five second rule?"
-    imre ""
+    # imre "Well, what about the five-second rule?"
+    imre "Well, what about the five-second rule?"
 
-# game/v3/scene15.rpy:836
+# game/v3/scene15.rpy:837
 translate francais v3s15pier_wheel_f34e400f:
 
     # pe "I think it's been in her pocket longer than five seconds, Imre."
-    pe ""
+    pe "I think it's been in her pocket longer than five seconds, Imre."
 
-# game/v3/scene15.rpy:841
+# game/v3/scene15.rpy:842
 translate francais v3s15pier_wheel_b79ef743:
 
     # wa "All week so far!"
-    wa ""
+    wa "All week so far!"
 
-# game/v3/scene15.rpy:846
-translate francais v3s15pier_wheel_43b1ec43:
+# game/v3/scene15.rpy:847
+translate francais v3s15pier_wheel_b1ae81ee:
 
-    # imre "Uh, whatever... It's fine. Look-"
-    imre ""
+    # imre "Uh, whatever... it's fine. Look-"
+    imre "Uh, whatever... it's fine. Look-"
 
-# game/v3/scene15.rpy:856
+# game/v3/scene15.rpy:857
 translate francais v3s15pier_wheel_34c12b51:
 
     # imre "Finished."
-    imre ""
+    imre "Finished."
 
-# game/v3/scene15.rpy:861
+# game/v3/scene15.rpy:862
 translate francais v3s15pier_wheel_37bd0034:
 
     # pe "You swallowed it whole?"
-    pe ""
+    pe "You swallowed it whole?"
 
-# game/v3/scene15.rpy:866
-translate francais v3s15pier_wheel_c027dd47:
+# game/v3/scene15.rpy:867
+translate francais v3s15pier_wheel_3395802e:
 
-    # imre "Well, I couldn't chew it up, ha! I'd break my teeth, dummy."
-    imre ""
+    # imre "Well, I couldn't chew it up! I'd break my teeth, dummy."
+    imre "Well, I couldn't chew it up! I'd break my teeth, dummy."
 
-# game/v3/scene15.rpy:871
+# game/v3/scene15.rpy:872
 translate francais v3s15pier_wheel_46b6fdfa:
 
     # u "I worry about you sometimes, Imre."
-    u ""
+    u "I worry about you sometimes, Imre."
 
-# game/v3/scene15.rpy:876
+# game/v3/scene15.rpy:877
 translate francais v3s15pier_wheel_bdba8bd6:
 
     # imre "Thanks, man. That's nice of you."
-    imre ""
+    imre "Thanks, man. That's nice of you."
 
-# game/v3/scene15.rpy:881
+# game/v3/scene15.rpy:882
 translate francais v3s15pier_wheel_26d6a6c9:
 
     # wa "And now for the lucky lady's turn."
-    wa ""
+    wa "And now for the lucky lady's turn."
 
-# game/v3/scene15.rpy:886
+# game/v3/scene15.rpy:887
 translate francais v3s15pier_wheel_0cb7b7cb:
 
     # dg3 "Is every prize going to be garbage from your pocket?"
-    dg3 ""
+    dg3 "Is every prize going to be garbage from your pocket?"
 
-# game/v3/scene15.rpy:891
+# game/v3/scene15.rpy:892
 translate francais v3s15pier_wheel_cbb4f313:
 
     # wa "You'll have to spin to find out!"
-    wa ""
+    wa "You'll have to spin to find out!"
 
-# game/v3/scene15.rpy:896
+# game/v3/scene15.rpy:897
 translate francais v3s15pier_wheel_7d18bf6d:
 
     # dg3 "*Sighs* Fine..."
-    dg3 ""
+    dg3 "*Sighs* Fine..."
 
-# game/v3/scene15.rpy:906
+# game/v3/scene15.rpy:907
 translate francais v3s15pier_wheel_444de91b:
 
     # dg3 "Wisdom? What does that mean?"
-    dg3 ""
+    dg3 "Wisdom? What does that mean?"
 
-# game/v3/scene15.rpy:911
+# game/v3/scene15.rpy:912
 translate francais v3s15pier_wheel_91578fdc:
 
     # wa "Ooh, it's a special one. Here you go."
-    wa ""
+    wa "Ooh, it's a special one. Here you go."
 
-# game/v3/scene15.rpy:916
+# game/v3/scene15.rpy:917
 translate francais v3s15pier_wheel_0e9b0ed5:
 
     # dg3 "A great adventure awaits you today."
-    dg3 ""
+    dg3 "A great adventure awaits you today."
 
-# game/v3/scene15.rpy:921
+# game/v3/scene15.rpy:922
 translate francais v3s15pier_wheel_402731f3:
 
     # dg3 "Is that it?"
-    dg3 ""
+    dg3 "Is that it?"
 
-# game/v3/scene15.rpy:926
+# game/v3/scene15.rpy:927
 translate francais v3s15pier_wheel_243688a4:
 
     # pe "It looks like it's from a fortune cookie."
-    pe ""
+    pe "It looks like it's from a fortune cookie."
 
-# game/v3/scene15.rpy:931
+# game/v3/scene15.rpy:932
 translate francais v3s15pier_wheel_052fd738:
 
     # imre "I'm pretty sure that's what it is."
-    imre ""
+    imre "I'm pretty sure that's what it is."
 
-# game/v3/scene15.rpy:936
-translate francais v3s15pier_wheel_1666480e:
+# game/v3/scene15.rpy:937
+translate francais v3s15pier_wheel_0341f34b:
 
-    # u "A dollar worth of wisdom! *Laughs*"
-    u ""
+    # u "A dollar's worth of wisdom!"
+    u "A dollar's worth of wisdom!"
 
-# game/v3/scene15.rpy:941
+# game/v3/scene15.rpy:942
 translate francais v3s15pier_wheel_2ce48939:
 
     # u "Now it's our turn to be disappointed. Penelope?"
-    u ""
+    u "Now it's our turn to be disappointed. Penelope?"
 
-# game/v3/scene15.rpy:951
+# game/v3/scene15.rpy:952
 translate francais v3s15pier_wheel_9cb9ec57:
 
     # pe "[name]?"
-    pe ""
+    pe "[name]?"
 
-# game/v3/scene15.rpy:961
+# game/v3/scene15.rpy:962
 translate francais v3s15pier_wheel_e23eee7a:
 
     # u "Ladies first."
-    u ""
+    u "Ladies first."
 
-# game/v3/scene15.rpy:966
+# game/v3/scene15.rpy:967
 translate francais v3s15pier_wheel_60ccb5d4:
 
     # pe "Such a gentleman..."
-    pe ""
+    pe "Such a gentleman..."
 
-# game/v3/scene15.rpy:982
+# game/v3/scene15.rpy:983
 translate francais v3s15pier_wheel_a76a7fe9:
 
     # pe "Candy again!"
-    pe ""
+    pe "Candy again!"
 
-# game/v3/scene15.rpy:987
+# game/v3/scene15.rpy:988
 translate francais v3s15pier_wheel_f70f5a8d:
 
     # wa "Here you a-"
-    wa ""
+    wa "Here you a-"
 
-# game/v3/scene15.rpy:992
+# game/v3/scene15.rpy:993
 translate francais v3s15pier_wheel_e2a3d8fd:
 
     # pe "No, thanks. I'll pass."
-    pe ""
+    pe "No, thanks. I'll pass."
 
-# game/v3/scene15.rpy:997
+# game/v3/scene15.rpy:998
 translate francais v3s15pier_wheel_816ca28a:
 
     # wa "Hmph. Suit yourself."
-    wa ""
+    wa "Hmph. Suit yourself."
 
-# game/v3/scene15.rpy:1002
+# game/v3/scene15.rpy:1003
 translate francais v3s15pier_wheel_30b9746b:
 
     # imre "I'll have it."
-    imre ""
+    imre "I'll have it."
 
-# game/v3/scene15.rpy:1007
+# game/v3/scene15.rpy:1008
 translate francais v3s15pier_wheel_72026aab:
 
     # wa "Sorry, no sharing allowed."
-    wa ""
+    wa "Sorry, no sharing allowed."
 
-# game/v3/scene15.rpy:1012
+# game/v3/scene15.rpy:1013
 translate francais v3s15pier_wheel_08221905:
 
     # imre "Come on, man!"
-    imre ""
+    imre "Come on, man!"
 
-# game/v3/scene15.rpy:1017
+# game/v3/scene15.rpy:1018
 translate francais v3s15pier_wheel_7cf38e96:
 
     # dg3 "*Whispers* Does this lady even work here?"
-    dg3 ""
+    dg3 "*Whispers* Does this lady even work here?"
 
-# game/v3/scene15.rpy:1022
+# game/v3/scene15.rpy:1023
 translate francais v3s15pier_wheel_5647589e:
 
     # pe "*Whispers* I'm not sure, but she looks like she lives here..."
-    pe ""
+    pe "*Whispers* I'm not sure, but she looks like she lives here..."
 
-# game/v3/scene15.rpy:1032
+# game/v3/scene15.rpy:1033
 translate francais v3s15pier_wheel_4ef80381:
 
     # u "My turn! Let's win big..."
-    u ""
+    u "My turn! Let's win big..."
 
-# game/v3/scene15.rpy:1042
-translate francais v3s15pier_wheel_94428aa7:
+# game/v3/scene15.rpy:1043
+translate francais v3s15pier_wheel_bfb2c63f:
 
-    # wa "Congratulations, young man! This is the best prize on the board if you ask me."
-    wa ""
+    # wa "Congratulations, young man! This is the best prize on the board, if you ask me."
+    wa "Congratulations, young man! This is the best prize on the board, if you ask me."
 
-# game/v3/scene15.rpy:1047
+# game/v3/scene15.rpy:1048
 translate francais v3s15pier_wheel_6a6c1628:
 
     # u "Please don't pull an old hot dog out of your pocket."
-    u ""
+    u "Please don't pull an old hot dog out of your pocket."
 
-# game/v3/scene15.rpy:1052
-translate francais v3s15pier_wheel_19605ac4:
+# game/v3/scene15.rpy:1053
+translate francais v3s15pier_wheel_395e3b72:
 
-    # pe "*Laughs*"
-    pe ""
+    # pe "Ha, ew..."
+    pe "Ha, ew..."
 
-# game/v3/scene15.rpy:1057
+# game/v3/scene15.rpy:1058
 translate francais v3s15pier_wheel_ab96d5b7:
 
     # imre "I'll eat it!"
-    imre ""
+    imre "I'll eat it!"
 
-# game/v3/scene15.rpy:1062
+# game/v3/scene15.rpy:1063
 translate francais v3s15pier_wheel_33c975d6:
 
     # wa "Here you go."
-    wa ""
+    wa "Here you go."
 
-# game/v3/scene15.rpy:1067
+# game/v3/scene15.rpy:1068
 translate francais v3s15pier_wheel_6fd4575e:
 
     # wa "You can redeem it at the hotdog stand."
-    wa ""
+    wa "You can redeem it at the hotdog stand."
 
-# game/v3/scene15.rpy:1073
+# game/v3/scene15.rpy:1074
 translate francais v3s15pier_wheel_15372dfc:
 
     # u "Oh, we just left there, actually."
-    u ""
+    u "Oh, we just left there, actually."
 
-# game/v3/scene15.rpy:1078
+# game/v3/scene15.rpy:1079
 translate francais v3s15pier_wheel_e6c30ee7:
 
     # dy "I'll take it!"
-    dy ""
+    dy "I'll take it!"
 
-# game/v3/scene15.rpy:1083
+# game/v3/scene15.rpy:1084
 translate francais v3s15pier_wheel_59fbed9a:
 
     # u "Oh, sure. Here."
-    u ""
+    u "Oh, sure. Here."
 
-# game/v3/scene15.rpy:1093
+# game/v3/scene15.rpy:1094
 translate francais v3s15pier_wheel_4d39979f:
 
     # wa "Hey, wait! No sharing!"
-    wa ""
+    wa "Hey, wait! No sharing!"
 
-# game/v3/scene15.rpy:1098
+# game/v3/scene15.rpy:1099
 translate francais v3s15pier_wheel_2962d542:
 
     # dy "Fuck you, Linda!"
-    dy ""
+    dy "Fuck you, Linda!"
 
-# game/v3/scene15.rpy:1103
-translate francais v3s15pier_wheel_b94a8997:
+# game/v3/scene15.rpy:1104
+translate francais v3s15pier_wheel_4413a456:
 
-    # imre "Haha! I love that guy!"
-    imre ""
+    # imre "Ha! I love that guy!"
+    imre "Ha! I love that guy!"
 
-# game/v3/scene15.rpy:1108
+# game/v3/scene15.rpy:1109
 translate francais v3s15pier_wheel_95cecdd4:
 
     # wa "You can all go now."
-    wa ""
+    wa "You can all go now."
 
-# game/v3/scene15.rpy:1113
+# game/v3/scene15.rpy:1114
 translate francais v3s15pier_wheel_d5b247a6:
 
     # imre "But I wanted to-"
-    imre ""
+    imre "But I wanted to-"
 
-# game/v3/scene15.rpy:1119
+# game/v3/scene15.rpy:1120
 translate francais v3s15pier_wheel_8874e8b9:
 
     # u "Phew, it's actually going to be edible. Nice!"
-    u ""
+    u "Phew, it's actually going to be edible. Nice!"
 
-# game/v3/scene15.rpy:1124
+# game/v3/scene15.rpy:1125
 translate francais v3s15pier_wheel_1b5f9a76:
 
     # pe "Mmm! A hotdog does sound yummy..."
-    pe ""
+    pe "Mmm! A hotdog does sound yummy..."
 
-# game/v3/scene15.rpy:1129
+# game/v3/scene15.rpy:1130
 translate francais v3s15pier_wheel_c79e6225:
 
     # u "Hey, you turned down her pocket candy. This hot dog is mine!"
-    u ""
+    u "Hey, you turned down her pocket candy. This hot dog is mine!"
 
-# game/v3/scene15.rpy:1135
+# game/v3/scene15.rpy:1136
 translate francais v3s15pier_wheel_1ceb827c:
 
     # pe "But... but..."
-    pe ""
+    pe "But... but..."
 
-# game/v3/scene15.rpy:1140
+# game/v3/scene15.rpy:1141
 translate francais v3s15pier_wheel_6bed1659:
 
     # u "Those eye tricks don't work on me."
-    u ""
+    u "Those eye tricks don't work on me."
 
-# game/v3/scene15.rpy:1145
+# game/v3/scene15.rpy:1146
 translate francais v3s15pier_wheel_f94b6b76:
 
     # pe "*Sniffles*"
-    pe ""
+    pe "*Sniffles*"
 
-# game/v3/scene15.rpy:1147
+# game/v3/scene15.rpy:1148
 translate francais v3s15pier_wheel_6487038c:
 
     # u "Okay, fine! Stop it with the tears! Jeez... *Sighs*"
-    u ""
+    u "Okay, fine! Stop it with the tears! Jeez... *Sighs*"
 
-# game/v3/scene15.rpy:1152
+# game/v3/scene15.rpy:1153
 translate francais v3s15pier_wheel_91d4d9f0:
 
     # pe "Hehe!"
-    pe ""
+    pe "Hehe!"
 
-# game/v3/scene15.rpy:1158
+# game/v3/scene15.rpy:1159
 translate francais v3s15pier_wheel_c08e0882:
 
     # pe "Meanie..."
-    pe ""
+    pe "Meanie..."
 
-# game/v3/scene15.rpy:1163
+# game/v3/scene15.rpy:1164
 translate francais v3s15pier_wheel_9d4cb8a5:
 
     # u "Oh, really? I'm a meanie?"
-    u ""
+    u "Oh, really? I'm a meanie?"
 
-# game/v3/scene15.rpy:1168
+# game/v3/scene15.rpy:1169
 translate francais v3s15pier_wheel_e7b1623f:
 
     # pe "No..."
-    pe ""
+    pe "No..."
 
-# game/v3/scene15.rpy:1173
-translate francais v3s15pier_wheel_3f15186c:
+# game/v3/scene15.rpy:1174
+translate francais v3s15pier_wheel_0f55346d:
 
-    # u "Haha, alright. Everyone ready?"
-    u ""
+    # u "Ha, all right. Everyone ready?"
+    u "Ha, all right. Everyone ready?"
 
-# game/v3/scene15.rpy:1178
+# game/v3/scene15.rpy:1179
 translate francais v3s15pier_wheel_65faa0f4:
 
     # imre "Yeah, let's blow this wheel scam."
-    imre ""
+    imre "Yeah, let's blow this wheel scam."
 
-# game/v3/scene15.rpy:1183
+# game/v3/scene15.rpy:1184
 translate francais v3s15pier_wheel_9f6d12ef:
 
     # dg3 "Yes please!"
-    dg3 ""
+    dg3 "Yes please!"
 
-# game/v3/scene15.rpy:1197
+# game/v3/scene15.rpy:1198
 translate francais v3s15pier_wheel_eb99a451:
 
     # imre "Oh, shit!"
-    imre ""
+    imre "Oh, shit!"
 
-# game/v3/scene15.rpy:1202
+# game/v3/scene15.rpy:1203
 translate francais v3s15pier_wheel_3f2924c0:
 
     # wa "You destroyed my wheel!"
-    wa ""
+    wa "You destroyed my wheel!"
 
-# game/v3/scene15.rpy:1207
+# game/v3/scene15.rpy:1208
 translate francais v3s15pier_wheel_7b16dd33:
 
     # u "I'm sorry, I guess I just don't know my own strength. That's crazy."
-    u ""
+    u "I'm sorry, I guess I just don't know my own strength. That's crazy."
 
-# game/v3/scene15.rpy:1212
+# game/v3/scene15.rpy:1213
 translate francais v3s15pier_wheel_cc3718e3:
 
     # wa "This wheel was a gift! How am I going to replace it?!"
-    wa ""
+    wa "This wheel was a gift! How am I going to replace it?!"
 
-# game/v3/scene15.rpy:1217
+# game/v3/scene15.rpy:1218
 translate francais v3s15pier_wheel_cbcbd913:
 
     # pe "The wheel was a gift?"
-    pe ""
+    pe "The wheel was a gift?"
 
-# game/v3/scene15.rpy:1222
+# game/v3/scene15.rpy:1223
 translate francais v3s15pier_wheel_eaa66c0e:
 
     # u "What about my prize?"
-    u ""
+    u "What about my prize?"
 
-# game/v3/scene15.rpy:1227
+# game/v3/scene15.rpy:1228
 translate francais v3s15pier_wheel_a4e07ec7:
 
     # wa "Your prize? Your PRIZE?!"
-    wa ""
+    wa "Your prize? Your PRIZE?!"
 
-# game/v3/scene15.rpy:1229
+# game/v3/scene15.rpy:1230
 translate francais v3s15pier_wheel_57926778:
 
     # wa "I won't call security. That's your prize for destroying my precious memory."
-    wa ""
+    wa "I won't call security. That's your prize for destroying my precious memory."
 
-# game/v3/scene15.rpy:1234
+# game/v3/scene15.rpy:1235
 translate francais v3s15pier_wheel_927dd90f:
 
     # u "Damn, it's not like I did it on purpose."
-    u ""
+    u "Damn, it's not like I did it on purpose."
 
-# game/v3/scene15.rpy:1239
+# game/v3/scene15.rpy:1240
 translate francais v3s15pier_wheel_ff4e9f18:
 
     # wa "Just go!"
-    wa ""
+    wa "Just go!"
 
-# game/v3/scene15.rpy:1273
+# game/v3/scene15.rpy:1274
 translate francais v3s15pier_hotdog_c0f0187a:
 
     # pe "Not hungry, Karen?"
-    pe ""
+    pe "Not hungry, Karen?"
 
-# game/v3/scene15.rpy:1278
+# game/v3/scene15.rpy:1279
 translate francais v3s15pier_hotdog_e4964736:
 
     # dg3 "I wouldn't mind a snack, but I'm vegan and they don't have any vegan options."
-    dg3 ""
+    dg3 "I wouldn't mind a snack, but I'm vegan and they don't have any vegan options."
 
-# game/v3/scene15.rpy:1283
+# game/v3/scene15.rpy:1284
 translate francais v3s15pier_hotdog_99205b3d:
 
     # pe "What about popcorn?"
-    pe ""
+    pe "What about popcorn?"
 
-# game/v3/scene15.rpy:1288
-translate francais v3s15pier_hotdog_55a641f0:
+# game/v3/scene15.rpy:1289
+translate francais v3s15pier_hotdog_05942566:
 
-    # dg3 "I asked, it's all real butter though. The one thing this place doesn't cheap out on is the food. Can you believe it?"
-    dg3 ""
+    # dg3 "I asked. It's all real butter, though. The one thing this place doesn't cheap out on is the food. Can you believe it?"
+    dg3 "I asked. It's all real butter, though. The one thing this place doesn't cheap out on is the food. Can you believe it?"
 
-# game/v3/scene15.rpy:1293
+# game/v3/scene15.rpy:1294
 translate francais v3s15pier_hotdog_5dd35f1c:
 
     # pe "Aw, it sucks they don't have anything."
-    pe ""
+    pe "Aw, it sucks they don't have anything."
 
-# game/v3/scene15.rpy:1298
+# game/v3/scene15.rpy:1299
 translate francais v3s15pier_hotdog_be76d326:
 
     # dg3 "It's okay. I'm used to it."
-    dg3 ""
+    dg3 "It's okay. I'm used to it."
 
-# game/v3/scene15.rpy:1303
-translate francais v3s15pier_hotdog_a4544d21:
+# game/v3/scene15.rpy:1304
+translate francais v3s15pier_hotdog_e8fe13d6:
 
-    # imre "*Quietly* She might be vegan, but she'll be eating my meat later, heheh."
-    imre ""
+    # imre "*Quietly* She might be vegan, but she'll be eating my meat later, know what I mean?"
+    imre "*Quietly* She might be vegan, but she'll be eating my meat later, know what I mean?"
 
-# game/v3/scene15.rpy:1310
+# game/v3/scene15.rpy:1312
 translate francais v3s15pier_hotdog_a5c63c04:
 
     # u "With charm like that, man... How could she not?"
-    u ""
+    u "With charm like that, man... How could she not?"
 
-# game/v3/scene15.rpy:1315
+# game/v3/scene15.rpy:1317
 translate francais v3s15pier_hotdog_9553e255:
 
     # imre "Ah, shut up."
-    imre ""
+    imre "Ah, shut up."
 
-# game/v3/scene15.rpy:1321
+# game/v3/scene15.rpy:1324
 translate francais v3s15pier_hotdog_721421ac:
 
     # u "There is no way she's going beyond first base today."
-    u ""
+    u "There is no way she's going beyond first base today."
 
-# game/v3/scene15.rpy:1326
+# game/v3/scene15.rpy:1329
 translate francais v3s15pier_hotdog_f0933e1b:
 
     # imre "Where's your faith, man?"
-    imre ""
+    imre "Where's your faith, man?"
 
-# game/v3/scene15.rpy:1332
+# game/v3/scene15.rpy:1335
 translate francais v3s15pier_hotdog_c097890b:
 
     # hv "Next!"
-    hv ""
+    hv "Next!"
 
-# game/v3/scene15.rpy:1337
+# game/v3/scene15.rpy:1340
 translate francais v3s15pier_hotdog_f35ce279:
 
     # hv "Ah, hello there. I'm now going to amaze you with my psychic powers..."
-    hv ""
+    hv "Ah, hello there. I'm now going to amaze you with my psychic powers..."
 
-# game/v3/scene15.rpy:1339
+# game/v3/scene15.rpy:1342
 translate francais v3s15pier_hotdog_6a872125:
 
     # hv "You want a hotdog?"
-    hv ""
+    hv "You want a hotdog?"
 
-# game/v3/scene15.rpy:1344
-translate francais v3s15pier_hotdog_0e18fd11:
+# game/v3/scene15.rpy:1347
+translate francais v3s15pier_hotdog_a2f13e95:
 
-    # pe "You guessed it, haha. Yes, please."
-    pe ""
+    # pe "You guessed it. Yes, please."
+    pe "You guessed it. Yes, please."
 
-# game/v3/scene15.rpy:1349
+# game/v3/scene15.rpy:1352
 translate francais v3s15pier_hotdog_4cedf8ed:
 
     # hv "My powers never fail! One hotdog coming right up!"
-    hv ""
+    hv "My powers never fail! One hotdog coming right up!"
 
-# game/v3/scene15.rpy:1356
+# game/v3/scene15.rpy:1359
 translate francais v3s15pier_hotdog_b9d62372:
 
     # u "One free hot dog for the lady."
-    u ""
+    u "One free hot dog for the lady."
 
-# game/v3/scene15.rpy:1361
-translate francais v3s15pier_hotdog_beea6acd:
+# game/v3/scene15.rpy:1364
+translate francais v3s15pier_hotdog_33a9b645:
 
-    # pe "Aw, you weren't kidding... You're so sweet."
-    pe ""
+    # pe "Aw, you weren't kidding... you're so sweet."
+    pe "Aw, you weren't kidding... you're so sweet."
 
-# game/v3/scene15.rpy:1372
-translate francais v3s15pier_hotdog_e6055a06:
+# game/v3/scene15.rpy:1375
+translate francais v3s15pier_hotdog_51bf1a0b:
 
-    # u "(Penelope wants a hotdog, should I give her my coupon?)"
-    u ""
+    # u "(Penelope wants a hotdog. Should I give her my coupon?)"
+    u "(Penelope wants a hotdog. Should I give her my coupon?)"
 
-# game/v3/scene15.rpy:1384
+# game/v3/scene15.rpy:1387
 translate francais v3s15pier_hotdog_068779ec:
 
     # u "Here, you can use it."
-    u ""
+    u "Here, you can use it."
 
-# game/v3/scene15.rpy:1389
+# game/v3/scene15.rpy:1392
 translate francais v3s15pier_hotdog_fb06a71f:
 
     # pe "Woah, really?"
-    pe ""
+    pe "Woah, really?"
 
-# game/v3/scene15.rpy:1394
+# game/v3/scene15.rpy:1397
 translate francais v3s15pier_hotdog_d341b1c9:
 
     # u "Yeah, really."
-    u ""
+    u "Yeah, really."
 
-# game/v3/scene15.rpy:1399
+# game/v3/scene15.rpy:1402
 translate francais v3s15pier_hotdog_8c1e1e30:
 
     # pe "That's so sweet..."
-    pe ""
+    pe "That's so sweet..."
 
-# game/v3/scene15.rpy:1409
+# game/v3/scene15.rpy:1412
 translate francais v3s15pier_hotdog_20d785c9:
 
     # pe "Thanks, [name]."
-    pe ""
+    pe "Thanks, [name]."
 
-# game/v3/scene15.rpy:1419
+# game/v3/scene15.rpy:1422
 translate francais v3s15pier_hotdog_3a4027eb:
 
     # hv "And now for you, I'm sensing a very powerful hunger for..."
-    hv ""
+    hv "And now for you, I'm sensing a very powerful hunger for..."
 
-# game/v3/scene15.rpy:1421
+# game/v3/scene15.rpy:1424
 translate francais v3s15pier_hotdog_45e46863:
 
     # hv "A hotdog?"
-    hv ""
+    hv "A hotdog?"
 
-# game/v3/scene15.rpy:1426
-translate francais v3s15pier_hotdog_b811d5d1:
+# game/v3/scene15.rpy:1429
+translate francais v3s15pier_hotdog_3a504d5b:
 
-    # u "Is there anything else on the menu? *Laughs*"
-    u ""
+    # u "Is there anything else on the menu?"
+    u "Is there anything else on the menu?"
 
-# game/v3/scene15.rpy:1431
+# game/v3/scene15.rpy:1434
 translate francais v3s15pier_hotdog_cddf3583:
 
     # hv "Nope!"
-    hv ""
+    hv "Nope!"
 
-# game/v3/scene15.rpy:1436
-translate francais v3s15pier_hotdog_68cb0261:
+# game/v3/scene15.rpy:1439
+translate francais v3s15pier_hotdog_42f48854:
 
-    # u "One free hot dog then, please."
-    u ""
+    # u "One free hot dog, then, please."
+    u "One free hot dog, then, please."
 
-# game/v3/scene15.rpy:1446
+# game/v3/scene15.rpy:1447
 translate francais v3s15pier_hotdog_394769c3:
 
     # u "(I could be nice, but I kinda want a free hotdog.)"
-    u ""
+    u "(I could be nice, but I kinda want a free hotdog.)"
 
-# game/v3/scene15.rpy:1448
+# game/v3/scene15.rpy:1449
 translate francais v3s15pier_hotdog_d51d3f52:
 
     # u "(Sue me.)"
-    u ""
+    u "(Sue me.)"
 
-# game/v3/scene15.rpy:1458
+# game/v3/scene15.rpy:1459
 translate francais v3s15pier_hotdog_3a4027eb_1:
 
     # hv "And now for you, I'm sensing a very powerful hunger for..."
-    hv ""
+    hv "And now for you, I'm sensing a very powerful hunger for..."
 
-# game/v3/scene15.rpy:1460
+# game/v3/scene15.rpy:1461
 translate francais v3s15pier_hotdog_45e46863_1:
 
     # hv "A hotdog?"
-    hv ""
+    hv "A hotdog?"
 
-# game/v3/scene15.rpy:1465
-translate francais v3s15pier_hotdog_b811d5d1_1:
+# game/v3/scene15.rpy:1466
+translate francais v3s15pier_hotdog_3a504d5b_1:
 
-    # u "Is there anything else on the menu? *Laughs*"
-    u ""
+    # u "Is there anything else on the menu?"
+    u "Is there anything else on the menu?"
 
-# game/v3/scene15.rpy:1470
+# game/v3/scene15.rpy:1471
 translate francais v3s15pier_hotdog_cddf3583_1:
 
     # hv "Nope!"
-    hv ""
+    hv "Nope!"
 
-# game/v3/scene15.rpy:1475
+# game/v3/scene15.rpy:1476
 translate francais v3s15pier_hotdog_d34435c0:
 
     # u "One hotdog then, please!"
-    u ""
+    u "One hotdog then, please!"
 
-# game/v3/scene15.rpy:1495
+# game/v3/scene15.rpy:1496
 translate francais v3s15pier_hotdog_b5d0afdb:
 
     # pe "So, Karen, have you been a vegan all your life?"
-    pe ""
+    pe "So, Karen, have you been a vegan all your life?"
 
-# game/v3/scene15.rpy:1500
+# game/v3/scene15.rpy:1501
 translate francais v3s15pier_hotdog_0ca2ca3b:
 
     # dg3 "Yeah, I was raised in a vegan household."
-    dg3 ""
+    dg3 "Yeah, I was raised in a vegan household."
 
-# game/v3/scene15.rpy:1505
+# game/v3/scene15.rpy:1506
 translate francais v3s15pier_hotdog_d33cb5c3:
 
     # imre "A vegan household? Wait, do regular houses have meat in them?"
-    imre ""
+    imre "A vegan household? Wait, do regular houses have meat in them?"
 
-# game/v3/scene15.rpy:1510
+# game/v3/scene15.rpy:1511
 translate francais v3s15pier_hotdog_665d76da:
 
     # dg3 "No, Imre... I mean that my parents were both vegan, so I was raised that way. Meat is just kind of disgusting to me."
-    dg3 ""
+    dg3 "No, Imre... I mean that my parents were both vegan, so I was raised that way. Meat is just kind of disgusting to me."
 
-# game/v3/scene15.rpy:1515
-translate francais v3s15pier_hotdog_8ec7f984:
+# game/v3/scene15.rpy:1516
+translate francais v3s15pier_hotdog_e3aefa0c:
 
-    # imre "*Laughs* It was a joke by the way, I know what you meant."
-    imre ""
+    # imre "It was a joke, by the way. I know what you meant."
+    imre "It was a joke, by the way. I know what you meant."
 
-# game/v3/scene15.rpy:1520
+# game/v3/scene15.rpy:1521
 translate francais v3s15pier_hotdog_2d2e8c1f:
 
     # pe "You don't even like the smell of meat?"
-    pe ""
+    pe "You don't even like the smell of meat?"
 
-# game/v3/scene15.rpy:1525
-translate francais v3s15pier_hotdog_6a108c06:
+# game/v3/scene15.rpy:1526
+translate francais v3s15pier_hotdog_17c1c131:
 
-    # dg3 "Oh, God... Not at all. I can't even think past the fact it's a cooked animal."
-    dg3 ""
+    # dg3 "Oh, God... not at all. I can't even think past the fact it's a cooked animal."
+    dg3 "Oh, God... not at all. I can't even think past the fact it's a cooked animal."
 
-# game/v3/scene15.rpy:1538
-translate francais v3s15pier_hotdog_2c558854:
+# game/v3/scene15.rpy:1535
+translate francais v3s15pier_hotdog_dbadc42b:
 
-    # u "I can understand why people choose not to eat meat. There are good health benefits as well."
-    u ""
+    # u "I can understand why people choose not to eat meat. Ethically and morally, I mean. There are good health benefits as well."
+    u "I can understand why people choose not to eat meat. Ethically and morally, I mean. There are good health benefits as well."
 
-# game/v3/scene15.rpy:1540
+# game/v3/scene15.rpy:1537
 translate francais v3s15pier_hotdog_22b6b833:
 
     # u "Maybe I'll make this the last hotdog I ever eat."
-    u ""
+    u "Maybe I'll make this the last hotdog I ever eat."
 
-# game/v3/scene15.rpy:1545
-translate francais v3s15pier_hotdog_98892dc7:
+# game/v3/scene15.rpy:1542
+translate francais v3s15pier_hotdog_d4d5cb29:
 
-    # dg3 "Haha, right... Good luck!"
-    dg3 ""
+    # dg3 "Ha, right... Good luck!"
+    dg3 "Ha, right... Good luck!"
 
-# game/v3/scene15.rpy:1550
+# game/v3/scene15.rpy:1547
 translate francais v3s15pier_hotdog_2e895a7b:
 
     # imre "Are you serious?"
-    imre ""
+    imre "Are you serious?"
 
-# game/v3/scene15.rpy:1555
-translate francais v3s15pier_hotdog_0c52de84:
+# game/v3/scene15.rpy:1552
+translate francais v3s15pier_hotdog_6ae8498e:
 
-    # u "I'll let you know the next time I'm hungry for hotdogs, we'll see how I do. *Chuckles*"
-    u ""
+    # u "I'll let you know the next time I'm hungry for hotdogs. We'll see how I do!"
+    u "I'll let you know the next time I'm hungry for hotdogs. We'll see how I do!"
 
-# game/v3/scene15.rpy:1560
-translate francais v3s15pier_hotdog_3fa80757:
+# game/v3/scene15.rpy:1557
+translate francais v3s15pier_hotdog_3236e34a:
 
-    # pe "I've also heard that it's a lot healthier being vegan.."
-    pe ""
+    # pe "I've also heard that it's a lot healthier being vegan."
+    pe "I've also heard that it's a lot healthier being vegan."
 
-# game/v3/scene15.rpy:1569
-translate francais v3s15pier_hotdog_dcaad987:
+# game/v3/scene15.rpy:1566
+translate francais v3s15pier_hotdog_2bc59467:
 
-    # u "Animals eat each other all the time, though. The way I see it, eating meat is just letting nature run its course."
-    u ""
+    # u "Animals eat each other all the time, though. Sure, maybe us industrializing it has messed with the balance, but it's still instinctual."
+    u "Animals eat each other all the time, though. Sure, maybe us industrializing it has messed with the balance, but it's still instinctual."
 
-# game/v3/scene15.rpy:1574
-translate francais v3s15pier_hotdog_b237a4a3:
+# game/v3/scene15.rpy:1571
+translate francais v3s15pier_hotdog_1bb73122:
 
-    # pe "The circle of life, right?"
-    pe ""
+    # pe "Your argument is the circle of life, then, right? Uh, if we don't count the industrialization bit."
+    pe "Your argument is the circle of life, then, right? Uh, if we don't count the industrialization bit."
 
-# game/v3/scene15.rpy:1579
-translate francais v3s15pier_hotdog_9a5d9636:
+# game/v3/scene15.rpy:1576
+translate francais v3s15pier_hotdog_c2c60363:
 
-    # u "Yeah, it's a constant cycle."
-    u ""
+    # u "Yeah, basically."
+    u "Yeah, basically."
 
-# game/v3/scene15.rpy:1584
-translate francais v3s15pier_hotdog_b47d3496:
+# game/v3/scene15.rpy:1581
+translate francais v3s15pier_hotdog_d0d795b6:
 
-    # dg3 "You wouldn't be saying that if you knew anything about the meat industry, and how the animals are treated."
-    dg3 ""
+    # dg3 "You're still trying to defend it even though you clearly have some understanding of the meat industry and how the animals are treated? Jeez, [name]."
+    dg3 "You're still trying to defend it even though you clearly have some understanding of the meat industry and how the animals are treated? Jeez, [name]."
 
-# game/v3/scene15.rpy:1589
-translate francais v3s15pier_hotdog_93137a0e:
+# game/v3/scene15.rpy:1586
+translate francais v3s15pier_hotdog_358bd8f7:
 
-    # u "Maybe not but, eating beans and dip your whole life must be miserable."
-    u ""
+    # u "I'm just saying, cruel to animals or otherwise, eating beans and dip your whole life must be miserable."
+    u "I'm just saying, cruel to animals or otherwise, eating beans and dip your whole life must be miserable."
 
-# game/v3/scene15.rpy:1594
-translate francais v3s15pier_hotdog_1decb99b:
+# game/v3/scene15.rpy:1591
+translate francais v3s15pier_hotdog_d730e2e9:
 
-    # dg3 "*Laughs* I love when people make that joke."
-    dg3 ""
+    # dg3 "Clever joke."
+    dg3 "Clever joke."
 
-# game/v3/scene15.rpy:1599
+# game/v3/scene15.rpy:1596
 translate francais v3s15pier_hotdog_f488dd90:
 
     # imre "What do you mean?"
-    imre ""
+    imre "What do you mean?"
 
-# game/v3/scene15.rpy:1604
-translate francais v3s15pier_hotdog_ae20c7cc:
+# game/v3/scene15.rpy:1601
+translate francais v3s15pier_hotdog_ae593b68:
 
-    # pe "There are millions of vegan recipes, just like normal food.."
-    pe ""
+    # pe "There are millions of vegan recipes. It's a dietary style that's existed for centuries, if not longer..."
+    pe "There are millions of vegan recipes. It's a dietary style that's existed for centuries, if not longer..."
 
-# game/v3/scene15.rpy:1609
+# game/v3/scene15.rpy:1606
 translate francais v3s15pier_hotdog_059ba553:
 
     # dg3 "Yeah, especially these days, there are a lot of vegan restaurants opening. Some of them you wouldn't be able to tell are vegan."
-    dg3 ""
+    dg3 "Yeah, especially these days, there are a lot of vegan restaurants opening. Some of them you wouldn't be able to tell are vegan."
 
-# game/v3/scene15.rpy:1614
+# game/v3/scene15.rpy:1611
 translate francais v3s15pier_hotdog_26b8e5b2:
 
     # u "Interesting."
-    u ""
+    u "Interesting."
 
-# game/v3/scene15.rpy:1619
+# game/v3/scene15.rpy:1616
 translate francais v3s15pier_hotdog_b827203b:
 
     # imre "Karen, you don't know what you're missing out on."
-    imre ""
+    imre "Karen, you don't know what you're missing out on."
 
-# game/v3/scene15.rpy:1624
-translate francais v3s15pier_hotdog_b6cbba32:
+# game/v3/scene15.rpy:1621
+translate francais v3s15pier_hotdog_93de80e2:
 
-    # dg3 "You're right, I don't. It would probably make me sick.."
-    dg3 ""
+    # dg3 "You're right, I don't. It would probably make me sick..."
+    dg3 "You're right, I don't. It would probably make me sick..."
 
-# game/v3/scene15.rpy:1629
+# game/v3/scene15.rpy:1626
 translate francais v3s15pier_hotdog_faaed515:
 
     # imre "Try some hotdog."
-    imre ""
+    imre "Try some hotdog."
 
-# game/v3/scene15.rpy:1634
+# game/v3/scene15.rpy:1631
 translate francais v3s15pier_hotdog_ac034934:
 
     # dg3 "No, thanks."
-    dg3 ""
+    dg3 "No, thanks."
 
-# game/v3/scene15.rpy:1639
+# game/v3/scene15.rpy:1636
 translate francais v3s15pier_hotdog_b237e0d3:
 
     # imre "Come on. Here. Try it."
-    imre ""
+    imre "Come on. Here. Try it."
 
-# game/v3/scene15.rpy:1644
+# game/v3/scene15.rpy:1641
 translate francais v3s15pier_hotdog_68075cc6:
 
     # dg3 "I said no, Imre."
-    dg3 ""
+    dg3 "I said no, Imre."
 
-# game/v3/scene15.rpy:1649
+# game/v3/scene15.rpy:1646
 translate francais v3s15pier_hotdog_65507384:
 
     # imre "Just a small bite! Come on-"
-    imre ""
+    imre "Just a small bite! Come on-"
 
-# game/v3/scene15.rpy:1654
+# game/v3/scene15.rpy:1651
 translate francais v3s15pier_hotdog_1c97558a:
 
     # dg3 "No!"
-    dg3 ""
+    dg3 "No!"
 
-# game/v3/scene15.rpy:1659
+# game/v3/scene15.rpy:1656
 translate francais v3s15pier_hotdog_75268922:
 
     # dg3 "Fucking weirdo!"
-    dg3 ""
+    dg3 "Fucking weirdo!"
 
-# game/v3/scene15.rpy:1664
+# game/v3/scene15.rpy:1661
 translate francais v3s15pier_hotdog_eae98fe0:
 
     # imre "Ah, man! My hotdog!"
-    imre ""
+    imre "Ah, man! My hotdog!"
 
-# game/v3/scene15.rpy:1669
-translate francais v3s15pier_hotdog_8e92ac47:
+# game/v3/scene15.rpy:1666
+translate francais v3s15pier_hotdog_ed51a253:
 
-    # pe "Quick, Imre! Five second rule!"
-    pe ""
+    # pe "Quick, Imre! Five-second rule!"
+    pe "Quick, Imre! Five-second rule!"
 
-# game/v3/scene15.rpy:1674
+# game/v3/scene15.rpy:1671
 translate francais v3s15pier_hotdog_5a568e30:
 
     # imre "Oh, shit! Yeah!"
-    imre ""
+    imre "Oh, shit! Yeah!"
 
-# game/v3/scene15.rpy:1679
+# game/v3/scene15.rpy:1676
 translate francais v3s15pier_hotdog_33d79083:
 
     # dg3 "Imre, I swear to every God there is..."
-    dg3 ""
+    dg3 "Imre, I swear to every God there is..."
 
-# game/v3/scene15.rpy:1681
+# game/v3/scene15.rpy:1678
 translate francais v3s15pier_hotdog_71a14171:
 
     # dg3 "If you eat that hotdog off the ground..."
-    dg3 ""
+    dg3 "If you eat that hotdog off the ground..."
 
-# game/v3/scene15.rpy:1686
+# game/v3/scene15.rpy:1683
 translate francais v3s15pier_hotdog_007ca9a0:
 
     # imre "Um..."
-    imre ""
+    imre "Um..."
 
-# game/v3/scene15.rpy:1696
-translate francais v3s15pier_hotdog_babe3d94:
+# game/v3/scene15.rpy:1693
+translate francais v3s15pier_hotdog_651cc77c:
 
-    # imre "I wasn't going to... Pfft."
-    imre ""
+    # imre "I wasn't going to... pfft."
+    imre "I wasn't going to... pfft."
 
-# game/v3/scene15.rpy:1701
+# game/v3/scene15.rpy:1698
 translate francais v3s15pier_hotdog_afcbf2cc:
 
     # u "(Well, this is fucking awkward.)"
-    u ""
+    u "(Well, this is fucking awkward.)"
 
-# game/v3/scene15.rpy:1706
+# game/v3/scene15.rpy:1703
 translate francais v3s15pier_hotdog_a6939371:
 
     # dg3 "Can we get back to the carnival games, please?"
-    dg3 ""
+    dg3 "Can we get back to the carnival games, please?"
 
-# game/v3/scene15.rpy:1711
+# game/v3/scene15.rpy:1708
 translate francais v3s15pier_hotdog_fc4fd85e:
 
     # pe "Yeah, just as soon as I finish eating."
-    pe ""
+    pe "Yeah, just as soon as I finish eating."
 
-# game/v3/scene15.rpy:1716
+# game/v3/scene15.rpy:1713
 translate francais v3s15pier_hotdog_99b88d2b:
 
     # u "I'll race you."
-    u ""
+    u "I'll race you."
 
-# game/v3/scene15.rpy:1721
+# game/v3/scene15.rpy:1718
 translate francais v3s15pier_hotdog_87113e05:
 
     # pe "I'll have you know, I'm a two-time award-winning hotdog eating competitor."
-    pe ""
+    pe "I'll have you know, I'm a two-time award-winning hotdog eating competitor."
 
-# game/v3/scene15.rpy:1726
-translate francais v3s15pier_hotdog_b0a8b213:
+# game/v3/scene15.rpy:1723
+translate francais v3s15pier_hotdog_63ec8817:
 
-    # u "*Chuckles* Are you being serious right now?"
-    u ""
+    # u "Are you being serious right now?"
+    u "Are you being serious right now?"
 
 # game/v3/scene15.rpy:1728
 translate francais v3s15pier_hotdog_a8f6ba8d:
 
     # pe "Mhmm."
-    pe ""
+    pe "Mhmm."
 
 # game/v3/scene15.rpy:1730
 translate francais v3s15pier_hotdog_6cc792e8:
 
     # u "You have to tell me that story one day."
-    u ""
+    u "You have to tell me that story one day."
 
 # game/v3/scene15.rpy:1735
 translate francais v3s15pier_hotdog_6f5f8ab1:
 
     # pe "Deal!"
-    pe ""
+    pe "Deal!"
 
 # game/v3/scene15.rpy:1750
 translate francais v3s15pier_hotdog_a1b409f5:
 
     # pe "Wow, trying to show off?"
-    pe ""
+    pe "Wow, trying to show off?"
 
 # game/v3/scene15.rpy:1752
 translate francais v3s15pier_hotdog_7f9c0816:
 
     # u "*Muffled* Maybe."
-    u ""
+    u "*Muffled* Maybe."
 
 # game/v3/scene15.rpy:1775
 translate francais v3s15pier_range_5fb9872b:
 
     # u "(We should probably check out the other attractions first)"
-    u ""
+    u "(We should probably check out the other attractions first)"
 
 translate francais strings:
 
-    # game/v3/scene15.rpy:206
+    # game/v3/scene15.rpy:204
     old "Sit alone"
-    new ""
+    new "Sit alone"
 
-    # game/v3/scene15.rpy:206
+    # game/v3/scene15.rpy:204
     old "Sit with Penelope"
-    new ""
+    new "Sit with Penelope"
 
-    # game/v3/scene15.rpy:818
+    # game/v3/scene15.rpy:813
     old "Back him up"
-    new ""
+    new "Back him up"
 
-    # game/v3/scene15.rpy:818
+    # game/v3/scene15.rpy:813
     old "It's the opposite"
-    new ""
+    new "It's the opposite"
 
-    # game/v3/scene15.rpy:1034
+    # game/v3/scene15.rpy:1035
     old "Gentle spin"
-    new ""
+    new "Gentle spin"
 
-    # game/v3/scene15.rpy:1034
+    # game/v3/scene15.rpy:1035
     old "Strong spin"
-    new ""
+    new "Strong spin"
 
-    # game/v3/scene15.rpy:1305
+    # game/v3/scene15.rpy:1306
     old "How could she not?"
-    new ""
+    new "How could she not?"
 
-    # game/v3/scene15.rpy:1305
+    # game/v3/scene15.rpy:1306
     old "No way she does"
-    new ""
+    new "No way she does"
 
-    # game/v3/scene15.rpy:1377
+    # game/v3/scene15.rpy:1380
     old "Give her the coupon"
-    new ""
+    new "Give her the coupon"
 
-    # game/v3/scene15.rpy:1377
+    # game/v3/scene15.rpy:1380
     old "Keep the coupon"
-    new ""
+    new "Keep the coupon"
 
-    # game/v3/scene15.rpy:1530
+    # game/v3/scene15.rpy:1531
     old "Respect veganism"
-    new ""
+    new "Respect veganism"
 
-    # game/v3/scene15.rpy:1530
+    # game/v3/scene15.rpy:1531
     old "Defend meat-eaters"
-    new ""
+    new "Defend meat-eaters"
 

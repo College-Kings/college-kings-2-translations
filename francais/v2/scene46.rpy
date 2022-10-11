@@ -1,586 +1,586 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene46.rpy:26
-translate francais v2s46_38399de9:
+translate francais v2s46_38399de9_1:
 
     # am "I really hope we have enough clues to solve this now."
-    am ""
+    am "I really hope we have enough clues to solve this now."
 
 # game/v2/scene46.rpy:28
-translate francais v2s46_d89c197b:
+translate francais v2s46_d89c197b_1:
 
     # am "We need to choose a location, detective. Remember, a young woman's life is at stake, so we can't take too long."
-    am ""
+    am "We need to choose a location, detective. Remember, a young woman's life is at stake, so we can't take too long."
 
 # game/v2/scene46.rpy:33
-translate francais v2s46_3115928b:
+translate francais v2s46_303bbaa8_1:
 
-    # u "No pressure then!"
-    u ""
+    # u "No pressure, then!"
+    u "No pressure, then!"
 
 # game/v2/scene46.rpy:35
-translate francais v2s46_e6e45fdb:
+translate francais v2s46_e6e45fdb_1:
 
     # u "Let's take one final look at the board and see if I can work my magic."
-    u ""
+    u "Let's take one final look at the board and see if I can work my magic."
 
 # game/v2/scene46.rpy:53
-translate francais v2s46_choosedad_2fa266f2:
+translate francais v2s46_choosedad_2fa266f2_1:
 
     # u "She's at her dad's house, of course."
-    u ""
+    u "She's at her dad's house, of course."
 
 # game/v2/scene46.rpy:60
-translate francais v2s46_choosemsrose_a5752470:
+translate francais v2s46_choosemsrose_a5752470_1:
 
     # u "She's with Ms. Rose, of course."
-    u ""
+    u "She's with Ms. Rose, of course."
 
 # game/v2/scene46.rpy:67
-translate francais v2s46_chooseaunt_867719c1:
+translate francais v2s46_chooseaunt_867719c1_1:
 
     # u "She has to be at her aunt's apartment, of course."
-    u ""
+    u "She has to be at her aunt's apartment, of course."
 
 # game/v2/scene46.rpy:74
-translate francais v2s46_choosecamping_68c23e52:
+translate francais v2s46_choosecamping_68c23e52_1:
 
     # u "I'm sure she's gone camping."
-    u ""
+    u "I'm sure she's gone camping."
 
 # game/v2/scene46.rpy:81
-translate francais v2s46_chooseex_a4ee2612:
+translate francais v2s46_chooseex_a4ee2612_1:
 
     # u "She must be with her ex from before."
-    u ""
+    u "She must be with her ex from before."
 
 # game/v2/scene46.rpy:89
-translate francais v2s46_nocabin_93202109:
+translate francais v2s46_nocabin_93202109_1:
 
     # am "Really?"
-    am ""
+    am "Really?"
 
 # game/v2/scene46.rpy:94
-translate francais v2s46_nocabin_ef2f1671:
+translate francais v2s46_nocabin_ef2f1671_1:
 
     # u "What?"
-    u ""
+    u "What?"
 
 # game/v2/scene46.rpy:99
-translate francais v2s46_nocabin_ec1b7325:
+translate francais v2s46_nocabin_ec1b7325_1:
 
     # am "You're happy with that choice?"
-    am ""
+    am "You're happy with that choice?"
 
 # game/v2/scene46.rpy:104
-translate francais v2s46_nocabin_588596da:
+translate francais v2s46_nocabin_588596da_1:
 
     # u "Yeah, sure. Why not?"
-    u ""
+    u "Yeah, sure. Why not?"
 
 # game/v2/scene46.rpy:109
-translate francais v2s46_nocabin_f537e8d9:
+translate francais v2s46_nocabin_f537e8d9_1:
 
     # am "You need to go back to detective school, [name]."
-    am ""
+    am "You need to go back to detective school, [name]."
 
 # game/v2/scene46.rpy:114
-translate francais v2s46_nocabin_c09e34cb:
+translate francais v2s46_nocabin_c09e34cb_1:
 
     # u "I've had thirty years in this job! I know what I'm doing."
-    u ""
+    u "I've had thirty years in this job! I know what I'm doing."
 
 # game/v2/scene46.rpy:119
-translate francais v2s46_nocabin_929917f7:
+translate francais v2s46_nocabin_929917f7_1:
 
     # am "Haha, thirty years."
-    am ""
+    am "Haha, thirty years."
 
 # game/v2/scene46.rpy:121
-translate francais v2s46_nocabin_51ec3324:
+translate francais v2s46_nocabin_51ec3324_1:
 
     # am "Do you want me to spell it out for you?"
-    am ""
+    am "Do you want me to spell it out for you?"
 
 # game/v2/scene46.rpy:126
-translate francais v2s46_nocabin_7b1c1392:
+translate francais v2s46_nocabin_7b1c1392_4:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v2/scene46.rpy:128
-translate francais v2s46_nocabin_4d81a5fc:
+translate francais v2s46_nocabin_4d81a5fc_1:
 
     # u "Yes, please."
-    u ""
+    u "Yes, please."
 
 # game/v2/scene46.rpy:133
-translate francais v2s46_nocabin_8fc8e16f:
+translate francais v2s46_nocabin_8fc8e16f_1:
 
     # am "We know that Nora loves nature... Chris told us that Nora's aunt borrowed Mr. Rose's cabin... Nora went to see her aunt only briefly."
-    am ""
+    am "We know that Nora loves nature... Chris told us that Nora's aunt borrowed Mr. Rose's cabin... Nora went to see her aunt only briefly."
 
 # game/v2/scene46.rpy:135
-translate francais v2s46_nocabin_f56929c2:
+translate francais v2s46_nocabin_f56929c2_1:
 
     # am "Understand?"
-    am ""
+    am "Understand?"
 
 # game/v2/scene46.rpy:144
-translate francais v2s46_nocabin_9654acf0:
+translate francais v2s46_nocabin_9654acf0_1:
 
     # u "Nope. It's like you're talking in random words."
-    u ""
+    u "Nope. It's like you're talking in random words."
 
 # game/v2/scene46.rpy:149
-translate francais v2s46_nocabin_6268de93:
+translate francais v2s46_nocabin_6268de93_1:
 
     # am "Oh, wow. You can't piece anything together?"
-    am ""
+    am "Oh, wow. You can't piece anything together?"
 
 # game/v2/scene46.rpy:154
-translate francais v2s46_nocabin_d7c3ea57:
+translate francais v2s46_nocabin_d7c3ea57_1:
 
     # u "Nope."
-    u ""
+    u "Nope."
 
 # game/v2/scene46.rpy:159
-translate francais v2s46_nocabin_34272451:
+translate francais v2s46_nocabin_34272451_1:
 
     # am "Nora's at her dad's cabin!"
-    am ""
+    am "Nora's at her dad's cabin!"
 
 # game/v2/scene46.rpy:164
-translate francais v2s46_nocabin_8c881cef:
+translate francais v2s46_nocabin_8c881cef_1:
 
     # u "Is she? So why did she go to her aunt's at all?"
-    u ""
+    u "Is she? So why did she go to her aunt's at all?"
 
 # game/v2/scene46.rpy:169
-translate francais v2s46_nocabin_da1ad85e:
+translate francais v2s46_nocabin_da1ad85e_2:
 
     # am "To pick up the key!"
-    am ""
+    am "To pick up the key!"
 
 # game/v2/scene46.rpy:174
-translate francais v2s46_nocabin_6dd3360c:
+translate francais v2s46_nocabin_6dd3360c_1:
 
     # u "Oh, shit! That makes sense!"
-    u ""
+    u "Oh, shit! That makes sense!"
 
 # game/v2/scene46.rpy:179
-translate francais v2s46_nocabin_3aeff16b:
+translate francais v2s46_nocabin_2bb991cb_1:
 
-    # am "Yeah! It makes sense because that's the answer, haha!"
-    am ""
+    # am "Yeah! It makes sense because that's the answer!"
+    am "Yeah! It makes sense because that's the answer!"
 
 # game/v2/scene46.rpy:185
-translate francais v2s46_nocabin_5b74c6a1:
+translate francais v2s46_nocabin_5b74c6a1_1:
 
     # u "Yeah, of course!"
-    u ""
+    u "Yeah, of course!"
 
 # game/v2/scene46.rpy:190
-translate francais v2s46_nocabin_22dbd017:
+translate francais v2s46_nocabin_22dbd017_1:
 
     # am "So, where is she?!"
-    am ""
+    am "So, where is she?!"
 
 # game/v2/scene46.rpy:195
-translate francais v2s46_nocabin_25b61929:
+translate francais v2s46_nocabin_25b61929_1:
 
     # u "She's..."
-    u ""
+    u "She's..."
 
 # game/v2/scene46.rpy:197
-translate francais v2s46_nocabin_7b1c1392_1:
+translate francais v2s46_nocabin_7b1c1392_5:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v2/scene46.rpy:202
-translate francais v2s46_nocabin_8ebd9aa7:
+translate francais v2s46_nocabin_8ebd9aa7_1:
 
     # am "At her dad's cabin?"
-    am ""
+    am "At her dad's cabin?"
 
 # game/v2/scene46.rpy:207
-translate francais v2s46_nocabin_8b0ba365:
+translate francais v2s46_nocabin_8b0ba365_1:
 
     # u "You didn't let me finish!"
-    u ""
+    u "You didn't let me finish!"
 
 # game/v2/scene46.rpy:212
-translate francais v2s46_nocabin_5726f0f4:
+translate francais v2s46_nocabin_5726f0f4_1:
 
     # am "Oh, suuure! So, tell me, why did she go to her aunt's only briefly?"
-    am ""
+    am "Oh, suuure! So, tell me, why did she go to her aunt's only briefly?"
 
 # game/v2/scene46.rpy:221
-translate francais v2s46_nocabin_7ac7f848:
+translate francais v2s46_nocabin_7ac7f848_1:
 
     # u "To ask her for advice, obviously."
-    u ""
+    u "To ask her for advice, obviously."
 
 # game/v2/scene46.rpy:226
-translate francais v2s46_nocabin_488a1ff9:
+translate francais v2s46_nocabin_488a1ff9_1:
 
     # am "No!"
-    am ""
+    am "No!"
 
 # game/v2/scene46.rpy:228
-translate francais v2s46_nocabin_da1ad85e_1:
+translate francais v2s46_nocabin_da1ad85e_3:
 
     # am "To pick up the key!"
-    am ""
+    am "To pick up the key!"
 
 # game/v2/scene46.rpy:233
-translate francais v2s46_nocabin_b485cee0:
+translate francais v2s46_nocabin_b485cee0_1:
 
     # u "Oh. Oh, yeah!"
-    u ""
+    u "Oh. Oh, yeah!"
 
 # game/v2/scene46.rpy:235
-translate francais v2s46_nocabin_0aa9168c:
+translate francais v2s46_nocabin_0aa9168c_1:
 
     # u "I would've worked it out eventually."
-    u ""
+    u "I would've worked it out eventually."
 
 # game/v2/scene46.rpy:240
-translate francais v2s46_nocabin_a197191f:
+translate francais v2s46_nocabin_a197191f_1:
 
     # am "Haha, okay, Sherlock."
-    am ""
+    am "Haha, okay, Sherlock."
 
 # game/v2/scene46.rpy:248
-translate francais v2s46_nocabin_3536a60e:
+translate francais v2s46_nocabin_3536a60e_1:
 
     # u "Because she needed to pick up something?"
-    u ""
+    u "Because she needed to pick up something?"
 
 # game/v2/scene46.rpy:253
-translate francais v2s46_nocabin_4f800391:
+translate francais v2s46_nocabin_4f800391_1:
 
     # am "Exactly."
-    am ""
+    am "Exactly."
 
 # game/v2/scene46.rpy:255
-translate francais v2s46_nocabin_f648178f:
+translate francais v2s46_nocabin_f648178f_1:
 
     # am "Which was?"
-    am ""
+    am "Which was?"
 
 # game/v2/scene46.rpy:264
-translate francais v2s46_nocabin_1e91fa79:
+translate francais v2s46_nocabin_1e91fa79_1:
 
     # u "Well, to pick up some food for the cabin."
-    u ""
+    u "Well, to pick up some food for the cabin."
 
 # game/v2/scene46.rpy:269
-translate francais v2s46_nocabin_77bcf731:
+translate francais v2s46_nocabin_5bd68b39_1:
 
-    # am "Sure, she probably borrowed a twinkie or two, haha. But her aunt had something more important."
-    am ""
+    # am "Sure, she probably borrowed a twinkie or two, ha. But her aunt had something more important."
+    am "Sure, she probably borrowed a twinkie or two, ha. But her aunt had something more important."
 
 # game/v2/scene46.rpy:274
-translate francais v2s46_nocabin_7b1c1392_2:
+translate francais v2s46_nocabin_7b1c1392_6:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v2/scene46.rpy:279
-translate francais v2s46_nocabin_d40337ac:
+translate francais v2s46_nocabin_d40337ac_1:
 
     # am "The key!"
-    am ""
+    am "The key!"
 
 # game/v2/scene46.rpy:284
-translate francais v2s46_nocabin_f3634b47:
+translate francais v2s46_nocabin_f3634b47_1:
 
     # u "Oh- Yeah, of course. Haha."
-    u ""
+    u "Oh- Yeah, of course. Haha."
 
 # game/v2/scene46.rpy:289
-translate francais v2s46_nocabin_4d428acc:
+translate francais v2s46_nocabin_4d428acc_1:
 
     # u "The key for the cabin."
-    u ""
+    u "The key for the cabin."
 
 # game/v2/scene46.rpy:294
-translate francais v2s46_nocabin_a776e741:
+translate francais v2s46_nocabin_a776e741_1:
 
     # am "Is that your final answer?"
-    am ""
+    am "Is that your final answer?"
 
 # game/v2/scene46.rpy:299
-translate francais v2s46_nocabin_7b1c1392_3:
+translate francais v2s46_nocabin_7b1c1392_7:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v2/scene46.rpy:301
-translate francais v2s46_nocabin_3edde9fe:
+translate francais v2s46_nocabin_3edde9fe_1:
 
     # u "Yes."
-    u ""
+    u "Yes."
 
 # game/v2/scene46.rpy:306
-translate francais v2s46_nocabin_ffe586c2:
+translate francais v2s46_nocabin_e2e5731c_1:
 
-    # am "Ding, ding, ding! We have a winner. *Chuckles*"
-    am ""
+    # am "Ding, ding, ding! We have a winner."
+    am "Ding, ding, ding! We have a winner."
 
 # game/v2/scene46.rpy:319
-translate francais v2s46_choosecabin_2ae1ef13:
+translate francais v2s46_choosecabin_2ae1ef13_1:
 
     # u "She's at her dad's cabin, then."
-    u ""
+    u "She's at her dad's cabin, then."
 
 # game/v2/scene46.rpy:324
-translate francais v2s46_choosecabin_431074c3:
+translate francais v2s46_choosecabin_431074c3_1:
 
     # am "Yeah, it has to be the place!"
-    am ""
+    am "Yeah, it has to be the place!"
 
 # game/v2/scene46.rpy:326
-translate francais v2s46_choosecabin_eeda7a37:
+translate francais v2s46_choosecabin_eeda7a37_1:
 
     # am "The other clues helped, but basically..."
-    am ""
+    am "The other clues helped, but basically..."
 
 # game/v2/scene46.rpy:328
-translate francais v2s46_choosecabin_51e2970a:
+translate francais v2s46_choosecabin_51e2970a_1:
 
     # am "We know Nora loves nature..."
-    am ""
+    am "We know Nora loves nature..."
 
 # game/v2/scene46.rpy:330
-translate francais v2s46_choosecabin_1f7ee24d:
+translate francais v2s46_choosecabin_1f7ee24d_1:
 
     # am "Chris told us that Nora's aunt borrowed Mr. Rose's cabin, and..."
-    am ""
+    am "Chris told us that Nora's aunt borrowed Mr. Rose's cabin, and..."
 
 # game/v2/scene46.rpy:332
-translate francais v2s46_choosecabin_7310fdc0:
+translate francais v2s46_choosecabin_7310fdc0_1:
 
     # am "Nora went to see her aunt only briefly."
-    am ""
+    am "Nora went to see her aunt only briefly."
 
 # game/v2/scene46.rpy:337
-translate francais v2s46_choosecabin_ff6c062e:
+translate francais v2s46_choosecabin_8f5bcd31_1:
 
-    # u "Right... That's all correct."
-    u ""
+    # u "Right. That's all correct."
+    u "Right. That's all correct."
 
 # game/v2/scene46.rpy:342
-translate francais v2s46_choosecabin_685820b8:
+translate francais v2s46_choosecabin_685820b8_1:
 
     # am "Which means..."
-    am ""
+    am "Which means..."
 
 # game/v2/scene46.rpy:347
-translate francais v2s46_choosecabin_796501f2:
+translate francais v2s46_choosecabin_796501f2_1:
 
     # u "She went to her aunt's to get the key."
-    u ""
+    u "She went to her aunt's to get the key."
 
 # game/v2/scene46.rpy:352
-translate francais v2s46_choosecabin_66b4fe9c:
+translate francais v2s46_choosecabin_66b4fe9c_1:
 
     # am "Exactly!"
-    am ""
+    am "Exactly!"
 
 # game/v2/scene46.rpy:354
-translate francais v2s46_choosecabin_f170033f:
+translate francais v2s46_choosecabin_f170033f_1:
 
     # am "We're the best detective duo ever. *Giggles*"
-    am ""
+    am "We're the best detective duo ever. *Giggles*"
 
 # game/v2/scene46.rpy:358
-translate francais v2s46_afterchoice_9dbe7189:
+translate francais v2s46_afterchoice_9dbe7189_1:
 
     # am "I'll send a message to Techie. She can find Mr. Rose's property records and find us an address."
-    am ""
+    am "I'll send a message to Techie. She can find Mr. Rose's property records and find us an address."
 
 # game/v2/scene46.rpy:383
-translate francais v2s46_afterchoice_176347c6:
+translate francais v2s46_afterchoice_176347c6_1:
 
     # u "We couldn't have solved this case without Penelope."
-    u ""
+    u "We couldn't have solved this case without Penelope."
 
 # game/v2/scene46.rpy:388
-translate francais v2s46_afterchoice_263f32e1:
+translate francais v2s46_afterchoice_263f32e1_1:
 
     # am "Yeah, I know. She's amazing at what she does, and she's the best."
-    am ""
+    am "Yeah, I know. She's amazing at what she does, and she's the best."
 
 # game/v2/scene46.rpy:394
-translate francais v2s46_afterchoice_eed0401c:
+translate francais v2s46_afterchoice_86b0d199_1:
 
-    # u "Yeah, she really is the best. *Laughs* Not a lot of people realize it though."
-    u ""
+    # u "Yeah, she really is the best. Not a lot of people realize it, though."
+    u "Yeah, she really is the best. Not a lot of people realize it, though."
 
 # game/v2/scene46.rpy:399
-translate francais v2s46_afterchoice_62f5c16f:
+translate francais v2s46_afterchoice_257f1b8e_1:
 
-    # am "Good! More for us. Hehe..."
-    am ""
+    # am "Good! More for us."
+    am "Good! More for us."
 
 # game/v2/scene46.rpy:404
-translate francais v2s46_afterchoice_49d1b1eb:
+translate francais v2s46_afterchoice_d0aa81a9_1:
 
-    # u "Haha, true."
-    u ""
+    # u "True."
+    u "True."
 
 # game/v2/scene46.rpy:409
-translate francais v2s46_afterchoice_430638ed:
+translate francais v2s46_afterchoice_430638ed_1:
 
     # am "Time for one more..."
-    am ""
+    am "Time for one more..."
 
 # game/v2/scene46.rpy:421
-translate francais v2s46_afterchoice_60d83998:
+translate francais v2s46_afterchoice_60d83998_1:
 
     # am "Wow, she's fast!"
-    am ""
+    am "Wow, she's fast!"
 
 # game/v2/scene46.rpy:446
-translate francais v2s46_afterchoice_94ab24a4:
+translate francais v2s46_afterchoice_94ab24a4_1:
 
     # u "She already found the address?"
-    u ""
+    u "She already found the address?"
 
 # game/v2/scene46.rpy:451
-translate francais v2s46_afterchoice_d862d970:
+translate francais v2s46_afterchoice_d862d970_1:
 
     # am "Yeah, isn't that insane?"
-    am ""
+    am "Yeah, isn't that insane?"
 
 # game/v2/scene46.rpy:456
-translate francais v2s46_afterchoice_4f1b11e6:
+translate francais v2s46_afterchoice_37b7d8f2_1:
 
-    # u "Yeah, kinda scary, but... *Laughs*"
-    u ""
+    # u "Yeah. Kinda scary, but..."
+    u "Yeah. Kinda scary, but..."
 
 # game/v2/scene46.rpy:461
-translate francais v2s46_afterchoice_087aed48:
+translate francais v2s46_afterchoice_087aed48_1:
 
     # am "A scary victory!"
-    am ""
+    am "A scary victory!"
 
 # game/v2/scene46.rpy:476
-translate francais v2s46_afterchoice_c16a13b5:
+translate francais v2s46_afterchoice_c16a13b5_1:
 
     # am "*Stomach gurgles* Uh, oh."
-    am ""
+    am "*Stomach gurgles* Uh, oh."
 
 # game/v2/scene46.rpy:481
-translate francais v2s46_afterchoice_7c55d75d:
+translate francais v2s46_afterchoice_7c55d75d_1:
 
     # u "You don't look so good."
-    u ""
+    u "You don't look so good."
 
 # game/v2/scene46.rpy:486
-translate francais v2s46_afterchoice_2345bfc2:
+translate francais v2s46_afterchoice_2345bfc2_1:
 
     # am "I don't feel it, either."
-    am ""
+    am "I don't feel it, either."
 
 # game/v2/scene46.rpy:488
-translate francais v2s46_afterchoice_1c8acf17:
+translate francais v2s46_afterchoice_1c8acf17_1:
 
     # am "..."
-    am ""
+    am "..."
 
 # game/v2/scene46.rpy:490
-translate francais v2s46_afterchoice_893bb9d6:
+translate francais v2s46_afterchoice_893bb9d6_1:
 
     # am "I think I need to go home."
-    am ""
+    am "I think I need to go home."
 
 # game/v2/scene46.rpy:495
-translate francais v2s46_afterchoice_feae1290:
+translate francais v2s46_afterchoice_1aca688b_1:
 
-    # u "You should probably get some sleep, yeah? Haha."
-    u ""
+    # u "You should probably get some sleep, yeah?"
+    u "You should probably get some sleep, yeah?"
 
 # game/v2/scene46.rpy:500
-translate francais v2s46_afterchoice_73bd46a9:
+translate francais v2s46_afterchoice_73bd46a9_1:
 
     # am "I'm probably close to like... forty-eight hours now without sleep, ha."
-    am ""
+    am "I'm probably close to like... forty-eight hours now without sleep, ha."
 
 # game/v2/scene46.rpy:502
-translate francais v2s46_afterchoice_0a4a40a8:
+translate francais v2s46_afterchoice_0a4a40a8_1:
 
     # am "I think I've hit a wall all of a sudden."
-    am ""
+    am "I think I've hit a wall all of a sudden."
 
 # game/v2/scene46.rpy:507
-translate francais v2s46_afterchoice_961bb754:
+translate francais v2s46_afterchoice_961bb754_1:
 
     # u "Get yourself home before you pass out."
-    u ""
+    u "Get yourself home before you pass out."
 
 # game/v2/scene46.rpy:512
-translate francais v2s46_afterchoice_7b2e6c6c:
+translate francais v2s46_afterchoice_7b2e6c6c_1:
 
     # am "Okay, good idea."
-    am ""
+    am "Okay, good idea."
 
 # game/v2/scene46.rpy:514
-translate francais v2s46_afterchoice_734d86ab:
+translate francais v2s46_afterchoice_734d86ab_1:
 
     # am "I'll trust you to finish this mission on your own, detective."
-    am ""
+    am "I'll trust you to finish this mission on your own, detective."
 
 # game/v2/scene46.rpy:519
-translate francais v2s46_afterchoice_7952ee49:
+translate francais v2s46_afterchoice_7952ee49_1:
 
     # u "I've been trained by the best. I'm sure I can handle it from here."
-    u ""
+    u "I've been trained by the best. I'm sure I can handle it from here."
 
 # game/v2/scene46.rpy:524
-translate francais v2s46_afterchoice_e06190fa:
+translate francais v2s46_afterchoice_e06190fa_1:
 
     # am "Yeah, you got this. I'll text you the address. *Fake crying*"
-    am ""
+    am "Yeah, you got this. I'll text you the address. *Fake crying*"
 
 # game/v2/scene46.rpy:534
-translate francais v2s46_afterchoice_dbedb438:
+translate francais v2s46_afterchoice_282e2e8f_1:
 
-    # u "Haha, stop it! I'll see you on the next case."
-    u ""
+    # u "Ha, stop it! I'll see you on the next case."
+    u "Ha, stop it! I'll see you on the next case."
 
 # game/v2/scene46.rpy:539
-translate francais v2s46_afterchoice_8982212b:
+translate francais v2s46_afterchoice_8982212b_1:
 
     # am "Make your partner proud!"
-    am ""
+    am "Make your partner proud!"
 
 translate francais strings:
 
     # game/v2/scene46.rpy:140
     old "Nope, no idea"
-    new ""
+    new "Nope, no idea"
 
     # game/v2/scene46.rpy:140
     old "Yeah, of course"
-    new ""
+    new "Yeah, of course"
 
     # game/v2/scene46.rpy:217
     old "To ask for her advice"
-    new ""
+    new "To ask for her advice"
 
     # game/v2/scene46.rpy:217
     old "To pick up something"
-    new ""
+    new "To pick up something"
 
     # game/v2/scene46.rpy:260
     old "Food supplies"
-    new ""
+    new "Food supplies"
 
     # game/v2/scene46.rpy:260
     old "The key"
-    new ""
+    new "The key"
 

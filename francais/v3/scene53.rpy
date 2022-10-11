@@ -1,20 +1,20 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene53.rpy:12
-translate francais v3s53_b570a9f8:
+translate francais v3s53_84393ae7_1:
 
-    # u "(The Dean coming in to psychologically kick that trucker in the nuts and adopt Oscar like that, really made my day. *Laughs*)"
-    u ""
+    # u "(The Dean coming in to psychologically kick that trucker in the nuts and adopt Oscar like that... it really made my day.)"
+    u "(The Dean coming in to psychologically kick that trucker in the nuts and adopt Oscar like that... it really made my day.)"
 
 # game/v3/scene53.rpy:57
-translate francais v3s53_PhoneContinueReply_f9e9813d:
+translate francais v3s53_PhoneContinueReply_f9e9813d_1:
 
     # u "(I should reply to Lindsey.)"
-    u ""
+    u "(I should reply to Lindsey.)"
 
 # game/v3/scene53.rpy:63
-translate francais v3s53_PhoneContinueReply_b7e1bc9a:
+translate francais v3s53_PhoneContinueReply_b7e1bc9a_1:
 
     # u "(Well, that wasn't very hard...)"
-    u ""
+    u "(Well, that wasn't very hard...)"
 

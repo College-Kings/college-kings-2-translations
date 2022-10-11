@@ -1,520 +1,526 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene64.rpy:16
 translate francais v3s64_b_b6528037:
 
     # cl "How was the massage, Lindsey?"
-    cl ""
+    cl "How was the massage, Lindsey?"
 
 # game/v3/scene64.rpy:21
-translate francais v3s64_b_6e1752c4:
+translate francais v3s64_b_9cc3bd87:
 
-    # li "Amazing. A little rough at points but hey, I like it hard sometimes, haha."
-    li ""
+    # li "Amazing. A little rough at points, but hey, I like it hard sometimes."
+    li "Amazing. A little rough at points, but hey, I like it hard sometimes."
 
 # game/v3/scene64.rpy:36
 translate francais v3s64_a_0727608b:
 
     # cl "Oh, here they are."
-    cl ""
+    cl "Oh, here they are."
 
 # game/v3/scene64.rpy:41
-translate francais v3s64_a_805e4fb6:
+translate francais v3s64_a_1e9d972b:
 
-    # li "Yeah, it took us a moment to find you, haha."
-    li ""
+    # li "Yeah, it took us a moment to find you, ha."
+    li "Yeah, it took us a moment to find you, ha."
 
 # game/v3/scene64.rpy:46
 translate francais v3s64_a_4c7b0cf6:
 
     # u "Here, I picked this up on the way."
-    u ""
+    u "Here, I picked this up on the way."
 
 # game/v3/scene64.rpy:51
 translate francais v3s64_a_f4d73b91:
 
     # cl "Thanks. I wanted to look through it now actually."
-    cl ""
+    cl "Thanks. I wanted to look through it now actually."
 
-# game/v3/scene64.rpy:67
+# game/v3/scene64.rpy:65
 translate francais v3s64_continue_9b1cec89:
 
     # cl "Break out the marshmallows. I've got everything we need for making s'mores."
-    cl ""
+    cl "Break out the marshmallows. I've got everything we need for making s'mores."
 
-# game/v3/scene64.rpy:72
-translate francais v3s64_continue_3f4ce650:
+# game/v3/scene64.rpy:70
+translate francais v3s64_continue_0f9ffa70:
 
-    # au "Oh, my God. I love s'mores."
-    au ""
+    # au "Oh my God. I love s'mores."
+    au "Oh my God. I love s'mores."
 
-# game/v3/scene64.rpy:84
+# game/v3/scene64.rpy:82
 translate francais v3s64_continue_0e19059a:
 
     # u "Thanks! I love marshmallows."
-    u ""
+    u "Thanks! I love marshmallows."
 
-# game/v3/scene64.rpy:89
-translate francais v3s64_continue_95054815:
+# game/v3/scene64.rpy:87
+translate francais v3s64_continue_6bcb637b:
 
-    # au "*Laughs* Me too!"
-    au ""
+    # au "Me too!"
+    au "Me too!"
 
-# game/v3/scene64.rpy:97
+# game/v3/scene64.rpy:95
 translate francais v3s64_continue_e4e3d7ce:
 
     # u "No, thanks. I'm not in the mood."
-    u ""
+    u "No, thanks. I'm not in the mood."
 
-# game/v3/scene64.rpy:102
+# game/v3/scene64.rpy:100
 translate francais v3s64_continue_409a6319:
 
     # au "Not in the mood for marshmallows by the campfire? Are you insane?"
-    au ""
+    au "Not in the mood for marshmallows by the campfire? Are you insane?"
 
-# game/v3/scene64.rpy:107
-translate francais v3s64_continue_ba23ec25:
+# game/v3/scene64.rpy:105
+translate francais v3s64_continue_b2c206f6:
 
-    # u "No, just a little full, but thanks for your concern. *Chuckles*"
-    u ""
+    # u "No, just a little full, but thanks for your concern."
+    u "No, just a little full, but thanks for your concern."
 
-# game/v3/scene64.rpy:112
-translate francais v3s64_continue_807d3163:
+# game/v3/scene64.rpy:110
+translate francais v3s64_continue_d576a156:
 
-    # au "I'll eat yours then."
-    au ""
+    # au "I'll eat yours, then."
+    au "I'll eat yours, then."
 
-# game/v3/scene64.rpy:122
-translate francais v3s64_continue_f2922ff9:
+# game/v3/scene64.rpy:120
+translate francais v3s64_continue_a1dd5033:
 
-    # u "*Laughs* Wow, how many do you think we can fit in there?"
-    u ""
+    # u "Wow, how many do you think we can fit in there?"
+    u "Wow, how many do you think we can fit in there?"
 
-# game/v3/scene64.rpy:127
+# game/v3/scene64.rpy:125
 translate francais v3s64_continue_8e7c2e89:
 
     # au "*Muffled* Wanna find out?"
-    au ""
+    au "*Muffled* Wanna find out?"
 
-# game/v3/scene64.rpy:138
+# game/v3/scene64.rpy:136
 translate francais v3s64_continue_78fa8d72:
 
     # cl "What the fuck is this?"
-    cl ""
+    cl "What the fuck is this?"
 
-# game/v3/scene64.rpy:140
+# game/v3/scene64.rpy:138
 translate francais v3s64_continue_53c59773:
 
     # cl "[name], is this funny to you?!"
-    cl ""
+    cl "[name], is this funny to you?!"
 
-# game/v3/scene64.rpy:145
+# game/v3/scene64.rpy:143
 translate francais v3s64_continue_8b258704:
 
     # u "Huh?"
-    u ""
+    u "Huh?"
 
-# game/v3/scene64.rpy:152
+# game/v3/scene64.rpy:150
 translate francais v3s64_continue_51d55777:
 
     # cl "I don't have bad breath or saggy tits, you fucking asshole!"
-    cl ""
+    cl "I don't have bad breath or saggy tits, you fucking asshole!"
 
-# game/v3/scene64.rpy:159
+# game/v3/scene64.rpy:157
 translate francais v3s64_continue_afabd71d:
 
     # cl "You suggest I use a breath mint?"
-    cl ""
+    cl "You suggest I use a breath mint?"
 
-# game/v3/scene64.rpy:166
+# game/v3/scene64.rpy:164
 translate francais v3s64_continue_9b2dc110:
 
     # cl "A breast reduction? That's your fucking suggestion?"
-    cl ""
+    cl "A breast reduction? That's your fucking suggestion?"
 
-# game/v3/scene64.rpy:174
+# game/v3/scene64.rpy:172
 translate francais v3s64_continue_b3d87218:
 
     # au "Wait... What?"
-    au ""
+    au "Wait... What?"
 
-# game/v3/scene64.rpy:179
+# game/v3/scene64.rpy:177
 translate francais v3s64_continue_b3f6d6a4:
 
     # no "*Snickers*"
-    no ""
+    no "*Snickers*"
 
-# game/v3/scene64.rpy:184
+# game/v3/scene64.rpy:182
 translate francais v3s64_continue_f880c3e7:
 
     # u "(Oh, fuck! How does she know it was me?)"
-    u ""
+    u "(Oh, fuck! How does she know it was me?)"
 
-# game/v3/scene64.rpy:189
+# game/v3/scene64.rpy:187
 translate francais v3s64_continue_cf8efdca:
 
     # jen "[name]? Did you seriously write that?"
-    jen ""
+    jen "[name]? Did you seriously write that?"
 
-# game/v3/scene64.rpy:205
+# game/v3/scene64.rpy:197
 translate francais v3s64_continue_b4421875:
 
     # u "Yeah, I... I'm sorry, Chloe."
-    u ""
+    u "Yeah, I... I'm sorry, Chloe."
 
-# game/v3/scene64.rpy:210
-translate francais v3s64_continue_afa14134:
+# game/v3/scene64.rpy:202
+translate francais v3s64_continue_f4b1d681:
 
-    # cl "*Scoffs* Sorry? Why the fuck did you write it then?"
-    cl ""
+    # cl "Sorry? Why the fuck did you write it, then?"
+    cl "Sorry? Why the fuck did you write it, then?"
 
-# game/v3/scene64.rpy:215
+# game/v3/scene64.rpy:207
 translate francais v3s64_continue_5eddb47e:
 
     # u "Honestly, I just thought it'd get a few laughs and lighten the mood, I guess? I really am sorry-"
-    u ""
+    u "Honestly, I just thought it'd get a few laughs and lighten the mood, I guess? I really am sorry-"
 
-# game/v3/scene64.rpy:223
+# game/v3/scene64.rpy:212
 translate francais v3s64_continue_36d54f66:
 
     # u "What? I didn't write anything like th-"
-    u ""
+    u "What? I didn't write anything like th-"
 
-# game/v3/scene64.rpy:228
-translate francais v3s64_continue_b1abf1d0:
+# game/v3/scene64.rpy:217
+translate francais v3s64_continue_1f4f1c7b:
 
-    # cl "*Scoffs* Are you seriously trying to deny it?"
-    cl ""
+    # cl "Are you seriously trying to deny it?"
+    cl "Are you seriously trying to deny it?"
 
-# game/v3/scene64.rpy:233
+# game/v3/scene64.rpy:222
 translate francais v3s64_continue_ee9e9ff5:
 
     # u "I didn't-"
-    u ""
+    u "I didn't-"
 
-# game/v3/scene64.rpy:238
+# game/v3/scene64.rpy:227
 translate francais v3s64_continue_969e45d1:
 
     # cl "I recognize your non-feminine handwriting, [name]."
-    cl ""
+    cl "I recognize your non-feminine handwriting, [name]."
 
-# game/v3/scene64.rpy:243
+# game/v3/scene64.rpy:232
 translate francais v3s64_continue_538b62a3:
 
     # u "(Shit.)"
-    u ""
+    u "(Shit.)"
 
-# game/v3/scene64.rpy:245
+# game/v3/scene64.rpy:234
 translate francais v3s64_continue_5a6e5e07:
 
     # u "Look, I'm sorry."
-    u ""
+    u "Look, I'm sorry."
 
-# game/v3/scene64.rpy:250
+# game/v3/scene64.rpy:239
 translate francais v3s64_continue_505bd913:
 
     # cl "Ha! He's sorry."
-    cl ""
+    cl "Ha! He's sorry."
 
-# game/v3/scene64.rpy:255
+# game/v3/scene64.rpy:244
 translate francais v3s64_continue_9cb7764b:
 
     # u "I just thought it would be funny, honestly, I didn't mean any harm."
-    u ""
+    u "I just thought it would be funny, honestly, I didn't mean any harm."
 
-# game/v3/scene64.rpy:260
+# game/v3/scene64.rpy:249
 translate francais v3s64_continue_1c39af35:
 
     # cl "Well, it's not funny! It's obviously not fucking funny at all."
-    cl ""
+    cl "Well, it's not funny! It's obviously not fucking funny at all."
 
-# game/v3/scene64.rpy:265
+# game/v3/scene64.rpy:254
 translate francais v3s64_continue_090dd5fe:
 
     # u "I'm sorry, seriously! It was just a little prank, I swear."
-    u ""
+    u "I'm sorry, seriously! It was just a little prank, I swear."
 
-# game/v3/scene64.rpy:270
+# game/v3/scene64.rpy:259
 translate francais v3s64_continue_7f529d93:
 
     # cl "*Sighs* I don't know about you sometimes, [name]. You have a strange sense of humor."
-    cl ""
+    cl "*Sighs* I don't know about you sometimes, [name]. You have a strange sense of humor."
 
-# game/v3/scene64.rpy:276
+# game/v3/scene64.rpy:265
 translate francais v3s64_continue_939279c4:
 
     # cl "If you think I'd find anonymous insults funny, then maybe I should rethink things between us."
-    cl ""
+    cl "If you think I'd find anonymous insults funny, then maybe I should rethink things between us."
 
-# game/v3/scene64.rpy:281
+# game/v3/scene64.rpy:270
 translate francais v3s64_continue_2a870042:
 
     # u "Chloe..."
-    u ""
+    u "Chloe..."
 
-# game/v3/scene64.rpy:286
+# game/v3/scene64.rpy:272
 translate francais v3s64_continue_ea5f4450:
 
     # u "(Well, I fucked up.) I apologize, Chloe. It was a stupid idea, and you have every right to be upset with me, but I hope you can forgive me soon."
-    u ""
+    u "(Well, I fucked up.) I apologize, Chloe. It was a stupid idea, and you have every right to be upset with me, but I hope you can forgive me soon."
 
-# game/v3/scene64.rpy:291
+# game/v3/scene64.rpy:277
 translate francais v3s64_continue_858ab65f:
 
     # no "Ahem! Well, if you ask me..."
-    no ""
+    no "Ahem! Well, if you ask me..."
 
-# game/v3/scene64.rpy:296
+# game/v3/scene64.rpy:282
 translate francais v3s64_continue_2f76566f:
 
     # jen "Pretty sure no one did."
-    jen ""
+    jen "Pretty sure no one did."
 
-# game/v3/scene64.rpy:306
-translate francais v3s64_continue_41e61c06:
+# game/v3/scene64.rpy:292
+translate francais v3s64_continue_54142e12:
 
-    # no "That was pretty shitty of you, [name]. Hilarious, but wrong. You don't say that shit about a girl, it sticks with us a lot longer than you'd think."
-    no ""
+    # no "That was pretty shitty of you, [name]. Hilarious, but wrong. You don't say that shit about a girl; it sticks with us a lot longer than you'd think."
+    no "That was pretty shitty of you, [name]. Hilarious, but wrong. You don't say that shit about a girl; it sticks with us a lot longer than you'd think."
 
-# game/v3/scene64.rpy:311
+# game/v3/scene64.rpy:297
 translate francais v3s64_continue_118e151a:
 
     # u "*Sighs* I understand."
-    u ""
+    u "*Sighs* I understand."
 
-# game/v3/scene64.rpy:316
+# game/v3/scene64.rpy:302
 translate francais v3s64_continue_89086a90:
 
     # no "With that being said... Come on, Chloe. You know he didn't mean to hurt you."
-    no ""
+    no "With that being said... Come on, Chloe. You know he didn't mean to hurt you."
 
-# game/v3/scene64.rpy:321
+# game/v3/scene64.rpy:307
 translate francais v3s64_continue_41c7b2a3:
 
     # au "Listen, babe. Everyone here knows that your body is impeccable."
-    au ""
+    au "Listen, babe. Everyone here knows that your body is impeccable."
 
-# game/v3/scene64.rpy:327
+# game/v3/scene64.rpy:313
 translate francais v3s64_continue_5c6d6633:
 
     # au "[name] knows it damn well."
-    au ""
+    au "[name] knows it damn well."
 
-# game/v3/scene64.rpy:332
-translate francais v3s64_continue_e99e915e:
+# game/v3/scene64.rpy:318
+translate francais v3s64_continue_d637c397:
 
-    # u "I do. *Chuckles*"
-    u ""
+    # u "I do."
+    u "I do."
 
-# game/v3/scene64.rpy:349
+# game/v3/scene64.rpy:335
 translate francais v3s64_continue_8d860d0a:
 
     # jen "It is! We all wouldn't have made out with you for the past hour if you weren't a total smoke show."
-    jen ""
+    jen "It is! We all wouldn't have made out with you for the past hour if you weren't a total smoke show."
 
-# game/v3/scene64.rpy:354
-translate francais v3s64_continue_4bc94ba9:
+# game/v3/scene64.rpy:340
+translate francais v3s64_continue_b08e4db9:
 
-    # cl "*Laughs* Thanks. That does make me feel a little better about it."
-    cl ""
+    # cl "Thanks. That does make me feel a little better about it."
+    cl "Thanks. That does make me feel a little better about it."
 
-# game/v3/scene64.rpy:359
+# game/v3/scene64.rpy:345
 translate francais v3s64_continue_e301e258:
 
     # cl "*Sighs* [name]..."
-    cl ""
+    cl "*Sighs* [name]..."
 
-# game/v3/scene64.rpy:364
+# game/v3/scene64.rpy:350
 translate francais v3s64_continue_6bcd435f:
 
     # u "Yeah?"
-    u ""
+    u "Yeah?"
 
-# game/v3/scene64.rpy:369
+# game/v3/scene64.rpy:355
 translate francais v3s64_continue_15e4a893:
 
     # cl "Don't ever pull that shit on me again."
-    cl ""
+    cl "Don't ever pull that shit on me again."
 
-# game/v3/scene64.rpy:374
+# game/v3/scene64.rpy:360
 translate francais v3s64_continue_c77377ea:
 
     # u "Message received. (Not making any promises though...)"
-    u ""
+    u "Message received. (Not making any promises though...)"
 
-# game/v3/scene64.rpy:381
+# game/v3/scene64.rpy:370
 translate francais v3s64_continue_07a9dbdd:
 
     # cl "Aw! [name], thanks. You're sweet for adding something cute."
-    cl ""
+    cl "Aw! [name], thanks. You're sweet for adding something cute."
 
-# game/v3/scene64.rpy:386
+# game/v3/scene64.rpy:375
 translate francais v3s64_continue_e9a763b0:
 
     # u "Wait! How'd you know it was me?!"
-    u ""
+    u "Wait! How'd you know it was me?!"
 
-# game/v3/scene64.rpy:391
-translate francais v3s64_continue_c1571b67:
+# game/v3/scene64.rpy:380
+translate francais v3s64_continue_e282b646:
 
-    # cl "Umm, don't take this the wrong way, but... your handwriting looks like chicken scratches. *Giggles*"
-    cl ""
+    # cl "Umm, don't take this the wrong way, but... your handwriting looks like chicken scratches."
+    cl "Umm, don't take this the wrong way, but... your handwriting looks like chicken scratches."
 
-# game/v3/scene64.rpy:396
-translate francais v3s64_continue_b4aa7dd5:
+# game/v3/scene64.rpy:385
+translate francais v3s64_continue_0e224b4e:
 
-    # au "Haha, hey! It could be mine."
-    au ""
+    # au "Ha, hey! It could be mine."
+    au "Ha, hey! It could be mine."
 
-# game/v3/scene64.rpy:401
-translate francais v3s64_continue_b1cc169f:
+# game/v3/scene64.rpy:390
+translate francais v3s64_continue_23fd64ac:
 
-    # cl "No, no, [name]'s is much, much worse. *Laughs*"
-    cl ""
+    # cl "No, no, [name]'s is much, much worse."
+    cl "No, no, [name]'s is much, much worse."
 
-# game/v3/scene64.rpy:406
+# game/v3/scene64.rpy:395
 translate francais v3s64_continue_a2bc0a4c:
 
     # u "(Dammit.)"
-    u ""
+    u "(Dammit.)"
 
-# game/v3/scene64.rpy:414
+# game/v3/scene64.rpy:403
 translate francais v3s64_continue_52a184e1:
 
     # cl "Aw, thanks for the suggestions, everyone. These are actually helpful! Well, some of them..."
-    cl ""
+    cl "Aw, thanks for the suggestions, everyone. These are actually helpful! Well, some of them..."
 
-# game/v3/scene64.rpy:419
-translate francais v3s64_continue_6f68ff94:
+# game/v3/scene64.rpy:408
+translate francais v3s64_continue_0043fb37:
 
-    # cl "*Laughs* Communal vibrators? Thanks for a laugh, Aubrey!"
-    cl ""
+    # cl "Communal vibrators? Thanks for a laugh, Aubrey!"
+    cl "Communal vibrators? Thanks for a laugh, Aubrey!"
 
-# game/v3/scene64.rpy:424
-translate francais v3s64_continue_3bcd20e1:
+# game/v3/scene64.rpy:413
+translate francais v3s64_continue_222bb43f:
 
-    # au "Wha- It's a serious suggestion!"
-    au ""
+    # au "Wha-"
+    au "Wha-"
 
-# game/v3/scene64.rpy:429
+# game/v3/scene64.rpy:415
+translate francais v3s64_continue_f297d61d:
+
+    # au "It's a serious suggestion!"
+    au "It's a serious suggestion!"
+
+# game/v3/scene64.rpy:420
 translate francais v3s64_continue_c2664b2e:
 
     # cl "Hmm... I'll take it into consideration."
-    cl ""
+    cl "Hmm... I'll take it into consideration."
 
-# game/v3/scene64.rpy:436
-translate francais v3s64_continue_b9f7c270:
+# game/v3/scene64.rpy:427
+translate francais v3s64_continue_5ab96819:
 
-    # u "I'm thinking this a good time for me to go and let the real party begin, haha."
-    u ""
+    # u "I'm thinking this a good time for me to go and let the real party begin, ha."
+    u "I'm thinking this a good time for me to go and let the real party begin, ha."
 
-# game/v3/scene64.rpy:441
+# game/v3/scene64.rpy:432
 translate francais v3s64_continue_bd10a599:
 
     # li "Finally! No boys, no boys, no boys!"
-    li ""
+    li "Finally! No boys, no boys, no boys!"
 
-# game/v3/scene64.rpy:452
+# game/v3/scene64.rpy:443
 translate francais v3s64_continue_8d489029:
 
     # u "Damn. Are you guys sure you don't need a big, strong, handsome man to stay here with you all night?"
-    u ""
+    u "Damn. Are you guys sure you don't need a big, strong, handsome man to stay here with you all night?"
 
-# game/v3/scene64.rpy:457
+# game/v3/scene64.rpy:448
 translate francais v3s64_continue_1c556f96:
 
     # no "Oh, for the love of God..."
-    no ""
+    no "Oh, for the love of God..."
 
-# game/v3/scene64.rpy:462
+# game/v3/scene64.rpy:453
 translate francais v3s64_continue_f8f2016e:
 
     # cl "Yeah, we'll live. *Giggles* I promise."
-    cl ""
+    cl "Yeah, we'll live. *Giggles* I promise."
 
-# game/v3/scene64.rpy:467
+# game/v3/scene64.rpy:458
 translate francais v3s64_continue_83d0711d:
 
     # jen "Things are about to get WILD!"
-    jen ""
+    jen "Things are about to get WILD!"
 
-# game/v3/scene64.rpy:472
+# game/v3/scene64.rpy:463
 translate francais v3s64_continue_a4bd5967:
 
     # au "Yessssss!"
-    au ""
+    au "Yessssss!"
 
-# game/v3/scene64.rpy:477
+# game/v3/scene64.rpy:468
 translate francais v3s64_continue_fc3e5349:
 
     # u "(I wanna get wild...)"
-    u ""
+    u "(I wanna get wild...)"
 
-# game/v3/scene64.rpy:482
+# game/v3/scene64.rpy:473
 translate francais v3s64_continue_b6de8bbc:
 
     # li "Oh, Polly is performing on campus, actually. So, I need to go for a tiny bit, but I'll be back for movies."
-    li ""
+    li "Oh, Polly is performing on campus, actually. So, I need to go for a tiny bit, but I'll be back for movies."
 
-# game/v3/scene64.rpy:487
+# game/v3/scene64.rpy:478
 translate francais v3s64_continue_6b27bed0:
 
     # u "That's where I'm headed, too."
-    u ""
+    u "That's where I'm headed, too."
 
-# game/v3/scene64.rpy:492
-translate francais v3s64_continue_a240d1c0:
+# game/v3/scene64.rpy:483
+translate francais v3s64_continue_f686e6fd:
 
-    # li "Thanks for the spa night, Chloe. I genuinely had fun, surprisingly. *Chuckles*"
-    li ""
+    # li "Thanks for the spa night, Chloe. I genuinely had fun, surprisingly."
+    li "Thanks for the spa night, Chloe. I genuinely had fun, surprisingly."
 
-# game/v3/scene64.rpy:497
-translate francais v3s64_continue_e05e88a3:
+# game/v3/scene64.rpy:488
+translate francais v3s64_continue_18f05882:
 
-    # cl "Ha, no problem. Don't be late, we're starting with or without you!"
-    cl ""
+    # cl "Ha, no problem. Don't be late; we're starting with or without you!"
+    cl "Ha, no problem. Don't be late; we're starting with or without you!"
 
-# game/v3/scene64.rpy:502
+# game/v3/scene64.rpy:493
 translate francais v3s64_continue_3154f7c1:
 
     # li "I know, I know! I'm just too much of a Polly fan to miss this."
-    li ""
+    li "I know, I know! I'm just too much of a Polly fan to miss this."
 
-# game/v3/scene64.rpy:507
+# game/v3/scene64.rpy:498
 translate francais v3s64_continue_211aa343:
 
     # u "Have a great night, ladies! You know how to get ahold of me in case of an emergency."
-    u ""
+    u "Have a great night, ladies! You know how to get ahold of me in case of an emergency."
 
-# game/v3/scene64.rpy:512
+# game/v3/scene64.rpy:503
 translate francais v3s64_continue_a96b72f6:
 
     # jen "Leave already so we can talk about you!"
-    jen ""
+    jen "Leave already so we can talk about you!"
 
-# game/v3/scene64.rpy:517
+# game/v3/scene64.rpy:508
 translate francais v3s64_continue_ae10b6d0:
 
     # u "Fine."
-    u ""
+    u "Fine."
 
-# game/v3/scene64.rpy:522
+# game/v3/scene64.rpy:513
 translate francais v3s64_continue_376c4542:
 
     # li "Wait one sec, [name]. Let me change first, wait here!"
-    li ""
+    li "Wait one sec, [name]. Let me change first, wait here!"
 
 translate francais strings:
 
-    # game/v3/scene64.rpy:77
+    # game/v3/scene64.rpy:75
     old "Take one"
-    new ""
+    new "Take one"
 
-    # game/v3/scene64.rpy:194
+    # game/v3/scene64.rpy:192
     old "Tell the truth"
-    new ""
+    new "Tell the truth"
 
-    # game/v3/scene64.rpy:194
+    # game/v3/scene64.rpy:192
     old "Deny it"
-    new ""
+    new "Deny it"
 

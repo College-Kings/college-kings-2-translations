@@ -1,288 +1,276 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v2/scene13.rpy:18
-translate francais v2s13_d180ac36:
+# game/v2/scene13.rpy:20
+translate francais v2s13_da695a4b:
 
-    # u "(Lauren's party isn't for a while so maybe I should get some studying in... It's not fun, but neither is failing.)"
-    u ""
+    # u "(Lauren's party isn't for a while, so maybe I should get some studying in. It's not fun, but neither is failing.)"
+    u "(Lauren's party isn't for a while, so maybe I should get some studying in. It's not fun, but neither is failing.)"
 
-# game/v2/scene13.rpy:38
+# game/v2/scene13.rpy:52
 translate francais v2s13_03cd0b3b:
 
     # u "Okay, break time."
-    u ""
+    u "Okay, break time."
 
-# game/v2/scene13.rpy:57
+# game/v2/scene13.rpy:72
 translate francais v2s13_3dccfa76:
 
     # imre "Hey, what the hell are you snacking on sugar for? You need to maintain the shape of a fighting machine, bro."
-    imre ""
+    imre "Hey, what the hell are you snacking on sugar for? You need to maintain the shape of a fighting machine, bro."
 
-# game/v2/scene13.rpy:66
+# game/v2/scene13.rpy:81
 translate francais v2s13_e535c7a3:
 
     # u "Yeah, I know... I'll do better next time."
-    u ""
+    u "Yeah, I know... I'll do better next time."
 
-# game/v2/scene13.rpy:71
+# game/v2/scene13.rpy:86
 translate francais v2s13_a992dad9:
 
     # imre "I just saved you from obesity."
-    imre ""
+    imre "I just saved you from obesity."
 
-# game/v2/scene13.rpy:76
-translate francais v2s13_d0c59ada:
+# game/v2/scene13.rpy:91
+translate francais v2s13_f3549920:
 
-    # u "Haha, you did. Thanks."
-    u ""
+    # u "Ha, you did. Thanks."
+    u "Ha, you did. Thanks."
 
-# game/v2/scene13.rpy:81
+# game/v2/scene13.rpy:96
 translate francais v2s13_c3c8a657:
 
     # imre "That's what I'm here for, man!"
-    imre ""
+    imre "That's what I'm here for, man!"
 
-# game/v2/scene13.rpy:89
+# game/v2/scene13.rpy:104
 translate francais v2s13_56d5d75e:
 
     # u "Why are you creeping outside my room, Imre? I'm trying to study here."
-    u ""
+    u "Why are you creeping outside my room, Imre? I'm trying to study here."
 
-# game/v2/scene13.rpy:94
+# game/v2/scene13.rpy:109
 translate francais v2s13_d4c7eaa0:
 
     # imre "Whatever, man. Just showing that I care! Enjoy your high cholesterol."
-    imre ""
+    imre "Whatever, man. Just showing that I care! Enjoy your high cholesterol."
 
-# game/v2/scene13.rpy:99
-translate francais v2s13_001e3613:
+# game/v2/scene13.rpy:114
+translate francais v2s13_d6224755:
 
-    # u "I will. *Chuckles*"
-    u ""
+    # u "I will."
+    u "I will."
 
-# game/v2/scene13.rpy:124
+# game/v2/scene13.rpy:138
 translate francais v2s13_PhoneContinue_d172984c:
 
     # u "(I should reply to Riley.)"
-    u ""
+    u "(I should reply to Riley.)"
 
-# game/v2/scene13.rpy:130
+# game/v2/scene13.rpy:144
 translate francais v2s13_PhoneContinue_6030afad:
 
     # u "(That's enough studying for right now anyway. Time to get Lauren's gift and find a costume!)"
-    u ""
+    u "(That's enough studying for right now anyway. Time to get Lauren's gift and find a costume!)"
 
-# game/v2/scene13.rpy:137
-translate francais v2s13_PhoneContinue_85e49329:
+# game/v2/scene13.rpy:151
+translate francais v2s13_PhoneContinue_28de7ae5:
 
-    # u "(I'll just do an extra gym session this week to even things out.) *Chuckles*"
-    u ""
+    # u "(I'll just do an extra gym session this week to even things out.)"
+    u "(I'll just do an extra gym session this week to even things out.)"
 
-# game/v2/scene13.rpy:147
+# game/v2/scene13.rpy:161
 translate francais v2s13_PhoneContinue_177d62d7:
 
     # u "(Next time I'll get a healthier snack...)"
-    u ""
+    u "(Next time I'll get a healthier snack...)"
 
-# game/v2/scene13.rpy:167
-translate francais v2s13_PhoneContinue_d180ac36:
-
-    # u "(Lauren's party isn't for a while so maybe I should get some studying in... It's not fun, but neither is failing.)"
-    u ""
-
-# game/v2/scene13.rpy:187
-translate francais v2s13_PhoneContinue_03cd0b3b:
-
-    # u "Okay, break time."
-    u ""
-
-# game/v2/scene13.rpy:206
+# game/v2/scene13.rpy:191
 translate francais v2s13_PhoneContinue_45257a24:
 
     # gr "The fuck?"
-    gr ""
+    gr "The fuck?"
 
-# game/v2/scene13.rpy:211
+# game/v2/scene13.rpy:196
 translate francais v2s13_PhoneContinue_ef2f1671:
 
     # u "What?"
-    u ""
+    u "What?"
 
-# game/v2/scene13.rpy:216
-translate francais v2s13_PhoneContinue_c4d86b6a:
+# game/v2/scene13.rpy:201
+translate francais v2s13_PhoneContinue_9c094e90:
 
-    # gr "If you keep eating like that, you're gonna end up looking like the bubble gum girl from that chocolate factory movie..."
-    gr ""
+    # gr "If you keep eating like that, you're gonna end up looking like the bubblegum girl from that chocolate factory movie..."
+    gr "If you keep eating like that, you're gonna end up looking like the bubblegum girl from that chocolate factory movie..."
 
-# game/v2/scene13.rpy:226
+# game/v2/scene13.rpy:210
 translate francais v2s13_PhoneContinue_899323e5:
 
     # u "Donuts turn you into blueberries?"
-    u ""
+    u "Donuts turn you into blueberries?"
 
-# game/v2/scene13.rpy:231
-translate francais v2s13_PhoneContinue_9aaf0f9c:
+# game/v2/scene13.rpy:215
+translate francais v2s13_PhoneContinue_5a912399:
 
-    # gr "Nah, dude. They turn you into fat balloons, and I don't wanna be rolling your ass to the gym. *Laughs*"
-    gr ""
+    # gr "Nah, dude. They turn you into fat balloons, and I don't wanna be rolling your ass to the gym."
+    gr "Nah, dude. They turn you into fat balloons, and I don't wanna be rolling your ass to the gym."
 
-# game/v2/scene13.rpy:236
-translate francais v2s13_PhoneContinue_4164b3fa:
+# game/v2/scene13.rpy:220
+translate francais v2s13_PhoneContinue_4e5285d0:
 
-    # u "Haha! Nice one, dude. I actually laughed at that."
-    u ""
+    # u "Ha! Nice one, dude. I actually laughed at that."
+    u "Ha! Nice one, dude. I actually laughed at that."
 
-# game/v2/scene13.rpy:241
+# game/v2/scene13.rpy:225
 translate francais v2s13_PhoneContinue_c1f2f988:
 
     # gr "Ha, fuck you."
-    gr ""
+    gr "Ha, fuck you."
 
-# game/v2/scene13.rpy:250
-translate francais v2s13_PhoneContinue_d4c74348:
+# game/v2/scene13.rpy:232
+translate francais v2s13_PhoneContinue_9662275f:
 
-    # u "Chocolate factory movie? Are you feeling okay? *Chuckles*"
-    u ""
+    # u "Chocolate factory movie? Are you feeling okay?"
+    u "Chocolate factory movie? Are you feeling okay?"
 
-# game/v2/scene13.rpy:255
-translate francais v2s13_PhoneContinue_3896b6bb:
+# game/v2/scene13.rpy:237
+translate francais v2s13_PhoneContinue_73589d52:
 
-    # gr "Yeah you prick, I feel great. Not my fault you're a boomer."
-    gr ""
+    # gr "Yeah, you prick, I feel great. Not my fault you're a boomer."
+    gr "Yeah, you prick, I feel great. Not my fault you're a boomer."
 
-# game/v2/scene13.rpy:260
-translate francais v2s13_PhoneContinue_6f544a29:
+# game/v2/scene13.rpy:242
+translate francais v2s13_PhoneContinue_c5a72ced:
 
-    # u "Ha, whatever you say man."
-    u ""
+    # u "Ha, whatever you say, man."
+    u "Ha, whatever you say, man."
 
-# game/v2/scene13.rpy:265
+# game/v2/scene13.rpy:247
 translate francais v2s13_PhoneContinue_423033b0:
 
     # gr "Regardless, that's not the diet of a fight champion. Do better."
-    gr ""
+    gr "Regardless, that's not the diet of a fight champion. Do better."
 
-# game/v2/scene13.rpy:274
-translate francais v2s13_PhoneContinue_52252701:
+# game/v2/scene13.rpy:256
+translate francais v2s13_PhoneContinue_3bdd0da1:
 
-    # u "I know, I will. This is only my first just so you know."
-    u ""
+    # u "I know, I will. This is only my first, just so you know."
+    u "I know, I will. This is only my first, just so you know."
 
-# game/v2/scene13.rpy:279
-translate francais v2s13_PhoneContinue_abf0bb69:
+# game/v2/scene13.rpy:261
+translate francais v2s13_PhoneContinue_ad23f517:
 
-    # gr "Well, keep it that way. Unless you want frat boy to turn into fat boy, haha!"
-    gr ""
+    # gr "Well, keep it that way. Unless you want frat boy to turn into fat boy!"
+    gr "Well, keep it that way. Unless you want frat boy to turn into fat boy!"
 
-# game/v2/scene13.rpy:284
-translate francais v2s13_PhoneContinue_1dc2a7b0:
+# game/v2/scene13.rpy:266
+translate francais v2s13_PhoneContinue_776ca709:
 
-    # u "Haha, wow... You're on fire today with these jokes, huh?"
-    u ""
+    # u "Ha, wow. You're on fire today with these jokes, huh?"
+    u "Ha, wow. You're on fire today with these jokes, huh?"
 
-# game/v2/scene13.rpy:289
-translate francais v2s13_PhoneContinue_71bf372f:
+# game/v2/scene13.rpy:271
+translate francais v2s13_PhoneContinue_04a98a0d:
 
-    # gr "Whatever, I didn't come here to amuse you."
-    gr ""
+    # gr "Whatever, I didn't come here to amuse you. Tubby bitch."
+    gr "Whatever, I didn't come here to amuse you. Tubby bitch."
 
-# game/v2/scene13.rpy:294
-translate francais v2s13_PhoneContinue_48047903:
+# game/v2/scene13.rpy:276
+translate francais v2s13_PhoneContinue_7cdd595c:
 
-    # u "Alright, okay. No donuts."
-    u ""
+    # u "All right, okay. No donuts."
+    u "All right, okay. No donuts."
 
-# game/v2/scene13.rpy:299
+# game/v2/scene13.rpy:281
 translate francais v2s13_PhoneContinue_68aafa48:
 
     # gr "Good."
-    gr ""
+    gr "Good."
 
-# game/v2/scene13.rpy:309
+# game/v2/scene13.rpy:291
 translate francais v2s13_PhoneContinue_023bfa3c:
 
     # u "Are you serious right now? You're telling me that you never have donuts, or cake, or cola?"
-    u ""
+    u "Are you serious right now? You're telling me that you never have donuts, or cake, or cola?"
 
-# game/v2/scene13.rpy:314
-translate francais v2s13_PhoneContinue_00196853:
+# game/v2/scene13.rpy:296
+translate francais v2s13_PhoneContinue_a1d8f708:
 
-    # gr "You think I got to be the fight king by eating that shit? *Scoffs*"
-    gr ""
+    # gr "You think I got to be the fight king by eating that shit?"
+    gr "You think I got to be the fight king by eating that shit?"
 
-# game/v2/scene13.rpy:319
-translate francais v2s13_PhoneContinue_05eaf3de:
+# game/v2/scene13.rpy:301
+translate francais v2s13_PhoneContinue_7f69e796:
 
-    # u "I know for a fact that you eat this shit, Grayson. Get off my back, it's a donut."
-    u ""
+    # u "I know for a fact that you eat this shit, Grayson. Get off my back. It's a donut."
+    u "I know for a fact that you eat this shit, Grayson. Get off my back. It's a donut."
 
-# game/v2/scene13.rpy:324
+# game/v2/scene13.rpy:306
 translate francais v2s13_PhoneContinue_99551264:
 
     # gr "Suit yourself, fat boy."
-    gr ""
+    gr "Suit yourself, fat boy."
 
-# game/v2/scene13.rpy:329
+# game/v2/scene13.rpy:311
 translate francais v2s13_PhoneContinue_10105b5c:
 
     # u "(Such a dick.)"
-    u ""
+    u "(Such a dick.)"
 
-# game/v2/scene13.rpy:354
+# game/v2/scene13.rpy:336
 translate francais v2s13_PhoneContinue2_d172984c:
 
     # u "(I should reply to Riley.)"
-    u ""
+    u "(I should reply to Riley.)"
 
-# game/v2/scene13.rpy:360
+# game/v2/scene13.rpy:342
 translate francais v2s13_PhoneContinue2_6030afad:
 
     # u "(That's enough studying for right now anyway. Time to get Lauren's gift and find a costume!)"
-    u ""
+    u "(That's enough studying for right now anyway. Time to get Lauren's gift and find a costume!)"
 
-# game/v2/scene13.rpy:367
-translate francais v2s13_PhoneContinue2_85e49329:
+# game/v2/scene13.rpy:349
+translate francais v2s13_PhoneContinue2_28de7ae5:
 
-    # u "(I'll just do an extra gym session this week to even things out.) *Chuckles*"
-    u ""
+    # u "(I'll just do an extra gym session this week to even things out.)"
+    u "(I'll just do an extra gym session this week to even things out.)"
 
-# game/v2/scene13.rpy:377
+# game/v2/scene13.rpy:359
 translate francais v2s13_PhoneContinue2_177d62d7:
 
     # u "(Next time I'll get a healthier snack...)"
-    u ""
+    u "(Next time I'll get a healthier snack...)"
 
 translate francais strings:
 
-    # game/v2/scene13.rpy:62
+    # game/v2/scene13.rpy:77
     old "Agree with Imre"
-    new ""
+    new "Agree with Imre"
 
-    # game/v2/scene13.rpy:62
+    # game/v2/scene13.rpy:77
     old "Dismiss Imre"
-    new ""
+    new "Dismiss Imre"
 
-    # game/v2/scene13.rpy:132
+    # game/v2/scene13.rpy:146
     old "Eat the donut"
-    new ""
+    new "Eat the donut"
 
-    # game/v2/scene13.rpy:132
+    # game/v2/scene13.rpy:146
     old "Don't eat the donut"
-    new ""
+    new "Don't eat the donut"
 
-    # game/v2/scene13.rpy:221
+    # game/v2/scene13.rpy:206
     old "A blueberry?"
-    new ""
+    new "A blueberry?"
 
-    # game/v2/scene13.rpy:221
+    # game/v2/scene13.rpy:206
     old "Chocolate factory movie?"
-    new ""
+    new "Chocolate factory movie?"
 
-    # game/v2/scene13.rpy:270
+    # game/v2/scene13.rpy:252
     old "I will"
-    new ""
+    new "I will"
 
-    # game/v2/scene13.rpy:270
+    # game/v2/scene13.rpy:252
     old "You don't eat donuts?"
-    new ""
+    new "You don't eat donuts?"
 

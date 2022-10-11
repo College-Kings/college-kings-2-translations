@@ -1,50 +1,50 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v3/scene33.rpy:12
 translate francais v3s33_c403f9c0:
 
     # u "*Whistling badly*"
-    u ""
+    u "*Whistling badly*"
 
-# game/v3/scene33.rpy:27
-translate francais v3s33_c5d23652:
+# game/v3/scene33.rpy:28
+translate francais v3s33_e34111fe:
 
-    # u "*Laughs* (Maybe I should take up a minor in art.)"
-    u ""
+    # u "(Maybe I should take up a minor in art.)"
+    u "(Maybe I should take up a minor in art.)"
 
-# game/v3/scene33.rpy:38
-translate francais v3s33_c5d23652_1:
+# game/v3/scene33.rpy:40
+translate francais v3s33_e34111fe_1:
 
-    # u "*Laughs* (Maybe I should take up a minor in art.)"
-    u ""
+    # u "(Maybe I should take up a minor in art.)"
+    u "(Maybe I should take up a minor in art.)"
 
-# game/v3/scene33.rpy:45
-translate francais v3s33_f184b84f:
+# game/v3/scene33.rpy:47
+translate francais v3s33_5aa6efdf:
 
-    # u "(Ah... Nice and fresh.)"
-    u ""
+    # u "(Ah... nice and fresh.)"
+    u "(Ah... nice and fresh.)"
 
-# game/v3/scene33.rpy:67
+# game/v3/scene33.rpy:69
 translate francais v3s33_phone_continue1_6b32f074:
 
     # u "I should reply to Lauren."
-    u ""
+    u "I should reply to Lauren."
 
-# game/v3/scene33.rpy:90
+# game/v3/scene33.rpy:92
 translate francais v3s33_phone_continue2_6b32f074:
 
     # u "I should reply to Lauren."
-    u ""
+    u "I should reply to Lauren."
 
-# game/v3/scene33.rpy:96
-translate francais v3s33_phone_continue2_62f4ee4d:
+# game/v3/scene33.rpy:98
+translate francais v3s33_phone_continue2_202b0eb5:
 
-    # u "(It'll probably turn out to be a Chihuahua, haha.)"
-    u ""
+    # u "(It'll probably turn out to be a Chihuahua.)"
+    u "(It'll probably turn out to be a Chihuahua.)"
 
 translate francais strings:
 
     # game/v3/scene33.rpy:17
     old "Draw a cat"
-    new ""
+    new "Draw a cat"
 

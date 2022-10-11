@@ -1,690 +1,690 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene31a.rpy:22
-translate francais v1s31a_35bf2b5c:
+translate francais v1s31a_35bf2b5c_1:
 
     # u "Putting in a set instead of enjoying the party?"
-    u ""
+    u "Putting in a set instead of enjoying the party?"
 
 # game/v1/scene31a.rpy:27
-translate francais v1s31a_9733a4f9:
+translate francais v1s31a_9733a4f9_1:
 
     # ca "Can't be walking around looking like a little bitch boy. Too much partying does that to you, you know."
-    ca ""
+    ca "Can't be walking around looking like a little bitch boy. Too much partying does that to you, you know."
 
 # game/v1/scene31a.rpy:32
-translate francais v1s31a_daeffb37:
+translate francais v1s31a_daeffb37_1:
 
     # u "Couldn't have said it better myself."
-    u ""
+    u "Couldn't have said it better myself."
 
 # game/v1/scene31a.rpy:37
-translate francais v1s31a_94d30631:
+translate francais v1s31a_4b0c8e1f_1:
 
-    # ca "You need to work out too, you look like a fucking fifth grader."
-    ca ""
+    # ca "You need to work out, too. You look like a fucking fifth grader."
+    ca "You need to work out, too. You look like a fucking fifth grader."
 
 # game/v1/scene31a.rpy:42
-translate francais v1s31a_0a3fe781:
+translate francais v1s31a_0a3fe781_1:
 
     # ca "Ah! Couldn't have said that better myself."
-    ca ""
+    ca "Ah! Couldn't have said that better myself."
 
 # game/v1/scene31a.rpy:47
-translate francais v1s31a_a7361e7c:
+translate francais v1s31a_bfa0d062_1:
 
-    # u "Ha! Alright..."
-    u ""
+    # u "Ha! All right..."
+    u "Ha! All right..."
 
 # game/v1/scene31a.rpy:105
-translate francais v1s31a_ad0ff772:
+translate francais v1s31a_40d23252_1:
 
-    # ca "Okay, good form. I'll give you that. How are your sit ups?"
-    ca ""
+    # ca "Okay, good form. I'll give you that. How are your sit-ups?"
+    ca "Okay, good form. I'll give you that. How are your sit-ups?"
 
 # game/v1/scene31a.rpy:146
-translate francais v1s31a_7ed98f38:
+translate francais v1s31a_7ed98f38_1:
 
     # ca "Acceptable, but you shouldn't be lying all the way down, resting every new rep."
-    ca ""
+    ca "Acceptable, but you shouldn't be lying all the way down, resting every new rep."
 
 # game/v1/scene31a.rpy:151
-translate francais v1s31a_b9475731:
+translate francais v1s31a_b9475731_1:
 
     # u "Got it, coach."
-    u ""
+    u "Got it, coach."
 
 # game/v1/scene31a.rpy:156
-translate francais v1s31a_e3e844d5:
+translate francais v1s31a_71c9ab32_1:
 
-    # ca "Alright, stop the bullshit and say what you need to say."
-    ca ""
+    # ca "All right, stop the bullshit and say what you need to say."
+    ca "All right, stop the bullshit and say what you need to say."
 
 # game/v1/scene31a.rpy:161
-translate francais v1s31a_8b258704:
+translate francais v1s31a_8b258704_1:
 
     # u "Huh?"
-    u ""
+    u "Huh?"
 
 # game/v1/scene31a.rpy:166
-translate francais v1s31a_95df5f96:
+translate francais v1s31a_95df5f96_1:
 
     # ca "I'm pretty slow, [name], but I'm not stupid. You've never come to work out with me before."
-    ca ""
+    ca "I'm pretty slow, [name], but I'm not stupid. You've never come to work out with me before."
 
 # game/v1/scene31a.rpy:172
-translate francais v1s31a_d886e24d:
+translate francais v1s31a_d886e24d_1:
 
     # ca "On top of that, you're a fucking wolf. So what is it?"
-    ca ""
+    ca "On top of that, you're a fucking wolf. So what is it?"
 
 # game/v1/scene31a.rpy:178
-translate francais v1s31a_89e0b6c7:
+translate francais v1s31a_89e0b6c7_1:
 
     # u "Damn, okay... I mean, shit..."
-    u ""
+    u "Damn, okay... I mean, shit..."
 
-# game/v1/scene31a.rpy:184
-translate francais v1s31a_485da8d1:
+# game/v1/scene31a.rpy:183
+translate francais v1s31a_485da8d1_1:
 
     # u "I did have something I wanted to talk to you about, but I was enjoying our bonding experience."
-    u ""
+    u "I did have something I wanted to talk to you about, but I was enjoying our bonding experience."
 
-# game/v1/scene31a.rpy:189
-translate francais v1s31a_1eed7aae:
+# game/v1/scene31a.rpy:188
+translate francais v1s31a_1eed7aae_1:
 
     # ca "I take working out too seriously for anyone to enjoy working out with me. Let alone call it a \"bonding experience.\""
-    ca ""
+    ca "I take working out too seriously for anyone to enjoy working out with me. Let alone call it a \"bonding experience.\""
 
-# game/v1/scene31a.rpy:194
-translate francais v1s31a_ec7e3892:
+# game/v1/scene31a.rpy:193
+translate francais v1s31a_ec7e3892_1:
 
     # u "Ta-fucking-da! Here I am."
-    u ""
+    u "Ta-fucking-da! Here I am."
 
-# game/v1/scene31a.rpy:196
-translate francais v1s31a_7ece1efb:
+# game/v1/scene31a.rpy:195
+translate francais v1s31a_7ece1efb_1:
 
     # u "Maybe if you didn't assume that no one enjoyed you, you'd find out that they actually do."
-    u ""
+    u "Maybe if you didn't assume that no one enjoyed you, you'd find out that they actually do."
 
-# game/v1/scene31a.rpy:201
-translate francais v1s31a_a20b6a22:
+# game/v1/scene31a.rpy:200
+translate francais v1s31a_a20b6a22_1:
 
     # ca "Yeah, yeah."
-    ca ""
+    ca "Yeah, yeah."
 
-# game/v1/scene31a.rpy:206
-translate francais v1s31a_6a42f0e0:
+# game/v1/scene31a.rpy:205
+translate francais v1s31a_6a42f0e0_1:
 
     # ca "What do you want?"
-    ca ""
+    ca "What do you want?"
 
-# game/v1/scene31a.rpy:214
-translate francais v1s31a_0ad5d49d:
+# game/v1/scene31a.rpy:213
+translate francais v1s31a_0ad5d49d_1:
 
     # u "I wanna talk to you about what everyone is talking about."
-    u ""
+    u "I wanna talk to you about what everyone is talking about."
 
-# game/v1/scene31a.rpy:219
-translate francais v1s31a_087e77dc:
+# game/v1/scene31a.rpy:218
+translate francais v1s31a_087e77dc_1:
 
     # ca "What is everyone talking about?"
-    ca ""
+    ca "What is everyone talking about?"
 
-# game/v1/scene31a.rpy:224
-translate francais v1s31a_e9476fa6:
+# game/v1/scene31a.rpy:223
+translate francais v1s31a_e9476fa6_1:
 
     # u "The Chicks race?"
-    u ""
+    u "The Chicks race?"
 
-# game/v1/scene31a.rpy:229
-translate francais v1s31a_f8a48efa:
+# game/v1/scene31a.rpy:228
+translate francais v1s31a_f8a48efa_1:
 
     # ca "*Scoffs* I couldn't care less about that, man."
-    ca ""
+    ca "*Scoffs* I couldn't care less about that, man."
 
-# game/v1/scene31a.rpy:234
-translate francais v1s31a_c5446f18:
+# game/v1/scene31a.rpy:233
+translate francais v1s31a_c5446f18_1:
 
     # u "Really?"
-    u ""
+    u "Really?"
 
-# game/v1/scene31a.rpy:239
-translate francais v1s31a_57f3e9f4:
+# game/v1/scene31a.rpy:238
+translate francais v1s31a_57f3e9f4_1:
 
     # ca "Yes, really."
-    ca ""
+    ca "Yes, really."
 
-# game/v1/scene31a.rpy:244
-translate francais v1s31a_4af7d38c:
+# game/v1/scene31a.rpy:243
+translate francais v1s31a_4af7d38c_1:
 
     # u "Well, sorry to tell you this but..."
-    u ""
+    u "Well, sorry to tell you this but..."
 
-# game/v1/scene31a.rpy:249
-translate francais v1s31a_99c543c9:
+# game/v1/scene31a.rpy:248
+translate francais v1s31a_99c543c9_1:
 
     # ca "But what?"
-    ca ""
+    ca "But what?"
 
-# game/v1/scene31a.rpy:254
-translate francais v1s31a_d5a89b84:
+# game/v1/scene31a.rpy:253
+translate francais v1s31a_d5a89b84_1:
 
     # cl "Hey, you two."
-    cl ""
+    cl "Hey, you two."
 
-# game/v1/scene31a.rpy:259
-translate francais v1s31a_5031a2c4:
+# game/v1/scene31a.rpy:258
+translate francais v1s31a_5031a2c4_1:
 
     # ca "Ahh shit... Look, I don't have time for this. This is not what I came out here for."
-    ca ""
+    ca "Ahh shit... Look, I don't have time for this. This is not what I came out here for."
 
-# game/v1/scene31a.rpy:264
-translate francais v1s31a_2000d25a:
+# game/v1/scene31a.rpy:263
+translate francais v1s31a_2000d25a_1:
 
     # cl "Yeah, you're out here because they're being annoying in there. You're welcome. I wanted to talk."
-    cl ""
+    cl "Yeah, you're out here because they're being annoying in there. You're welcome. I wanted to talk."
 
-# game/v1/scene31a.rpy:269
-translate francais v1s31a_e6c899ee:
+# game/v1/scene31a.rpy:268
+translate francais v1s31a_e6c899ee_1:
 
     # u "Cameron, look, just hear us out. Can you do that?"
-    u ""
+    u "Cameron, look, just hear us out. Can you do that?"
 
-# game/v1/scene31a.rpy:274
-translate francais v1s31a_00fb4568:
+# game/v1/scene31a.rpy:273
+translate francais v1s31a_00fb4568_2:
 
     # ca "..."
-    ca ""
+    ca "..."
 
-# game/v1/scene31a.rpy:279
-translate francais v1s31a_d38aa789:
+# game/v1/scene31a.rpy:278
+translate francais v1s31a_d38aa789_1:
 
     # cl "Please?"
-    cl ""
+    cl "Please?"
 
-# game/v1/scene31a.rpy:284
-translate francais v1s31a_15a75955:
+# game/v1/scene31a.rpy:283
+translate francais v1s31a_15a75955_1:
 
     # ca "What is it?"
-    ca ""
+    ca "What is it?"
 
-# game/v1/scene31a.rpy:289
-translate francais v1s31a_f0f36f97:
+# game/v1/scene31a.rpy:288
+translate francais v1s31a_f0f36f97_1:
 
     # ca "And keep it simple for fucks sake. Explain it to me like I'm five."
-    ca ""
+    ca "And keep it simple for fucks sake. Explain it to me like I'm five."
 
-# game/v1/scene31a.rpy:294
-translate francais v1s31a_1b28a406:
+# game/v1/scene31a.rpy:293
+translate francais v1s31a_1b28a406_1:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
-# game/v1/scene31a.rpy:299
-translate francais v1s31a_02253c97:
+# game/v1/scene31a.rpy:298
+translate francais v1s31a_02253c97_1:
 
     # u "We want the Apes to form an alliance with Chloe, making The Chicks the sister frat of the Apes."
-    u ""
+    u "We want the Apes to form an alliance with Chloe, making The Chicks the sister frat of the Apes."
 
-# game/v1/scene31a.rpy:304
-translate francais v1s31a_0d63fdce:
+# game/v1/scene31a.rpy:303
+translate francais v1s31a_0d63fdce_1:
 
     # ca "Why would I care about that?"
-    ca ""
+    ca "Why would I care about that?"
 
-# game/v1/scene31a.rpy:312
-translate francais v1s31a_aab6ee38:
+# game/v1/scene31a.rpy:311
+translate francais v1s31a_aab6ee38_1:
 
     # u "Duh, so Lindsey doesn't win."
-    u ""
+    u "Duh, so Lindsey doesn't win."
 
-# game/v1/scene31a.rpy:317
-translate francais v1s31a_c93b4624:
+# game/v1/scene31a.rpy:316
+translate francais v1s31a_c93b4624_1:
 
     # ca "I ain't got shit against her, haha. Why would I care who wins?"
-    ca ""
+    ca "I ain't got shit against her, haha. Why would I care who wins?"
 
-# game/v1/scene31a.rpy:322
-translate francais v1s31a_987a21f8:
+# game/v1/scene31a.rpy:321
+translate francais v1s31a_987a21f8_1:
 
     # cl "Because you know me, Cam."
-    cl ""
+    cl "Because you know me, Cam."
 
-# game/v1/scene31a.rpy:327
-translate francais v1s31a_53de2582:
+# game/v1/scene31a.rpy:326
+translate francais v1s31a_990bd9b8_1:
 
-    # ca "And I know her too. You're basically one in the same."
-    ca ""
+    # ca "And I know her, too. You're basically one in the same."
+    ca "And I know her, too. You're basically one in the same."
 
-# game/v1/scene31a.rpy:332
-translate francais v1s31a_3c7a03e2:
+# game/v1/scene31a.rpy:331
+translate francais v1s31a_3c7a03e2_1:
 
     # cl "*Scoffs*"
-    cl ""
+    cl "*Scoffs*"
 
-# game/v1/scene31a.rpy:337
-translate francais v1s31a_2a870042:
+# game/v1/scene31a.rpy:336
+translate francais v1s31a_2a870042_1:
 
     # u "Chloe..."
-    u ""
+    u "Chloe..."
 
-# game/v1/scene31a.rpy:342
-translate francais v1s31a_fd958ebc:
+# game/v1/scene31a.rpy:341
+translate francais v1s31a_fd958ebc_1:
 
     # ca "Try again."
-    ca ""
+    ca "Try again."
 
-# game/v1/scene31a.rpy:350
-translate francais v1s31a_20765f15:
+# game/v1/scene31a.rpy:349
+translate francais v1s31a_20765f15_1:
 
     # u "To strengthen the Apes."
-    u ""
+    u "To strengthen the Apes."
 
-# game/v1/scene31a.rpy:355
-translate francais v1s31a_4108a83b:
+# game/v1/scene31a.rpy:354
+translate francais v1s31a_4108a83b_1:
 
     # ca "How would an alliance with a bunch of chicks strengthen us?"
-    ca ""
+    ca "How would an alliance with a bunch of chicks strengthen us?"
 
-# game/v1/scene31a.rpy:360
-translate francais v1s31a_f24f56bc:
+# game/v1/scene31a.rpy:359
+translate francais v1s31a_f24f56bc_1:
 
     # u "You may be slow, but you aren't stupid, right?"
-    u ""
+    u "You may be slow, but you aren't stupid, right?"
 
-# game/v1/scene31a.rpy:365
-translate francais v1s31a_9dd0fbb8:
+# game/v1/scene31a.rpy:364
+translate francais v1s31a_9dd0fbb8_1:
 
     # ca "Right."
-    ca ""
+    ca "Right."
 
-# game/v1/scene31a.rpy:370
-translate francais v1s31a_4edef02b:
+# game/v1/scene31a.rpy:369
+translate francais v1s31a_4edef02b_1:
 
     # u "So think about it, the most popular sorority matched with the Apes. It makes the Apes look damn good and leaves the Wolves looking completely alone."
-    u ""
+    u "So think about it, the most popular sorority matched with the Apes. It makes the Apes look damn good and leaves the Wolves looking completely alone."
 
-# game/v1/scene31a.rpy:375
-translate francais v1s31a_5a1ae958:
+# game/v1/scene31a.rpy:374
+translate francais v1s31a_5a1ae958_1:
 
     # u "They can't throw a good party after an alliance like that has been made."
-    u ""
+    u "They can't throw a good party after an alliance like that has been made."
 
-# game/v1/scene31a.rpy:380
-translate francais v1s31a_b452a00b:
+# game/v1/scene31a.rpy:379
+translate francais v1s31a_b452a00b_1:
 
     # ca "Hmm..."
-    ca ""
+    ca "Hmm..."
 
-# game/v1/scene31a.rpy:385
-translate francais v1s31a_7acd0bd4:
+# game/v1/scene31a.rpy:384
+translate francais v1s31a_7acd0bd4_1:
 
     # cl "Don't think too hard, this is a favor for you and the Apes just as much as it's a favor for me."
-    cl ""
+    cl "Don't think too hard, this is a favor for you and the Apes just as much as it's a favor for me."
 
-# game/v1/scene31a.rpy:390
-translate francais v1s31a_419e8a86:
+# game/v1/scene31a.rpy:389
+translate francais v1s31a_419e8a86_1:
 
     # cl "That's why it's called an alliance."
-    cl ""
+    cl "That's why it's called an alliance."
 
-# game/v1/scene31a.rpy:395
-translate francais v1s31a_947c5f17:
+# game/v1/scene31a.rpy:394
+translate francais v1s31a_947c5f17_1:
 
     # ca "Good point..."
-    ca ""
+    ca "Good point..."
 
-# game/v1/scene31a.rpy:401
-translate francais v1s31a_163a20fb:
+# game/v1/scene31a.rpy:400
+translate francais v1s31a_163a20fb_1:
 
     # ca "You already got a shit ton of beef with Grayson. How would an alliance work if the President doesn't even fuck with you like that?"
-    ca ""
+    ca "You already got a shit ton of beef with Grayson. How would an alliance work if the President doesn't even fuck with you like that?"
 
-# game/v1/scene31a.rpy:406
-translate francais v1s31a_3ed474c5:
+# game/v1/scene31a.rpy:405
+translate francais v1s31a_3ed474c5_1:
 
     # u "That's why we came to you, you're someone he does listen to."
-    u ""
+    u "That's why we came to you, you're someone he does listen to."
 
-# game/v1/scene31a.rpy:411
-translate francais v1s31a_42381b6a:
+# game/v1/scene31a.rpy:410
+translate francais v1s31a_42381b6a_1:
 
     # u "Grayson doesn't have many people he'll take advice from, but you're one of those people."
-    u ""
+    u "Grayson doesn't have many people he'll take advice from, but you're one of those people."
 
-# game/v1/scene31a.rpy:416
-translate francais v1s31a_286869e4:
+# game/v1/scene31a.rpy:415
+translate francais v1s31a_286869e4_1:
 
     # ca "Fair enough, so what exactly are you wanting me to do?"
-    ca ""
+    ca "Fair enough, so what exactly are you wanting me to do?"
 
-# game/v1/scene31a.rpy:424
-translate francais v1s31a_d4c21d99:
+# game/v1/scene31a.rpy:423
+translate francais v1s31a_cf595508_1:
 
-    # u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks President."
-    u ""
+    # u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks' President."
+    u "Tell everyone Chloe is the hotter chick and that the hottest chick should be the Chicks' President."
 
-# game/v1/scene31a.rpy:429
-translate francais v1s31a_5076a945:
+# game/v1/scene31a.rpy:428
+translate francais v1s31a_5076a945_1:
 
     # ca "Yeah... Again, that means nothing to me."
-    ca ""
+    ca "Yeah... Again, that means nothing to me."
 
-# game/v1/scene31a.rpy:437
-translate francais v1s31a_5646e356:
+# game/v1/scene31a.rpy:436
+translate francais v1s31a_5646e356_1:
 
     # u "I don't know exactly, we haven't decided just yet."
-    u ""
+    u "I don't know exactly, we haven't decided just yet."
 
-# game/v1/scene31a.rpy:439
-translate francais v1s31a_cbee938a:
+# game/v1/scene31a.rpy:438
+translate francais v1s31a_cbee938a_1:
 
     # u "Maybe just some sort of collaborative post on Kiwii would get the ball rolling and make people start talking."
-    u ""
+    u "Maybe just some sort of collaborative post on Kiwii would get the ball rolling and make people start talking."
 
-# game/v1/scene31a.rpy:444
-translate francais v1s31a_9fc6ca17:
+# game/v1/scene31a.rpy:443
+translate francais v1s31a_9fc6ca17_1:
 
     # ca "And how do you suggest that I convince Grayson?"
-    ca ""
+    ca "And how do you suggest that I convince Grayson?"
 
-# game/v1/scene31a.rpy:449
-translate francais v1s31a_fbec016a:
+# game/v1/scene31a.rpy:448
+translate francais v1s31a_fbec016a_1:
 
     # cl "No different than you would for anything else, just tell him what's best for the Apes... Be honest."
-    cl ""
+    cl "No different than you would for anything else, just tell him what's best for the Apes... Be honest."
 
-# game/v1/scene31a.rpy:455
-translate francais v1s31a_92303f9e:
+# game/v1/scene31a.rpy:454
+translate francais v1s31a_92303f9e_1:
 
     # ca "I hear what you guys are saying and I get what you're trying to do, but I'm not sold on anything just yet."
-    ca ""
+    ca "I hear what you guys are saying and I get what you're trying to do, but I'm not sold on anything just yet."
 
-# game/v1/scene31a.rpy:460
-translate francais v1s31a_22006c17:
+# game/v1/scene31a.rpy:459
+translate francais v1s31a_22006c17_1:
 
     # cl "Cameron."
-    cl ""
+    cl "Cameron."
 
-# game/v1/scene31a.rpy:465
-translate francais v1s31a_dc0edd7d:
+# game/v1/scene31a.rpy:464
+translate francais v1s31a_dc0edd7d_1:
 
     # u "(Here come the voodoo eyes...)"
-    u ""
+    u "(Here come the voodoo eyes...)"
 
-# game/v1/scene31a.rpy:470
-translate francais v1s31a_dd3f0246:
+# game/v1/scene31a.rpy:469
+translate francais v1s31a_dd3f0246_1:
 
     # cl "We never talk much but we do know each other very well."
-    cl ""
+    cl "We never talk much but we do know each other very well."
 
-# game/v1/scene31a.rpy:472
-translate francais v1s31a_d176ce30:
+# game/v1/scene31a.rpy:471
+translate francais v1s31a_d176ce30_1:
 
     # cl "I know you well enough to know exactly what your aspirations are and so all I'll say is this..."
-    cl ""
+    cl "I know you well enough to know exactly what your aspirations are and so all I'll say is this..."
 
-# game/v1/scene31a.rpy:477
-translate francais v1s31a_6557cae4:
+# game/v1/scene31a.rpy:476
+translate francais v1s31a_6557cae4_1:
 
     # cl "If you back me in my campaign, I'll back you in any race you plan to take on. And I mean any."
-    cl ""
+    cl "If you back me in my campaign, I'll back you in any race you plan to take on. And I mean any."
 
-# game/v1/scene31a.rpy:482
-translate francais v1s31a_40f34279:
+# game/v1/scene31a.rpy:481
+translate francais v1s31a_40f34279_1:
 
     # ca "How did you know I wanted to run for President?"
-    ca ""
+    ca "How did you know I wanted to run for President?"
 
-# game/v1/scene31a.rpy:487
-translate francais v1s31a_a8fa8aa0:
+# game/v1/scene31a.rpy:486
+translate francais v1s31a_a8fa8aa0_1:
 
     # cl "Your actions say it all. You're a natural leader."
-    cl ""
+    cl "Your actions say it all. You're a natural leader."
 
-# game/v1/scene31a.rpy:492
-translate francais v1s31a_36b488f6:
+# game/v1/scene31a.rpy:491
+translate francais v1s31a_36b488f6_1:
 
     # ca "*Sighs*"
-    ca ""
+    ca "*Sighs*"
 
-# game/v1/scene31a.rpy:497
-translate francais v1s31a_7fd469f1:
+# game/v1/scene31a.rpy:496
+translate francais v1s31a_7fd469f1_1:
 
     # u "She's not wrong."
-    u ""
+    u "She's not wrong."
 
-# game/v1/scene31a.rpy:508
-translate francais v1s31a_d4a0112e:
+# game/v1/scene31a.rpy:507
+translate francais v1s31a_d4a0112e_1:
 
     # ca "Fine. I'll talk to Grayson."
-    ca ""
+    ca "Fine. I'll talk to Grayson."
 
-# game/v1/scene31a.rpy:513
-translate francais v1s31a_ed0dc5d6:
+# game/v1/scene31a.rpy:512
+translate francais v1s31a_ed0dc5d6_1:
 
     # cl "Thank you! *Squeals* Thank you so much, Cameron."
-    cl ""
+    cl "Thank you! *Squeals* Thank you so much, Cameron."
 
-# game/v1/scene31a.rpy:518
-translate francais v1s31a_912bad0e:
+# game/v1/scene31a.rpy:517
+translate francais v1s31a_912bad0e_1:
 
     # ca "Yep."
-    ca ""
+    ca "Yep."
 
-# game/v1/scene31a.rpy:523
-translate francais v1s31a_43ce88c9:
+# game/v1/scene31a.rpy:522
+translate francais v1s31a_43ce88c9_1:
 
     # cl "I'm off to talk to a few more people. Thanks for the nice chat! I appreciate it."
-    cl ""
+    cl "I'm off to talk to a few more people. Thanks for the nice chat! I appreciate it."
 
-# game/v1/scene31a.rpy:528
-translate francais v1s31a_5d4c75d2:
+# game/v1/scene31a.rpy:527
+translate francais v1s31a_5d4c75d2_1:
 
     # u "See you-"
-    u ""
+    u "See you-"
 
-# game/v1/scene31a.rpy:538
-translate francais v1s31a_c76cb4a8:
+# game/v1/scene31a.rpy:537
+translate francais v1s31a_c76cb4a8_1:
 
     # u "Ha... So?"
-    u ""
+    u "Ha... So?"
 
-# game/v1/scene31a.rpy:543
-translate francais v1s31a_ee3e607d:
+# game/v1/scene31a.rpy:542
+translate francais v1s31a_ee3e607d_1:
 
     # u "President, huh?"
-    u ""
+    u "President, huh?"
 
-# game/v1/scene31a.rpy:549
-translate francais v1s31a_fb6d3041:
+# game/v1/scene31a.rpy:548
+translate francais v1s31a_fb6d3041_1:
 
     # ca "That's Ape business only."
-    ca ""
+    ca "That's Ape business only."
 
-# game/v1/scene31a.rpy:554
-translate francais v1s31a_423c6f19:
+# game/v1/scene31a.rpy:553
+translate francais v1s31a_423c6f19_1:
 
     # u "Haha, okay."
-    u ""
+    u "Haha, okay."
 
-# game/v1/scene31a.rpy:559
-translate francais v1s31a_f88ca816:
+# game/v1/scene31a.rpy:558
+translate francais v1s31a_f88ca816_1:
 
     # ca "You think everything she said was true?"
-    ca ""
+    ca "You think everything she said was true?"
 
-# game/v1/scene31a.rpy:564
-translate francais v1s31a_75f284b8:
+# game/v1/scene31a.rpy:563
+translate francais v1s31a_75f284b8_1:
 
     # u "Hm?"
-    u ""
+    u "Hm?"
 
-# game/v1/scene31a.rpy:569
-translate francais v1s31a_721d69d8:
+# game/v1/scene31a.rpy:568
+translate francais v1s31a_721d69d8_1:
 
     # ca "Or do you think she just knows exactly what to say, to get you on board?"
-    ca ""
+    ca "Or do you think she just knows exactly what to say, to get you on board?"
 
-# game/v1/scene31a.rpy:574
-translate francais v1s31a_7c4f47f8:
+# game/v1/scene31a.rpy:573
+translate francais v1s31a_7c4f47f8_1:
 
     # u "(He's talking about Chloe...)"
-    u ""
+    u "(He's talking about Chloe...)"
 
-# game/v1/scene31a.rpy:579
-translate francais v1s31a_aaf0917f:
+# game/v1/scene31a.rpy:578
+translate francais v1s31a_aaf0917f_1:
 
     # u "She means every word that she says. She wouldn't say it to you if she didn't believe it, or mean it."
-    u ""
+    u "She means every word that she says. She wouldn't say it to you if she didn't believe it, or mean it."
 
-# game/v1/scene31a.rpy:584
-translate francais v1s31a_c5b37bf2:
+# game/v1/scene31a.rpy:583
+translate francais v1s31a_0afe4962_1:
 
-    # ca "Ha... Alright."
-    ca ""
+    # ca "Ha... All right."
+    ca "Ha... All right."
 
-# game/v1/scene31a.rpy:593
-translate francais v1s31a_835b0a6c:
+# game/v1/scene31a.rpy:592
+translate francais v1s31a_d3548909_1:
 
-    # u "She knows what she needs to say. She's damn good at it too."
-    u ""
+    # u "She knows what she needs to say. She's damn good at it, too."
+    u "She knows what she needs to say. She's damn good at it, too."
 
-# game/v1/scene31a.rpy:598
-translate francais v1s31a_d7e5310f:
+# game/v1/scene31a.rpy:597
+translate francais v1s31a_d7e5310f_1:
 
     # ca "Ha."
-    ca ""
+    ca "Ha."
 
-# game/v1/scene31a.rpy:603
-translate francais v1s31a_61a68111:
+# game/v1/scene31a.rpy:602
+translate francais v1s31a_61a68111_1:
 
     # ca "You catch on quick."
-    ca ""
+    ca "You catch on quick."
 
-# game/v1/scene31a.rpy:608
-translate francais v1s31a_9d3ee6dc:
+# game/v1/scene31a.rpy:607
+translate francais v1s31a_69f098ef_1:
 
-    # u "Do I? *Chuckles*"
-    u ""
+    # u "Do I? Funny, that."
+    u "Do I? Funny, that."
 
-# game/v1/scene31a.rpy:614
-translate francais v1s31a_00fb4568_1:
+# game/v1/scene31a.rpy:613
+translate francais v1s31a_00fb4568_3:
 
     # ca "..."
-    ca ""
+    ca "..."
 
-# game/v1/scene31a.rpy:619
-translate francais v1s31a_feb97fe2:
+# game/v1/scene31a.rpy:618
+translate francais v1s31a_feb97fe2_1:
 
     # ca "I'll see you later, man."
-    ca ""
+    ca "I'll see you later, man."
 
-# game/v1/scene31a.rpy:624
-translate francais v1s31a_03ec2f26:
+# game/v1/scene31a.rpy:623
+translate francais v1s31a_03ec2f26_1:
 
     # u "Yeah, see ya."
-    u ""
+    u "Yeah, see ya."
 
-# game/v1/scene31a.rpy:630
-translate francais v1s31a_1bb308b4:
+# game/v1/scene31a.rpy:629
+translate francais v1s31a_1bb308b4_1:
 
     # ca "Yeah, so what?"
-    ca ""
+    ca "Yeah, so what?"
 
-# game/v1/scene31a.rpy:635
-translate francais v1s31a_92f9d0f7:
+# game/v1/scene31a.rpy:634
+translate francais v1s31a_92f9d0f7_1:
 
     # u "Nothing, and it's not surprising. Your whole attitude screams Apes."
-    u ""
+    u "Nothing, and it's not surprising. Your whole attitude screams Apes."
 
-# game/v1/scene31a.rpy:640
-translate francais v1s31a_8f71c823:
+# game/v1/scene31a.rpy:639
+translate francais v1s31a_8f71c823_1:
 
     # ca "I'm glad you think so. I guess I should take running more seriously then?"
-    ca ""
+    ca "I'm glad you think so. I guess I should take running more seriously then?"
 
-# game/v1/scene31a.rpy:645
-translate francais v1s31a_2342833f:
+# game/v1/scene31a.rpy:644
+translate francais v1s31a_2342833f_1:
 
     # u "You should, yeah."
-    u ""
+    u "You should, yeah."
 
-# game/v1/scene31a.rpy:650
-translate francais v1s31a_4dd73a40:
+# game/v1/scene31a.rpy:649
+translate francais v1s31a_4dd73a40_1:
 
     # ca "I'm gonna go make a call."
-    ca ""
+    ca "I'm gonna go make a call."
 
-# game/v1/scene31a.rpy:655
-translate francais v1s31a_296836e5:
+# game/v1/scene31a.rpy:654
+translate francais v1s31a_63314d47_1:
 
-    # u "Haha, you do that."
-    u ""
+    # u "You do that."
+    u "You do that."
 
-# game/v1/scene31a.rpy:661
-translate francais v1s31a_d697f0ad:
+# game/v1/scene31a.rpy:660
+translate francais v1s31a_d697f0ad_1:
 
     # ca "And just so you know, helping Chloe wasn't even a question."
-    ca ""
+    ca "And just so you know, helping Chloe wasn't even a question."
 
-# game/v1/scene31a.rpy:663
-translate francais v1s31a_cca86431:
+# game/v1/scene31a.rpy:662
+translate francais v1s31a_cca86431_1:
 
     # ca "You've been there for Sam so obviously you have good judgement. If you think Chloe is what's best for us as Apes, then I'm on board."
-    ca ""
+    ca "You've been there for Sam so obviously you have good judgement. If you think Chloe is what's best for us as Apes, then I'm on board."
 
-# game/v1/scene31a.rpy:668
-translate francais v1s31a_62dd49cc:
+# game/v1/scene31a.rpy:667
+translate francais v1s31a_62dd49cc_1:
 
     # u "Thanks Cam."
-    u ""
+    u "Thanks Cam."
 
-# game/v1/scene31a.rpy:673
-translate francais v1s31a_332f15d5:
+# game/v1/scene31a.rpy:672
+translate francais v1s31a_332f15d5_1:
 
     # ca "You bet."
-    ca ""
+    ca "You bet."
 
-# game/v1/scene31a.rpy:679
-translate francais v1s31a_d263e9db:
+# game/v1/scene31a.rpy:678
+translate francais v1s31a_d263e9db_1:
 
     # u "(President Cam... *Laughs* I can't even begin to imagine how Grayson would react to that.)"
-    u ""
+    u "(President Cam... *Laughs* I can't even begin to imagine how Grayson would react to that.)"
 
 translate francais strings:
 
     # game/v1/scene31a.rpy:180
     old "Butter him up"
-    new ""
+    new "Butter him up"
 
     # game/v1/scene31a.rpy:180
     old "Cut to the chase"
-    new ""
+    new "Cut to the chase"
 
-    # game/v1/scene31a.rpy:309
+    # game/v1/scene31a.rpy:308
     old "So Lindsey doesn't win"
-    new ""
+    new "So Lindsey doesn't win"
 
-    # game/v1/scene31a.rpy:309
+    # game/v1/scene31a.rpy:308
     old "To strengthen the Apes"
-    new ""
+    new "To strengthen the Apes"
 
-    # game/v1/scene31a.rpy:421
+    # game/v1/scene31a.rpy:420
     old "Say Chloe is the hotter chick"
-    new ""
+    new "Say Chloe is the hotter chick"
 
-    # game/v1/scene31a.rpy:421
+    # game/v1/scene31a.rpy:420
     old "Collaboration"
-    new ""
+    new "Collaboration"
 
-    # game/v1/scene31a.rpy:576
+    # game/v1/scene31a.rpy:575
     old "She means what she says"
-    new ""
+    new "She means what she says"
 
-    # game/v1/scene31a.rpy:576
+    # game/v1/scene31a.rpy:575
     old "She says what she needs to"
-    new ""
+    new "She says what she needs to"
 

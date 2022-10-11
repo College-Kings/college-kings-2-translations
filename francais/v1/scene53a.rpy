@@ -1,252 +1,252 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
-# game/v1/scene53a.rpy:37
-translate francais v1s53a_6f9a273e:
+# game/v1/scene53a.rpy:35
+translate francais v1s53a_6f9a273e_1:
 
     # u "Oh, yes..."
-    u ""
+    u "Oh, yes..."
 
-# game/v1/scene53a.rpy:46
-translate francais v1s53a_58b79565:
+# game/v1/scene53a.rpy:42
+translate francais v1s53a_58b79565_1:
 
     # sa "*Gags*"
-    sa ""
+    sa "*Gags*"
 
-# game/v1/scene53a.rpy:48
-translate francais v1s53a_6cb55f0c:
+# game/v1/scene53a.rpy:44
+translate francais v1s53a_3f4744ba_1:
 
-    # u "*Moans* Fuuuuck..."
-    u ""
+    # u "*Moans* Don't stop sucking..."
+    u "*Moans* Don't stop sucking..."
 
-# game/v1/scene53a.rpy:57
-translate francais v1s53a_1aa25fd8:
+# game/v1/scene53a.rpy:51
+translate francais v1s53a_1aa25fd8_1:
 
     # sa "*Muffled* You like that, baby?"
-    sa ""
+    sa "*Muffled* You like that, baby?"
 
-# game/v1/scene53a.rpy:66
-translate francais v1s53a_a9117092:
+# game/v1/scene53a.rpy:58
+translate francais v1s53a_11b89567_1:
 
-    # u "Ha... I love it."
-    u ""
+    # u "I love that wet, warm mouth of yours."
+    u "I love that wet, warm mouth of yours."
 
-# game/v1/scene53a.rpy:78
-translate francais v1s53a_3e9dbe25:
+# game/v1/scene53a.rpy:70
+translate francais v1s53a_3e9dbe25_1:
 
     # sa "Well, I love your cock."
-    sa ""
+    sa "Well, I love your cock."
 
-# game/v1/scene53a.rpy:96
-translate francais v1s53a_636b83ba:
+# game/v1/scene53a.rpy:86
+translate francais v1s53a_a12da560_1:
 
-    # sa "Ohhhhhhhhh, fuck!"
-    sa ""
+    # sa "Ohhh my God, you're so big..."
+    sa "Ohhh my God, you're so big..."
 
-# game/v1/scene53a.rpy:98
-translate francais v1s53a_d4bd4c88:
+# game/v1/scene53a.rpy:88
+translate francais v1s53a_e1fdf5f4_1:
 
-    # sa "Yes! *Moans* This is exactly what I needed..."
-    sa ""
+    # sa "Nnnngh, yes, stretch me..."
+    sa "Nnnngh, yes, stretch me..."
 
-# game/v1/scene53a.rpy:107
-translate francais v1s53a_295bb324:
+# game/v1/scene53a.rpy:95
+translate francais v1s53a_657444eb_1:
 
-    # u "Ride me, baby..."
-    u ""
+    # u "Up and down, baby, just like that..."
+    u "Up and down, baby, just like that..."
 
-# game/v1/scene53a.rpy:109
-translate francais v1s53a_92e618ec:
+# game/v1/scene53a.rpy:97
+translate francais v1s53a_1e623d1b_1:
 
-    # sa "*Moans* You... *Gasps* You feel so fucking good."
-    sa ""
+    # sa "You fill me so good..."
+    sa "You fill me so good..."
 
-# game/v1/scene53a.rpy:128
-translate francais v1s53a_f91cc77c:
+# game/v1/scene53a.rpy:114
+translate francais v1s53a_f91cc77c_1:
 
     # sa "*Giggles* Mmm..."
-    sa ""
+    sa "*Giggles* Mmm..."
 
-# game/v1/scene53a.rpy:130
-translate francais v1s53a_7fa5a5ff:
+# game/v1/scene53a.rpy:116
+translate francais v1s53a_ddea16f8_1:
 
-    # u "*Panting* (She really does like to have a good time.) *Moans* Fuck, Sam. You're so-"
-    u ""
+    # u "*Panting* (She really does like to have a good time.)"
+    u "*Panting* (She really does like to have a good time.)"
 
-# game/v1/scene53a.rpy:136
-translate francais v1s53a_df4af59f:
+# game/v1/scene53a.rpy:122
+translate francais v1s53a_05d323d7_1:
 
-    # sa "*Chuckles* Thank you..."
-    sa ""
+    # sa "Give me more..."
+    sa "Give me more..."
 
-# game/v1/scene53a.rpy:141
-translate francais v1s53a_9d73ea27:
+# game/v1/scene53a.rpy:127
+translate francais v1s53a_9b809535_1:
 
-    # u "(Fuck...)"
-    u ""
+    # u "(Barely holding on here...)"
+    u "(Barely holding on here...)"
 
-# game/v1/scene53a.rpy:149
-translate francais v1s53a_97f4aecb:
+# game/v1/scene53a.rpy:133
+translate francais v1s53a_f7b634cb_1:
 
-    # sa "*Panting* Cum inside of me."
-    sa ""
+    # sa "Cum inside of me."
+    sa "Cum inside of me."
 
-# game/v1/scene53a.rpy:151
-translate francais v1s53a_1f34adfc:
+# game/v1/scene53a.rpy:135
+translate francais v1s53a_1f34adfc_1:
 
     # sa "I want to have your baby..."
-    sa ""
+    sa "I want to have your baby..."
 
-# game/v1/scene53a.rpy:160
-translate francais v1s53a_407e860b:
+# game/v1/scene53a.rpy:142
+translate francais v1s53a_407e860b_1:
 
     # u "What did you just say?"
-    u ""
+    u "What did you just say?"
 
-# game/v1/scene53a.rpy:162
-translate francais v1s53a_ceb3f9d6:
+# game/v1/scene53a.rpy:144
+translate francais v1s53a_11641c24_1:
 
-    # sa "*Laughs* Fuck me, already! *Moans* I'm so close, daddy. Please..."
-    sa ""
+    # sa "Fuck me, already! *Moans* I'm so close, daddy. Please..."
+    sa "Fuck me, already! *Moans* I'm so close, daddy. Please..."
 
-# game/v1/scene53a.rpy:186
-translate francais v1s53a_9f617351:
+# game/v1/scene53a.rpy:166
+translate francais v1s53a_9f617351_1:
 
     # u "(She said she didn't take any of those pills, right?)"
-    u ""
+    u "(She said she didn't take any of those pills, right?)"
 
-# game/v1/scene53a.rpy:188
-translate francais v1s53a_4352216e:
+# game/v1/scene53a.rpy:168
+translate francais v1s53a_4352216e_1:
 
     # sa "*Moans*"
-    sa ""
+    sa "*Moans*"
 
-# game/v1/scene53a.rpy:197
-translate francais v1s53a_f2d13465:
+# game/v1/scene53a.rpy:175
+translate francais v1s53a_185d8291_1:
 
-    # sa "*Panting* Yes! Yes... I'm- I... Fuck me!"
-    sa ""
+    # sa "*Panting* I'm... I... fuck me... harder!"
+    sa "*Panting* I'm... I... fuck me... harder!"
 
-# game/v1/scene53a.rpy:199
-translate francais v1s53a_b88757c6:
+# game/v1/scene53a.rpy:177
+translate francais v1s53a_cd6689e2_1:
 
-    # u "Fuck... I'm gonna cum, Sam!"
-    u ""
+    # u "I'm gonna cum, baby!"
+    u "I'm gonna cum, baby!"
 
-# game/v1/scene53a.rpy:208
-translate francais v1s53a_aad8f616:
+# game/v1/scene53a.rpy:184
+translate francais v1s53a_5d13c915_1:
 
-    # sa "Yeah? Do it then... Fuck me... *Moans*"
-    sa ""
+    # sa "Yeah? Do it, c'mon, fill my pussy, [name]..."
+    sa "Yeah? Do it, c'mon, fill my pussy, [name]..."
 
-# game/v1/scene53a.rpy:221
-translate francais v1s53a_e9051ca0:
+# game/v1/scene53a.rpy:195
+translate francais v1s53a_e9051ca0_1:
 
     # u "I'm..."
-    u ""
+    u "I'm..."
 
-# game/v1/scene53a.rpy:223
-translate francais v1s53a_4fc0bd95:
+# game/v1/scene53a.rpy:197
+translate francais v1s53a_4fc0bd95_1:
 
     # u "Cumming..."
-    u ""
+    u "Cumming..."
 
-# game/v1/scene53a.rpy:225
-translate francais v1s53a_65887fc6:
+# game/v1/scene53a.rpy:199
+translate francais v1s53a_65887fc6_1:
 
     # u "Sam!"
-    u ""
+    u "Sam!"
 
-# game/v1/scene53a.rpy:237
-translate francais v1s53a_fd5dd414:
+# game/v1/scene53a.rpy:211
+translate francais v1s53a_c0b27306_1:
 
-    # u "*Moans* Fuuuck!"
-    u ""
+    # u "*Moans* Fuuuuuuck!"
+    u "*Moans* Fuuuuuuck!"
 
-# game/v1/scene53a.rpy:242
-translate francais v1s53a_44d3ea28:
+# game/v1/scene53a.rpy:216
+translate francais v1s53a_d3bd6828_1:
 
-    # sa "*Gasps* Ha... Yes, baby..."
-    sa ""
+    # sa "*Gasps* It's so warm... yes, baby... I love it..."
+    sa "*Gasps* It's so warm... yes, baby... I love it..."
 
-# game/v1/scene53a.rpy:247
-translate francais v1s53a_eb2d35b6:
+# game/v1/scene53a.rpy:221
+translate francais v1s53a_e9307ecf_1:
 
-    # u "(Oh, shit... I actually came inside of her?! I hope I don't live to regret that.)"
-    u ""
+    # u "(Oh, shit... I actually came inside of her? What was I thinking?!)"
+    u "(Oh, shit... I actually came inside of her? What was I thinking?!)"
 
-# game/v1/scene53a.rpy:254
-translate francais v1s53a_84af9e84:
+# game/v1/scene53a.rpy:228
+translate francais v1s53a_84af9e84_1:
 
     # u "*Moans* Aahh! Hah..."
-    u ""
+    u "*Moans* Aahh! Hah..."
 
-# game/v1/scene53a.rpy:259
-translate francais v1s53a_a317d659:
+# game/v1/scene53a.rpy:233
+translate francais v1s53a_a317d659_1:
 
     # u "(Damn, that was a close one!)"
-    u ""
+    u "(Damn, that was a close one!)"
 
-# game/v1/scene53a.rpy:276
-translate francais v1s53a_nsfwSkipLabel1_122e9aef:
+# game/v1/scene53a.rpy:248
+translate francais v1s53a_8b4aabeb_1:
 
-    # u "You okay? *Chuckles*"
-    u ""
+    # u "You okay?"
+    u "You okay?"
 
-# game/v1/scene53a.rpy:281
-translate francais v1s53a_nsfwSkipLabel1_01db0147:
+# game/v1/scene53a.rpy:253
+translate francais v1s53a_01db0147_1:
 
     # sa "*Mumbling* Mmm?"
-    sa ""
+    sa "*Mumbling* Mmm?"
 
-# game/v1/scene53a.rpy:286
-translate francais v1s53a_nsfwSkipLabel1_f8d9abd8:
+# game/v1/scene53a.rpy:258
+translate francais v1s53a_f8d9abd8_1:
 
     # u "Sam? Are you okay?"
-    u ""
+    u "Sam? Are you okay?"
 
-# game/v1/scene53a.rpy:291
-translate francais v1s53a_nsfwSkipLabel1_f0179cbe:
+# game/v1/scene53a.rpy:263
+translate francais v1s53a_f0179cbe_1:
 
     # sa "Yeah, perfect... I'm going to sleep now."
-    sa ""
+    sa "Yeah, perfect... I'm going to sleep now."
 
-# game/v1/scene53a.rpy:296
-translate francais v1s53a_nsfwSkipLabel1_70100565:
+# game/v1/scene53a.rpy:268
+translate francais v1s53a_77ee2179_1:
 
-    # u "Ha, alright. Sleep tight, okay?"
-    u ""
+    # u "Ha, all right. Sleep tight, okay?"
+    u "Ha, all right. Sleep tight, okay?"
 
-# game/v1/scene53a.rpy:301
-translate francais v1s53a_nsfwSkipLabel1_ad377f97:
+# game/v1/scene53a.rpy:273
+translate francais v1s53a_ad377f97_1:
 
     # sa "Mhmm... I love you, [name]..."
-    sa ""
+    sa "Mhmm... I love you, [name]..."
 
-# game/v1/scene53a.rpy:306
-translate francais v1s53a_nsfwSkipLabel1_fc76400f:
+# game/v1/scene53a.rpy:278
+translate francais v1s53a_da2bd4f9_1:
 
-    # u "(Holy fuck... I don't even know how to reply to that.)"
-    u ""
+    # u "(Holy... I don't even know how to reply to that.)"
+    u "(Holy... I don't even know how to reply to that.)"
 
-# game/v1/scene53a.rpy:311
-translate francais v1s53a_nsfwSkipLabel1_4d3ae924:
+# game/v1/scene53a.rpy:283
+translate francais v1s53a_4d3ae924_1:
 
     # sa "*Soft snoring*"
-    sa ""
+    sa "*Soft snoring*"
 
-# game/v1/scene53a.rpy:313
-translate francais v1s53a_nsfwSkipLabel1_c99c30f7:
+# game/v1/scene53a.rpy:285
+translate francais v1s53a_9e5ca9ba_1:
 
-    # u "(Haha, guess I don't have to. Let's get to bed.)"
-    u ""
+    # u "(Guess I don't have to. Let's get to bed.)"
+    u "(Guess I don't have to. Let's get to bed.)"
 
 translate francais strings:
 
-    # game/v1/scene53a.rpy:230
+    # game/v1/scene53a.rpy:204
     old "Cum inside Samantha"
-    new ""
+    new "Cum inside Samantha"
 
-    # game/v1/scene53a.rpy:230
+    # game/v1/scene53a.rpy:204
     old "Pull out"
-    new ""
+    new "Pull out"
 

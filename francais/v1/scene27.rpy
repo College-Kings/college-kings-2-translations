@@ -1,104 +1,104 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v1/scene27.rpy:22
-translate francais v1s27_7e035c56:
+translate francais v1s27_7e035c56_1:
 
     # em "Hey, [name]."
-    em ""
+    em "Hey, [name]."
 
 # game/v1/scene27.rpy:28
-translate francais v1s27_a46130d3:
+translate francais v1s27_a46130d3_1:
 
     # u "What's up, Emily?"
-    u ""
+    u "What's up, Emily?"
 
 # game/v1/scene27.rpy:37
-translate francais v1s27_27fd5bf4:
+translate francais v1s27_27fd5bf4_1:
 
     # u "Emily."
-    u ""
+    u "Emily."
 
 # game/v1/scene27.rpy:42
-translate francais v1s27_dbc1260e:
+translate francais v1s27_dbc1260e_1:
 
     # em "Ha, okay..."
-    em ""
+    em "Ha, okay..."
 
 # game/v1/scene27.rpy:44
-translate francais v1s27_0c33dc8f:
+translate francais v1s27_0c33dc8f_1:
 
     # em "It's actually good that I ran into you."
-    em ""
+    em "It's actually good that I ran into you."
 
 # game/v1/scene27.rpy:49
-translate francais v1s27_afa3da43:
+translate francais v1s27_afa3da43_1:
 
     # u "Why's that?"
-    u ""
+    u "Why's that?"
 
 # game/v1/scene27.rpy:54
-translate francais v1s27_8f18325e:
+translate francais v1s27_ba7af72f_1:
 
-    # em "I have some pretty major news to share with you."
-    em ""
+    # em "I have some pretty major news to share."
+    em "I have some pretty major news to share."
 
 # game/v1/scene27.rpy:59
-translate francais v1s27_fcd6d96b:
+translate francais v1s27_fcd6d96b_1:
 
     # u "Oh. What is it?"
-    u ""
+    u "Oh. What is it?"
 
 # game/v1/scene27.rpy:64
-translate francais v1s27_c6da92b5:
+translate francais v1s27_c6da92b5_1:
 
     # em "Can we speak somewhere a little more... private?"
-    em ""
+    em "Can we speak somewhere a little more... private?"
 
-# game/v1/scene27.rpy:73
-translate francais v1s27_de7c820d:
+# game/v1/scene27.rpy:72
+translate francais v1s27_de7c820d_1:
 
     # u "Of course. Where do you wanna go?"
-    u ""
+    u "Of course. Where do you wanna go?"
 
-# game/v1/scene27.rpy:77
-translate francais v1s27_c9420145:
+# game/v1/scene27.rpy:76
+translate francais v1s27_c9420145_1:
 
     # u "Is it that serious that you can't say it here?"
-    u ""
+    u "Is it that serious that you can't say it here?"
 
-# game/v1/scene27.rpy:82
-translate francais v1s27_5652acf8:
+# game/v1/scene27.rpy:81
+translate francais v1s27_5652acf8_1:
 
     # em "Oh my god, [name]. What the fuck?"
-    em ""
+    em "Oh my god, [name]. What the fuck?"
 
-# game/v1/scene27.rpy:84
-translate francais v1s27_ae469a05:
+# game/v1/scene27.rpy:83
+translate francais v1s27_ae469a05_1:
 
     # em "Can you give me a single ounce of decency? All I asked was to speak to you in private, okay?"
-    em ""
+    em "Can you give me a single ounce of decency? All I asked was to speak to you in private, okay?"
 
-# game/v1/scene27.rpy:89
-translate francais v1s27_f261536a:
+# game/v1/scene27.rpy:88
+translate francais v1s27_f261536a_1:
 
     # u "*Sighs* Okay, let's talk."
-    u ""
+    u "*Sighs* Okay, let's talk."
 
-# game/v1/scene27.rpy:94
-translate francais v1s27_362d9e67:
+# game/v1/scene27.rpy:93
+translate francais v1s27_362d9e67_1:
 
     # em "I need to get some of my stuff out of the locker room, we can talk there."
-    em ""
+    em "I need to get some of my stuff out of the locker room, we can talk there."
 
-# game/v1/scene27.rpy:99
-translate francais v1s27_e7a41f39:
+# game/v1/scene27.rpy:98
+translate francais v1s27_e7a41f39_1:
 
     # u "Lead the way."
-    u ""
+    u "Lead the way."
 
 translate francais strings:
 
     # game/v1/scene27.rpy:69
     old "Can't we speak here?"
-    new ""
+    new "Can't we speak here?"
 

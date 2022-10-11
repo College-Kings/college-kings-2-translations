@@ -1,468 +1,468 @@
-﻿# TODO: Translation updated at 2022-04-11 22:36
+﻿# TODO: Translation updated at 2022-10-11 06:28
 
 # game/v2/scene18d.rpy:26
-translate francais v2s18d_c1bb036a:
+translate francais v2s18d_c1bb036a_1:
 
     # ch "Happy birthday, Lauren. It was a great party."
-    ch ""
+    ch "Happy birthday, Lauren. It was a great party."
 
 # game/v2/scene18d.rpy:31
-translate francais v2s18d_f2292fdb:
+translate francais v2s18d_f2292fdb_1:
 
     # la "Thank you, Chris! I'm glad you had a good time."
-    la ""
+    la "Thank you, Chris! I'm glad you had a good time."
 
 # game/v2/scene18d.rpy:36
-translate francais v2s18d_7cba66e9:
+translate francais v2s18d_7cba66e9_1:
 
     # ch "Thanks for inviting me. I appreciate it."
-    ch ""
+    ch "Thanks for inviting me. I appreciate it."
 
 # game/v2/scene18d.rpy:51
-translate francais v2s18d_9fcb58e3:
+translate francais v2s18d_9fcb58e3_1:
 
     # imre "Let's see how you did with the list, huh?"
-    imre ""
+    imre "Let's see how you did with the list, huh?"
 
 # game/v2/scene18d.rpy:64
-translate francais v2s18d_910085e9:
+translate francais v2s18d_910085e9_1:
 
     # imre "Oh! You actually did pretty well..."
-    imre ""
+    imre "Oh! You actually did pretty well..."
 
 # game/v2/scene18d.rpy:66
-translate francais v2s18d_3eb29e21:
+translate francais v2s18d_3eb29e21_1:
 
     # imre "I'm impressed."
-    imre ""
+    imre "I'm impressed."
 
 # game/v2/scene18d.rpy:76
-translate francais v2s18d_8da0a630:
+translate francais v2s18d_8da0a630_1:
 
     # u "Ha, thanks. It's a fun side game to play while you're partying."
-    u ""
+    u "Ha, thanks. It's a fun side game to play while you're partying."
 
 # game/v2/scene18d.rpy:81
-translate francais v2s18d_9eba6c09:
+translate francais v2s18d_447aea95_1:
 
-    # imre "I bet it is, haha! I still haven't found out exactly how much fun... But one day I hope to."
-    imre ""
+    # imre "I bet it is! I still haven't found out exactly how much fun... but one day I hope to."
+    imre "I bet it is! I still haven't found out exactly how much fun... but one day I hope to."
 
 # game/v2/scene18d.rpy:86
-translate francais v2s18d_6deb7fb3:
+translate francais v2s18d_6deb7fb3_1:
 
     # u "I'm sure you will."
-    u ""
+    u "I'm sure you will."
 
 # game/v2/scene18d.rpy:91
-translate francais v2s18d_60f1562e:
+translate francais v2s18d_60f1562e_1:
 
     # imre "Thanks, man."
-    imre ""
+    imre "Thanks, man."
 
 # game/v2/scene18d.rpy:93
-translate francais v2s18d_9f9282fb:
+translate francais v2s18d_9f9282fb_2:
 
     # imre "The night isn't over yet. You can still get at least one more, like the sex."
-    imre ""
+    imre "The night isn't over yet. You can still get at least one more, like the sex."
 
 # game/v2/scene18d.rpy:99
-translate francais v2s18d_25e1ce7d:
+translate francais v2s18d_2c5e69a3_1:
 
-    # imre "Hey! You did alright."
-    imre ""
+    # imre "Hey! You did all right."
+    imre "Hey! You did all right."
 
 # game/v2/scene18d.rpy:104
-translate francais v2s18d_dfe73f21:
+translate francais v2s18d_dfe73f21_1:
 
     # u "Yeah, nothing too crazy. It was fun, though."
-    u ""
+    u "Yeah, nothing too crazy. It was fun, though."
 
 # game/v2/scene18d.rpy:114
-translate francais v2s18d_60f38ca9:
+translate francais v2s18d_60f38ca9_1:
 
     # imre "I'm proud of you."
-    imre ""
+    imre "I'm proud of you."
 
 # game/v2/scene18d.rpy:119
-translate francais v2s18d_4296d31b:
+translate francais v2s18d_cc9fe208_1:
 
-    # u "*Laughs* Thanks, Imre..."
-    u ""
+    # u "Thanks, Imre..."
+    u "Thanks, Imre..."
 
 # game/v2/scene18d.rpy:124
-translate francais v2s18d_9f9282fb_1:
+translate francais v2s18d_9f9282fb_3:
 
     # imre "The night isn't over yet. You can still get at least one more, like the sex."
-    imre ""
+    imre "The night isn't over yet. You can still get at least one more, like the sex."
 
 # game/v2/scene18d.rpy:130
-translate francais v2s18d_a32be3d3:
+translate francais v2s18d_6563a267_1:
 
-    # imre "What? Nothing?! *Laughs*"
-    imre ""
+    # imre "What? Nothing?!"
+    imre "What? Nothing?!"
 
 # game/v2/scene18d.rpy:140
-translate francais v2s18d_e764fdb4:
+translate francais v2s18d_e764fdb4_1:
 
     # imre "Looks like we got the same score."
-    imre ""
+    imre "Looks like we got the same score."
 
 # game/v2/scene18d.rpy:145
-translate francais v2s18d_049c39bc:
+translate francais v2s18d_6a7f2c34_1:
 
-    # u "Yeah, what can I say? Maybe I should've tried harder..."
-    u ""
+    # u "Yeah. What can I say? Maybe I should've tried harder..."
+    u "Yeah. What can I say? Maybe I should've tried harder..."
 
 # game/v2/scene18d.rpy:150
-translate francais v2s18d_9eab313e:
+translate francais v2s18d_9eab313e_1:
 
     # imre "Trust me, dude. This thing is cursed."
-    imre ""
+    imre "Trust me, dude. This thing is cursed."
 
 # game/v2/scene18d.rpy:152
-translate francais v2s18d_b1a9c0a7:
+translate francais v2s18d_b1a9c0a7_1:
 
     # imre "The night isn't over yet. You can still get at least one, like the sex."
-    imre ""
+    imre "The night isn't over yet. You can still get at least one, like the sex."
 
-# game/v2/scene18d.rpy:158
-translate francais v2s18d_3277508b:
+# game/v2/scene18d.rpy:157
+translate francais v2s18d_3277508b_1:
 
     # la "One what? Sex?"
-    la ""
+    la "One what? Sex?"
 
-# game/v2/scene18d.rpy:168
-translate francais v2s18d_8f8fe217:
+# game/v2/scene18d.rpy:167
+translate francais v2s18d_5b072879_1:
 
-    # imre "Oh, shit! Hi, Lauren. *Laughs* You really snuck up on us there."
-    imre ""
+    # imre "Oh, shit! Hi, Lauren. You really snuck up on us there."
+    imre "Oh, shit! Hi, Lauren. You really snuck up on us there."
 
-# game/v2/scene18d.rpy:170
-translate francais v2s18d_05491224:
+# game/v2/scene18d.rpy:169
+translate francais v2s18d_ed286188_1:
 
-    # imre "Hey, uh... It was a great party! I'll see you later, tomorrow... Happy birthday!"
-    imre ""
+    # imre "Hey, uh... it was a great party! I'll see you later, tomorrow... happy birthday!"
+    imre "Hey, uh... it was a great party! I'll see you later, tomorrow... happy birthday!"
 
-# game/v2/scene18d.rpy:175
-translate francais v2s18d_416cb4f3:
+# game/v2/scene18d.rpy:174
+translate francais v2s18d_d42d9cb9_1:
 
-    # la "Uh, thank you? Haha."
-    la ""
+    # la "Uh, thank you?"
+    la "Uh, thank you?"
 
-# game/v2/scene18d.rpy:195
-translate francais v2s18d_7c2f4050:
+# game/v2/scene18d.rpy:194
+translate francais v2s18d_7c2f4050_1:
 
     # la "What was he talking about?"
-    la ""
+    la "What was he talking about?"
 
-# game/v2/scene18d.rpy:200
-translate francais v2s18d_97227027:
+# game/v2/scene18d.rpy:199
+translate francais v2s18d_fadd8cc9_1:
 
-    # u "Haha, ah... You know Imre, always saying ridiculous things."
-    u ""
+    # u "Ha, ah... You know Imre, always saying ridiculous things."
+    u "Ha, ah... You know Imre, always saying ridiculous things."
 
-# game/v2/scene18d.rpy:215
-translate francais v2s18d_88a7d28b:
+# game/v2/scene18d.rpy:214
+translate francais v2s18d_88a7d28b_1:
 
     # la "He thinks you should have sex with me?"
-    la ""
+    la "He thinks you should have sex with me?"
 
-# game/v2/scene18d.rpy:220
-translate francais v2s18d_8e2f1536:
+# game/v2/scene18d.rpy:219
+translate francais v2s18d_ee70f16e_1:
 
-    # u "(Fuck.) Um, yeah. That's basically what he was suggesting, haha."
-    u ""
+    # u "(Fuck.) Um, yeah. That's basically what he was suggesting."
+    u "(Fuck.) Um, yeah. That's basically what he was suggesting."
 
-# game/v2/scene18d.rpy:229
-translate francais v2s18d_b2511dee:
+# game/v2/scene18d.rpy:228
+translate francais v2s18d_b2511dee_1:
 
     # u "But I'd only want to if you wanted-"
-    u ""
+    u "But I'd only want to if you wanted-"
 
-# game/v2/scene18d.rpy:239
-translate francais v2s18d_da4d8d4d:
+# game/v2/scene18d.rpy:238
+translate francais v2s18d_7893095b_1:
 
-    # la "To be honest, you got me a gift card for my birthday."
-    la ""
+    # la "This proposition coming from the guy who got me a gift card for my birthday."
+    la "This proposition coming from the guy who got me a gift card for my birthday."
 
-# game/v2/scene18d.rpy:244
-translate francais v2s18d_6e3d920f:
+# game/v2/scene18d.rpy:243
+translate francais v2s18d_6e3d920f_1:
 
     # u "Yeah..."
-    u ""
+    u "Yeah..."
 
-# game/v2/scene18d.rpy:249
-translate francais v2s18d_0c87abe0:
+# game/v2/scene18d.rpy:248
+translate francais v2s18d_06dda97c_1:
 
-    # la "You didn't put much thought into it, did you? *Giggles*"
-    la ""
+    # la "Not the classiest of moves, wouldn't you agree?"
+    la "Not the classiest of moves, wouldn't you agree?"
 
-# game/v2/scene18d.rpy:254
-translate francais v2s18d_0c9738c1:
+# game/v2/scene18d.rpy:253
+translate francais v2s18d_03ce299b_1:
 
-    # u "I was in the store for ages."
-    u ""
+    # u "I was in the store for ages, for what it's worth."
+    u "I was in the store for ages, for what it's worth."
 
-# game/v2/scene18d.rpy:259
-translate francais v2s18d_dca5de24:
+# game/v2/scene18d.rpy:258
+translate francais v2s18d_dca5de24_1:
 
     # la "I don't know about that..."
-    la ""
+    la "I don't know about that..."
 
-# game/v2/scene18d.rpy:264
-translate francais v2s18d_dd0be6d6:
+# game/v2/scene18d.rpy:263
+translate francais v2s18d_dd0be6d6_1:
 
     # u "I'm sorry, ha."
-    u ""
+    u "I'm sorry, ha."
 
-# game/v2/scene18d.rpy:269
-translate francais v2s18d_564535b9:
+# game/v2/scene18d.rpy:268
+translate francais v2s18d_564535b9_1:
 
     # la "Don't worry about it..."
-    la ""
+    la "Don't worry about it..."
 
-# game/v2/scene18d.rpy:271
-translate francais v2s18d_b9df2fb1:
+# game/v2/scene18d.rpy:270
+translate francais v2s18d_b9df2fb1_1:
 
     # la "Anyway, you can sleep in my bed tonight, but there's not going to be any sex."
-    la ""
+    la "Anyway, you can sleep in my bed tonight, but there's not going to be any sex."
 
-# game/v2/scene18d.rpy:276
-translate francais v2s18d_5c40516c:
+# game/v2/scene18d.rpy:275
+translate francais v2s18d_5c40516c_1:
 
     # u "That's perfectly fine. Thank you."
-    u ""
+    u "That's perfectly fine. Thank you."
 
-# game/v2/scene18d.rpy:291
-translate francais v2s18d_820ef885:
+# game/v2/scene18d.rpy:290
+translate francais v2s18d_820ef885_1:
 
     # la "Hmm..."
-    la ""
+    la "Hmm..."
 
-# game/v2/scene18d.rpy:293
-translate francais v2s18d_e74b45d3:
+# game/v2/scene18d.rpy:292
+translate francais v2s18d_58cd02cf_1:
 
-    # la "I think you've earned it."
-    la ""
+    # la "Maybe... maybe you've earned a little relief."
+    la "Maybe... maybe you've earned a little relief."
 
-# game/v2/scene18d.rpy:298
-translate francais v2s18d_6bcd435f:
+# game/v2/scene18d.rpy:297
+translate francais v2s18d_6bcd435f_1:
 
     # u "Yeah?"
-    u ""
+    u "Yeah?"
 
-# game/v2/scene18d.rpy:303
-translate francais v2s18d_cc5efaae:
+# game/v2/scene18d.rpy:302
+translate francais v2s18d_9726b955_1:
 
-    # la "Yeah, especially after the gift you gave me, hehe. Best boyfriend ever."
-    la ""
+    # la "After the gift you gave me, which makes you the best boyfriend ever? Yeah."
+    la "After the gift you gave me, which makes you the best boyfriend ever? Yeah."
 
-# game/v2/scene18d.rpy:315
-translate francais v2s18d_67400ed3:
+# game/v2/scene18d.rpy:314
+translate francais v2s18d_67400ed3_1:
 
     # la "And now you can give me an extra special birthday treat."
-    la ""
+    la "And now you can give me an extra special birthday treat."
 
-# game/v2/scene18d.rpy:320
-translate francais v2s18d_c6fbfa0c:
+# game/v2/scene18d.rpy:319
+translate francais v2s18d_c6fbfa0c_1:
 
     # u "Don't mind if I do."
-    u ""
+    u "Don't mind if I do."
 
-# game/v2/scene18d.rpy:339
-translate francais v2s18d_580af564:
+# game/v2/scene18d.rpy:338
+translate francais v2s18d_a0be4925_1:
 
-    # la "You know... I still haven't even had sex. *Laughs*"
-    la ""
+    # la "You know... I still haven't even had sex."
+    la "You know... I still haven't even had sex."
 
-# game/v2/scene18d.rpy:344
-translate francais v2s18d_2a3e133e:
+# game/v2/scene18d.rpy:343
+translate francais v2s18d_2146dc80_1:
 
-    # u "Ha."
-    u ""
+    # u "Well, there's no rush."
+    u "Well, there's no rush."
 
-# game/v2/scene18d.rpy:349
-translate francais v2s18d_d5b0dd6f:
+# game/v2/scene18d.rpy:348
+translate francais v2s18d_d5b0dd6f_1:
 
     # la "I think it's time."
-    la ""
+    la "I think it's time."
 
-# game/v2/scene18d.rpy:354
-translate francais v2s18d_cf7d9d34:
+# game/v2/scene18d.rpy:353
+translate francais v2s18d_2261512d_1:
 
-    # u "You do?"
-    u ""
+    # u "I guess I spoke too soon about that \"no rush\" thing. You think it's time?"
+    u "I guess I spoke too soon about that \"no rush\" thing. You think it's time?"
 
-# game/v2/scene18d.rpy:359
-translate francais v2s18d_de63e1bd:
+# game/v2/scene18d.rpy:358
+translate francais v2s18d_00ecb2a1_1:
 
-    # la "And I think you're the right person for me to do it with... You know, for the first time?"
-    la ""
+    # la "Yes. And I think you're the right person to share the experience with. You know, for my first time."
+    la "Yes. And I think you're the right person to share the experience with. You know, for my first time."
 
-# game/v2/scene18d.rpy:364
-translate francais v2s18d_796f5b18:
+# game/v2/scene18d.rpy:363
+translate francais v2s18d_a11d55ea_1:
 
-    # u "You- Wait, really?"
-    u ""
+    # u "Wait, really?"
+    u "Wait, really?"
 
-# game/v2/scene18d.rpy:369
-translate francais v2s18d_5dd3ecb2:
+# game/v2/scene18d.rpy:368
+translate francais v2s18d_5dd3ecb2_1:
 
     # la "Yeah... I..."
-    la ""
+    la "Yeah... I..."
 
-# game/v2/scene18d.rpy:371
-translate francais v2s18d_44e3eed9:
+# game/v2/scene18d.rpy:370
+translate francais v2s18d_0d846e07_1:
 
-    # la "Come on, before I change my mind. *Laughs*"
-    la ""
+    # la "Come on, before I change my mind."
+    la "Come on, before I change my mind."
 
-# game/v2/scene18d.rpy:389
-translate francais v2s18d_76ad5301:
+# game/v2/scene18d.rpy:388
+translate francais v2s18d_76ad5301_1:
 
     # la "Ha. I don't think that's going to happen."
-    la ""
+    la "Ha. I don't think that's going to happen."
 
-# game/v2/scene18d.rpy:391
-translate francais v2s18d_4964b777:
+# game/v2/scene18d.rpy:390
+translate francais v2s18d_4964b777_1:
 
     # la "You can sleep here tonight if you need to, but only on the couch."
-    la ""
+    la "You can sleep here tonight if you need to, but only on the couch."
 
-# game/v2/scene18d.rpy:396
-translate francais v2s18d_44469fd1:
+# game/v2/scene18d.rpy:395
+translate francais v2s18d_44469fd1_1:
 
     # u "Oh, okay. Yeah, that's fine."
-    u ""
+    u "Oh, okay. Yeah, that's fine."
 
-# game/v2/scene18d.rpy:401
-translate francais v2s18d_ce9ba275:
+# game/v2/scene18d.rpy:400
+translate francais v2s18d_ce9ba275_1:
 
     # la "Let me grab you a pillow and a blanket."
-    la ""
+    la "Let me grab you a pillow and a blanket."
 
-# game/v2/scene18d.rpy:406
-translate francais v2s18d_a819ab81:
+# game/v2/scene18d.rpy:405
+translate francais v2s18d_a819ab81_1:
 
     # u "Okay. Thanks."
-    u ""
+    u "Okay. Thanks."
 
-# game/v2/scene18d.rpy:408
-translate francais v2s18d_940722fb:
+# game/v2/scene18d.rpy:407
+translate francais v2s18d_940722fb_1:
 
     # u "(Damn, I just got shut down hard. Ouch.)"
-    u ""
+    u "(Damn, I just got shut down hard. Ouch.)"
 
-# game/v2/scene18d.rpy:423
-translate francais v2s18d_0b2ded6f:
+# game/v2/scene18d.rpy:422
+translate francais v2s18d_0b2ded6f_2:
 
     # la "Sleep tight!"
-    la ""
+    la "Sleep tight!"
 
-# game/v2/scene18d.rpy:428
-translate francais v2s18d_e11aa4ff:
+# game/v2/scene18d.rpy:427
+translate francais v2s18d_e11aa4ff_2:
 
     # u "You too, birthday girl. Goodnight."
-    u ""
+    u "You too, birthday girl. Goodnight."
 
-# game/v2/scene18d.rpy:445
-translate francais v2s18d_1f99b3a5:
+# game/v2/scene18d.rpy:444
+translate francais v2s18d_121916aa_1:
 
-    # u "But I don't want to do that to you, just ignore him. He's trying to get me to play this stupid game."
-    u ""
+    # u "But I don't want to do that to you. Just ignore him. He's trying to get me to play this stupid game."
+    u "But I don't want to do that to you. Just ignore him. He's trying to get me to play this stupid game."
 
-# game/v2/scene18d.rpy:451
-translate francais v2s18d_f1990eef:
+# game/v2/scene18d.rpy:450
+translate francais v2s18d_f1990eef_1:
 
     # la "You don't want to have sex with your girlfriend on her birthday?"
-    la ""
+    la "You don't want to have sex with your girlfriend on her birthday?"
 
-# game/v2/scene18d.rpy:459
-translate francais v2s18d_1738fc30:
+# game/v2/scene18d.rpy:458
+translate francais v2s18d_aed3a205_1:
 
-    # la "Haha, yeah... I figured that's what you were going to say."
-    la ""
+    # la "Yeah... I figured that's what you were going to say."
+    la "Yeah... I figured that's what you were going to say."
 
-# game/v2/scene18d.rpy:464
-translate francais v2s18d_518f5caa:
+# game/v2/scene18d.rpy:463
+translate francais v2s18d_7623927a_1:
 
-    # u "I'm kind of struggling to keep my eyes open right now, haha."
-    u ""
+    # u "I'm kind of struggling to keep my eyes open right now."
+    u "I'm kind of struggling to keep my eyes open right now."
 
-# game/v2/scene18d.rpy:469
-translate francais v2s18d_15cd6b3e:
+# game/v2/scene18d.rpy:468
+translate francais v2s18d_72a78f67_1:
 
-    # la "Ah, okay. *Chuckles*"
-    la ""
+    # la "Ah, okay."
+    la "Ah, okay."
 
-# game/v2/scene18d.rpy:474
-translate francais v2s18d_b53c4fda:
+# game/v2/scene18d.rpy:473
+translate francais v2s18d_b53c4fda_1:
 
     # u "It's been a long day, but what an amazing party! Did you enjoy it?"
-    u ""
+    u "It's been a long day, but what an amazing party! Did you enjoy it?"
 
-# game/v2/scene18d.rpy:479
-translate francais v2s18d_6b9ab131:
+# game/v2/scene18d.rpy:478
+translate francais v2s18d_6b9ab131_1:
 
     # la "Yeah, it was great! I'm so happy everyone had a good time."
-    la ""
+    la "Yeah, it was great! I'm so happy everyone had a good time."
 
-# game/v2/scene18d.rpy:486
-translate francais v2s18d_e359217a:
+# game/v2/scene18d.rpy:485
+translate francais v2s18d_27e8228b_1:
 
-    # la "Let's head to bed now, yeah? I'm ready for a cozy birthday sleep... You can be the big spoon."
-    la ""
+    # la "Let's head to bed now, yeah? I'm ready for a cozy birthday sleep. You can be the big spoon."
+    la "Let's head to bed now, yeah? I'm ready for a cozy birthday sleep. You can be the big spoon."
 
-# game/v2/scene18d.rpy:491
-translate francais v2s18d_10828f8c:
+# game/v2/scene18d.rpy:490
+translate francais v2s18d_211832e6_1:
 
-    # u "Haha... Okay, little spoon. Let's go."
-    u ""
+    # u "Okay, little spoon. Let's go."
+    u "Okay, little spoon. Let's go."
 
-# game/v2/scene18d.rpy:506
-translate francais v2s18d_652fc4d1:
+# game/v2/scene18d.rpy:505
+translate francais v2s18d_652fc4d1_1:
 
     # la "You don't have to go home tonight, by the way. You can just sleep on the couch if you want."
-    la ""
+    la "You don't have to go home tonight, by the way. You can just sleep on the couch if you want."
 
-# game/v2/scene18d.rpy:511
-translate francais v2s18d_b1309037:
+# game/v2/scene18d.rpy:510
+translate francais v2s18d_b1309037_1:
 
     # u "That would be great, actually."
-    u ""
+    u "That would be great, actually."
 
-# game/v2/scene18d.rpy:516
-translate francais v2s18d_66af6e3f:
+# game/v2/scene18d.rpy:515
+translate francais v2s18d_66af6e3f_1:
 
     # la "I'm gonna grab you a pillow and a blanket, I'll be right back."
-    la ""
+    la "I'm gonna grab you a pillow and a blanket, I'll be right back."
 
-# game/v2/scene18d.rpy:521
-translate francais v2s18d_322776cd:
+# game/v2/scene18d.rpy:520
+translate francais v2s18d_322776cd_1:
 
     # u "Thanks, Lauren."
-    u ""
+    u "Thanks, Lauren."
 
-# game/v2/scene18d.rpy:536
-translate francais v2s18d_0b2ded6f_1:
+# game/v2/scene18d.rpy:535
+translate francais v2s18d_0b2ded6f_3:
 
     # la "Sleep tight!"
-    la ""
+    la "Sleep tight!"
 
-# game/v2/scene18d.rpy:541
-translate francais v2s18d_e11aa4ff_1:
+# game/v2/scene18d.rpy:540
+translate francais v2s18d_e11aa4ff_3:
 
     # u "You too, birthday girl. Goodnight."
-    u ""
+    u "You too, birthday girl. Goodnight."
 
 translate francais strings:
 
-    # game/v2/scene18d.rpy:222
+    # game/v2/scene18d.rpy:221
     old "Try to have sex"
-    new ""
+    new "Try to have sex"
 
-    # game/v2/scene18d.rpy:222
+    # game/v2/scene18d.rpy:221
     old "Don't try"
-    new ""
+    new "Don't try"
 
