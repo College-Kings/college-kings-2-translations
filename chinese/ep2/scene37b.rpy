@@ -636,3 +636,23 @@ translate chinese strings:
     old "Imre's tiddy"
     new "Imre's tiddy"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene37b.rpy:72
+translate chinese ep2_s37b_click_chris_9a925d3d:
+
+    # u "Sorry I didn't talk to you about it, Nora wanted to keep it on the DL for a bit."
+    u "Sorry I didn't talk to you about it, Nora wanted to keep it on the DL for a bit."
+
+# game/ep2/scene37b.rpy:79
+translate chinese ep2_s37b_click_chris_ba1d461f:
+
+    # ch "Don't get me wrong, you're still my Wolves brother. I just wish you'd said something."
+    ch "Don't get me wrong, you're still my Wolves brother. I just wish you'd said something."
+
+# game/ep2/scene37b.rpy:302
+translate chinese ep2_s37b_click_frat_boys_34f37e9b:
+
+    # ca "FUCK YEAH! We are getting the first round."
+    ca "FUCK YEAH! We are getting the first round."
+

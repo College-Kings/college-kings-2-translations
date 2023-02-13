@@ -554,3 +554,47 @@ translate francais strings:
     old "Let's be friends"
     new "Let's be friends"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene22b.rpy:24
+translate francais ep2_s22b_553ea70f:
+
+    # u "... You're a machine!"
+    u "... You're a machine!"
+
+# game/ep2/scene22b.rpy:31
+translate francais ep2_s22b_19d87bc2:
+
+    # no "Been trying to quit smoking... I'm down to a few a week at most. Running is definitely good punishment for indulging."
+    no "Been trying to quit smoking... I'm down to a few a week at most. Running is definitely good punishment for indulging."
+
+# game/ep2/scene22b.rpy:316
+translate francais ep2_s22b_nora_wants_to_be_more_e17f68fb:
+
+    # no "I just can't do the casual thing. That's just not me."
+    no "I just can't do the casual thing. That's just not me."
+
+# game/ep2/scene22b.rpy:340
+translate francais ep2_s22b_nora_wants_to_be_more_372cf808:
+
+    # no "But I think if we aren't dating, I just want to be clear we're friends. What do you think?"
+    no "But I think if we aren't dating, I just want to be clear we're friends. What do you think?"
+
+# game/ep2/scene22b.rpy:406
+translate francais ep2_s22b_be_nora_boyfriend_f12f576f:
+
+    # u "Of course I want to date! There's, like, nothing I want more."
+    u "Of course I want to date! There's, like, nothing I want more."
+
+# game/ep2/scene22b.rpy:415
+translate francais ep2_s22b_be_nora_boyfriend_a63037e0:
+
+    # no "*Sniffs* You're so sure of yourself, [name]. That's what I adore about you."
+    no "*Sniffs* You're so sure of yourself, [name]. That's what I adore about you."
+
+translate francais strings:
+
+    # game/ep2/scene22b.rpy:342
+    old "Of course I want to date!"
+    new "Of course I want to date!"
+

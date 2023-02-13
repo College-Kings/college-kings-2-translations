@@ -666,3 +666,173 @@ translate chinese strings:
     old "Play it cool"
     new "Play it cool"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene12.rpy:44
+translate chinese ep2_s12_e20329c5:
+
+    # u "It's going all right, but it'd be even better if I could walk right up to my girlfriend and give her a big smooch."
+    u "It's going all right, but it'd be even better if I could walk right up to my girlfriend and give her a big smooch."
+
+# game/ep2/scene12.rpy:183
+translate chinese ep2_s12_37e3ef50:
+
+    # u "(Probably better Nora doesn't know a big part of it is about her. I should never have told Imre...)"
+    u "(Probably better Nora doesn't know a big part of it is about her. I should never have told Imre...)"
+
+# game/ep2/scene12.rpy:216
+translate chinese ep2_s12_090c1e28:
+
+    # no "[name]...?"
+    no "[name]...?"
+
+# game/ep2/scene12.rpy:221
+translate chinese ep2_s12_8917ccbb:
+
+    # u "Nora...?"
+    u "Nora...?"
+
+# game/ep2/scene12.rpy:231
+translate chinese ep2_s12_d3b2d5c2:
+
+    # u "(Oh shit. Guess I could've been more subtle...)"
+    u "(Oh shit. Guess I could've been more subtle...)"
+
+# game/ep2/scene12.rpy:234
+translate chinese ep2_s12_a99c1f85:
+
+    # u "(I really want to get some info... but I also don't want to piss Nora off.)"
+    u "(I really want to get some info... but I also don't want to piss Nora off.)"
+
+# game/ep2/scene12.rpy:236
+translate chinese ep2_s12_d4b208af:
+
+    # u "(She hates lying, no telling what she'll do if she realizes I'm not being straight with her.)"
+    u "(She hates lying, no telling what she'll do if she realizes I'm not being straight with her.)"
+
+# game/ep2/scene12.rpy:277
+translate chinese ep2_s12_c74c8177:
+
+    # no "While doing exactly that? I'm your friend, [name]. You just need to ask."
+    no "While doing exactly that? I'm your friend, [name]. You just need to ask."
+
+# game/ep2/scene12.rpy:297
+translate chinese ep2_s12_cb5a0dc1:
+
+    # u "(I feel a murderous intent!)"
+    u "(I feel a murderous intent!)"
+
+# game/ep2/scene12.rpy:306
+translate chinese ep2_s12_a798ba83:
+
+    # u "So... yeah. You called it."
+    u "So... yeah. You called it."
+
+# game/ep2/scene12.rpy:311
+translate chinese ep2_s12_1911bd61:
+
+    # no "Come on, [name]. You know me better than that."
+    no "Come on, [name]. You know me better than that."
+
+# game/ep2/scene12.rpy:317
+translate chinese ep2_s12_b07a8474:
+
+    # no "We have to be open and honest with each other."
+    no "We have to be open and honest with each other."
+
+# game/ep2/scene12.rpy:322
+translate chinese ep2_s12_180dc74e:
+
+    # u "I guess I was hoping if it just came up naturally, it wouldn't be a big deal."
+    u "I guess I was hoping if it just came up naturally, it wouldn't be a big deal."
+
+# game/ep2/scene12.rpy:327
+translate chinese ep2_s12_4df03e1a:
+
+    # no "He said. While making it an even bigger deal."
+    no "He said. While making it an even bigger deal."
+
+# game/ep2/scene12.rpy:332
+translate chinese ep2_s12_d91b2f96:
+
+    # u "Extremely fair."
+    u "Extremely fair."
+
+# game/ep2/scene12.rpy:338
+translate chinese ep2_s12_4e96c6a0:
+
+    # u "Yeah. I'm not going to pretend that was at all subtle."
+    u "Yeah. I'm not going to pretend that was at all subtle."
+
+# game/ep2/scene12.rpy:343
+translate chinese ep2_s12_49221389:
+
+    # no "Not in the least. But you're my friend."
+    no "Not in the least. But you're my friend."
+
+# game/ep2/scene12.rpy:345
+translate chinese ep2_s12_35eb6cc1:
+
+    # no "I can... tell you what I know. Between us."
+    no "I can... tell you what I know. Between us."
+
+# game/ep2/scene12.rpy:352
+translate chinese ep2_s12_3518f551:
+
+    # u "I'm just a naturally... curious person."
+    u "I'm just a naturally... curious person."
+
+# game/ep2/scene12.rpy:367
+translate chinese ep2_s12_e9033662:
+
+    # no "But you can also be kind of a jerk."
+    no "But you can also be kind of a jerk."
+
+# game/ep2/scene12.rpy:393
+translate chinese ep2_s12_7bd51bc5:
+
+    # no "If you haven't realized I need honesty and open communication, then I guess you don't know me. And I guess I was wrong about you."
+    no "If you haven't realized I need honesty and open communication, then I guess you don't know me. And I guess I was wrong about you."
+
+# game/ep2/scene12.rpy:400
+translate chinese ep2_s12_92ffa6ff:
+
+    # u "What?? Nora, wait!"
+    u "What?? Nora, wait!"
+
+# game/ep2/scene12.rpy:417
+translate chinese ep2_s12_e99533d6:
+
+    # no "Leave me alone, [name]."
+    no "Leave me alone, [name]."
+
+# game/ep2/scene12.rpy:476
+translate chinese ep2_s12_nora_talks_939c33c9:
+
+    # no "I honestly don't know much, she's only mentioned it a couple of times."
+    no "I honestly don't know much, she's only mentioned it a couple of times."
+
+# game/ep2/scene12.rpy:479
+translate chinese ep2_s12_nora_talks_9e055b44:
+
+    # no "I mean, you know Ms. Rose has a pretty close relationship with the Wolves."
+    no "I mean, you know Ms. Rose has a pretty close relationship with the Wolves."
+
+# game/ep2/scene12.rpy:488
+translate chinese ep2_s12_nora_talks_469f500b:
+
+    # u "(Jesus, I can't believe I'm fucking both of them... If Nora ever found out...)"
+    u "(Jesus, I can't believe I'm fucking both of them... If Nora ever found out...)"
+
+# game/ep2/scene12.rpy:549
+translate chinese ep2_s12_nora_talks_8257c300:
+
+    # no "I think Lindsey's calling. Sorry for dropping that in your lap and running, but I've got to go."
+    no "I think Lindsey's calling. Sorry for dropping that in your lap and running, but I've got to go."
+
+translate chinese strings:
+
+    # game/ep2/scene12.rpy:299
+    old "Double down"
+    new "Double down"
+

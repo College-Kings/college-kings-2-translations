@@ -78,3 +78,17 @@ translate chinese ep2_s21a_5319aac0:
     # u "(Ugh, so much for rubbing one out. I'll watch porn some other night. I'm hitting the hay.)"
     u "(Ugh, so much for rubbing one out. I'll watch porn some other night. I'm hitting the hay.)"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene21a.rpy:48
+translate chinese ep2_s21a_107a4a02:
+
+    # u "(Try to watch porn...)"
+    u "(Try to watch porn...)"
+
+# game/ep2/scene21a.rpy:70
+translate chinese ep2_s21a_9f70b607:
+
+    # u "(Now that that's over, maybe I can get back to porn...)"
+    u "(Now that that's over, maybe I can get back to porn...)"
+

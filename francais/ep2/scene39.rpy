@@ -390,3 +390,243 @@ translate francais strings:
     old "Stop before it's too late"
     new "Stop before it's too late"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene39.rpy:61
+translate francais ep2_s39_29c6c67c:
+
+    # elm "Oh—"
+    elm "Oh—"
+
+# game/ep2/scene39.rpy:63
+translate francais ep2_s39_b6775099:
+
+    # elm "Oh my."
+    elm "Oh my."
+
+# game/ep2/scene39.rpy:65
+translate francais ep2_s39_dbd21086:
+
+    # elm "Christ, [name]..."
+    elm "Christ, [name]..."
+
+# game/ep2/scene39.rpy:67
+translate francais ep2_s39_3c5f3608:
+
+    # elm "You know how to use that tongue."
+    elm "You know how to use that tongue."
+
+# game/ep2/scene39.rpy:69
+translate francais ep2_s39_bd6a71f1:
+
+    # elm "Can't believe you're just a college student."
+    elm "Can't believe you're just a college student."
+
+# game/ep2/scene39.rpy:71
+translate francais ep2_s39_efa41d0d:
+
+    # elm "You seem so experienced down there."
+    elm "You seem so experienced down there."
+
+# game/ep2/scene39.rpy:73
+translate francais ep2_s39_804f7dbf:
+
+    # elm "Nnnnngh..."
+    elm "Nnnnngh..."
+
+# game/ep2/scene39.rpy:88
+translate francais ep2_s39_df9b8ef9:
+
+    # elm "Nnnngh, mmmf, that's right..."
+    elm "Nnnngh, mmmf, that's right..."
+
+# game/ep2/scene39.rpy:92
+translate francais ep2_s39_04ef9e83:
+
+    # elm "Lick every last drop of my pussy juice until I can't take it anymore."
+    elm "Lick every last drop of my pussy juice until I can't take it anymore."
+
+# game/ep2/scene39.rpy:94
+translate francais ep2_s39_1e08746d:
+
+    # elm "Yes... Just like that..."
+    elm "Yes... Just like that..."
+
+# game/ep2/scene39.rpy:158
+translate francais ep2_s39_55913dcd:
+
+    # elm "Mmmmm..."
+    elm "Mmmmm..."
+
+# game/ep2/scene39.rpy:160
+translate francais ep2_s39_4c765934:
+
+    # elm "I haven't taken a man this big since {i}my{/i} college days."
+    elm "I haven't taken a man this big since {i}my{/i} college days."
+
+# game/ep2/scene39.rpy:162
+translate francais ep2_s39_21246fa2:
+
+    # elm "Hard to... readjust. So hard..."
+    elm "Hard to... readjust. So hard..."
+
+# game/ep2/scene39.rpy:164
+translate francais ep2_s39_3672d3cc:
+
+    # elm "And stiff..."
+    elm "And stiff..."
+
+# game/ep2/scene39.rpy:173
+translate francais ep2_s39_90cc9219:
+
+    # u "You like?"
+    u "You like?"
+
+# game/ep2/scene39.rpy:175
+translate francais ep2_s39_5f586fba:
+
+    # elm "I love. I didn't realize how badly I needed this..."
+    elm "I love. I didn't realize how badly I needed this..."
+
+# game/ep2/scene39.rpy:177
+translate francais ep2_s39_0129105a:
+
+    # elm "We're having the best time of anyone at this little party of yours."
+    elm "We're having the best time of anyone at this little party of yours."
+
+# game/ep2/scene39.rpy:179
+translate francais ep2_s39_dbf2c63d:
+
+    # u "Yeah, no kidding, I—"
+    u "Yeah, no kidding, I—"
+
+# game/ep2/scene39.rpy:181
+translate francais ep2_s39_39e4281b:
+
+    # u "(Shit, [name], don't blow your load too early! Come on!)"
+    u "(Shit, [name], don't blow your load too early! Come on!)"
+
+# game/ep2/scene39.rpy:193
+translate francais ep2_s39_0aff1db2:
+
+    # elm "Only I cum on this balcony—"
+    elm "Only I cum on this balcony—"
+
+# game/ep2/scene39.rpy:195
+translate francais ep2_s39_692c7cbc:
+
+    # elm "Mmmm! Oh! OH!"
+    elm "Mmmm! Oh! OH!"
+
+# game/ep2/scene39.rpy:202
+translate francais ep2_s39_b4e0843d:
+
+    # elm "AHHH!"
+    elm "AHHH!"
+
+# game/ep2/scene39.rpy:209
+translate francais ep2_s39_ab4e032a:
+
+    # elm "Ha! Phew. Whew. That was fun."
+    elm "Ha! Phew. Whew. That was fun."
+
+# game/ep2/scene39.rpy:340
+translate francais ep2_s39_d9598f26:
+
+    # u "(WAIT—)"
+    u "(WAIT—)"
+
+# game/ep2/scene39.rpy:342
+translate francais ep2_s39_2073b3ad:
+
+    # u "(What—)"
+    u "(What—)"
+
+# game/ep2/scene39.rpy:346
+translate francais ep2_s39_de4b3502:
+
+    # u "(Why does this feel so good?)"
+    u "(Why does this feel so good?)"
+
+# game/ep2/scene39.rpy:348
+translate francais ep2_s39_a6c2248d:
+
+    # u "(And her tongue game is otherworldly...)"
+    u "(And her tongue game is otherworldly...)"
+
+# game/ep2/scene39.rpy:350
+translate francais ep2_s39_d13d8938:
+
+    # u "This... is incredible..."
+    u "This... is incredible..."
+
+# game/ep2/scene39.rpy:352
+translate francais ep2_s39_ca91f098:
+
+    # elm "Mmmhmmm..."
+    elm "Mmmhmmm..."
+
+# game/ep2/scene39.rpy:354
+translate francais ep2_s39_5789a9f3:
+
+    # u "F-Faster, please?"
+    u "F-Faster, please?"
+
+# game/ep2/scene39.rpy:356
+translate francais ep2_s39_bf3e5268:
+
+    # elm "Hmmm..."
+    elm "Hmmm..."
+
+# game/ep2/scene39.rpy:367
+translate francais ep2_s39_b57e1ab2:
+
+    # u "Right there, right there."
+    u "Right there, right there."
+
+# game/ep2/scene39.rpy:369
+translate francais ep2_s39_a6641551:
+
+    # u "Don't stop. Please, please don't stop..."
+    u "Don't stop. Please, please don't stop..."
+
+# game/ep2/scene39.rpy:371
+translate francais ep2_s39_b62f72db:
+
+    # elm "Glu-gluck-glu—"
+    elm "Glu-gluck-glu—"
+
+# game/ep2/scene39.rpy:373
+translate francais ep2_s39_35744005:
+
+    # u "I'm so close."
+    u "I'm so close."
+
+# game/ep2/scene39.rpy:375
+translate francais ep2_s39_e9051ca0:
+
+    # u "I'm..."
+    u "I'm..."
+
+# game/ep2/scene39.rpy:462
+translate francais ep2_s39_826b588b:
+
+    # u "Sorry, Daisy, but that ain't my style."
+    u "Sorry, Daisy, but that ain't my style."
+
+# game/ep2/scene39.rpy:467
+translate francais ep2_s39_b1868c9e:
+
+    # u "(I can't believe she tried to treat me like that. I feel... used.)"
+    u "(I can't believe she tried to treat me like that. I feel... used.)"
+
+translate francais strings:
+
+    # game/ep2/scene39.rpy:452
+    old "Refuse the money"
+    new "Refuse the money"
+
+    # game/ep2/scene39.rpy:452
+    old "Take the money"
+    new "Take the money"
+

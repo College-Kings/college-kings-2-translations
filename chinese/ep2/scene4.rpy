@@ -832,3 +832,95 @@ translate chinese strings:
     old "Are you doing this for you?"
     new "Are you doing this for you?"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene4.rpy:25
+translate chinese ep2_s4_72e4699b:
+
+    # u "(I wanna lick the grease off the top then feel my throat choke on pounds of melted cheese... mmm...)"
+    u "(I wanna lick the grease off the top then feel my throat choke on pounds of melted cheese... mmm...)"
+
+# game/ep2/scene4.rpy:35
+translate chinese ep2_s4_70a88e52:
+
+    # u "(Damnit, Aubrey's not pizza...)"
+    u "(Damnit, Aubrey's not pizza...)"
+
+# game/ep2/scene4.rpy:40
+translate chinese ep2_s4_f3790fa0:
+
+    # u "Who are you calling blondie? My hair's brown."
+    u "Who are you calling blondie? My hair's brown."
+
+# game/ep2/scene4.rpy:54
+translate chinese ep2_s4_9d05b3c3:
+
+    # u "Nice save."
+    u "Nice save."
+
+# game/ep2/scene4.rpy:59
+translate chinese ep2_s4_1b6b739f:
+
+    # au "Listen, it looks dirty blonde sometimes. Anywho, get over here and sit down."
+    au "Listen, it looks dirty blonde sometimes. Anywho, get over here and sit down."
+
+# game/ep2/scene4.rpy:86
+translate chinese ep2_s4_caec4e1f:
+
+    # u "(Unless...)"
+    u "(Unless...)"
+
+# game/ep2/scene4.rpy:261
+translate chinese ep2_s4_f06e3fd1:
+
+    # au "The gig in Amsterdam went well enough, so I say sky's the limit. A model's life for me."
+    au "The gig in Amsterdam went well enough, so I say sky's the limit. A model's life for me."
+
+# game/ep2/scene4.rpy:296
+translate chinese ep2_s4_416c2ff5:
+
+    # au "You horndog, that's not what I'm talking about."
+    au "You horndog, that's not what I'm talking about."
+
+# game/ep2/scene4.rpy:347
+translate chinese ep2_s4_185c1bb9:
+
+    # au "Ew, [name]."
+    au "Ew, [name]."
+
+# game/ep2/scene4.rpy:396
+translate chinese ep2_s4_19c389d3:
+
+    # au "I'm doing professional modeling! I've even booked my first shoot, just waiting on the confirmation—"
+    au "I'm doing professional modeling! I've even booked my first shoot, just waiting on the confirmation—"
+
+# game/ep2/scene4.rpy:410
+translate chinese ep2_s4_71c4b1d0:
+
+    # u "(You don't have to tell me twice. Hello, pizza, my old friend...)"
+    u "(You don't have to tell me twice. Hello, pizza, my old friend...)"
+
+# game/ep2/scene4.rpy:452
+translate chinese ep2_s4_79a532bc:
+
+    # u "Between pizza and all our tangents, I've kinda lost track of what's goin' on here."
+    u "Between pizza and all our tangents, I've kinda lost track of what's goin' on here."
+
+# game/ep2/scene4.rpy:457
+translate chinese ep2_s4_34ded33f:
+
+    # au "Tangents are on, you goofball. You're nuts today."
+    au "Tangents are on, you goofball. You're nuts today."
+
+# game/ep2/scene4.rpy:737
+translate chinese ep2_s4_eaf51e10:
+
+    # u "I'm just saying, you've got a rough family dynamic."
+    u "I'm just saying, you've got a rough family dynamic."
+
+# game/ep2/scene4.rpy:744
+translate chinese ep2_s4_104816d4:
+
+    # au "Screw you, [name]."
+    au "Screw you, [name]."
+

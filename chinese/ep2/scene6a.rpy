@@ -912,3 +912,53 @@ translate chinese strings:
     old "Oh yeah, that last one"
     new "Oh yeah, that last one"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene6a.rpy:88
+translate chinese ep2_s6a_0a03d609:
+
+    # ri "Right back atcha. Talkin' lingerie in the morning, organizing events that afternoon!"
+    ri "Right back atcha. Talkin' lingerie in the morning, organizing events that afternoon!"
+
+# game/ep2/scene6a.rpy:138
+translate chinese ep2_s6a_1c57a693:
+
+    # u "My name is Esteban-[name] IX, His Serene Highness of the great house Grymaldi, exiled prince of Monaco."
+    u "My name is Esteban-[name] IX, His Serene Highness of the great house Grymaldi, exiled prince of Monaco."
+
+# game/ep2/scene6a.rpy:260
+translate chinese ep2_s6a_3fcdb61c:
+
+    # u "We could... I dunno, rent a water jetpack? And charge cover for people to fly around?"
+    u "We could... I dunno, rent a water jetpack? And charge cover for people to fly around?"
+
+# game/ep2/scene6a.rpy:584
+translate chinese ep2_s6a_2844a81d:
+
+    # fa "Of course, Prince Esteban-[name] IX! Honored to meet you, and I hope you're able to reclaim your throne soon!"
+    fa "Of course, Prince Esteban-[name] IX! Honored to meet you, and I hope you're able to reclaim your throne soon!"
+
+# game/ep2/scene6a.rpy:602
+translate chinese ep2_s6a_b0485b8f:
+
+    # u "(Greaaaaaaaaaaat...)"
+    u "(Greaaaaaaaaaaat...)"
+
+# game/ep2/scene6a.rpy:635
+translate chinese ep2_s6a_7e83e1fe:
+
+    # fa "He gives you any grief: just tell him Chloe's coming."
+    fa "He gives you any grief: just tell him Chloe's coming."
+
+# game/ep2/scene6a.rpy:701
+translate chinese ep2_s6a_6efcae09:
+
+    # ri "Haha, my hero. Come on, let's get out of here."
+    ri "Haha, my hero. Come on, let's get out of here."
+
+translate chinese strings:
+
+    # game/ep2/scene6a.rpy:396
+    old "Actually, Elijah's mom..."
+    new "Actually, Elijah's mom..."
+

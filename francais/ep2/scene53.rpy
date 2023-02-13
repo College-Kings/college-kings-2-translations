@@ -600,3 +600,23 @@ translate francais ep2_s53_end_9ea2f78c:
     # " "
     " "
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene53.rpy:39
+translate francais ep2_s53_206596b5:
+
+    # frogsp "More like what're you all {i}not{/i} wearing?"
+    frogsp "More like what're you all {i}not{/i} wearing?"
+
+# game/ep2/scene53.rpy:193
+translate francais ep2_s53_be6cc9fd:
+
+    # am "Thanks for letting us know, by the way, Chris. Veeeery helpful."
+    am "Thanks for letting us know, by the way, Chris. Veeeery helpful."
+
+# game/ep2/scene53.rpy:195
+translate francais ep2_s53_d4c63a0b:
+
+    # am "That was sarcasm, by the way. In case it wasn't obvious."
+    am "That was sarcasm, by the way. In case it wasn't obvious."
+

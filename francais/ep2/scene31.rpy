@@ -490,3 +490,35 @@ translate francais strings:
     old "Nah, let's look again"
     new "Nah, let's look again"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene31.rpy:54
+translate francais ep2_s31_047d20b6:
+
+    # am "Very impressive, Watson. I don't know how you do it."
+    am "Very impressive, Watson. I don't know how you do it."
+
+# game/ep2/scene31.rpy:255
+translate francais ep2_s31_mc_missed_connection_a13a3421:
+
+    # am "I still feel like we're missing a big part of the puzzle. We know the college is pissed at the Wolves and Apes..."
+    am "I still feel like we're missing a big part of the puzzle. We know the college is pissed at the Wolves and Apes..."
+
+# game/ep2/scene31.rpy:257
+translate francais ep2_s31_mc_missed_connection_9d5aaa37:
+
+    # am "But what are they going to do about it?"
+    am "But what are they going to do about it?"
+
+# game/ep2/scene31.rpy:262
+translate francais ep2_s31_mc_missed_connection_408fe2fc:
+
+    # u "So, case not closed yet."
+    u "So, case not closed yet."
+
+# game/ep2/scene31.rpy:267
+translate francais ep2_s31_mc_missed_connection_468d5643:
+
+    # am "Definitely not yet. For now, let's keep our ear to the ground, see if we hear anything else."
+    am "Definitely not yet. For now, let's keep our ear to the ground, see if we hear anything else."
+

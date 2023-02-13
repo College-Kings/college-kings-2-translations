@@ -394,3 +394,83 @@ translate francais strings:
     old "Not at all"
     new "Not at all"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene42c.rpy:74
+translate francais ep2_s42c_6e7d7d87:
+
+    # u "Thought the idea of playing a game with sex fantasies in it was kinda pointless."
+    u "Thought the idea of playing a game with sex fantasies in it was kinda pointless."
+
+# game/ep2/scene42c.rpy:79
+translate francais ep2_s42c_d03ebbdf:
+
+    # pe "She really said that?"
+    pe "She really said that?"
+
+# game/ep2/scene42c.rpy:84
+translate francais ep2_s42c_5392a47e:
+
+    # u "Yeah sorry... But, hey, clearly she's just not your target demographic, so don't take it too personally, okay?"
+    u "Yeah sorry... But, hey, clearly she's just not your target demographic, so don't take it too personally, okay?"
+
+# game/ep2/scene42c.rpy:89
+translate francais ep2_s42c_43b5a7dd:
+
+    # pe "I guess..."
+    pe "I guess..."
+
+# game/ep2/scene42c.rpy:116
+translate francais ep2_s42c_7e45e8e3:
+
+    # pe "Well, you're right- Lindsey's feedback just confirms my game won't appeal outside my target demographic."
+    pe "Well, you're right- Lindsey's feedback just confirms my game won't appeal outside my target demographic."
+
+# game/ep2/scene42c.rpy:158
+translate francais ep2_s42c_16b578dc:
+
+    # u "Ah! Phone's ringing, meaning I probably forgot I have somewhere to be."
+    u "Ah! Phone's ringing, meaning I probably forgot I have somewhere to be."
+
+# game/ep2/scene42c.rpy:160
+translate francais ep2_s42c_c0cbf4dc:
+
+    # u "Figure I better get going."
+    u "Figure I better get going."
+
+# game/ep2/scene42c.rpy:165
+translate francais ep2_s42c_c686c148:
+
+    # u "Sorry for dipping so abruptly."
+    u "Sorry for dipping so abruptly."
+
+# game/ep2/scene42c.rpy:174
+translate francais ep2_s42c_47ccddd9:
+
+    # pe "And get that schedule of yours under control!"
+    pe "And get that schedule of yours under control!"
+
+# game/ep2/scene42c.rpy:257
+translate francais ep2_s42c_2a19fb6b:
+
+    # pe "What'd Lindsey {i}actually{/i} say?"
+    pe "What'd Lindsey {i}actually{/i} say?"
+
+# game/ep2/scene42c.rpy:264
+translate francais ep2_s42c_5baa3fed:
+
+    # u "... And felt that games with sex scenes were kinda pointless."
+    u "... And felt that games with sex scenes were kinda pointless."
+
+# game/ep2/scene42c.rpy:271
+translate francais ep2_s42c_21e3afc4:
+
+    # pe "And Autumn? What'd she {i}really{/i} say, so I can make sense of her text notes?"
+    pe "And Autumn? What'd she {i}really{/i} say, so I can make sense of her text notes?"
+
+# game/ep2/scene42c.rpy:302
+translate francais ep2_s42c_4864d526:
+
+    # pe "Why would you set me up for failure like that? What kind of person does that?"
+    pe "Why would you set me up for failure like that? What kind of person does that?"
+

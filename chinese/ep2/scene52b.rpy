@@ -822,3 +822,11 @@ translate chinese strings:
     old "Hit him"
     new "Hit him"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene52b.rpy:620
+translate chinese ep2_s52b_06dbe6ad:
+
+    # u "Yeah, thanks for letting me get punched, by the way."
+    u "Yeah, thanks for letting me get punched, by the way."
+

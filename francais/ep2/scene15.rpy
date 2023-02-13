@@ -378,3 +378,41 @@ translate francais strings:
     old "I'll buy you a second pair"
     new "I'll buy you a second pair"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene15.rpy:40
+translate francais ep2_s15_5172a410:
+
+    # la "That's the spirit! Look at us, turning an idea into reality."
+    la "That's the spirit! Look at us, turning an idea into reality."
+
+# game/ep2/scene15.rpy:42
+translate francais ep2_s15_b04c0bfa:
+
+    # la "We're out here doing actual product analysis."
+    la "We're out here doing actual product analysis."
+
+# game/ep2/scene15.rpy:103
+translate francais ep2_s15_3e7c5705:
+
+    # la "[name]!"
+    la "[name]!"
+
+# game/ep2/scene15.rpy:129
+translate francais ep2_s15_f8da54c5:
+
+    # la "Oh, be quiet, [name]."
+    la "Oh, be quiet, [name]."
+
+# game/ep2/scene15.rpy:158
+translate francais ep2_s15_5ce5ea6f:
+
+    # la "Let's go to a different store, this one's a bust."
+    la "Let's go to a different store, this one's a bust."
+
+translate francais strings:
+
+    # game/ep2/scene15.rpy:261
+    old "Budgeting is hard"
+    new "Budgeting is hard"
+

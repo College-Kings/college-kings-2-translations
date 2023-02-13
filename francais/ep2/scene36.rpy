@@ -154,3 +154,57 @@ translate francais strings:
     old "Greet guests"
     new "Greet guests"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene36.rpy:45
+translate francais ep2_s36_8d247409:
+
+    # pe "Hey, [name]!"
+    pe "Hey, [name]!"
+
+# game/ep2/scene36.rpy:57
+translate francais ep2_s36_ba525be7:
+
+    # u "Ladies, looking good! Your beauty is like a pool—I could swim in it all day."
+    u "Ladies, looking good! Your beauty is like a pool—I could swim in it all day."
+
+# game/ep2/scene36.rpy:85
+translate francais ep2_s36_636a18ee:
+
+    # u "Hey, you two! Excited for the pool? You both look like you're ready for it!"
+    u "Hey, you two! Excited for the pool? You both look like you're ready for it!"
+
+# game/ep2/scene36.rpy:90
+translate francais ep2_s36_9d363b34:
+
+    # au "You have no idea. I've been looking forward to this all week."
+    au "You have no idea. I've been looking forward to this all week."
+
+# game/ep2/scene36.rpy:95
+translate francais ep2_s36_6d6a21ac:
+
+    # pe "Samesies. Get me away from programming hell for a few hours."
+    pe "Samesies. Get me away from programming hell for a few hours."
+
+# game/ep2/scene36.rpy:97
+translate francais ep2_s36_e5a4af7c:
+
+    # u "Well, come in, grab a drink from the kitchen, and enjoy yourselves!"
+    u "Well, come in, grab a drink from the kitchen, and enjoy yourselves!"
+
+# game/ep2/scene36.rpy:169
+translate francais ep2_s36_191d7686:
+
+    # u "(I guess Imre can't tell the difference between a pity handy and a real one. Probably for the best.)"
+    u "(I guess Imre can't tell the difference between a pity handy and a real one. Probably for the best.)"
+
+translate francais strings:
+
+    # game/ep2/scene36.rpy:50
+    old "Looking good, ladies!"
+    new "Looking good, ladies!"
+
+    # game/ep2/scene36.rpy:50
+    old "Excited for the pool?"
+    new "Excited for the pool?"
+

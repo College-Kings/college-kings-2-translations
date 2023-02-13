@@ -268,3 +268,35 @@ translate francais strings:
     old "sexy"
     new "sexy"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene29b.rpy:26
+translate francais ep2_s29b_88fc11d3:
+
+    # la "Anyway, whatever. Let's do this."
+    la "Anyway, whatever. Let's do this."
+
+# game/ep2/scene29b.rpy:48
+translate francais ep2_s29b_526e1715:
+
+    # u "Go premium, this is a luxury item."
+    u "Go premium, this is a luxury item."
+
+# game/ep2/scene29b.rpy:57
+translate francais ep2_s29b_26bd1d9a:
+
+    # u "Focus on value. You're a college girl, you know the financial struggles."
+    u "Focus on value. You're a college girl, you know the financial struggles."
+
+# game/ep2/scene29b.rpy:124
+translate francais ep2_s29b_d1973cd4:
+
+    # u "The first one, it's a way more eye-catching design."
+    u "The first one, it's a way more eye-catching design."
+
+# game/ep2/scene29b.rpy:129
+translate francais ep2_s29b_f9b8293d:
+
+    # u "The second, blue is way more elegant and clickable."
+    u "The second, blue is way more elegant and clickable."
+

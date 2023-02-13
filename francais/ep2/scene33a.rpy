@@ -426,3 +426,39 @@ translate francais strings:
     old "I'm leaning Aubrey"
     new "I'm leaning Aubrey"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene33a.rpy:34
+translate francais ep2_s33a_79ba214d:
+
+    # u "Vegan."
+    u "Vegan."
+
+# game/ep2/scene33a.rpy:44
+translate francais ep2_s33a_26f308e1:
+
+    # u "Damn, Riley, how can your voice even get to that octave?"
+    u "Damn, Riley, how can your voice even get to that octave?"
+
+# game/ep2/scene33a.rpy:63
+translate francais ep2_s33a_a64e44ec:
+
+    # u "All I want is a change of pace from my usual meals. Don't make it weird."
+    u "All I want is a change of pace from my usual meals. Don't make it weird."
+
+# game/ep2/scene33a.rpy:65
+translate francais ep2_s33a_0072a563:
+
+    # u "I'm not joining your cult."
+    u "I'm not joining your cult."
+
+translate francais strings:
+
+    # game/ep2/scene33a.rpy:56
+    old "I care about animals"
+    new "I care about animals"
+
+    # game/ep2/scene33a.rpy:56
+    old "Don't make it weird"
+    new "Don't make it weird"
+

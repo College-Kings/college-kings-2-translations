@@ -42,3 +42,11 @@ translate chinese ep2_s14a_8c2e4172:
     # u "(Oh, fuck! Today's the day! I gotta go meet Lauren at the mall!)"
     u "(Oh, fuck! Today's the day! I gotta go meet Lauren at the mall!)"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene14a.rpy:31
+translate chinese ep2_s14a_96ce1390:
+
+    # u "(C'mon... c'mon... if I keep throwing myself at these books, night after night...)"
+    u "(C'mon... c'mon... if I keep throwing myself at these books, night after night...)"
+

@@ -78,3 +78,11 @@ translate francais ep2_s30a_90cfc862:
     # u "(Back to class for now...)"
     u "(Back to class for now...)"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene30a.rpy:95
+translate francais ep2_s30a_9c54af1b:
+
+    # ro "[name], let's put the phone away while the teacher's talking."
+    ro "[name], let's put the phone away while the teacher's talking."
+

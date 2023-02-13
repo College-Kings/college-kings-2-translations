@@ -418,3 +418,11 @@ translate chinese strings:
     old "Leave it be"
     new "Leave it be"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene47.rpy:103
+translate chinese ep2_s47_571fc5ca:
+
+    # u "(Ugh... Nora's pretty bummed. I feel like I could've done better to get more donations...)"
+    u "(Ugh... Nora's pretty bummed. I feel like I could've done better to get more donations...)"
+

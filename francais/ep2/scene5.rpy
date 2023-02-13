@@ -770,3 +770,53 @@ translate francais strings:
     old "They're bad designs"
     new "They're bad designs"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene5.rpy:30
+translate francais ep2_s5_d85daa7c:
+
+    # u "(Shit, Lauren was sitting here the whole time? Let's hope she didn't see me smooching Aubrey...)"
+    u "(Shit, Lauren was sitting here the whole time? Let's hope she didn't see me smooching Aubrey...)"
+
+# game/ep2/scene5.rpy:43
+translate francais ep2_s5_6cb89dd4:
+
+    # u "Hey, there are my two favorite ladies!"
+    u "Hey, there are my two favorite ladies!"
+
+# game/ep2/scene5.rpy:70
+translate francais ep2_s5_3af4e9ca:
+
+    # ri "You're so full of it."
+    ri "You're so full of it."
+
+# game/ep2/scene5.rpy:100
+translate francais ep2_s5_cfa62b84:
+
+    # ri "Yeah, who invited you?"
+    ri "Yeah, who invited you?"
+
+# game/ep2/scene5.rpy:110
+translate francais ep2_s5_44ec4ea6:
+
+    # ri "Just messing with you again! It's almost too easy."
+    ri "Just messing with you again! It's almost too easy."
+
+# game/ep2/scene5.rpy:386
+translate francais ep2_s5_68ece45b:
+
+    # u "Spoken like a true future businesswoman."
+    u "Spoken like a true future businesswoman."
+
+# game/ep2/scene5.rpy:514
+translate francais ep2_s5_4fa85cf1:
+
+    # u "They're excellent sketches, Lauren, but not anything I could imagine making money."
+    u "They're excellent sketches, Lauren, but not anything I could imagine making money."
+
+# game/ep2/scene5.rpy:620
+translate francais ep2_s5_16be2af3:
+
+    # ri "Sounds like you might be projecting your own insecurities onto her."
+    ri "Sounds like you might be projecting your own insecurities onto her."
+

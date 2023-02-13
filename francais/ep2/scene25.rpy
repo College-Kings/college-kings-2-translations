@@ -338,3 +338,225 @@ translate francais strings:
     old "Autumn's the way to go"
     new "Autumn's the way to go"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene25.rpy:53
+translate francais ep2_s25_679caec6:
+
+    # u "Hey, hey now. Whatever's going on, we'll figure it out. Show me what's up."
+    u "Hey, hey now. Whatever's going on, we'll figure it out. Show me what's up."
+
+# game/ep2/scene25.rpy:90
+translate francais ep2_s25_afa74755:
+
+    # u "And did that ruin it...?"
+    u "And did that ruin it...?"
+
+# game/ep2/scene25.rpy:172
+translate francais ep2_s25_d05144d2:
+
+    # u "(I'd like to lay down on top of that picnic blanket...)"
+    u "(I'd like to lay down on top of that picnic blanket...)"
+
+# game/ep2/scene25.rpy:181
+translate francais ep2_s25_8830926b:
+
+    # u "(I better get some karma for respecting her wishes on this one...)"
+    u "(I better get some karma for respecting her wishes on this one...)"
+
+# game/ep2/scene25.rpy:197
+translate francais ep2_s25_912a5aab:
+
+    # u "Sexy picnic blanket, eh? You're really letting the creativity flow!"
+    u "Sexy picnic blanket, eh? You're really letting the creativity flow!"
+
+# game/ep2/scene25.rpy:199
+translate francais ep2_s25_3d4317a7:
+
+    # u "Jokes aside..."
+    u "Jokes aside..."
+
+# game/ep2/scene25.rpy:211
+translate francais ep2_s25_nsfwSkipLabel1_e8c0d20a:
+
+    # u "(Okay, maybe I have two things to suggest...)"
+    u "(Okay, maybe I have two things to suggest...)"
+
+# game/ep2/scene25.rpy:213
+translate francais ep2_s25_nsfwSkipLabel1_d6621f6c:
+
+    # u "(Starting with \"avoid accidental nip slips at all costs.\")"
+    u "(Starting with \"avoid accidental nip slips at all costs.\")"
+
+# game/ep2/scene25.rpy:237
+translate francais ep2_s25_nsfwSkipLabel1_eede1cff:
+
+    # u "Lauren! Where'd that mosquito bite come from?"
+    u "Lauren! Where'd that mosquito bite come from?"
+
+# game/ep2/scene25.rpy:243
+translate francais ep2_s25_nsfwSkipLabel1_9e426175:
+
+    # la "C'mon, [name]..."
+    la "C'mon, [name]..."
+
+# game/ep2/scene25.rpy:245
+translate francais ep2_s25_nsfwSkipLabel1_d0638d90:
+
+    # la "Getting this right is important to me. Don't kick me when I'm down."
+    la "Getting this right is important to me. Don't kick me when I'm down."
+
+# game/ep2/scene25.rpy:250
+translate francais ep2_s25_nsfwSkipLabel1_ae66dca4:
+
+    # u "Ah, shit. Sorry for the bad-taste joke."
+    u "Ah, shit. Sorry for the bad-taste joke."
+
+# game/ep2/scene25.rpy:252
+translate francais ep2_s25_nsfwSkipLabel1_53a244f0:
+
+    # u "Didn't realize it'd sound so gross out loud."
+    u "Didn't realize it'd sound so gross out loud."
+
+# game/ep2/scene25.rpy:275
+translate francais ep2_s25_nsfwSkipLabel1_3309be15:
+
+    # la "I knew I couldn't sew..."
+    la "I knew I couldn't sew..."
+
+# game/ep2/scene25.rpy:277
+translate francais ep2_s25_nsfwSkipLabel1_3d3773a2:
+
+    # la "I knew I should've asked for help..."
+    la "I knew I should've asked for help..."
+
+# game/ep2/scene25.rpy:282
+translate francais ep2_s25_nsfwSkipLabel1_6e9b40cf:
+
+    # u "But I can't sew, Lauren."
+    u "But I can't sew, Lauren."
+
+# game/ep2/scene25.rpy:287
+translate francais ep2_s25_nsfwSkipLabel1_ef2e9f1b:
+
+    # la "Not from you, from Lindsey. Remember? She offered to help."
+    la "Not from you, from Lindsey. Remember? She offered to help."
+
+# game/ep2/scene25.rpy:289
+translate francais ep2_s25_nsfwSkipLabel1_bb300305:
+
+    # la "Still, this all feels too personal to bring in an acquaintance for..."
+    la "Still, this all feels too personal to bring in an acquaintance for..."
+
+# game/ep2/scene25.rpy:294
+translate francais ep2_s25_nsfwSkipLabel1_f399ef25:
+
+    # u "Why not Autumn?"
+    u "Why not Autumn?"
+
+# game/ep2/scene25.rpy:296
+translate francais ep2_s25_nsfwSkipLabel1_a5d18256:
+
+    # u "You could make this a little family-run business."
+    u "You could make this a little family-run business."
+
+# game/ep2/scene25.rpy:301
+translate francais ep2_s25_nsfwSkipLabel1_e47c5356:
+
+    # la "I can't bring her into this! Are you crazy?"
+    la "I can't bring her into this! Are you crazy?"
+
+# game/ep2/scene25.rpy:303
+translate francais ep2_s25_nsfwSkipLabel1_399f1ab3:
+
+    # la "She can't know I'm into underwear!"
+    la "She can't know I'm into underwear!"
+
+# game/ep2/scene25.rpy:312
+translate francais ep2_s25_nsfwSkipLabel1_077dd9ea:
+
+    # u "Okay, point taken. Tell her in your own time..."
+    u "Okay, point taken. Tell her in your own time..."
+
+# game/ep2/scene25.rpy:314
+translate francais ep2_s25_nsfwSkipLabel1_89b9fd5b:
+
+    # u "And, meanwhile, let's hit up Lindsey for some help here."
+    u "And, meanwhile, let's hit up Lindsey for some help here."
+
+# game/ep2/scene25.rpy:316
+translate francais ep2_s25_nsfwSkipLabel1_14107c86:
+
+    # u "She's the only real option if you want to avoid getting family involved."
+    u "She's the only real option if you want to avoid getting family involved."
+
+# game/ep2/scene25.rpy:321
+translate francais ep2_s25_nsfwSkipLabel1_9507e1c3:
+
+    # la "Hmm. Too personal or otherwise, I guess you're right."
+    la "Hmm. Too personal or otherwise, I guess you're right."
+
+# game/ep2/scene25.rpy:323
+translate francais ep2_s25_nsfwSkipLabel1_bcff77c0:
+
+    # la "I need to succeed at this, I need the help, and Lindsey's offering."
+    la "I need to succeed at this, I need the help, and Lindsey's offering."
+
+# game/ep2/scene25.rpy:325
+translate francais ep2_s25_nsfwSkipLabel1_359a0416:
+
+    # la "I'll call her. Maybe we'll all bond a bit."
+    la "I'll call her. Maybe we'll all bond a bit."
+
+# game/ep2/scene25.rpy:333
+translate francais ep2_s25_nsfwSkipLabel1_db5f099e:
+
+    # u "If you're successful, Autumn's going to find out sooner or later."
+    u "If you're successful, Autumn's going to find out sooner or later."
+
+# game/ep2/scene25.rpy:335
+translate francais ep2_s25_nsfwSkipLabel1_49f09c94:
+
+    # u "May as well be proud about it now and score an awesome helper right from the family."
+    u "May as well be proud about it now and score an awesome helper right from the family."
+
+# game/ep2/scene25.rpy:337
+translate francais ep2_s25_nsfwSkipLabel1_d4942221:
+
+    # u "Seriously. Being bashful's bad for business."
+    u "Seriously. Being bashful's bad for business."
+
+# game/ep2/scene25.rpy:342
+translate francais ep2_s25_nsfwSkipLabel1_c6be4b1a:
+
+    # la "Ugh..."
+    la "Ugh..."
+
+# game/ep2/scene25.rpy:344
+translate francais ep2_s25_nsfwSkipLabel1_188107c0:
+
+    # la "You may have a point."
+    la "You may have a point."
+
+# game/ep2/scene25.rpy:346
+translate francais ep2_s25_nsfwSkipLabel1_a4550a76:
+
+    # la "And she's the more lax one between us, so maybe I'm overthinking how she'll react."
+    la "And she's the more lax one between us, so maybe I'm overthinking how she'll react."
+
+# game/ep2/scene25.rpy:348
+translate francais ep2_s25_nsfwSkipLabel1_c9b04728:
+
+    # la "You know what? I'll call Autumn and see if she can come over."
+    la "You know what? I'll call Autumn and see if she can come over."
+
+translate francais strings:
+
+    # game/ep2/scene25.rpy:192
+    old "You look fantastic"
+    new "You look fantastic"
+
+    # game/ep2/scene25.rpy:192
+    old "Sexy picnic blanket?"
+    new "Sexy picnic blanket?"
+

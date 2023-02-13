@@ -398,3 +398,11 @@ translate chinese strings:
     old "• I came inside Samantha."
     new "• I came inside Samantha."
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+translate chinese strings:
+
+    # game/phone/phone_tracker.rpy:131
+    old "• I showed Penelope Imre's party checklist."
+    new "• I showed Penelope Imre's party checklist."
+

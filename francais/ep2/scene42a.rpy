@@ -604,3 +604,65 @@ translate francais strings:
     old "I never said that"
     new "I never said that"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene42a.rpy:69
+translate francais ep2_s42a_d930e5c3:
+
+    # aut "Yeah! I'm excited to see Penelope's work."
+    aut "Yeah! I'm excited to see Penelope's work."
+
+# game/ep2/scene42a.rpy:100
+translate francais ep2_s42a_53334e24:
+
+    # aut "Yeah. How did we go from my avatar's home to the college with zero in-game explanation?"
+    aut "Yeah. How did we go from my avatar's home to the college with zero in-game explanation?"
+
+# game/ep2/scene42a.rpy:105
+translate francais ep2_s42a_9bda33e7:
+
+    # u "Seems like Penelope missed that when writing..."
+    u "Seems like Penelope missed that when writing..."
+
+# game/ep2/scene42a.rpy:306
+translate francais ep2_s42a_53a69d7f:
+
+    # u "It's there to add realism to the narrative. People have sex at college, after all."
+    u "It's there to add realism to the narrative. People have sex at college, after all."
+
+# game/ep2/scene42a.rpy:360
+translate francais ep2_s42a_42f237cb:
+
+    # li "If we want sex, we just go on Simplr."
+    li "If we want sex, we just go on Simplr."
+
+# game/ep2/scene42a.rpy:371
+translate francais ep2_s42a_260ca24c:
+
+    # u "Hey, you said it, not me."
+    u "Hey, you said it, not me."
+
+# game/ep2/scene42a.rpy:378
+translate francais ep2_s42a_9638bd3d:
+
+    # li "Ha, you wish."
+    li "Ha, you wish."
+
+# game/ep2/scene42a.rpy:417
+translate francais ep2_s42a_b1652e3c:
+
+    # li "It doesn't really do it for me, that's all. I just don't get the appeal."
+    li "It doesn't really do it for me, that's all. I just don't get the appeal."
+
+# game/ep2/scene42a.rpy:432
+translate francais ep2_s42a_f1473bbb:
+
+    # li "I'm not that into the Indiana Jonas movies either, so..."
+    li "I'm not that into the Indiana Jonas movies either, so..."
+
+# game/ep2/scene42a.rpy:441
+translate francais ep2_s42a_1990599c:
+
+    # u "(I can't tell her what Lindsey really thinks of her work, can I?)"
+    u "(I can't tell her what Lindsey really thinks of her work, can I?)"
+

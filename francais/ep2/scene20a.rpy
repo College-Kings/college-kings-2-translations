@@ -642,3 +642,95 @@ translate francais strings:
     old "Do this the hard way"
     new "Do this the hard way"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene20a.rpy:23
+translate francais ep2_s20a_7ffbd7af:
+
+    # am "They're all goody-goody when it comes to the school and faculty, but they get into some dark shit. I didn't even know this was the frat house until last night."
+    am "They're all goody-goody when it comes to the school and faculty, but they get into some dark shit. I didn't even know this was the frat house until last night."
+
+# game/ep2/scene20a.rpy:122
+translate francais ep2_s20a_a2ee33a5:
+
+    # fa "Looks like you've got some really interesting cached SMS messages."
+    fa "Looks like you've got some really interesting cached SMS messages."
+
+# game/ep2/scene20a.rpy:124
+translate francais ep2_s20a_b5dc9c3e:
+
+    # fa "Does your girlfriend know you're in an open relationship?"
+    fa "Does your girlfriend know you're in an open relationship?"
+
+# game/ep2/scene20a.rpy:126
+translate francais ep2_s20a_12ac704e:
+
+    # fa "Or... girlfriends, I guess?"
+    fa "Or... girlfriends, I guess?"
+
+# game/ep2/scene20a.rpy:139
+translate francais ep2_s20a_4bd23c9e:
+
+    # fa "Hmm, this Aubrey chick you're dating is pretty hot. Does she have a sister?"
+    fa "Hmm, this Aubrey chick you're dating is pretty hot. Does she have a sister?"
+
+# game/ep2/scene20a.rpy:141
+translate francais ep2_s20a_1e7091b7:
+
+    # fa "Aha. Looks like she does."
+    fa "Aha. Looks like she does."
+
+# game/ep2/scene20a.rpy:144
+translate francais ep2_s20a_41225501:
+
+    # fa "Oh, I'm seeing from the metadata here that you started dating Nora a few weeks ago?"
+    fa "Oh, I'm seeing from the metadata here that you started dating Nora a few weeks ago?"
+
+# game/ep2/scene20a.rpy:149
+translate francais ep2_s20a_9eb2014d:
+
+    # fa "Shit. You're dating Penelopeeps? I'm actually impressed, she's even better than we are."
+    fa "Shit. You're dating Penelopeeps? I'm actually impressed, she's even better than we are."
+
+# game/ep2/scene20a.rpy:152
+translate francais ep2_s20a_cd4c8003:
+
+    # fa "Ooh. This girl you're dating is pretty cute, never seen her before. She's sent you some nasty pictures recently. Damn."
+    fa "Ooh. This girl you're dating is pretty cute, never seen her before. She's sent you some nasty pictures recently. Damn."
+
+# game/ep2/scene20a.rpy:168
+translate francais ep2_s20a_9552f3b1:
+
+    # fa "Interesting geolocation data. Should a teacher be spending time with her student... alone? That seems kinda sus."
+    fa "Interesting geolocation data. Should a teacher be spending time with her student... alone? That seems kinda sus."
+
+# game/ep2/scene20a.rpy:315
+translate francais ep2_s20a_830532cc:
+
+    # u "Do me a solid, buddy. I'll owe you, buddy."
+    u "Do me a solid, buddy. I'll owe you, buddy."
+
+# game/ep2/scene20a.rpy:405
+translate francais ep2_s20a_255b0c4f:
+
+    # u "*Cracks knuckles* Well, Faris, I wanted to do this the easy way, but I guess we can do it the hard way."
+    u "*Cracks knuckles* Well, Faris, I wanted to do this the easy way, but I guess we can do it the hard way."
+
+# game/ep2/scene20a.rpy:442
+translate francais ep2_s20a_516a64ec:
+
+    # u "Ow... Help a guy up, would ya?"
+    u "Ow... Help a guy up, would ya?"
+
+# game/ep2/scene20a.rpy:447
+translate francais ep2_s20a_ec33af8d:
+
+    # fa "Just kind of a reflex. Um, I guess I could pretend you needed some first aid and let you in... but it'd still be against..."
+    fa "Just kind of a reflex. Um, I guess I could pretend you needed some first aid and let you in... but it'd still be against..."
+
+translate francais strings:
+
+    # game/ep2/scene20a.rpy:308
+    old "I'll owe you"
+    new "I'll owe you"
+

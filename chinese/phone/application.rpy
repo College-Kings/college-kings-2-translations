@@ -30,3 +30,11 @@ translate chinese strings:
     old "Calendar"
     new "Calendar"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+translate chinese strings:
+
+    # game/phone/application.rpy:110
+    old "Reputation"
+    new "Reputation"
+

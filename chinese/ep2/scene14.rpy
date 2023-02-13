@@ -498,3 +498,29 @@ translate chinese strings:
     old "Take the easy way out"
     new "Take the easy way out"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene14.rpy:83
+translate chinese ep2_s14_724c7c07:
+
+    # n2 "Hmm...?"
+    n2 "Hmm...?"
+
+# game/ep2/scene14.rpy:318
+translate chinese ep2_s14_4e20d575:
+
+    # u "Did you originally have a different opening in mind? This one felt kind of abrupt."
+    u "Did you originally have a different opening in mind? This one felt kind of abrupt."
+
+# game/ep2/scene14.rpy:323
+translate chinese ep2_s14_da0704d2:
+
+    # u "Like, it just threw me into the content."
+    u "Like, it just threw me into the content."
+
+# game/ep2/scene14.rpy:328
+translate chinese ep2_s14_1f063e25:
+
+    # pe "Yeah, I had a more elaborate game intro in the works, but it wouldn't render properly..."
+    pe "Yeah, I had a more elaborate game intro in the works, but it wouldn't render properly..."
+

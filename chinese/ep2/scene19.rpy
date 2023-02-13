@@ -138,3 +138,45 @@ translate chinese strings:
     old "(Fuckin' nerds.)"
     new "(Fuckin' nerds.)"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene19.rpy:42
+translate chinese ep2_s19_28009cc7:
+
+    # am "I get it. Amber's a big druggie. Har-har-har. Relax, the only thing it's laced with is caffeine."
+    am "I get it. Amber's a big druggie. Har-har-har. Relax, the only thing it's laced with is caffeine."
+
+# game/ep2/scene19.rpy:109
+translate chinese ep2_s19_b9f2dc75:
+
+    # u "(Fuckin' nerds. Sitting around and talking about the Revengeancers Cinematic Universe all day, rubbin' it to video game characters.)"
+    u "(Fuckin' nerds. Sitting around and talking about the Revengeancers Cinematic Universe all day, rubbin' it to video game characters.)"
+
+# game/ep2/scene19.rpy:111
+translate chinese ep2_s19_582d875a:
+
+    # u "(...I mean, that sounds fun, and who hasn't rubbed it to video game characters. But they're still losers.)"
+    u "(...I mean, that sounds fun, and who hasn't rubbed it to video game characters. But they're still losers.)"
+
+# game/ep2/scene19.rpy:122
+translate chinese ep2_s19_ea2ec1d7:
+
+    # am "Proving their point for keeping it a secret. But I'm hoping Mr. School Newspaper may have heard some rumors."
+    am "Proving their point for keeping it a secret. But I'm hoping Mr. School Newspaper may have heard some rumors."
+
+# game/ep2/scene19.rpy:124
+translate chinese ep2_s19_85bc9680:
+
+    # am "Gotta change into something that... doesn't smell. Then let's go."
+    am "Gotta change into something that... doesn't smell. Then let's go."
+
+translate chinese strings:
+
+    # game/ep2/scene19.rpy:96
+    old "(Too bad)"
+    new "(Too bad)"
+
+    # game/ep2/scene19.rpy:96
+    old "(Fuckin' nerds)"
+    new "(Fuckin' nerds)"
+

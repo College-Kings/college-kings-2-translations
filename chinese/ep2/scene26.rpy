@@ -576,3 +576,343 @@ translate chinese strings:
     old "It would help SVC"
     new "It would help SVC"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene26.rpy:89
+translate chinese ep2_s26_c2246f9b:
+
+    # u "(He must be talking about his right hand, Palmela Handerson.)"
+    u "(He must be talking about his right hand, Palmela Handerson.)"
+
+# game/ep2/scene26.rpy:197
+translate chinese ep2_s26_0f4cd260:
+
+    # elm "I adore my little Eli, but he can be just like his father."
+    elm "I adore my little Eli, but he can be just like his father."
+
+# game/ep2/scene26.rpy:202
+translate chinese ep2_s26_4153f5f0:
+
+    # u "(God, no wonder this woman is giving off horny MILF vibes.)"
+    u "(God, no wonder this woman is giving off horny MILF vibes.)"
+
+# game/ep2/scene26.rpy:204
+translate chinese ep2_s26_31b1e1d9:
+
+    # u "(Living with {i}two{/i} Elijahs. I'd rather dip my balls in broken glass.)"
+    u "(Living with {i}two{/i} Elijahs. I'd rather dip my balls in broken glass.)"
+
+# game/ep2/scene26.rpy:224
+translate chinese ep2_s26_4c93297e:
+
+    # u "(Should I jump right into it? Butter her up more?)"
+    u "(Should I jump right into it? Butter her up more?)"
+
+# game/ep2/scene26.rpy:231
+translate chinese ep2_s26_828fc5cc:
+
+    # u "Well, Mrs. Woods, I'm actually here to talk about contributing to a good cause--"
+    u "Well, Mrs. Woods, I'm actually here to talk about contributing to a good cause--"
+
+# game/ep2/scene26.rpy:236
+translate chinese ep2_s26_8fdef246:
+
+    # elm "Oh dear. I appreciate the thought, [name], but I'm afraid we just aren't religious."
+    elm "Oh dear. I appreciate the thought, [name], but I'm afraid we just aren't religious."
+
+# game/ep2/scene26.rpy:241
+translate chinese ep2_s26_1ee5fc65:
+
+    # u "Oh, no, I--"
+    u "Oh, no, I--"
+
+# game/ep2/scene26.rpy:246
+translate chinese ep2_s26_44268ec2:
+
+    # elm "Roger and I dabbled, of course."
+    elm "Roger and I dabbled, of course."
+
+# game/ep2/scene26.rpy:248
+translate chinese ep2_s26_c306a608:
+
+    # elm "He used to be a broker with a big firm in New York, they were getting up to all sorts of shenanigans back then."
+    elm "He used to be a broker with a big firm in New York, they were getting up to all sorts of shenanigans back then."
+
+# game/ep2/scene26.rpy:253
+translate chinese ep2_s26_dfcda493:
+
+    # u "Actually, I--"
+    u "Actually, I--"
+
+# game/ep2/scene26.rpy:258
+translate chinese ep2_s26_67fd6786:
+
+    # elm "You have to understand, it was the late nineties. There was all sorts of anxieties about Y2K. Everyone was turning to something."
+    elm "You have to understand, it was the late nineties. There was all sorts of anxieties about Y2K. Everyone was turning to something."
+
+# game/ep2/scene26.rpy:263
+translate chinese ep2_s26_758d9ce2:
+
+    # u "Mrs. Woods, I--"
+    u "Mrs. Woods, I--"
+
+# game/ep2/scene26.rpy:268
+translate chinese ep2_s26_4edfae32:
+
+    # elm "We did peyote with some Hollywood types in Arizona. Very fashionable at the time."
+    elm "We did peyote with some Hollywood types in Arizona. Very fashionable at the time."
+
+# game/ep2/scene26.rpy:273
+translate chinese ep2_s26_4555b831:
+
+    # elm "Oh, and the tantric craze... Goodness."
+    elm "Oh, and the tantric craze... Goodness."
+
+# game/ep2/scene26.rpy:278
+translate chinese ep2_s26_71052dab:
+
+    # u "Sorry! Mrs. Woods, it's not a religious thing."
+    u "Sorry! Mrs. Woods, it's not a religious thing."
+
+# game/ep2/scene26.rpy:283
+translate chinese ep2_s26_32518255:
+
+    # elm "Ah. Well, I'm afraid I've already donated to Limbs for Orphans this month."
+    elm "Ah. Well, I'm afraid I've already donated to Limbs for Orphans this month."
+
+# game/ep2/scene26.rpy:288
+translate chinese ep2_s26_ccf55808:
+
+    # elm "Or was that Orphans for Limbs? So hard to keep track of."
+    elm "Or was that Orphans for Limbs? So hard to keep track of."
+
+# game/ep2/scene26.rpy:293
+translate chinese ep2_s26_ed353d9e:
+
+    # u "It's actually a student organization on campus!"
+    u "It's actually a student organization on campus!"
+
+# game/ep2/scene26.rpy:298
+translate chinese ep2_s26_8f868cc6:
+
+    # elm "Ah. Well, why didn't you say so?"
+    elm "Ah. Well, why didn't you say so?"
+
+# game/ep2/scene26.rpy:303
+translate chinese ep2_s26_d71b51f1:
+
+    # u "(Lord, give me strength...)"
+    u "(Lord, give me strength...)"
+
+# game/ep2/scene26.rpy:308
+translate chinese ep2_s26_64c672ed:
+
+    # elm "I can't imagine what you need from me, but I'm all ears."
+    elm "I can't imagine what you need from me, but I'm all ears."
+
+# game/ep2/scene26.rpy:314
+translate chinese ep2_s26_8792c554:
+
+    # u "I mean, no reason to jump right to business. How are you doing, Mrs. Woods?"
+    u "I mean, no reason to jump right to business. How are you doing, Mrs. Woods?"
+
+# game/ep2/scene26.rpy:319
+translate chinese ep2_s26_e82ae244:
+
+    # elm "How... am I doing?"
+    elm "How... am I doing?"
+
+# game/ep2/scene26.rpy:324
+translate chinese ep2_s26_a9fa59b1:
+
+    # u "Yeah. How are you doing? You know, your day, life..."
+    u "Yeah. How are you doing? You know, your day, life..."
+
+# game/ep2/scene26.rpy:329
+translate chinese ep2_s26_86149b0a:
+
+    # elm "I guess I'm just not used to a college kid showing up unannounced to my house and asking me how I'm doing."
+    elm "I guess I'm just not used to a college kid showing up unannounced to my house and asking me how I'm doing."
+
+# game/ep2/scene26.rpy:331
+translate chinese ep2_s26_7c860c9c:
+
+    # elm "If I didn't know better, I'd almost think it was a pickup line."
+    elm "If I didn't know better, I'd almost think it was a pickup line."
+
+# game/ep2/scene26.rpy:340
+translate chinese ep2_s26_6152bb86:
+
+    # u "What if I am?"
+    u "What if I am?"
+
+# game/ep2/scene26.rpy:345
+translate chinese ep2_s26_22b591dd:
+
+    # elm "What if you are..."
+    elm "What if you are..."
+
+# game/ep2/scene26.rpy:350
+translate chinese ep2_s26_3e8fdaea:
+
+    # u "Hitting on you."
+    u "Hitting on you."
+
+# game/ep2/scene26.rpy:352
+translate chinese ep2_s26_fdc98f86:
+
+    # u "You're a gorgeous woman, Mrs. Woods."
+    u "You're a gorgeous woman, Mrs. Woods."
+
+# game/ep2/scene26.rpy:357
+translate chinese ep2_s26_68503506:
+
+    # elm "Hmm. And do you often go around hitting on the mothers of your friends?"
+    elm "Hmm. And do you often go around hitting on the mothers of your friends?"
+
+# game/ep2/scene26.rpy:362
+translate chinese ep2_s26_c1783e3b:
+
+    # u "(Again... \"friend\" might be generous.)"
+    u "(Again... \"friend\" might be generous.)"
+
+# game/ep2/scene26.rpy:364
+translate chinese ep2_s26_494d26af:
+
+    # u "Only the hot ones."
+    u "Only the hot ones."
+
+# game/ep2/scene26.rpy:369
+translate chinese ep2_s26_0c5647eb:
+
+    # elm "Oh, you are a nasty boy, aren't you?"
+    elm "Oh, you are a nasty boy, aren't you?"
+
+# game/ep2/scene26.rpy:371
+translate chinese ep2_s26_999116ec:
+
+    # elm "I guess spanking's out of a fashion, but I could make an exception for you."
+    elm "I guess spanking's out of a fashion, but I could make an exception for you."
+
+# game/ep2/scene26.rpy:376
+translate chinese ep2_s26_7f868aeb:
+
+    # u "(Goddamn, this lady...)"
+    u "(Goddamn, this lady...)"
+
+# game/ep2/scene26.rpy:382
+translate chinese ep2_s26_ec1432a2:
+
+    # u "I was just asking, ma'am. Didn't mean to insinuate anything."
+    u "I was just asking, ma'am. Didn't mean to insinuate anything."
+
+# game/ep2/scene26.rpy:387
+translate chinese ep2_s26_303c37c1:
+
+    # elm "Ah."
+    elm "Ah."
+
+# game/ep2/scene26.rpy:389
+translate chinese ep2_s26_6e0a1f59:
+
+    # elm "I'm fine. Certainly wondering what I'm doing talking to a classmate of my son."
+    elm "I'm fine. Certainly wondering what I'm doing talking to a classmate of my son."
+
+# game/ep2/scene26.rpy:400
+translate chinese ep2_s26_6b0044e8:
+
+    # elm "I wouldn't want the neighbors to get the wrong idea, a strapping boy like yourself showing up all alone on my doorstep."
+    elm "I wouldn't want the neighbors to get the wrong idea, a strapping boy like yourself showing up all alone on my doorstep."
+
+# game/ep2/scene26.rpy:411
+translate chinese ep2_s26_d56db555:
+
+    # elm "If the neighbors saw me spending time with a handsome young man like you..."
+    elm "If the neighbors saw me spending time with a handsome young man like you..."
+
+# game/ep2/scene26.rpy:432
+translate chinese ep2_s26_a4361d70:
+
+    # elm "And... Well, we all have our weaknesses."
+    elm "And... Well, we all have our weaknesses."
+
+# game/ep2/scene26.rpy:441
+translate chinese ep2_s26_4ec5a6af:
+
+    # u "(But a little flirtation might go a long way.)"
+    u "(But a little flirtation might go a long way.)"
+
+# game/ep2/scene26.rpy:479
+translate chinese ep2_s26_92545c62:
+
+    # u "Plus, I'll be there too."
+    u "Plus, I'll be there too."
+
+# game/ep2/scene26.rpy:481
+translate chinese ep2_s26_253e8922:
+
+    # u "In a swimsuit."
+    u "In a swimsuit."
+
+# game/ep2/scene26.rpy:483
+translate chinese ep2_s26_d022e716:
+
+    # u "In your house."
+    u "In your house."
+
+# game/ep2/scene26.rpy:508
+translate chinese ep2_s26_b9c582f3:
+
+    # elm "Well, you're just a dirty, dirty boy, aren't you? I'm a married woman, [name]. If you tried anything I'd have to... punish you."
+    elm "Well, you're just a dirty, dirty boy, aren't you? I'm a married woman, [name]. If you tried anything I'd have to... punish you."
+
+# game/ep2/scene26.rpy:518
+translate chinese ep2_s26_b69d0254:
+
+    # elm "Hmm, it does sound like a good cause. But a bunch of college kids tearing up my house..."
+    elm "Hmm, it does sound like a good cause. But a bunch of college kids tearing up my house..."
+
+# game/ep2/scene26.rpy:574
+translate chinese ep2_s26_8cb82fae:
+
+    # elm "All right, [name]. You've convinced me. As long as you promise we can continue this conversation at the party."
+    elm "All right, [name]. You've convinced me. As long as you promise we can continue this conversation at the party."
+
+# game/ep2/scene26.rpy:579
+translate chinese ep2_s26_0906982c:
+
+    # u "I can {i}definitely{/i} make that promise."
+    u "I can {i}definitely{/i} make that promise."
+
+# game/ep2/scene26.rpy:607
+translate chinese ep2_s26_04dce10e:
+
+    # u "(From zero to one or two would be a massive improvement for that fuckhead.)"
+    u "(From zero to one or two would be a massive improvement for that fuckhead.)"
+
+translate chinese strings:
+
+    # game/ep2/scene26.rpy:226
+    old "A good cause"
+    new "A good cause"
+
+    # game/ep2/scene26.rpy:336
+    old "Hitting on you"
+    new "Hitting on you"
+
+    # game/ep2/scene26.rpy:336
+    old "I was just asking"
+    new "I was just asking"
+
+    # game/ep2/scene26.rpy:539
+    old "You and I could \"swim\""
+    new "You and I could \"swim\""
+
+    # game/ep2/scene26.rpy:539
+    old "Do it for Elijah"
+    new "Do it for Elijah"
+
+    # game/ep2/scene26.rpy:539
+    old "It would help the school"
+    new "It would help the school"
+

@@ -240,3 +240,29 @@ translate francais strings:
     old "I know, I rock"
     new "I know, I rock"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene13.rpy:55
+translate francais ep2_s13_9ff2836c:
+
+    # u "{i}Were{/i}, that's the important little bit of information there. FUCK!"
+    u "{i}Were{/i}, that's the important little bit of information there. FUCK!"
+
+# game/ep2/scene13.rpy:88
+translate francais ep2_s13_3bf58a1b:
+
+    # u "Does it matter? I haven't been keeping a calendar or anything."
+    u "Does it matter? I haven't been keeping a calendar or anything."
+
+# game/ep2/scene13.rpy:98
+translate francais ep2_s13_02581097:
+
+    # am "Still... that's hot garbage, [name]."
+    am "Still... that's hot garbage, [name]."
+
+# game/ep2/scene13.rpy:130
+translate francais ep2_s13_c041a9e3:
+
+    # am "Or maybe a little afternoon delight... if we had time, I guess."
+    am "Or maybe a little afternoon delight... if we had time, I guess."
+

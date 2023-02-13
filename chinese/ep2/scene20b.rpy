@@ -460,3 +460,65 @@ translate chinese strings:
     old "Amber, hit him"
     new "Amber, hit him"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene20b.rpy:54
+translate chinese ep2_s20b_7138dc93:
+
+    # am "Wait a second... you're not the Frogs' President."
+    am "Wait a second... you're not the Frogs' President."
+
+# game/ep2/scene20b.rpy:59
+translate chinese ep2_s20b_ff4cd430:
+
+    # el "The leadership requires my expertise. I may not be the man in the chair, but I'm the man behind the man in—"
+    el "The leadership requires my expertise. I may not be the man in the chair, but I'm the man behind the man in—"
+
+# game/ep2/scene20b.rpy:64
+translate chinese ep2_s20b_18138721:
+
+    # frogsp "Damnit, Poodle! I thought I told you not to skulk around in here."
+    frogsp "Damnit, Poodle! I thought I told you not to skulk around in here."
+
+# game/ep2/scene20b.rpy:69
+translate chinese ep2_s20b_fb9d34ab:
+
+    # u "*Snorts* Poodle?!"
+    u "*Snorts* Poodle?!"
+
+# game/ep2/scene20b.rpy:74
+translate chinese ep2_s20b_6731a6b8:
+
+    # el "It's my Frogs call sign! Don't worry about it!"
+    el "It's my Frogs call sign! Don't worry about it!"
+
+# game/ep2/scene20b.rpy:79
+translate chinese ep2_s20b_9f48d0b7:
+
+    # frogsp "Call sign? That's our nickname for him. For obvious reasons."
+    frogsp "Call sign? That's our nickname for him. For obvious reasons."
+
+# game/ep2/scene20b.rpy:84
+translate chinese ep2_s20b_9245a294:
+
+    # el "Ha ha... Still hazing me..."
+    el "Ha ha... Still hazing me..."
+
+# game/ep2/scene20b.rpy:89
+translate chinese ep2_s20b_9ad7057e:
+
+    # frogsp "Wait... who are these people?! I didn't receive a request for civilian clearance."
+    frogsp "Wait... who are these people?! I didn't receive a request for civilian clearance."
+
+# game/ep2/scene20b.rpy:101
+translate chinese ep2_s20b_18267095:
+
+    # frogsp "Wipe everything down when you're done. I don't want your hand sweat and genetic juices all over my shit."
+    frogsp "Wipe everything down when you're done. I don't want your hand sweat and genetic juices all over my shit."
+
+translate chinese strings:
+
+    # game/ep2/scene20b.rpy:147
+    old "Picked the wrong taco to mess with"
+    new "Picked the wrong taco to mess with"
+

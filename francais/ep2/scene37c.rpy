@@ -910,3 +910,23 @@ translate francais strings:
     old "Maybe later"
     new "Maybe later"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene37c.rpy:745
+translate francais ep2_s37c_click_donation_bucket_d48631ad:
+
+    # no "Go enjoy the party, but if you've got nothing else to do you can always do another round with the pitcher."
+    no "Go enjoy the party, but if you've got nothing else to do you can always do another round with the pitcher."
+
+# game/ep2/scene37c.rpy:750
+translate francais ep2_s37c_click_donation_bucket_74519f23:
+
+    # u "Take 'em for all they're worth!"
+    u "Take 'em for all they're worth!"
+
+# game/ep2/scene37c.rpy:755
+translate francais ep2_s37c_click_donation_bucket_28a1fce9:
+
+    # no "That's the spirit."
+    no "That's the spirit."
+

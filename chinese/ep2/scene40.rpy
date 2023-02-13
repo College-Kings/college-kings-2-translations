@@ -420,3 +420,17 @@ translate chinese strings:
     old "Fuck off, freak"
     new "Fuck off, freak"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene40.rpy:17
+translate chinese ep2_s40_979010a6:
+
+    # u "(That was insane. Cross fucking a crazy nympho MILF off the bucket list, I guess.)"
+    u "(That was insane. Cross fucking a crazy nympho MILF off the bucket list, I guess.)"
+
+# game/ep2/scene40.rpy:262
+translate chinese ep2_s40_b51873e0:
+
+    # u "I was waiting for you to dismiss me. Gotta go clean your mom's pussy juice off my cock."
+    u "I was waiting for you to dismiss me. Gotta go clean your mom's pussy juice off my cock."
+

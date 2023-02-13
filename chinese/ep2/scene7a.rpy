@@ -24,3 +24,11 @@ translate chinese ep2_s7a_5fc0604c:
     # u "(Fuuuuck. I just wanna sleep... )"
     u "(Fuuuuck. I just wanna sleep... )"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene7a.rpy:45
+translate chinese ep2_s7a_65cf0c3d:
+
+    # u "(Fuuuuck. I just wanna sleep...)"
+    u "(Fuuuuck. I just wanna sleep...)"
+

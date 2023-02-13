@@ -442,3 +442,35 @@ translate chinese strings:
     old "Uh... "
     new "Uh... "
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene48a.rpy:416
+translate chinese ep2_s48a_nsfwSkipLabel1_b25c12b8:
+
+    # u "Uh... not sure why you guys are all staring at me."
+    u "Uh... not sure why you guys are all staring at me."
+
+# game/ep2/scene48a.rpy:418
+translate chinese ep2_s48a_nsfwSkipLabel1_e5b78e16:
+
+    # u "All I said was \"I want to plow rice seeds in Busan until Korea's food supply is overflowing like a broken bird feeder.\""
+    u "All I said was \"I want to plow rice seeds in Busan until Korea's food supply is overflowing like a broken bird feeder.\""
+
+# game/ep2/scene48a.rpy:433
+translate chinese ep2_s48a_nsfwSkipLabel1_8bdeb9fe:
+
+    # cho "Do not try to save face. We heard what you said."
+    cho "Do not try to save face. We heard what you said."
+
+# game/ep2/scene48a.rpy:435
+translate chinese ep2_s48a_nsfwSkipLabel1_717dc532:
+
+    # cho "Cowardice is not an enviable trait, young man."
+    cho "Cowardice is not an enviable trait, young man."
+
+translate chinese strings:
+
+    # game/ep2/scene48a.rpy:342
+    old "Uh..."
+    new "Uh..."
+

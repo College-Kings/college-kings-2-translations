@@ -492,3 +492,359 @@ translate chinese strings:
     old "Let's keep it platonic"
     new "Let's keep it platonic"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene28a.rpy:53
+translate chinese ep2_s28a_7809e7c1:
+
+    # u "Don't be, you're doing great so far."
+    u "Don't be, you're doing great so far."
+
+# game/ep2/scene28a.rpy:165
+translate chinese ep2_s28a_nsfwSkipLabel1_a6665861:
+
+    # u "(Man, being a gentleman can be a tough gig...)"
+    u "(Man, being a gentleman can be a tough gig...)"
+
+# game/ep2/scene28a.rpy:167
+translate chinese ep2_s28a_nsfwSkipLabel1_628b99fa:
+
+    # ri "Okay, you two! Take a look."
+    ri "Okay, you two! Take a look."
+
+# game/ep2/scene28a.rpy:172
+translate chinese ep2_s28a_nsfwSkipLabel1_b7b1e3e6:
+
+    # la "So? What do you think of it?"
+    la "So? What do you think of it?"
+
+# game/ep2/scene28a.rpy:177
+translate chinese ep2_s28a_nsfwSkipLabel1_111a4bc1:
+
+    # ri "Fits like a dream! The sizing is excellent."
+    ri "Fits like a dream! The sizing is excellent."
+
+# game/ep2/scene28a.rpy:179
+translate chinese ep2_s28a_nsfwSkipLabel1_3d6ba080:
+
+    # ri "Fabric choice and coloration are also perf."
+    ri "Fabric choice and coloration are also perf."
+
+# game/ep2/scene28a.rpy:184
+translate chinese ep2_s28a_nsfwSkipLabel1_5f1d8b19:
+
+    # la "Any criticisms?"
+    la "Any criticisms?"
+
+# game/ep2/scene28a.rpy:189
+translate chinese ep2_s28a_nsfwSkipLabel1_32118695:
+
+    # ri "Not really a criticism, but preferentially, I'd want some different aesthetic flourishes..."
+    ri "Not really a criticism, but preferentially, I'd want some different aesthetic flourishes..."
+
+# game/ep2/scene28a.rpy:191
+translate chinese ep2_s28a_nsfwSkipLabel1_b222f51f:
+
+    # ri "Like, for this picnic design in particular, more frills and poofed bits at the hems would fit the theme and make me happy."
+    ri "Like, for this picnic design in particular, more frills and poofed bits at the hems would fit the theme and make me happy."
+
+# game/ep2/scene28a.rpy:195
+translate chinese ep2_s28a_nsfwSkipLabel1_d974d116:
+
+    # "*Phone rings*"
+    "*Phone rings*"
+
+# game/ep2/scene28a.rpy:197
+translate chinese ep2_s28a_nsfwSkipLabel1_67d612a9:
+
+    # ri "Ah! Sorry, you two—forgot I was expecting a personal call."
+    ri "Ah! Sorry, you two—forgot I was expecting a personal call."
+
+# game/ep2/scene28a.rpy:199
+translate chinese ep2_s28a_nsfwSkipLabel1_39808732:
+
+    # ri "I have to take this. I'll step into the bathroom so you don't have to hear me yammering."
+    ri "I have to take this. I'll step into the bathroom so you don't have to hear me yammering."
+
+# game/ep2/scene28a.rpy:206
+translate chinese ep2_s28a_nsfwSkipLabel1_59f34607:
+
+    # la "And then there were two."
+    la "And then there were two."
+
+# game/ep2/scene28a.rpy:209
+translate chinese ep2_s28a_nsfwSkipLabel1_75336aa6:
+
+    # la "I can't believe how well that went."
+    la "I can't believe how well that went."
+
+# game/ep2/scene28a.rpy:214
+translate chinese ep2_s28a_nsfwSkipLabel1_851d9e22:
+
+    # u "You crushed it. Look at my little fashionista go."
+    u "You crushed it. Look at my little fashionista go."
+
+# game/ep2/scene28a.rpy:219
+translate chinese ep2_s28a_nsfwSkipLabel1_65a08d47:
+
+    # la "Come here, you."
+    la "Come here, you."
+
+# game/ep2/scene28a.rpy:234
+translate chinese ep2_s28a_nsfwSkipLabel1_198c7e9f:
+
+    # la "I... I want more of you. I really want to celebrate this moment."
+    la "I... I want more of you. I really want to celebrate this moment."
+
+# game/ep2/scene28a.rpy:239
+translate chinese ep2_s28a_nsfwSkipLabel1_ca809d06:
+
+    # u "What'd you have in mind?"
+    u "What'd you have in mind?"
+
+# game/ep2/scene28a.rpy:244
+translate chinese ep2_s28a_nsfwSkipLabel1_92585fd6:
+
+    # la "I want to make you cum."
+    la "I want to make you cum."
+
+# game/ep2/scene28a.rpy:249
+translate chinese ep2_s28a_nsfwSkipLabel1_9c4035fb:
+
+    # u "What?! Here?"
+    u "What?! Here?"
+
+# game/ep2/scene28a.rpy:254
+translate chinese ep2_s28a_nsfwSkipLabel1_3f36ccf6:
+
+    # la "Yes! Quick, before Riley gets back."
+    la "Yes! Quick, before Riley gets back."
+
+# game/ep2/scene28a.rpy:263
+translate chinese ep2_s28a_nsfwSkipLabel1_24e7b532:
+
+    # u "Don't have to tell me twice! I'm in."
+    u "Don't have to tell me twice! I'm in."
+
+# game/ep2/scene28a.rpy:273
+translate chinese ep2_s28a_nsfwSkipLabel1_3ed3af0e:
+
+    # u "No way, not on Riley's bed. Way too risky."
+    u "No way, not on Riley's bed. Way too risky."
+
+# game/ep2/scene28a.rpy:278
+translate chinese ep2_s28a_nsfwSkipLabel1_44664d9b:
+
+    # la "Pussy."
+    la "Pussy."
+
+# game/ep2/scene28a.rpy:283
+translate chinese ep2_s28a_nsfwSkipLabel1_161d942e:
+
+    # u "Whoa! That sounds like the wine talking..."
+    u "Whoa! That sounds like the wine talking..."
+
+# game/ep2/scene28a.rpy:289
+translate chinese ep2_s28a_nsfwSkipLabel1_9a9b3680:
+
+    # la "... So..."
+    la "... So..."
+
+# game/ep2/scene28a.rpy:291
+translate chinese ep2_s28a_nsfwSkipLabel1_7d64f631:
+
+    # la "I've been meaning to say: You and I have made a great team on this so far..."
+    la "I've been meaning to say: You and I have made a great team on this so far..."
+
+# game/ep2/scene28a.rpy:296
+translate chinese ep2_s28a_nsfwSkipLabel1_7957524a:
+
+    # la "And you've been supportive, and helpful, and all the things I wanted but didn't know I needed."
+    la "And you've been supportive, and helpful, and all the things I wanted but didn't know I needed."
+
+# game/ep2/scene28a.rpy:298
+translate chinese ep2_s28a_nsfwSkipLabel1_d29ced25:
+
+    # la "I know you're doing this first and foremost because it's what good friends do..."
+    la "I know you're doing this first and foremost because it's what good friends do..."
+
+# game/ep2/scene28a.rpy:303
+translate chinese ep2_s28a_nsfwSkipLabel1_ac8948ed:
+
+    # la "But did you want to... be more than friends?"
+    la "But did you want to... be more than friends?"
+
+# game/ep2/scene28a.rpy:308
+translate chinese ep2_s28a_nsfwSkipLabel1_5125403f:
+
+    # u "You mean, romantic? Proper boyfriend, girlfriend?"
+    u "You mean, romantic? Proper boyfriend, girlfriend?"
+
+# game/ep2/scene28a.rpy:313
+translate chinese ep2_s28a_nsfwSkipLabel1_be3f6dd6:
+
+    # la "That's exactly what I mean. You've been so good to me, and for me, on this journey, and I just..."
+    la "That's exactly what I mean. You've been so good to me, and for me, on this journey, and I just..."
+
+# game/ep2/scene28a.rpy:315
+translate chinese ep2_s28a_nsfwSkipLabel1_62e6b3ce:
+
+    # la "I want more of that. I want more of you."
+    la "I want more of that. I want more of you."
+
+# game/ep2/scene28a.rpy:324
+translate chinese ep2_s28a_nsfwSkipLabel1_3305ef4a:
+
+    # u "Are you kidding? I'd love that."
+    u "Are you kidding? I'd love that."
+
+# game/ep2/scene28a.rpy:326
+translate chinese ep2_s28a_nsfwSkipLabel1_f04a66cf:
+
+    # u "Spending time with you has been incredible, and if I get to do that and see a more intimate side of you..."
+    u "Spending time with you has been incredible, and if I get to do that and see a more intimate side of you..."
+
+# game/ep2/scene28a.rpy:328
+translate chinese ep2_s28a_nsfwSkipLabel1_68ad3700:
+
+    # u "Sign me up."
+    u "Sign me up."
+
+# game/ep2/scene28a.rpy:353
+translate chinese ep2_s28a_nsfwSkipLabel1_35b2e5e6:
+
+    # u "Lauren..."
+    u "Lauren..."
+
+# game/ep2/scene28a.rpy:358
+translate chinese ep2_s28a_nsfwSkipLabel1_a52a04c8:
+
+    # u "I've got a lot on my plate right now..."
+    u "I've got a lot on my plate right now..."
+
+# game/ep2/scene28a.rpy:360
+translate chinese ep2_s28a_nsfwSkipLabel1_63555e79:
+
+    # u "I like helping you, but let's keep it platonic. I don't want anyone to be disappointed."
+    u "I like helping you, but let's keep it platonic. I don't want anyone to be disappointed."
+
+# game/ep2/scene28a.rpy:365
+translate chinese ep2_s28a_nsfwSkipLabel1_2ce91acc:
+
+    # la "I understand. And I'm glad you're still willing to help."
+    la "I understand. And I'm glad you're still willing to help."
+
+# game/ep2/scene28a.rpy:370
+translate chinese ep2_s28a_nsfwSkipLabel1_8ae5e516:
+
+    # u "I'm more than willing. I want to see you succeed."
+    u "I'm more than willing. I want to see you succeed."
+
+# game/ep2/scene28a.rpy:376
+translate chinese ep2_s28a_nsfwSkipLabel1_6268e993:
+
+    # la "You know, I'm still not sure you and I make a great team..."
+    la "You know, I'm still not sure you and I make a great team..."
+
+# game/ep2/scene28a.rpy:378
+translate chinese ep2_s28a_nsfwSkipLabel1_1772643c:
+
+    # la "But thanks for going on the journey with me."
+    la "But thanks for going on the journey with me."
+
+# game/ep2/scene28a.rpy:383
+translate chinese ep2_s28a_nsfwSkipLabel1_171a5a0f:
+
+    # u "Um... is the journey over?"
+    u "Um... is the journey over?"
+
+# game/ep2/scene28a.rpy:388
+translate chinese ep2_s28a_nsfwSkipLabel1_b5b8efb4:
+
+    # la "No. But a big part of it is. And I just wanted to say thanks for tagging along thus far."
+    la "No. But a big part of it is. And I just wanted to say thanks for tagging along thus far."
+
+# game/ep2/scene28a.rpy:393
+translate chinese ep2_s28a_nsfwSkipLabel1_00cef4f4:
+
+    # ri "Hey, you two! I'm back. Call's over."
+    ri "Hey, you two! I'm back. Call's over."
+
+# game/ep2/scene28a.rpy:395
+translate chinese ep2_s28a_nsfwSkipLabel1_5b819fb9:
+
+    # ri "What'd I miss?"
+    ri "What'd I miss?"
+
+# game/ep2/scene28a.rpy:397
+translate chinese ep2_s28a_nsfwSkipLabel1_683e2574:
+
+    # u "Ah, nothin' crazy."
+    u "Ah, nothin' crazy."
+
+# game/ep2/scene28a.rpy:399
+translate chinese ep2_s28a_nsfwSkipLabel1_0e92008b:
+
+    # u "That was the fastest call ever, by the way. Wrong number?"
+    u "That was the fastest call ever, by the way. Wrong number?"
+
+# game/ep2/scene28a.rpy:404
+translate chinese ep2_s28a_nsfwSkipLabel1_9cd3e71e:
+
+    # ri "Yeah, it wasn't the important one I was expecting."
+    ri "Yeah, it wasn't the important one I was expecting."
+
+# game/ep2/scene28a.rpy:406
+translate chinese ep2_s28a_nsfwSkipLabel1_0f99e106:
+
+    # ri "Anyway..."
+    ri "Anyway..."
+
+# game/ep2/scene28a.rpy:408
+translate chinese ep2_s28a_nsfwSkipLabel1_6509bb4e:
+
+    # ri "Once again, Lauren, knockout job."
+    ri "Once again, Lauren, knockout job."
+
+# game/ep2/scene28a.rpy:410
+translate chinese ep2_s28a_nsfwSkipLabel1_bba1fb09:
+
+    # ri "Even without the little extra flourishes, I'd still buy this at a store."
+    ri "Even without the little extra flourishes, I'd still buy this at a store."
+
+# game/ep2/scene28a.rpy:415
+translate chinese ep2_s28a_nsfwSkipLabel1_fd37f882:
+
+    # la "You mean it?"
+    la "You mean it?"
+
+# game/ep2/scene28a.rpy:420
+translate chinese ep2_s28a_nsfwSkipLabel1_a7715b1d:
+
+    # ri "'Course I do! My ass looks amazing in this thing!"
+    ri "'Course I do! My ass looks amazing in this thing!"
+
+# game/ep2/scene28a.rpy:422
+translate chinese ep2_s28a_nsfwSkipLabel1_292248ce:
+
+    # ri "Tell 'er, [name]."
+    ri "Tell 'er, [name]."
+
+# game/ep2/scene28a.rpy:427
+translate chinese ep2_s28a_nsfwSkipLabel1_e3fe1855:
+
+    # u "Riley's right, Lauren. You've really done an incredible job so far."
+    u "Riley's right, Lauren. You've really done an incredible job so far."
+
+# game/ep2/scene28a.rpy:432
+translate chinese ep2_s28a_nsfwSkipLabel1_853aba2a:
+
+    # ri "If you're this good already..."
+    ri "If you're this good already..."
+
+# game/ep2/scene28a.rpy:434
+translate chinese ep2_s28a_nsfwSkipLabel1_5515ddaf:
+
+    # ri "Sky's the limit!"
+    ri "Sky's the limit!"
+

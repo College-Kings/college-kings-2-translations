@@ -596,3 +596,17 @@ translate francais strings:
     old "Goddamn"
     new "Goddamn"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene8.rpy:185
+translate francais ep2_s8_06512190:
+
+    # ri "Relax, [name]. This isn't a porno."
+    ri "Relax, [name]. This isn't a porno."
+
+# game/ep2/scene8.rpy:467
+translate francais ep2_s8_1d0bec29:
+
+    # u "Don't listen to her, you don't have to."
+    u "Don't listen to her, you don't have to."
+

@@ -1006,3 +1006,543 @@ translate francais strings:
     old "Just play"
     new "Just play"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene45b.rpy:235
+translate francais ep2_s45b_021e343a:
+
+    # cl "Like...?"
+    cl "Like...?"
+
+# game/ep2/scene45b.rpy:253
+translate francais ep2_s45b_17d40d8e:
+
+    # u "It's really cute seeing you like this. I didn't know you were this much of a nerd."
+    u "It's really cute seeing you like this. I didn't know you were this much of a nerd."
+
+# game/ep2/scene45b.rpy:330
+translate francais ep2_s45b_7b7c0603:
+
+    # u "You talk about it like it was years ago and you'll never recover, but you're a badass, Chloe."
+    u "You talk about it like it was years ago and you'll never recover, but you're a badass, Chloe."
+
+# game/ep2/scene45b.rpy:342
+translate francais ep2_s45b_cfac6c3d:
+
+    # u "You know your friends are here to listen if you ever need help."
+    u "You know your friends are here to listen if you ever need help."
+
+# game/ep2/scene45b.rpy:345
+translate francais ep2_s45b_550e89f1:
+
+    # u "Your boyfriend too."
+    u "Your boyfriend too."
+
+# game/ep2/scene45b.rpy:348
+translate francais ep2_s45b_46bae448:
+
+    # u "Myself included."
+    u "Myself included."
+
+# game/ep2/scene45b.rpy:683
+translate francais ep2_s45b_no_dare_265c2ba3:
+
+    # u "All the marbles. Let's do this."
+    u "All the marbles. Let's do this."
+
+# game/ep2/scene45b.rpy:703
+translate francais ep2_s45b_no_dare_9bcc8330:
+
+    # u "Enough! I can take no more!"
+    u "Enough! I can take no more!"
+
+# game/ep2/scene45b.rpy:705
+translate francais ep2_s45b_no_dare_6eb0b4eb:
+
+    # u "I bow to your racing mastery!"
+    u "I bow to your racing mastery!"
+
+# game/ep2/scene45b.rpy:710
+translate francais ep2_s45b_no_dare_874e27d3:
+
+    # cl "Your queen thanks you, peasant."
+    cl "Your queen thanks you, peasant."
+
+# game/ep2/scene45b.rpy:715
+translate francais ep2_s45b_no_dare_a5a76c0b:
+
+    # cl "I should get started on a psych essay, but I'm glad we hung out."
+    cl "I should get started on a psych essay, but I'm glad we hung out."
+
+# game/ep2/scene45b.rpy:717
+translate francais ep2_s45b_no_dare_62c0bcda:
+
+    # cl "It helped take my mind off things. I need to get myself back out there, stop moping around in my room."
+    cl "It helped take my mind off things. I need to get myself back out there, stop moping around in my room."
+
+# game/ep2/scene45b.rpy:723
+translate francais ep2_s45b_no_dare_7a7b35aa:
+
+    # u "Anytime, Chloe. You mean the world to me. I'm always here for you."
+    u "Anytime, Chloe. You mean the world to me. I'm always here for you."
+
+# game/ep2/scene45b.rpy:736
+translate francais ep2_s45b_no_dare_262dc848:
+
+    # u "If kicking my ass helps you feel better, I'm there."
+    u "If kicking my ass helps you feel better, I'm there."
+
+# game/ep2/scene45b.rpy:741
+translate francais ep2_s45b_no_dare_e897d494:
+
+    # cl "Thanks, [name]."
+    cl "Thanks, [name]."
+
+# game/ep2/scene45b.rpy:755
+translate francais ep2_s45b_sg_backup_d5ef79ae:
+
+    # u "Hey, Chloe?"
+    u "Hey, Chloe?"
+
+# game/ep2/scene45b.rpy:760
+translate francais ep2_s45b_sg_backup_8b81dc60:
+
+    # cl "Yeah?"
+    cl "Yeah?"
+
+# game/ep2/scene45b.rpy:765
+translate francais ep2_s45b_sg_backup_5ee7e672:
+
+    # u "Wanna see my hot rod?"
+    u "Wanna see my hot rod?"
+
+# game/ep2/scene45b.rpy:772
+translate francais ep2_s45b_sg_backup_b6448d87:
+
+    # cl "You're gonna have to do better than that!"
+    cl "You're gonna have to do better than that!"
+
+# game/ep2/scene45b.rpy:777
+translate francais ep2_s45b_sg_backup_3b4e48b2:
+
+    # cl "What a dirty trick! You and Dad would get along!"
+    cl "What a dirty trick! You and Dad would get along!"
+
+# game/ep2/scene45b.rpy:782
+translate francais ep2_s45b_sg_backup_0438dabe:
+
+    # u "WHOO! In your face!"
+    u "WHOO! In your face!"
+
+# game/ep2/scene45b.rpy:787
+translate francais ep2_s45b_sg_backup_0d7adcc4:
+
+    # cl "All right, time for you to collect your prize."
+    cl "All right, time for you to collect your prize."
+
+# game/ep2/scene45b.rpy:805
+translate francais ep2_s45b_sg_53ba7abc:
+
+    # u "Holy shit..."
+    u "Holy shit..."
+
+# game/ep2/scene45b.rpy:807
+translate francais ep2_s45b_sg_2b2d82d4:
+
+    # cl "Mmm, love feeling your hard-on between my legs."
+    cl "Mmm, love feeling your hard-on between my legs."
+
+# game/ep2/scene45b.rpy:809
+translate francais ep2_s45b_sg_a90c1b72:
+
+    # cl "You don't know how often I'm just thinking about you... when I'm all by myself."
+    cl "You don't know how often I'm just thinking about you... when I'm all by myself."
+
+# game/ep2/scene45b.rpy:811
+translate francais ep2_s45b_sg_6bcd435f:
+
+    # u "Yeah?"
+    u "Yeah?"
+
+# game/ep2/scene45b.rpy:813
+translate francais ep2_s45b_sg_dddc9736:
+
+    # cl "Of course, and I imagine your hard cock pressing against my pussy, just like this."
+    cl "Of course, and I imagine your hard cock pressing against my pussy, just like this."
+
+# game/ep2/scene45b.rpy:820
+translate francais ep2_s45b_sg_12d42b74:
+
+    # u "God, you getting turned on thinking of me is so fucking hot."
+    u "God, you getting turned on thinking of me is so fucking hot."
+
+# game/ep2/scene45b.rpy:822
+translate francais ep2_s45b_sg_697bfc0b:
+
+    # cl "Let's... mmm, get these clothes off..."
+    cl "Let's... mmm, get these clothes off..."
+
+# game/ep2/scene45b.rpy:824
+translate francais ep2_s45b_sg_0b79cce2:
+
+    # u "Oh, fuck yes!"
+    u "Oh, fuck yes!"
+
+# game/ep2/scene45b.rpy:829
+translate francais ep2_s45b_sg_242645cd:
+
+    # cl "Mmm."
+    cl "Mmm."
+
+# game/ep2/scene45b.rpy:831
+translate francais ep2_s45b_sg_f5d38a2f:
+
+    # cl "Do you trust me?"
+    cl "Do you trust me?"
+
+# game/ep2/scene45b.rpy:833
+translate francais ep2_s45b_sg_1b28a406:
+
+    # u "Of course."
+    u "Of course."
+
+# game/ep2/scene45b.rpy:835
+translate francais ep2_s45b_sg_a88d6305:
+
+    # cl "Then pull your cock out and stand up in front of the bed."
+    cl "Then pull your cock out and stand up in front of the bed."
+
+# game/ep2/scene45b.rpy:840
+translate francais ep2_s45b_sg_70a32051:
+
+    # cl "I want you to fuck my face. Take charge and dominate me."
+    cl "I want you to fuck my face. Take charge and dominate me."
+
+# game/ep2/scene45b.rpy:842
+translate francais ep2_s45b_sg_3cb8aac6:
+
+    # u "Yeah? Well start touching yourself, cause I'm not gonna stop with your face."
+    u "Yeah? Well start touching yourself, cause I'm not gonna stop with your face."
+
+# game/ep2/scene45b.rpy:847
+translate francais ep2_s45b_sg_bb9c9f35:
+
+    # cl "Mmmh baby, I'll do anything for you."
+    cl "Mmmh baby, I'll do anything for you."
+
+# game/ep2/scene45b.rpy:849
+translate francais ep2_s45b_sg_0fcec1ab:
+
+    # u "Open your mouth and start sucking."
+    u "Open your mouth and start sucking."
+
+# game/ep2/scene45b.rpy:858
+translate francais ep2_s45b_sg_5457afb1:
+
+    # u "Oh fuck... you like it... when I fuck your throat like this?"
+    u "Oh fuck... you like it... when I fuck your throat like this?"
+
+# game/ep2/scene45b.rpy:860
+translate francais ep2_s45b_sg_3aba924b:
+
+    # cl "*Gagging* Mmhmf..."
+    cl "*Gagging* Mmhmf..."
+
+# game/ep2/scene45b.rpy:862
+translate francais ep2_s45b_sg_4ea1231c:
+
+    # u "I bet you do... so fucking nasty..."
+    u "I bet you do... so fucking nasty..."
+
+# game/ep2/scene45b.rpy:871
+translate francais ep2_s45b_sg_7f153d97:
+
+    # u "Yeah, do what I fucking say."
+    u "Yeah, do what I fucking say."
+
+# game/ep2/scene45b.rpy:873
+translate francais ep2_s45b_sg_40502b7d:
+
+    # cl "*Gagging, muffled* Anything."
+    cl "*Gagging, muffled* Anything."
+
+# game/ep2/scene45b.rpy:880
+translate francais ep2_s45b_sg_4f77083f:
+
+    # u "I just love... hearing you gag like that..."
+    u "I just love... hearing you gag like that..."
+
+# game/ep2/scene45b.rpy:882
+translate francais ep2_s45b_sg_014fef27:
+
+    # cl "*Gagging, moaning*"
+    cl "*Gagging, moaning*"
+
+# game/ep2/scene45b.rpy:884
+translate francais ep2_s45b_sg_52e60628:
+
+    # u "Take that fucking cock..."
+    u "Take that fucking cock..."
+
+# game/ep2/scene45b.rpy:892
+translate francais ep2_s45b_sg_9f1b030d:
+
+    # u "Keep sucking."
+    u "Keep sucking."
+
+# game/ep2/scene45b.rpy:894
+translate francais ep2_s45b_sg_35ff5d58:
+
+    # u "Fuck, your tongue feels amazing."
+    u "Fuck, your tongue feels amazing."
+
+# game/ep2/scene45b.rpy:896
+translate francais ep2_s45b_sg_9a289265:
+
+    # cl "*Loud moan*"
+    cl "*Loud moan*"
+
+# game/ep2/scene45b.rpy:898
+translate francais ep2_s45b_sg_249979ad:
+
+    # u "I think your pussy is ready now, don't you?"
+    u "I think your pussy is ready now, don't you?"
+
+# game/ep2/scene45b.rpy:905
+translate francais ep2_s45b_sg_47766a92:
+
+    # cl "Oh... my... God..."
+    cl "Oh... my... God..."
+
+# game/ep2/scene45b.rpy:907
+translate francais ep2_s45b_sg_24394e8d:
+
+    # u "I can't wait to actually fuck you."
+    u "I can't wait to actually fuck you."
+
+# game/ep2/scene45b.rpy:912
+translate francais ep2_s45b_sg_ab507efb:
+
+    # cl "You know what would be such a turn on?"
+    cl "You know what would be such a turn on?"
+
+# game/ep2/scene45b.rpy:914
+translate francais ep2_s45b_sg_c8643cd7:
+
+    # cl "Seeing if I can beat my best time while you fuck me as hard as you can."
+    cl "Seeing if I can beat my best time while you fuck me as hard as you can."
+
+# game/ep2/scene45b.rpy:916
+translate francais ep2_s45b_sg_ab73a212:
+
+    # u "Oh really?"
+    u "Oh really?"
+
+# game/ep2/scene45b.rpy:918
+translate francais ep2_s45b_sg_5d352add:
+
+    # u "Okay, let's do it."
+    u "Okay, let's do it."
+
+# game/ep2/scene45b.rpy:920
+translate francais ep2_s45b_sg_f9fb8c7c:
+
+    # cl "Oh my god, I love that you're down for things like this."
+    cl "Oh my god, I love that you're down for things like this."
+
+# game/ep2/scene45b.rpy:922
+translate francais ep2_s45b_sg_57728719:
+
+    # u "Well you're the one who'll be struggling to focus."
+    u "Well you're the one who'll be struggling to focus."
+
+# game/ep2/scene45b.rpy:924
+translate francais ep2_s45b_sg_525df6e7:
+
+    # cl "Haha, we'll see. Now come on and get behind me, I don't want to wait another second to feel you inside of me."
+    cl "Haha, we'll see. Now come on and get behind me, I don't want to wait another second to feel you inside of me."
+
+# game/ep2/scene45b.rpy:929
+translate francais ep2_s45b_sg_b1fff161:
+
+    # u "Mmm, wanna take my \"hot rod,\" huh?"
+    u "Mmm, wanna take my \"hot rod,\" huh?"
+
+# game/ep2/scene45b.rpy:934
+translate francais ep2_s45b_sg_a96629c9:
+
+    # cl "*Moans*"
+    cl "*Moans*"
+
+# game/ep2/scene45b.rpy:936
+translate francais ep2_s45b_sg_946974df:
+
+    # cl "Please, [name]... I need you inside me..."
+    cl "Please, [name]... I need you inside me..."
+
+# game/ep2/scene45b.rpy:943
+translate francais ep2_s45b_sg_c1c0a38e:
+
+    # u "Hmm, maybe I'll let you wait a little longer."
+    u "Hmm, maybe I'll let you wait a little longer."
+
+# game/ep2/scene45b.rpy:945
+translate francais ep2_s45b_sg_d4d89c1a:
+
+    # cl "Oh God, [name]... stop fucking teasing me... I need your cock."
+    cl "Oh God, [name]... stop fucking teasing me... I need your cock."
+
+# game/ep2/scene45b.rpy:947
+translate francais ep2_s45b_sg_860f2e03:
+
+    # cl "Please..."
+    cl "Please..."
+
+# game/ep2/scene45b.rpy:949
+translate francais ep2_s45b_sg_ebb31da5:
+
+    # u "Alright, fine."
+    u "Alright, fine."
+
+# game/ep2/scene45b.rpy:958
+translate francais ep2_s45b_sg_1a7ecc9f:
+
+    # cl "Oh fuck... oh fuck... oh fuck..."
+    cl "Oh fuck... oh fuck... oh fuck..."
+
+# game/ep2/scene45b.rpy:960
+translate francais ep2_s45b_sg_6c65c416:
+
+    # u "Try winning now... God, you feel so good..."
+    u "Try winning now... God, you feel so good..."
+
+# game/ep2/scene45b.rpy:962
+translate francais ep2_s45b_sg_cca3d7b9:
+
+    # cl "Oh fuck, [name]... fuck me harder..."
+    cl "Oh fuck, [name]... fuck me harder..."
+
+# game/ep2/scene45b.rpy:964
+translate francais ep2_s45b_sg_661f1d1d:
+
+    # u "Gonna... fuck you til you can't see straight..."
+    u "Gonna... fuck you til you can't see straight..."
+
+# game/ep2/scene45b.rpy:966
+translate francais ep2_s45b_sg_a96629c9_1:
+
+    # cl "*Moans*"
+    cl "*Moans*"
+
+# game/ep2/scene45b.rpy:975
+translate francais ep2_s45b_sg_c5d1da16:
+
+    # cl "Fuck me, [name]... fuck me harder..."
+    cl "Fuck me, [name]... fuck me harder..."
+
+# game/ep2/scene45b.rpy:977
+translate francais ep2_s45b_sg_5f5c2c1f:
+
+    # u "Holy fuck, Chloe... I'm not going to..."
+    u "Holy fuck, Chloe... I'm not going to..."
+
+# game/ep2/scene45b.rpy:979
+translate francais ep2_s45b_sg_ebe7b254:
+
+    # cl "Oh yeah, me too... Mmm, God..."
+    cl "Oh yeah, me too... Mmm, God..."
+
+# game/ep2/scene45b.rpy:981
+translate francais ep2_s45b_sg_dc01fd98:
+
+    # u "Oh God... I'm gonna..."
+    u "Oh God... I'm gonna..."
+
+# game/ep2/scene45b.rpy:983
+translate francais ep2_s45b_sg_811df653:
+
+    # cl "*Screaming moan* Cum for me, [name]!"
+    cl "*Screaming moan* Cum for me, [name]!"
+
+# game/ep2/scene45b.rpy:990
+translate francais ep2_s45b_sg_90baeca3:
+
+    # cl "Oh fuck!"
+    cl "Oh fuck!"
+
+# game/ep2/scene45b.rpy:995
+translate francais ep2_s45b_sg_54ea9f98:
+
+    # cl "Oh God... I needed that."
+    cl "Oh God... I needed that."
+
+# game/ep2/scene45b.rpy:1000
+translate francais ep2_s45b_sg_f797e660:
+
+    # u "You're fucking amazing, Chloe."
+    u "You're fucking amazing, Chloe."
+
+# game/ep2/scene45b.rpy:1007
+translate francais ep2_s45b_sg_348be1be:
+
+    # cl "I wish we could go for round two. . ."
+    cl "I wish we could go for round two. . ."
+
+# game/ep2/scene45b.rpy:1012
+translate francais ep2_s45b_sg_379268ef:
+
+    # u "A second lap?"
+    u "A second lap?"
+
+# game/ep2/scene45b.rpy:1019
+translate francais ep2_s45b_sg_7b45dfad:
+
+    # cl "Unfortunately I have lots of work to do. Plus we have a full house Chicks meeting tonight."
+    cl "Unfortunately I have lots of work to do. Plus we have a full house Chicks meeting tonight."
+
+# game/ep2/scene45b.rpy:1021
+translate francais ep2_s45b_sg_9ee5d6e0:
+
+    # cl "I bet the girls heard that, they're gonna tease me so much."
+    cl "I bet the girls heard that, they're gonna tease me so much."
+
+# game/ep2/scene45b.rpy:1055
+translate francais ep2_s45b_sg_f79dd293:
+
+    # cl "How was that?"
+    cl "How was that?"
+
+# game/ep2/scene45b.rpy:1062
+translate francais ep2_s45b_sg_3ff8eabb:
+
+    # u "Uh... well that was fun."
+    u "Uh... well that was fun."
+
+# game/ep2/scene45b.rpy:1069
+translate francais ep2_s45b_sg_cb53d824:
+
+    # cl "For sure... we should do it again."
+    cl "For sure... we should do it again."
+
+# game/ep2/scene45b.rpy:1071
+translate francais ep2_s45b_sg_e435a46d:
+
+    # cl "I gotta get an essay written for psych... but thanks for being a great distraction. I really enjoyed myself."
+    cl "I gotta get an essay written for psych... but thanks for being a great distraction. I really enjoyed myself."
+
+# game/ep2/scene45b.rpy:1098
+translate francais ep2_s45b_sg_eef54eae:
+
+    # u "All right, you win, fair and square. What did you have in mind?"
+    u "All right, you win, fair and square. What did you have in mind?"
+
+translate francais strings:
+
+    # game/ep2/scene45b.rpy:218
+    old "Ever raced yourself?"
+    new "Ever raced yourself?"
+
+    # game/ep2/scene45b.rpy:218
+    old "You're really cute like this"
+    new "You're really cute like this"
+

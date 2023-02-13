@@ -118,3 +118,53 @@ translate chinese strings:
     old "Ideal lingerie fabric?"
     new "Ideal lingerie fabric?"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene17d.rpy:31
+translate chinese ep2_s17d_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(I should check my phone.)"
+
+# game/ep2/scene17d.rpy:42
+translate chinese ep2_s17d_8e0cde2c:
+
+    # u "Hey! I'm doing a thing for Lauren and was hoping to survey some gals—"
+    u "Hey! I'm doing a thing for Lauren and was hoping to survey some gals—"
+
+# game/ep2/scene17d.rpy:47
+translate chinese ep2_s17d_12924e73:
+
+    # au "It's a madhouse in there right now, the presidency situation really shook the hornet's nest."
+    au "It's a madhouse in there right now, the presidency situation really shook the hornet's nest."
+
+# game/ep2/scene17d.rpy:49
+translate chinese ep2_s17d_206967c5:
+
+    # au "But maybe I could help? I can only spare a second or two, though."
+    au "But maybe I could help? I can only spare a second or two, though."
+
+# game/ep2/scene17d.rpy:51
+translate chinese ep2_s17d_2e8b62c0:
+
+    # au "Hit me with whatever you need for your survey. Just be quick about it."
+    au "Hit me with whatever you need for your survey. Just be quick about it."
+
+# game/ep2/scene17d.rpy:94
+translate chinese ep2_s17d_d0f83c06:
+
+    # au "Normally I'd be up for a longer chat, but seriously, the girls need me."
+    au "Normally I'd be up for a longer chat, but seriously, the girls need me."
+
+# game/ep2/scene17d.rpy:99
+translate chinese ep2_s17d_6f85bb7f:
+
+    # au "Maybe ask me more questions later on when I'm less swamped."
+    au "Maybe ask me more questions later on when I'm less swamped."
+
+# game/ep2/scene17d.rpy:103
+translate chinese ep2_s17d_13893d9a:
+
+    # u "(Oof. That was fruitless...)"
+    u "(Oof. That was fruitless...)"
+

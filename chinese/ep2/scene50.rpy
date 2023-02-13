@@ -796,3 +796,419 @@ translate chinese strings:
     old "Sure, why not?"
     new "Sure, why not?"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene50.rpy:139
+translate chinese ep2_s50_987121a6:
+
+    # u "Yo, what?!"
+    u "Yo, what?!"
+
+# game/ep2/scene50.rpy:361
+translate chinese ep2_s50_nsfwSkipLabel1_2c6dd16d:
+
+    # sm2 "Well, [ep2_player_avn_name], it sounds like you made good use of my home this evening."
+    sm2 "Well, [ep2_player_avn_name], it sounds like you made good use of my home this evening."
+
+# game/ep2/scene50.rpy:363
+translate chinese ep2_s50_nsfwSkipLabel1_d424a6ce:
+
+    # sm2 "But we'll talk about bringing uninvited guests home later. For now, how are you doing?"
+    sm2 "But we'll talk about bringing uninvited guests home later. For now, how are you doing?"
+
+# game/ep2/scene50.rpy:368
+translate chinese ep2_s50_nsfwSkipLabel1_a250805c:
+
+    # n2 "..."
+    n2 "..."
+
+# game/ep2/scene50.rpy:373
+translate chinese ep2_s50_nsfwSkipLabel1_69337db4:
+
+    # sm2 "[ep2_player_avn_name], it's not your fault. I always said that boy would be trouble."
+    sm2 "[ep2_player_avn_name], it's not your fault. I always said that boy would be trouble."
+
+# game/ep2/scene50.rpy:378
+translate chinese ep2_s50_nsfwSkipLabel1_dd5933fc:
+
+    # n2 "*sniffle*"
+    n2 "*sniffle*"
+
+# game/ep2/scene50.rpy:383
+translate chinese ep2_s50_nsfwSkipLabel1_d46f3ba4:
+
+    # sm2 "Hey, hey. I know what'll cheer you up."
+    sm2 "Hey, hey. I know what'll cheer you up."
+
+# game/ep2/scene50.rpy:385
+translate chinese ep2_s50_nsfwSkipLabel1_3aad1abb:
+
+    # sm2 "Let's take our minds off all this and go see a movie, yeah?"
+    sm2 "Let's take our minds off all this and go see a movie, yeah?"
+
+# game/ep2/scene50.rpy:387
+translate chinese ep2_s50_nsfwSkipLabel1_5dfc713b:
+
+    # sm2 "You and me, stepmom and stepdaughter."
+    sm2 "You and me, stepmom and stepdaughter."
+
+# game/ep2/scene50.rpy:392
+translate chinese ep2_s50_nsfwSkipLabel1_a250805c_1:
+
+    # n2 "..."
+    n2 "..."
+
+# game/ep2/scene50.rpy:394
+translate chinese ep2_s50_nsfwSkipLabel1_5107ec88:
+
+    # n2 "I have a better idea..."
+    n2 "I have a better idea..."
+
+# game/ep2/scene50.rpy:399
+translate chinese ep2_s50_nsfwSkipLabel1_bab408dc:
+
+    # sm2 "What's that, honey?"
+    sm2 "What's that, honey?"
+
+# game/ep2/scene50.rpy:404
+translate chinese ep2_s50_nsfwSkipLabel1_c4211880:
+
+    # n2 "I've been working on coding a little game, chronicling my time at university..."
+    n2 "I've been working on coding a little game, chronicling my time at university..."
+
+# game/ep2/scene50.rpy:406
+translate chinese ep2_s50_nsfwSkipLabel1_7212a337:
+
+    # n2 "Would you be willing to try playing it?"
+    n2 "Would you be willing to try playing it?"
+
+# game/ep2/scene50.rpy:408
+translate chinese ep2_s50_nsfwSkipLabel1_61c22149:
+
+    # n2 "I'm too shy to show it to my friends just yet."
+    n2 "I'm too shy to show it to my friends just yet."
+
+# game/ep2/scene50.rpy:413
+translate chinese ep2_s50_nsfwSkipLabel1_fca83d4d:
+
+    # sm2 "If it'll get your mind off things, sure, honey. Anything for you."
+    sm2 "If it'll get your mind off things, sure, honey. Anything for you."
+
+# game/ep2/scene50.rpy:415
+translate chinese ep2_s50_nsfwSkipLabel1_e5a61f20:
+
+    # sm2 "What's the game called?"
+    sm2 "What's the game called?"
+
+# game/ep2/scene50.rpy:420
+translate chinese ep2_s50_nsfwSkipLabel1_e651d2b3:
+
+    # n2 "It's a work in progress title, but..."
+    n2 "It's a work in progress title, but..."
+
+# game/ep2/scene50.rpy:422
+translate chinese ep2_s50_nsfwSkipLabel1_af70199d:
+
+    # n2 "... I call it Academia Angels."
+    n2 "... I call it Academia Angels."
+
+# game/ep2/scene50.rpy:424
+translate chinese ep2_s50_nsfwSkipLabel1_249a3228:
+
+    # u "Yoooo! Ahaha. What a wild tie-in. A game within a game? Penelope, you're {i}crazy{/i}."
+    u "Yoooo! Ahaha. What a wild tie-in. A game within a game? Penelope, you're {i}crazy{/i}."
+
+# game/ep2/scene50.rpy:439
+translate chinese ep2_s50_nsfwSkipLabel1_dbcc5417:
+
+    # pe "Voila, the true University Queens experience."
+    pe "Voila, the true University Queens experience."
+
+# game/ep2/scene50.rpy:441
+translate chinese ep2_s50_nsfwSkipLabel1_da1817f5:
+
+    # pe "Whaddaya think?"
+    pe "Whaddaya think?"
+
+# game/ep2/scene50.rpy:446
+translate chinese ep2_s50_nsfwSkipLabel1_ab993568:
+
+    # u "Just... wow. WOW. But, before I answer your question in detail..."
+    u "Just... wow. WOW. But, before I answer your question in detail..."
+
+# game/ep2/scene50.rpy:448
+translate chinese ep2_s50_nsfwSkipLabel1_0da3e802:
+
+    # u "I just want to congratulate you on your follow-through."
+    u "I just want to congratulate you on your follow-through."
+
+# game/ep2/scene50.rpy:453
+translate chinese ep2_s50_nsfwSkipLabel1_fc229c77:
+
+    # u "Most people never put in the effort to see passion projects through to the finish."
+    u "Most people never put in the effort to see passion projects through to the finish."
+
+# game/ep2/scene50.rpy:455
+translate chinese ep2_s50_nsfwSkipLabel1_36fb8932:
+
+    # u "And you managed to put this whole thing together in less than a month. That's nuts."
+    u "And you managed to put this whole thing together in less than a month. That's nuts."
+
+# game/ep2/scene50.rpy:461
+translate chinese ep2_s50_nsfwSkipLabel1_62d0a7c0:
+
+    # pe "I couldn't have done it without your support! So..."
+    pe "I couldn't have done it without your support! So..."
+
+# game/ep2/scene50.rpy:466
+translate chinese ep2_s50_nsfwSkipLabel1_4347dc32:
+
+    # pe "If that's your way of sugarcoating whatever comes next... it's working really well."
+    pe "If that's your way of sugarcoating whatever comes next... it's working really well."
+
+# game/ep2/scene50.rpy:468
+translate chinese ep2_s50_nsfwSkipLabel1_1e6782c4:
+
+    # pe "Now, no more stalling. What'd you think? Good enough for the public?"
+    pe "Now, no more stalling. What'd you think? Good enough for the public?"
+
+# game/ep2/scene50.rpy:477
+translate chinese ep2_s50_nsfwSkipLabel1_98e021f1:
+
+    # u "If you have to ask that..."
+    u "If you have to ask that..."
+
+# game/ep2/scene50.rpy:479
+translate chinese ep2_s50_nsfwSkipLabel1_a36870c5:
+
+    # u "... it may be best to shelve it until you, yourself, are certain."
+    u "... it may be best to shelve it until you, yourself, are certain."
+
+# game/ep2/scene50.rpy:484
+translate chinese ep2_s50_nsfwSkipLabel1_bd576412:
+
+    # u "Throwing all that feedback out the window and listening to your heart worked, Pe. The game's good."
+    u "Throwing all that feedback out the window and listening to your heart worked, Pe. The game's good."
+
+# game/ep2/scene50.rpy:486
+translate chinese ep2_s50_nsfwSkipLabel1_c76fb14a:
+
+    # u "But only you know if it's good enough to represent you on a storefront."
+    u "But only you know if it's good enough to represent you on a storefront."
+
+# game/ep2/scene50.rpy:491
+translate chinese ep2_s50_nsfwSkipLabel1_6a0658d0:
+
+    # pe "Much as I hate to admit it... you're right. Yeah."
+    pe "Much as I hate to admit it... you're right. Yeah."
+
+# game/ep2/scene50.rpy:493
+translate chinese ep2_s50_nsfwSkipLabel1_692e0c50:
+
+    # pe "I did good work here, but it's not quite Penelope-seal-of-approval work."
+    pe "I did good work here, but it's not quite Penelope-seal-of-approval work."
+
+# game/ep2/scene50.rpy:495
+translate chinese ep2_s50_nsfwSkipLabel1_c983e223:
+
+    # pe "Maybe I'll shelve game devving for a bit and dust this thing off in the future."
+    pe "Maybe I'll shelve game devving for a bit and dust this thing off in the future."
+
+# game/ep2/scene50.rpy:500
+translate chinese ep2_s50_nsfwSkipLabel1_b84714e0:
+
+    # u "You sounded more confident in those few sentences than you have over the past month."
+    u "You sounded more confident in those few sentences than you have over the past month."
+
+# game/ep2/scene50.rpy:502
+translate chinese ep2_s50_nsfwSkipLabel1_7072c58e:
+
+    # u "I think you got your answer. Still, though, great try for a first crack at a complex medium."
+    u "I think you got your answer. Still, though, great try for a first crack at a complex medium."
+
+# game/ep2/scene50.rpy:512
+translate chinese ep2_s50_nsfwSkipLabel1_98d888a3:
+
+    # pe "You bet it was. Until next time, University Queens."
+    pe "You bet it was. Until next time, University Queens."
+
+# game/ep2/scene50.rpy:530
+translate chinese ep2_s50_nsfwSkipLabel1_0192e1df:
+
+    # u "Hell yeah!"
+    u "Hell yeah!"
+
+# game/ep2/scene50.rpy:532
+translate chinese ep2_s50_nsfwSkipLabel1_51254914:
+
+    # u "Really, Pe, you knocked it out of the park this time around."
+    u "Really, Pe, you knocked it out of the park this time around."
+
+# game/ep2/scene50.rpy:537
+translate chinese ep2_s50_nsfwSkipLabel1_04a7be67:
+
+    # u "Throwing all that feedback out the window and listening to your heart worked. The game's good."
+    u "Throwing all that feedback out the window and listening to your heart worked. The game's good."
+
+# game/ep2/scene50.rpy:542
+translate chinese ep2_s50_nsfwSkipLabel1_14130382:
+
+    # pe "I... I can't believe how positive you sound."
+    pe "I... I can't believe how positive you sound."
+
+# game/ep2/scene50.rpy:544
+translate chinese ep2_s50_nsfwSkipLabel1_f166466a:
+
+    # pe "Admittedly, I'm still not totally confident in it myself..."
+    pe "Admittedly, I'm still not totally confident in it myself..."
+
+# game/ep2/scene50.rpy:546
+translate chinese ep2_s50_nsfwSkipLabel1_c983e223_1:
+
+    # pe "Maybe I'll shelve game devving for a bit and dust this thing off in the future."
+    pe "Maybe I'll shelve game devving for a bit and dust this thing off in the future."
+
+# game/ep2/scene50.rpy:548
+translate chinese ep2_s50_nsfwSkipLabel1_c3c7a80a:
+
+    # pe "If I come back to it later and feel as good about it as you do, I'll give UQ a proper release."
+    pe "If I come back to it later and feel as good about it as you do, I'll give UQ a proper release."
+
+# game/ep2/scene50.rpy:553
+translate chinese ep2_s50_nsfwSkipLabel1_26107f19:
+
+    # u "Rational and responsible, Pe. I'd never expect anything less from you."
+    u "Rational and responsible, Pe. I'd never expect anything less from you."
+
+# game/ep2/scene50.rpy:555
+translate chinese ep2_s50_nsfwSkipLabel1_1e8e4042:
+
+    # u "(Well, maybe I would. But she needs support right now.)"
+    u "(Well, maybe I would. But she needs support right now.)"
+
+# game/ep2/scene50.rpy:557
+translate chinese ep2_s50_nsfwSkipLabel1_56b9b781:
+
+    # u "In any event, great try for a first crack at a complex medium."
+    u "In any event, great try for a first crack at a complex medium."
+
+# game/ep2/scene50.rpy:567
+translate chinese ep2_s50_nsfwSkipLabel1_98d888a3_1:
+
+    # pe "You bet it was. Until next time, University Queens."
+    pe "You bet it was. Until next time, University Queens."
+
+# game/ep2/scene50.rpy:585
+translate chinese ep2_s50_nsfwSkipLabel1_b7c93292:
+
+    # u "Sure, why not?"
+    u "Sure, why not?"
+
+# game/ep2/scene50.rpy:587
+translate chinese ep2_s50_nsfwSkipLabel1_d1b26cab:
+
+    # u "This thing represents a month of your life you're not getting back; why not reap rewards?"
+    u "This thing represents a month of your life you're not getting back; why not reap rewards?"
+
+# game/ep2/scene50.rpy:592
+translate chinese ep2_s50_nsfwSkipLabel1_bd92af56:
+
+    # u "I've seen far worse on the Mist store on PC. Who knows..."
+    u "I've seen far worse on the Mist store on PC. Who knows..."
+
+# game/ep2/scene50.rpy:594
+translate chinese ep2_s50_nsfwSkipLabel1_88bccbc1:
+
+    # u "If you use some of the sexy renders as the store page promo pics, you could be swimming in money by next week."
+    u "If you use some of the sexy renders as the store page promo pics, you could be swimming in money by next week."
+
+# game/ep2/scene50.rpy:599
+translate chinese ep2_s50_nsfwSkipLabel1_dd6654c9:
+
+    # pe "[name], you knooooooooow that's not the bar I was shooting for."
+    pe "[name], you knooooooooow that's not the bar I was shooting for."
+
+# game/ep2/scene50.rpy:604
+translate chinese ep2_s50_nsfwSkipLabel1_54469601:
+
+    # u "Then I guess you have your answer, yeah?"
+    u "Then I guess you have your answer, yeah?"
+
+# game/ep2/scene50.rpy:606
+translate chinese ep2_s50_nsfwSkipLabel1_00e9343c:
+
+    # u "You did a banger job for a project cooked up inside of a month, but maybe it needs to rest a while."
+    u "You did a banger job for a project cooked up inside of a month, but maybe it needs to rest a while."
+
+# game/ep2/scene50.rpy:611
+translate chinese ep2_s50_nsfwSkipLabel1_aa7a9b2a:
+
+    # pe "I see your point. If it's still dependent on the sex to sell..."
+    pe "I see your point. If it's still dependent on the sex to sell..."
+
+# game/ep2/scene50.rpy:613
+translate chinese ep2_s50_nsfwSkipLabel1_0d31ccb6:
+
+    # pe "Maybe it's not good enough for the Penelope seal of approval. At least, not yet."
+    pe "Maybe it's not good enough for the Penelope seal of approval. At least, not yet."
+
+# game/ep2/scene50.rpy:618
+translate chinese ep2_s50_nsfwSkipLabel1_15969ec0:
+
+    # u "There you go! No harm in being honest with yourself, especially since you gave it your best shot."
+    u "There you go! No harm in being honest with yourself, especially since you gave it your best shot."
+
+# game/ep2/scene50.rpy:620
+translate chinese ep2_s50_nsfwSkipLabel1_bb77dacd:
+
+    # u "Put it in the freezer for a bit, let it cool off, and then revisit later on with fresh eyes."
+    u "Put it in the freezer for a bit, let it cool off, and then revisit later on with fresh eyes."
+
+# game/ep2/scene50.rpy:625
+translate chinese ep2_s50_nsfwSkipLabel1_8357aa9b:
+
+    # pe "Hmm. You might be onto something there."
+    pe "Hmm. You might be onto something there."
+
+# game/ep2/scene50.rpy:627
+translate chinese ep2_s50_nsfwSkipLabel1_533ad7ed:
+
+    # pe "Either way, I think I'm going to pause game devving for a bit."
+    pe "Either way, I think I'm going to pause game devving for a bit."
+
+# game/ep2/scene50.rpy:632
+translate chinese ep2_s50_nsfwSkipLabel1_b3dbb149:
+
+    # u "Onto greener pastures?"
+    u "Onto greener pastures?"
+
+# game/ep2/scene50.rpy:637
+translate chinese ep2_s50_nsfwSkipLabel1_765b0fc9:
+
+    # pe "Something like that. I have a little app experiment in the works, and..."
+    pe "Something like that. I have a little app experiment in the works, and..."
+
+# game/ep2/scene50.rpy:639
+translate chinese ep2_s50_nsfwSkipLabel1_af2d150c:
+
+    # pe "Ah, well, I don't want to get ahead of myself. I'll tell you at some point."
+    pe "Ah, well, I don't want to get ahead of myself. I'll tell you at some point."
+
+# game/ep2/scene50.rpy:644
+translate chinese ep2_s50_nsfwSkipLabel1_4ef1a0d3:
+
+    # u "Sure thing. Catch you later?"
+    u "Sure thing. Catch you later?"
+
+# game/ep2/scene50.rpy:649
+translate chinese ep2_s50_nsfwSkipLabel1_c040ab55:
+
+    # pe "Count on it. I'll have something new cooked up before you know it."
+    pe "Count on it. I'll have something new cooked up before you know it."
+
+translate chinese strings:
+
+    # game/ep2/scene50.rpy:470
+    old "If you have to ask that..."
+    new "If you have to ask that..."
+

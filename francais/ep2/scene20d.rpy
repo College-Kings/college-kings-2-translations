@@ -430,3 +430,23 @@ translate francais strings:
     old "We're poor"
     new "We're poor"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene20d.rpy:24
+translate francais ep2_s20d_2a9c7634:
+
+    # el "AAAAAAH!!"
+    el "AAAAAAH!!"
+
+# game/ep2/scene20d.rpy:127
+translate francais ep2_s20d_5eaa42dd:
+
+    # el "Frogs don't fight, but if we did, we'd come for every single one of you ass goblins."
+    el "Frogs don't fight, but if we did, we'd come for every single one of you ass goblins."
+
+# game/ep2/scene20d.rpy:304
+translate francais ep2_s20c_elijah_considers_party_fb65573d:
+
+    # u "I'll get out of your hair. Leave you to get your hand sweat and genetic juices all over everything."
+    u "I'll get out of your hair. Leave you to get your hand sweat and genetic juices all over everything."
+

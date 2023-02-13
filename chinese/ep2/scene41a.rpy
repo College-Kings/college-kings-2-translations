@@ -130,3 +130,35 @@ translate chinese strings:
     old "Text Chloe"
     new "Text Chloe"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene41a.rpy:126
+translate chinese ep2_s41a_text_chloe_about_hangouts_38d9635c:
+
+    # u "(Come on, [name]. Put on your big boy pants and text her.)"
+    u "(Come on, [name]. Put on your big boy pants and text her.)"
+
+# game/ep2/scene41a.rpy:128
+translate chinese ep2_s41a_text_chloe_about_hangouts_30e20503:
+
+    # u "(Well, even if she doesn't want to talk, at least I reached out.)"
+    u "(Well, even if she doesn't want to talk, at least I reached out.)"
+
+# game/ep2/scene41a.rpy:130
+translate chinese ep2_s41a_text_chloe_about_hangouts_5c7b5004:
+
+    # u "(But I have come this far...)"
+    u "(But I have come this far...)"
+
+# game/ep2/scene41a.rpy:137
+translate chinese ep2_s41a_text_chloe_about_hangouts_94d56d29:
+
+    # u "(I should see if she wants to hang out in person. Worst she can say is \"no.\")"
+    u "(I should see if she wants to hang out in person. Worst she can say is \"no.\")"
+
+# game/ep2/scene41a.rpy:160
+translate chinese ep2_s41a_text_chloe_about_hangouts_1e387910:
+
+    # u "(I should finish making plans with her.)"
+    u "(I should finish making plans with her.)"
+

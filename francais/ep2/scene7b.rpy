@@ -1074,3 +1074,69 @@ translate francais strings:
     old "Typical artist mindset"
     new "Typical artist mindset"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene7b.rpy:49
+translate francais ep2_s7b_89e3f45c:
+
+    # u "Jesus, Pe. You look exhausted."
+    u "Jesus, Pe. You look exhausted."
+
+# game/ep2/scene7b.rpy:59
+translate francais ep2_s7b_63634386:
+
+    # u "You're usually so tidy. Why's there stuff scattered around?"
+    u "You're usually so tidy. Why's there stuff scattered around?"
+
+# game/ep2/scene7b.rpy:80
+translate francais ep2_s7b_13a80f1a:
+
+    # pe "Jesus, [name], they're just coffee stains!"
+    pe "Jesus, [name], they're just coffee stains!"
+
+# game/ep2/scene7b.rpy:85
+translate francais ep2_s7b_4dae7b33:
+
+    # u "Whoa, no need to get mad..."
+    u "Whoa, no need to get mad..."
+
+# game/ep2/scene7b.rpy:190
+translate francais ep2_s7b_video_game_case_677865e6:
+
+    # u "Very cool."
+    u "Very cool."
+
+# game/ep2/scene7b.rpy:269
+translate francais ep2_s7b_smartphone_45c5d074:
+
+    # u "(Maybe I'll plop it right here. Or...)"
+    u "(Maybe I'll plop it right here. Or...)"
+
+# game/ep2/scene7b.rpy:771
+translate francais ep2_s7b_end_free_roam_9e19128b:
+
+    # u "Like...?"
+    u "Like...?"
+
+translate francais strings:
+
+    # game/ep2/scene7b.rpy:120
+    old "You're a gamer?"
+    new "You're a gamer?"
+
+    # game/ep2/scene7b.rpy:205
+    old "Does the robot speak?"
+    new "Does the robot speak?"
+
+    # game/ep2/scene7b.rpy:264
+    old "New phone?"
+    new "New phone?"
+
+    # game/ep2/scene7b.rpy:409
+    old "What's with the PC parts?"
+    new "What's with the PC parts?"
+
+    # game/ep2/scene7b.rpy:488
+    old "Wanna go get ice cream?"
+    new "Wanna go get ice cream?"
+

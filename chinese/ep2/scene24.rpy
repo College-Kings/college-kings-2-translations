@@ -606,3 +606,53 @@ translate chinese strings:
     old "Eccentric"
     new "Eccentric"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene24.rpy:26
+translate chinese ep2_s24_d346d7fb:
+
+    # lee "What're you two doing skulking around up there?"
+    lee "What're you two doing skulking around up there?"
+
+# game/ep2/scene24.rpy:36
+translate chinese ep2_s24_1327e93d:
+
+    # lee "Wondering what two students, whom I've never had office visits from, are here for. Arriving together, no less."
+    lee "Wondering what two students, whom I've never had office visits from, are here for. Arriving together, no less."
+
+# game/ep2/scene24.rpy:85
+translate chinese ep2_s24_2b5fa2db:
+
+    # am "Mr. Lee, may I be direct?"
+    am "Mr. Lee, may I be direct?"
+
+# game/ep2/scene24.rpy:90
+translate chinese ep2_s24_da7539a6:
+
+    # lee "Of course you may, Amber."
+    lee "Of course you may, Amber."
+
+# game/ep2/scene24.rpy:95
+translate chinese ep2_s24_7adb2524:
+
+    # am "[name] is just being polite. We're here for a very specific purpose."
+    am "[name] is just being polite. We're here for a very specific purpose."
+
+# game/ep2/scene24.rpy:97
+translate chinese ep2_s24_e6b58a42:
+
+    # am "We're looking into the colleges actions around the sororities and fraternities."
+    am "We're looking into the colleges actions around the sororities and fraternities."
+
+# game/ep2/scene24.rpy:102
+translate chinese ep2_s24_e314a6e1:
+
+    # lee "Ah."
+    lee "Ah."
+
+# game/ep2/scene24.rpy:158
+translate chinese ep2_s24_d6110754:
+
+    # am "Do you know anything?"
+    am "Do you know anything?"
+

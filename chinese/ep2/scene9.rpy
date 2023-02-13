@@ -872,3 +872,11 @@ translate chinese strings:
     old "I don't buy it either"
     new "I don't buy it either"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene9.rpy:610
+translate chinese ep2_s9_eb7c66a1:
+
+    # ch "[name] can tell you, feels like half the Wolves hate my guts. And Nora...? Jesus..."
+    ch "[name] can tell you, feels like half the Wolves hate my guts. And Nora...? Jesus..."
+

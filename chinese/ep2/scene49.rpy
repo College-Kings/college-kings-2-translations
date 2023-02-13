@@ -748,3 +748,35 @@ translate chinese strings:
     old "Let's go sexier"
     new "Let's go sexier"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene49.rpy:77
+translate chinese ep2_s49_7b1aa7ae:
+
+    # li "Hey Lauren."
+    li "Hey Lauren."
+
+# game/ep2/scene49.rpy:82
+translate chinese ep2_s49_27096e83:
+
+    # u "(I guess she doesn't wanna greet me after what happened...)"
+    u "(I guess she doesn't wanna greet me after what happened...)"
+
+# game/ep2/scene49.rpy:84
+translate chinese ep2_s49_fb01cfd9:
+
+    # li "I know you said we're on a tight timeline, so let's dive right in."
+    li "I know you said we're on a tight timeline, so let's dive right in."
+
+# game/ep2/scene49.rpy:265
+translate chinese ep2_s49_c76ad328:
+
+    # li "Love your direction, I've just got a few ideas for things I wish I saw on store pages that'd really get me to pony up cash."
+    li "Love your direction, I've just got a few ideas for things I wish I saw on store pages that'd really get me to pony up cash."
+
+# game/ep2/scene49.rpy:352
+translate chinese ep2_s49_115f88e6:
+
+    # la "I mean you can barely see them, but whatever sells."
+    la "I mean you can barely see them, but whatever sells."
+

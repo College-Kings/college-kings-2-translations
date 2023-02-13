@@ -244,3 +244,65 @@ translate chinese strings:
     old "Do you consider your partner when picking lingerie?"
     new "Do you consider your partner when picking lingerie?"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene17b.rpy:151
+translate chinese ep2_s17b_19ffb7b6:
+
+    # u "Huh? I wasn't asking anything that loaded, but, um... all right?"
+    u "Huh? I wasn't asking anything that loaded, but, um... all right?"
+
+# game/ep2/scene17b.rpy:153
+translate chinese ep2_s17b_d5df9d71:
+
+    # u "(She must be in a bad mood. Guess I picked the wrong day to say hi.)"
+    u "(She must be in a bad mood. Guess I picked the wrong day to say hi.)"
+
+# game/ep2/scene17b.rpy:158
+translate chinese ep2_s17b_67d84483:
+
+    # li "Ugh, [name], I know..."
+    li "Ugh, [name], I know..."
+
+# game/ep2/scene17b.rpy:160
+translate chinese ep2_s17b_54dc24e5:
+
+    # li "I know you probably didn't mean anything bad by it..."
+    li "I know you probably didn't mean anything bad by it..."
+
+# game/ep2/scene17b.rpy:167
+translate chinese ep2_s17b_26082d19:
+
+    # u "You're usually so chill."
+    u "You're usually so chill."
+
+# game/ep2/scene17b.rpy:172
+translate chinese ep2_s17b_693d6954:
+
+    # li "I didn't mean to come off so snappy. I just..."
+    li "I didn't mean to come off so snappy. I just..."
+
+# game/ep2/scene17b.rpy:174
+translate chinese ep2_s17b_25c7f009:
+
+    # li "Blah. Now I feel like a bitch."
+    li "Blah. Now I feel like a bitch."
+
+# game/ep2/scene17b.rpy:176
+translate chinese ep2_s17b_5af59ffd:
+
+    # li "It's been a long day. Please don't mind me."
+    li "It's been a long day. Please don't mind me."
+
+# game/ep2/scene17b.rpy:186
+translate chinese ep2_s17b_982b3d44:
+
+    # u "I'll let you get back to lunch."
+    u "I'll let you get back to lunch."
+
+translate chinese strings:
+
+    # game/ep2/scene17b.rpy:57
+    old "Do you consider your partner when buying lingerie?"
+    new "Do you consider your partner when buying lingerie?"
+

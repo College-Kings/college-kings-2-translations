@@ -750,3 +750,47 @@ translate chinese strings:
     old "Throw it all out"
     new "Throw it all out"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene27.rpy:160
+translate chinese ep2_s27_a3dddd25:
+
+    # u "(Be careful what you wish for, Elijah...)"
+    u "(Be careful what you wish for, Elijah...)"
+
+# game/ep2/scene27.rpy:195
+translate chinese ep2_s27_55c90aa8:
+
+    # pe "There's this thing in the visual novel market where some players don't like when a character is attracted to someone other than you..."
+    pe "There's this thing in the visual novel market where some players don't like when a character is attracted to someone other than you..."
+
+# game/ep2/scene27.rpy:266
+translate chinese ep2_s27_55c90aa8_1:
+
+    # pe "There's this thing in the visual novel market where some players don't like when a character is attracted to someone other than you..."
+    pe "There's this thing in the visual novel market where some players don't like when a character is attracted to someone other than you..."
+
+# game/ep2/scene27.rpy:301
+translate chinese ep2_s27_8e5a353f:
+
+    # u "Is Imre... Was he trying to tell you something...?"
+    u "Is Imre... Was he trying to tell you something...?"
+
+# game/ep2/scene27.rpy:461
+translate chinese ep2_s27_bcbae7b2:
+
+    # u "Huh? Why'd the game stop?!"
+    u "Huh? Why'd the game stop?!"
+
+# game/ep2/scene27.rpy:527
+translate chinese ep2_s27_ef3edbfe:
+
+    # u "Hey, what happened to the game?"
+    u "Hey, what happened to the game?"
+
+translate chinese strings:
+
+    # game/ep2/scene27.rpy:288
+    old "Is Imre..."
+    new "Is Imre..."
+

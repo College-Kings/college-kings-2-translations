@@ -226,3 +226,29 @@ translate francais strings:
     old "Thanks Nora"
     new "Thanks Nora"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene35.rpy:60
+translate francais ep2_s35_3fde8f80:
+
+    # no "You guys worry too much. I got a deal on that too. Never underestimate my connections!"
+    no "You guys worry too much. I got a deal on that too. Never underestimate my connections!"
+
+# game/ep2/scene35.rpy:128
+translate francais ep2_s35_41b32769:
+
+    # djbp "DJ BIGGEST PHILLY IN THE HOUSE! HARDCORE!"
+    djbp "DJ BIGGEST PHILLY IN THE HOUSE! HARDCORE!"
+
+# game/ep2/scene35.rpy:148
+translate francais ep2_s35_e4632be8:
+
+    # u "Yeah, we've got to do something."
+    u "Yeah, we've got to do something."
+
+# game/ep2/scene35.rpy:157
+translate francais ep2_s35_a70b5827:
+
+    # no "If you want to do a round or two with the donation bucket, just come find me."
+    no "If you want to do a round or two with the donation bucket, just come find me."
+

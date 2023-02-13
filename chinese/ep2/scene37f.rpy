@@ -196,3 +196,65 @@ translate chinese strings:
     old "They'd miss us"
     new "They'd miss us"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene37f.rpy:35
+translate chinese ep2_s37f_d756650b:
+
+    # no "Maybe have some fun, go have a drink, relax for a bit before you get back to work."
+    no "Maybe have some fun, go have a drink, relax for a bit before you get back to work."
+
+# game/ep2/scene37f.rpy:37
+translate chinese ep2_s37f_16f5ca8b:
+
+    # no "You're going to wear yourself out at this rate."
+    no "You're going to wear yourself out at this rate."
+
+# game/ep2/scene37f.rpy:42
+translate chinese ep2_s37f_0bd2d86a:
+
+    # u "I think you're right."
+    u "I think you're right."
+
+# game/ep2/scene37f.rpy:47
+translate chinese ep2_s37f_1d440d98:
+
+    # no "Go chat with some people, hang out for a bit. Don't overdo it."
+    no "Go chat with some people, hang out for a bit. Don't overdo it."
+
+# game/ep2/scene37f.rpy:71
+translate chinese ep2_s37f_d06f057d:
+
+    # no "Unfortunately we're not doing great on donations so far."
+    no "Unfortunately we're not doing great on donations so far."
+
+# game/ep2/scene37f.rpy:73
+translate chinese ep2_s37f_9e73bc7f:
+
+    # u "Hmm... I'll try my best to turn it around."
+    u "Hmm... I'll try my best to turn it around."
+
+# game/ep2/scene37f.rpy:75
+translate chinese ep2_s37f_4d8be1be:
+
+    # no "Thank you."
+    no "Thank you."
+
+# game/ep2/scene37f.rpy:174
+translate chinese ep2_s37f_527fe258:
+
+    # no "Sorry [name], as much as I'd love to sneak off into the pool house with you, I'm just too stressed out right now."
+    no "Sorry [name], as much as I'd love to sneak off into the pool house with you, I'm just too stressed out right now."
+
+# game/ep2/scene37f.rpy:176
+translate chinese ep2_s37f_c08912ba:
+
+    # no "I really thought the party would be going better at this point."
+    no "I really thought the party would be going better at this point."
+
+# game/ep2/scene37f.rpy:186
+translate chinese ep2_s37f_871c8b8f:
+
+    # no "Hopefully..."
+    no "Hopefully..."
+

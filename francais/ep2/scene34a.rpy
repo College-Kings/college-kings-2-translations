@@ -564,3 +564,29 @@ translate francais strings:
     old "Reel it in"
     new "Reel it in"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene34a.rpy:134
+translate francais ep2_s34a_b2c4d48b:
+
+    # u "Just don't blow it and you'll be fine!"
+    u "Just don't blow it and you'll be fine!"
+
+# game/ep2/scene34a.rpy:146
+translate francais ep2_s34a_382095a0:
+
+    # u "(Holy hell.)"
+    u "(Holy hell.)"
+
+# game/ep2/scene34a.rpy:432
+translate francais ep2_s34a_d146a5d4:
+
+    # u "(Whoa.)"
+    u "(Whoa.)"
+
+translate francais strings:
+
+    # game/ep2/scene34a.rpy:121
+    old "Don't blow it"
+    new "Don't blow it"
+

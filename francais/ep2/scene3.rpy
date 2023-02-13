@@ -894,3 +894,23 @@ translate francais strings:
     old "Didn't mean anything"
     new "Didn't mean anything"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene3.rpy:179
+translate francais ep2_s3_d9ed946a:
+
+    # no "I was telling Mr. Matthews about the trip."
+    no "I was telling Mr. Matthews about the trip."
+
+# game/ep2/scene3.rpy:198
+translate francais ep2_s3_f5fc2b7c:
+
+    # u "(Baby's first threesome...)"
+    u "(Baby's first threesome...)"
+
+# game/ep2/scene3.rpy:293
+translate francais ep2_s3_1f96346a:
+
+    # no "The old Deers President? A couple of times, but she was a senior in my freshman year."
+    no "The old Deers President? A couple of times, but she was a senior in my freshman year."
+

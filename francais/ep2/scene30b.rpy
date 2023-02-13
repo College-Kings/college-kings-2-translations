@@ -764,3 +764,35 @@ translate francais strings:
     old "WHAT'S HAPPENING?!"
     new "WHAT'S HAPPENING?!"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene30b.rpy:426
+translate francais ep2_s30b_dean_comes_back_f5794b71:
+
+    # u "(I guess I've already got some useful intel. But I wonder if I could get anything else out of the Dean...)"
+    u "(I guess I've already got some useful intel. But I wonder if I could get anything else out of the Dean...)"
+
+# game/ep2/scene30b.rpy:624
+translate francais ep2_s30b_leave_dean_office_2737bd19:
+
+    # de "I'm sorry for the rush, but I really am quite busy. You can see yourselves out. Thanks again, Penelope."
+    de "I'm sorry for the rush, but I really am quite busy. You can see yourselves out. Thanks again, Penelope."
+
+translate francais strings:
+
+    # game/ep2/scene30b.rpy:326
+    old "don't worry, you'll get a full report, aha!"
+    new "don't worry, you'll get a full report, aha!"
+
+    # game/ep2/scene30b.rpy:327
+    old "I thought you can't teach an old dog new tricks but oscar proved me wrong"
+    new "I thought you can't teach an old dog new tricks but oscar proved me wrong"
+
+    # game/ep2/scene30b.rpy:352
+    old "Try \"password\""
+    new "Try \"password\""
+
+    # game/ep2/scene30b.rpy:352
+    old "Try \"guest\""
+    new "Try \"guest\""
+

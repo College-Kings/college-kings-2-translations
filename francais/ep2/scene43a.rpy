@@ -666,3 +666,11 @@ translate francais strings:
     old "Get your hands off her"
     new "Get your hands off her"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene43a.rpy:516
+translate francais ep2_s43a_c5d71480:
+
+    # au "I can't believe you screwed up my first shoot."
+    au "I can't believe you screwed up my first shoot."
+

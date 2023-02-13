@@ -100,3 +100,11 @@ translate francais strings:
     old "Talk to Elijah's hot mom"
     new "Talk to Elijah's hot mom"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene20c.rpy:22
+translate francais ep2_s20c_6ca1258c:
+
+    # fa "*Whispers loudly* I love you..."
+    fa "*Whispers loudly* I love you..."
+

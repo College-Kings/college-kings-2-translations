@@ -788,3 +788,133 @@ translate chinese strings:
     old "Shots! Shots! Shots!"
     new "Shots! Shots! Shots!"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene37e.rpy:31
+translate chinese ep2_s37e_click_faris_elijah_59606c00:
+
+    # fa "It's {i}Revengeancers{/i} fanart, Elijah! It doesn't have to be canon, it's just fans being thirsty."
+    fa "It's {i}Revengeancers{/i} fanart, Elijah! It doesn't have to be canon, it's just fans being thirsty."
+
+# game/ep2/scene37e.rpy:124
+translate chinese ep2_s37e_click_faris_elijah_6150151b:
+
+    # u "(About to test the limits of my patience and grace here."
+    u "(About to test the limits of my patience and grace here."
+
+# game/ep2/scene37e.rpy:126
+translate chinese ep2_s37e_click_faris_elijah_8c5f2ca3:
+
+    # u "We just needed to make this happen, buddy. Any means necessary."
+    u "We just needed to make this happen, buddy. Any means necessary."
+
+# game/ep2/scene37e.rpy:131
+translate chinese ep2_s37e_click_faris_elijah_deeed9a2_1:
+
+    # el "Ugh, so crass. Exactly the kind of thing I've come to expect of you."
+    el "Ugh, so crass. Exactly the kind of thing I've come to expect of you."
+
+# game/ep2/scene37e.rpy:232
+translate chinese ep2_s37e_click_drink_station_92197a3e:
+
+    # pe "*Slurring* Ehehehe, I feel GREAT!"
+    pe "*Slurring* Ehehehe, I feel GREAT!"
+
+# game/ep2/scene37e.rpy:237
+translate chinese ep2_s37e_click_drink_station_159fbbac:
+
+    # pe "*Slurring* But ohmigosh, I'm such a dumb-dumb. I'm been tryin' ta make a tequila sunrise all afternoon."
+    pe "*Slurring* But ohmigosh, I'm such a dumb-dumb. I'm been tryin' ta make a tequila sunrise all afternoon."
+
+# game/ep2/scene37e.rpy:239
+translate chinese ep2_s37e_click_drink_station_877115fc:
+
+    # pe "*Slurring* I keep mixin' thingsh but I can't remember the last... you know... the thing that goes into the thing..."
+    pe "*Slurring* I keep mixin' thingsh but I can't remember the last... you know... the thing that goes into the thing..."
+
+# game/ep2/scene37e.rpy:249
+translate chinese ep2_s37e_click_drink_station_7a9adaed:
+
+    # pe "*Slurring* Oh Jamesh..."
+    pe "*Slurring* Oh Jamesh..."
+
+# game/ep2/scene37e.rpy:253
+translate chinese ep2_s37e_click_drink_station_3f088036:
+
+    # pe "*Slurring*... I just want a tequila sunrise. Thatsh all I want, then no more drinkies for minkies."
+    pe "*Slurring*... I just want a tequila sunrise. Thatsh all I want, then no more drinkies for minkies."
+
+# game/ep2/scene37e.rpy:263
+translate chinese ep2_s37e_click_drink_station_6c5256d5:
+
+    # pe "*Slurring* You'd better... or else I'll... te-kill-ya!"
+    pe "*Slurring* You'd better... or else I'll... te-kill-ya!"
+
+# game/ep2/scene37e.rpy:265
+translate chinese ep2_s37e_click_drink_station_9a18da98:
+
+    # pe "*Slurring* Get it? Get it, [name]?"
+    pe "*Slurring* Get it? Get it, [name]?"
+
+# game/ep2/scene37e.rpy:283
+translate chinese ep2_s37e_click_drink_station_26cc531d:
+
+    # pe "*Slurring* Fudge yeah! Tequila! Sunrise!"
+    pe "*Slurring* Fudge yeah! Tequila! Sunrise!"
+
+# game/ep2/scene37e.rpy:288
+translate chinese ep2_s37e_click_drink_station_de83371f:
+
+    # u "(Okay, tequila sunrise. Obviously there's tequila... I'm trying to think of the other ingredients.)"
+    u "(Okay, tequila sunrise. Obviously there's tequila... I'm trying to think of the other ingredients.)"
+
+# game/ep2/scene37e.rpy:312
+translate chinese ep2_s37e_click_drink_station_86d687e3:
+
+    # pe "*Slurring* Thatsh not bad, but ish no tequila sunrise."
+    pe "*Slurring* Thatsh not bad, but ish no tequila sunrise."
+
+# game/ep2/scene37e.rpy:338
+translate chinese ep2_s37e_click_drink_station_78d4d0a5:
+
+    # pe "*Slurring* That tastes like butt. Thatsh just tequee and orangee."
+    pe "*Slurring* That tastes like butt. Thatsh just tequee and orangee."
+
+# game/ep2/scene37e.rpy:366
+translate chinese ep2_s37e_click_drink_station_1e30b4c8:
+
+    # pe "*Slurring* Mmm, I'm riding off into the tequila sunrise."
+    pe "*Slurring* Mmm, I'm riding off into the tequila sunrise."
+
+# game/ep2/scene37e.rpy:376
+translate chinese ep2_s37e_click_drink_station_0c1091e4:
+
+    # pe "*Slurring* Very well. I bid you good day, sir."
+    pe "*Slurring* Very well. I bid you good day, sir."
+
+# game/ep2/scene37e.rpy:625
+translate chinese ep2_s37e_click_drink_station_2ad45063:
+
+    # u "(This was one of Julia's favourites; of course Elijah wants a mom drink.)"
+    u "(This was one of Julia's favourites; of course Elijah wants a mom drink.)"
+
+# game/ep2/scene37e.rpy:788
+translate chinese ep2_s37e_click_drink_station_d03b9052:
+
+    # pe "*Slurring* Boo! I'm fine! I'ma keep tryin' to chase that tequila sunrise!"
+    pe "*Slurring* Boo! I'm fine! I'ma keep tryin' to chase that tequila sunrise!"
+
+translate chinese strings:
+
+    # game/ep2/scene37e.rpy:104
+    old "\"Sex with your mom\" joke"
+    new "\"Sex with your mom\" joke"
+
+    # game/ep2/scene37e.rpy:274
+    old "Make her a drink"
+    new "Make her a drink"
+
+    # game/ep2/scene37e.rpy:417
+    old "Orange slice?"
+    new "Orange slice?"
+

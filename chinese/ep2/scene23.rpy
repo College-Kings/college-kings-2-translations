@@ -412,3 +412,59 @@ translate chinese strings:
     old "Ryan"
     new "Ryan"
 
+# TODO: Translation updated at 2023-02-13 01:35
+
+# game/ep2/scene23.rpy:55
+translate chinese ep2_s23_88d710ce:
+
+    # u "(I should check my phone.)"
+    u "(I should check my phone.)"
+
+# game/ep2/scene23.rpy:191
+translate chinese ep2_s23_9cb3677b:
+
+    # pe "Oh, just hush up and keep playing! Pretty please."
+    pe "Oh, just hush up and keep playing! Pretty please."
+
+# game/ep2/scene23.rpy:208
+translate chinese ep2_s23_ff10ea85:
+
+    # n2 "(I wonder why my boyfriend was so cool with not sitting next to me on the first day...)"
+    n2 "(I wonder why my boyfriend was so cool with not sitting next to me on the first day...)"
+
+# game/ep2/scene23.rpy:330
+translate chinese ep2_s23_71799852:
+
+    # pe "The Frog Elijah? Not entirely sure what you mean with the demographic comment..."
+    pe "The Frog Elijah? Not entirely sure what you mean with the demographic comment..."
+
+# game/ep2/scene23.rpy:332
+translate chinese ep2_s23_404045ba:
+
+    # pe "But, if you mean that he's an avid gamer..."
+    pe "But, if you mean that he's an avid gamer..."
+
+# game/ep2/scene23.rpy:334
+translate chinese ep2_s23_34f46580:
+
+    # pe "Sure. I guess he'd fit the bill."
+    pe "Sure. I guess he'd fit the bill."
+
+# game/ep2/scene23.rpy:364
+translate chinese ep2_s23_71799852_1:
+
+    # pe "The Frog Elijah? Not entirely sure what you mean with the demographic comment..."
+    pe "The Frog Elijah? Not entirely sure what you mean with the demographic comment..."
+
+# game/ep2/scene23.rpy:366
+translate chinese ep2_s23_404045ba_1:
+
+    # pe "But, if you mean that he's an avid gamer..."
+    pe "But, if you mean that he's an avid gamer..."
+
+# game/ep2/scene23.rpy:368
+translate chinese ep2_s23_34f46580_1:
+
+    # pe "Sure. I guess he'd fit the bill."
+    pe "Sure. I guess he'd fit the bill."
+

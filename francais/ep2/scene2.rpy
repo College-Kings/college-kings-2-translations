@@ -518,3 +518,47 @@ translate francais strings:
     old "I mean, I wouldn't say no"
     new "I mean, I wouldn't say no"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene2.rpy:104
+translate francais ep2_s2_de225af8:
+
+    # am "I think this one's going to be a doozy."
+    am "I think this one's going to be a doozy."
+
+# game/ep2/scene2.rpy:152
+translate francais ep2_s2_c014563b:
+
+    # u "Fine. But I reserve the right to complain about it..."
+    u "Fine. But I reserve the right to complain about it..."
+
+# game/ep2/scene2.rpy:166
+translate francais ep2_s2_35ab3ef8:
+
+    # am "Phew! Thought I was going to have to really fight you on that!"
+    am "Phew! Thought I was going to have to really fight you on that!"
+
+# game/ep2/scene2.rpy:168
+translate francais ep2_s2_6351ecc2:
+
+    # am "You were being such a..."
+    am "You were being such a..."
+
+# game/ep2/scene2.rpy:173
+translate francais ep2_s2_dc1774a7:
+
+    # u "Say that word and I walk. Tell me about the case, damnit!"
+    u "Say that word and I walk. Tell me about the case, damnit!"
+
+# game/ep2/scene2.rpy:183
+translate francais ep2_s2_a91caa77:
+
+    # am "So it sounds like the San Vallejo College administration is getting squirrely with the frats and sororities."
+    am "So it sounds like the San Vallejo College administration is getting squirrely with the frats and sororities."
+
+# game/ep2/scene2.rpy:230
+translate francais ep2_s2_4efc1053:
+
+    # am "So, how do you want to play this, gumshoe?"
+    am "So, how do you want to play this, gumshoe?"
+

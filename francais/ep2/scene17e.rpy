@@ -108,3 +108,47 @@ translate francais ep2_s17e_7a847472:
     # la "Thanks!"
     la "Thanks!"
 
+# TODO: Translation updated at 2023-02-13 01:36
+
+# game/ep2/scene17e.rpy:70
+translate francais ep2_s17e_9b13577c:
+
+    # u "...?"
+    u "...?"
+
+# game/ep2/scene17e.rpy:85
+translate francais ep2_s17e_891155b2:
+
+    # u "Sorry, I'm just about ready to hit my bed and crash out, these past few days have been crazy..."
+    u "Sorry, I'm just about ready to hit my bed and crash out, these past few days have been crazy..."
+
+# game/ep2/scene17e.rpy:117
+translate francais ep2_s17e_reject_04e5a24d:
+
+    # la "Well, I'm gonna get back to research and planning."
+    la "Well, I'm gonna get back to research and planning."
+
+# game/ep2/scene17e.rpy:119
+translate francais ep2_s17e_reject_cc624c6b:
+
+    # la "Have to keep my nose to the grindstone for this lingerie thing to stand a chance, after all."
+    la "Have to keep my nose to the grindstone for this lingerie thing to stand a chance, after all."
+
+# game/ep2/scene17e.rpy:124
+translate francais ep2_s17e_reject_430c7242:
+
+    # u "You've got this, Lauren."
+    u "You've got this, Lauren."
+
+# game/ep2/scene17e.rpy:129
+translate francais ep2_s17e_reject_7a847472:
+
+    # la "Thanks!"
+    la "Thanks!"
+
+translate francais strings:
+
+    # game/ep2/scene17e.rpy:77
+    old "Hear her out"
+    new "Hear her out"
+
