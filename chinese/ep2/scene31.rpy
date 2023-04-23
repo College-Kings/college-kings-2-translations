@@ -522,3 +522,89 @@ translate chinese ep2_s31_mc_missed_connection_468d5643:
     # am "Definitely not yet. For now, let's keep our ear to the ground, see if we hear anything else."
     am "Definitely not yet. For now, let's keep our ear to the ground, see if we hear anything else."
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene31.rpy:177
+translate chinese ep2_s31_connect_the_clues_5daad3a4:
+
+    # am "Does this sound right? Is this the working theory we want to move ahead on?"
+    am ""
+
+# game/ep2/scene31.rpy:184
+translate chinese ep2_s31_connect_the_clues_b0d54ea1:
+
+    # u "Yeah, that's it. I think we've got it."
+    u ""
+
+# game/ep2/scene31.rpy:187
+translate chinese ep2_s31_connect_the_clues_f8c6bab1:
+
+    # u "I don't think we're quite there yet. Let's take another look; maybe we're missing something."
+    u ""
+
+# game/ep2/scene31.rpy:195
+translate chinese ep2_s31_connect_the_clues_de49784f:
+
+    # am "My dude, you're onto something with this."
+    am ""
+
+# game/ep2/scene31.rpy:200
+translate chinese ep2_s31_connect_the_clues_7c5a4bbb:
+
+    # u "All the clues are pointing to problems with the Apes and the Wolves. Sure, the other frats, even the sororities, got scrutinized by the college..."
+    u ""
+
+# game/ep2/scene31.rpy:202
+translate chinese ep2_s31_connect_the_clues_a138dd76:
+
+    # u "But it's the Apes and Wolves that are the target. And whatever the Dean's done. It hasn't been enough."
+    u ""
+
+# game/ep2/scene31.rpy:210
+translate chinese ep2_s31_connect_the_clues_9054c905:
+
+    # am "Yes! We've fucking got something here, I just know it."
+    am ""
+
+# game/ep2/scene31.rpy:215
+translate chinese ep2_s31_connect_the_clues_bbd6d3b1:
+
+    # u "This is bigger than just the Apes and Wolves, but it all points back to them. Elijah blames them for the Frogs possibly getting in shit."
+    u ""
+
+# game/ep2/scene31.rpy:217
+translate chinese ep2_s31_connect_the_clues_6b9d8637:
+
+    # u "Meanwhile, the college is telling teachers with connections to the frats to watch out—specifically the Wolves, in the case of Ms. Rose..."
+    u ""
+
+# game/ep2/scene31.rpy:219
+translate chinese ep2_s31_connect_the_clues_1205e630:
+
+    # u "So it's not about the other frats and sororities, but it does affect them. This is about the Wolves, probably the Apes too."
+    u ""
+
+# game/ep2/scene31.rpy:227
+translate chinese ep2_s31_connect_the_clues_e1e1ddc8:
+
+    # am "Oh yeah, we are absolutely onto something here."
+    am ""
+
+# game/ep2/scene31.rpy:232
+translate chinese ep2_s31_connect_the_clues_3ffb0279:
+
+    # u "Ms. Rose gets a warning about her close ties with the Wolves."
+    u ""
+
+# game/ep2/scene31.rpy:235
+translate chinese ep2_s31_connect_the_clues_c964b792:
+
+    # u "(Maybe a little TOO close in my case. God, I really hope this isn't about us...)"
+    u ""
+
+# game/ep2/scene31.rpy:237
+translate chinese ep2_s31_connect_the_clues_432cad7c:
+
+    # u "And then the Dean turns around and says it's a huge college issue, jobs on the line, but it all leads back to the Wolves and Apes."
+    u ""
+

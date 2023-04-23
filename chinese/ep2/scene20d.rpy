@@ -450,3 +450,227 @@ translate chinese ep2_s20c_elijah_considers_party_fb65573d:
     # u "I'll get out of your hair. Leave you to get your hand sweat and genetic juices all over everything."
     u "I'll get out of your hair. Leave you to get your hand sweat and genetic juices all over everything."
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene20d.rpy:111
+translate chinese ep2_s20d_ccb0b3be:
+
+    # el "Just like before. I'm sitting here wondering... what's in it for Elijah?"
+    el ""
+
+# game/ep2/scene20d.rpy:118
+translate chinese ep2_s20d_a3590a6e:
+
+    # u "Elijah, need I remind you who shows up to pool parties?"
+    u ""
+
+# game/ep2/scene20d.rpy:120
+translate chinese ep2_s20d_885597a0:
+
+    # el "..."
+    el ""
+
+# game/ep2/scene20d.rpy:125
+translate chinese ep2_s20d_228a71da:
+
+    # el "People... who want... to swim?"
+    el ""
+
+# game/ep2/scene20d.rpy:130
+translate chinese ep2_s20d_25f50231:
+
+    # u "Girls, Elijah. Girls in bikinis."
+    u ""
+
+# game/ep2/scene20d.rpy:135
+translate chinese ep2_s20d_42da9e60:
+
+    # u "Hot girls in bikinis. Hot girls like Chloe."
+    u ""
+
+# game/ep2/scene20d.rpy:140
+translate chinese ep2_s20d_36c87061:
+
+    # el "Oh. Chloe's... going to be there?"
+    el ""
+
+# game/ep2/scene20d.rpy:145
+translate chinese ep2_s20d_7e771963:
+
+    # u "Chloe. In a bikini. A tiny one, barely able to contain those big, perky tits."
+    u ""
+
+# game/ep2/scene20d.rpy:147
+translate chinese ep2_s20d_2495bfea:
+
+    # u "She might get a little cold in the water, her nips would pop out, no hiding that."
+    u ""
+
+# game/ep2/scene20d.rpy:149
+translate chinese ep2_s20d_3d9421f0:
+
+    # u "Maybe her suit is {i}way too{/i} little. The strings could come unattached with such gigantic knockers. Nip slips happen."
+    u ""
+
+# game/ep2/scene20d.rpy:151
+translate chinese ep2_s20d_631bdeeb:
+
+    # u "That's why you should let us use it."
+    u ""
+
+# game/ep2/scene20d.rpy:156
+translate chinese ep2_s20d_a3b9e0c4:
+
+    # el "... Well, if Chloe's coming, I guess..."
+    el ""
+
+# game/ep2/scene20d.rpy:165
+translate chinese ep2_s20d_e94f674c:
+
+    # u "Think about it, buddy. A bunch of girls, just wandering around your house. You could show them around."
+    u ""
+
+# game/ep2/scene20d.rpy:167
+translate chinese ep2_s20d_5285a6a6:
+
+    # u "Maybe they forgot to put on sunscreen, and someone would ask you to get their back."
+    u ""
+
+# game/ep2/scene20d.rpy:169
+translate chinese ep2_s20d_4243b1c4:
+
+    # u "And then another girl would see how good of a job you did. So she asks. And another."
+    u ""
+
+# game/ep2/scene20d.rpy:180
+translate chinese ep2_s20d_e1b8e170:
+
+    # el "You really think I care about that? I'm not some simp like you, [name]. I actually have a little self-respect."
+    el ""
+
+# game/ep2/scene20d.rpy:182
+translate chinese ep2_s20d_f85a52ce:
+
+    # el "I think we're done here. You know the way out. Feel free to not come back."
+    el ""
+
+# game/ep2/scene20d.rpy:190
+translate chinese ep2_s20d_b22e5d36:
+
+    # u "I guess the idea of socializing with your peers isn't a motivating factor in most of your decisions."
+    u ""
+
+# game/ep2/scene20d.rpy:195
+translate chinese ep2_s20d_16cb8e82:
+
+    # el "Please. Popularity is an ephemeral status predicated on shallow social evaluation and constant trivial judgements."
+    el ""
+
+# game/ep2/scene20d.rpy:200
+translate chinese ep2_s20d_7b54bbea:
+
+    # u "(That's a fancy way of admitting you're a loser.)"
+    u ""
+
+# game/ep2/scene20d.rpy:208
+translate chinese ep2_s20d_792d34d2:
+
+    # el "Hmm, that said, it would get Mom off my back."
+    el ""
+
+# game/ep2/scene20d.rpy:210
+translate chinese ep2_s20d_0c34493e:
+
+    # el "She's always asking why I don't invite people over. I could get it done in one go."
+    el ""
+
+# game/ep2/scene20d.rpy:220
+translate chinese ep2_s20d_1c1d7b07:
+
+    # el "Maybe the cool kids can go be cool and popular at the public pool. I'll check out all your cool pics on Kiwii."
+    el ""
+
+# game/ep2/scene20d.rpy:222
+translate chinese ep2_s20d_04d13298:
+
+    # el "From my private pool. Now leave."
+    el ""
+
+# game/ep2/scene20d.rpy:232
+translate chinese ep2_s20d_a541869a:
+
+    # u "(This is going to suck.)"
+    u ""
+
+# game/ep2/scene20d.rpy:234
+translate chinese ep2_s20d_17ca5528:
+
+    # u "I'm going to level with you, Elijah. I've always wanted to have a private pool."
+    u ""
+
+# game/ep2/scene20d.rpy:236
+translate chinese ep2_s20d_e8676987:
+
+    # u "I know a lot of the others will feel the same way."
+    u ""
+
+# game/ep2/scene20d.rpy:238
+translate chinese ep2_s20d_d67ee6a6:
+
+    # u "Don't you think that we should all have a taste of the good life? Even if it's just for one day?"
+    u ""
+
+# game/ep2/scene20d.rpy:240
+translate chinese ep2_s20d_9f14cc21:
+
+    # u "Please, Elijah? Show us what it's like. I'm begging you."
+    u ""
+
+# game/ep2/scene20d.rpy:246
+translate chinese ep2_s20d_3f9a1b75:
+
+    # el "Oh, this is too good. I could listen to you grovel about how much all your pitiable little lives suck for hours."
+    el ""
+
+# game/ep2/scene20d.rpy:251
+translate chinese ep2_s20d_853a6384:
+
+    # el "That is so incredibly pathetic."
+    el ""
+
+# game/ep2/scene20d.rpy:255
+translate chinese ep2_s20d_bdc3ab6b:
+
+    # el "But I guess it says a lot about how horrible it is being poor. Fine. I'll take pity on you. Since you begged."
+    el ""
+
+# game/ep2/scene20d.rpy:257
+translate chinese ep2_s20d_e2a361d6:
+
+    # el "I wish I'd caught that on camera."
+    el ""
+
+# game/ep2/scene20d.rpy:262
+translate chinese ep2_s20d_f487993a:
+
+    # el "I'll talk to Mom about it. You owe me, [name]."
+    el ""
+
+# game/ep2/scene20d.rpy:267
+translate chinese ep2_s20d_bb6a72c0:
+
+    # u "(YES! Nailed it, against all odds.)"
+    u ""
+
+# game/ep2/scene20d.rpy:269
+translate chinese ep2_s20d_fb65573d:
+
+    # u "I'll get out of your hair. Leave you to get your hand sweat and genetic juices all over everything."
+    u ""
+
+# game/ep2/scene20d.rpy:274
+translate chinese ep2_s20d_f08d1b99:
+
+    # el "Yeah. Leave. Now."
+    el ""
+

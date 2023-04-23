@@ -1212,3 +1212,11 @@ translate francais strings:
     old "If you have to ask that..."
     new "If you have to ask that..."
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+translate francais strings:
+
+    # game/ep2/scene50.rpy:462
+    old "Hell yeah!"
+    new ""
+

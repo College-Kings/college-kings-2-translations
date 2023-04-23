@@ -826,3 +826,11 @@ translate francais strings:
     old "Follow suit"
     new "Follow suit"
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+translate francais strings:
+
+    # game/ep2/scene31a.rpy:194
+    old "She'll be fine"
+    new ""
+

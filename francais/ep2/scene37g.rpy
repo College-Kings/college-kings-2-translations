@@ -326,3 +326,11 @@ translate francais strings:
     old "Tell Ryan to shut up"
     new "Tell Ryan to shut up"
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+translate francais strings:
+
+    # game/ep2/scene37g.rpy:124
+    old "Stay quiet"
+    new ""
+

@@ -404,3 +404,161 @@ translate chinese strings:
     old "Tell about drink"
     new "Tell about drink"
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene38c.rpy:211
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_7786f396:
+
+    # el "You're a fucking asshole! I... I could sue you for assault!"
+    el ""
+
+# game/ep2/scene38c.rpy:216
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_2915406f:
+
+    # u "Have a good night, Elijah!"
+    u ""
+
+# game/ep2/scene38c.rpy:221
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_08325fae:
+
+    # ri "I know he was being a dick, but that was still pretty mean."
+    ri ""
+
+# game/ep2/scene38c.rpy:226
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_060b2a43:
+
+    # u "I could've done worse. At least he's out of your hair."
+    u ""
+
+# game/ep2/scene38c.rpy:231
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_3821130a:
+
+    # ri "*Sigh* I normally don't support bullying, even if Elijah's being an idiot."
+    ri ""
+
+# game/ep2/scene38c.rpy:233
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_238f6434:
+
+    # ri "But he was being even more... Elijah than normal tonight."
+    ri ""
+
+# game/ep2/scene38c.rpy:236
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_3e859eaf:
+
+    # u "(I'm very, very tempted. Let's keep the option on the table.)"
+    u ""
+
+# game/ep2/scene38c.rpy:247
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_a43871d9:
+
+    # u "Hey, Elijah, remember earlier today when I made you a drink?"
+    u ""
+
+# game/ep2/scene38c.rpy:252
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_8523e765:
+
+    # el "Yeah."
+    el ""
+
+# game/ep2/scene38c.rpy:257
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_c2e0a4e1:
+
+    # u "I pissed in it."
+    u ""
+
+# game/ep2/scene38c.rpy:259
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_885597a0:
+
+    # el "..."
+    el ""
+
+# game/ep2/scene38c.rpy:264
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_a0024a8e:
+
+    # el "You're lying."
+    el ""
+
+# game/ep2/scene38c.rpy:269
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_9011450e:
+
+    # u "I'm really not. When you turned your back, I pissed in it."
+    u ""
+
+# game/ep2/scene38c.rpy:279
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_e8d1df96:
+
+    # el "You're a psychopath! If I find out that's true..."
+    el ""
+
+# game/ep2/scene38c.rpy:284
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_2915406f_1:
+
+    # u "Have a good night, Elijah!"
+    u ""
+
+# game/ep2/scene38c.rpy:289
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_51c229da:
+
+    # ri "Dude."
+    ri ""
+
+# game/ep2/scene38c.rpy:291
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_7c895cf3:
+
+    # ri "Please tell me you were kidding?"
+    ri ""
+
+# game/ep2/scene38c.rpy:296
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_36cbefce:
+
+    # u "I'll never tell. But hey, at least I got him out of your hair."
+    u ""
+
+# game/ep2/scene38c.rpy:301
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_3821130a_1:
+
+    # ri "*Sigh* I normally don't support bullying, even if Elijah's being an idiot."
+    ri ""
+
+# game/ep2/scene38c.rpy:303
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_238f6434_1:
+
+    # ri "But he was being even more... Elijah than normal tonight."
+    ri ""
+
+# game/ep2/scene38c.rpy:312
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_2d0b44bf:
+
+    # el "I've always thought it'd be so nice to have a girl to bring home to the parents."
+    el ""
+
+# game/ep2/scene38c.rpy:314
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_77772c05:
+
+    # el "She could use the pool any time. We also have a huge screen in the rec room."
+    el ""
+
+# game/ep2/scene38c.rpy:319
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_c65593b0:
+
+    # ri "Uh, that's nice. But I asked you about the next issue of the paper."
+    ri ""
+
+# game/ep2/scene38c.rpy:324
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_27baa636:
+
+    # ri "Hey! [name]! I was {i}hoping to talk to you{/i}!"
+    ri ""
+
+# game/ep2/scene38c.rpy:329
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_91ade3b4:
+
+    # el "We were actually in the middle of a conversation. It's very rude to interrupt."
+    el ""
+
+# game/ep2/scene38c.rpy:334
+translate chinese ep2_s38c_click_riley_elijah_nsfw_skip_label1_a28b2d5d:
+
+    # ri "*Mouths* Save me."
+    ri ""
+

@@ -1206,3 +1206,15 @@ translate francais strings:
     old "No, no one particular"
     new "No, no one particular"
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+translate francais strings:
+
+    # game/ep2/scene26a.rpy:534
+    old "Chloe"
+    new ""
+
+    # game/ep2/scene26a.rpy:534
+    old "Lindsey"
+    new ""
+

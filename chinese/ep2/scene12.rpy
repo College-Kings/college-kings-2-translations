@@ -836,3 +836,11 @@ translate chinese strings:
     old "Double down"
     new "Double down"
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+translate chinese strings:
+
+    # game/ep2/scene12.rpy:287
+    old "Be honest"
+    new ""
+

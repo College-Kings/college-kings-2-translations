@@ -734,3 +734,59 @@ translate francais strings:
     old "I'll owe you"
     new "I'll owe you"
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+# game/ep2/scene20a.rpy:419
+translate francais ep2_s20a_9212a343:
+
+    # fa "Sorry again, it's a security risk. I can get in trouble for breaking protocol."
+    fa ""
+
+# game/ep2/scene20a.rpy:424
+translate francais ep2_s20a_329b2f6a:
+
+    # am "Don't worry, [name]. I got this."
+    am ""
+
+# game/ep2/scene20a.rpy:429
+translate francais ep2_s20a_c6bc63dd:
+
+    # am "Faris, we may not have a license or warrant, but I believe I have a couple of compelling arguments for you letting us in."
+    am ""
+
+# game/ep2/scene20a.rpy:434
+translate francais ep2_s20a_7b6654c4_2:
+
+    # fa "..."
+    fa ""
+
+# game/ep2/scene20a.rpy:436
+translate francais ep2_s20a_2747e223:
+
+    # fa "Boobies."
+    fa ""
+
+# game/ep2/scene20a.rpy:438
+translate francais ep2_s20a_b0a0c17e:
+
+    # am "That's right, big boy. Maybe if you take us to Elijah, I can make some more compelling arguments later."
+    am ""
+
+# game/ep2/scene20a.rpy:440
+translate francais ep2_s20a_f49fef72:
+
+    # fa "YUP! I CAN DEFINITELY DO THAT!"
+    fa ""
+
+# game/ep2/scene20a.rpy:445
+translate francais ep2_s20a_d42f6670:
+
+    # fa "I guess I can deal with an inquest from Frogs HQ. Okay, come in."
+    fa ""
+
+# game/ep2/scene20a.rpy:447
+translate francais ep2_s20a_6f614b21:
+
+    # fa "Just don't touch anything. And don't make eye contact with anyone. And don't let them sense your fear."
+    fa ""
+

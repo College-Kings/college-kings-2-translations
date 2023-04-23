@@ -454,3 +454,11 @@ translate francais strings:
     old "Are you still using?"
     new "Are you still using?"
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+translate francais strings:
+
+    # game/ep2/scene34b.rpy:42
+    old "You look great"
+    new ""
+

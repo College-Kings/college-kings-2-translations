@@ -290,3 +290,11 @@ translate chinese strings:
     old "Lots of work"
     new "Lots of work"
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+translate chinese strings:
+
+    # game/ep2/scene38b.rpy:21
+    old "Not yet"
+    new ""
+

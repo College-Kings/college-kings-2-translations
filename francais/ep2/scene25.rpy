@@ -560,3 +560,161 @@ translate francais strings:
     old "Sexy picnic blanket?"
     new "Sexy picnic blanket?"
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+# game/ep2/scene25.rpy:231
+translate francais ep2_s25_nsfwSkipLabel2_9e426175:
+
+    # la "C'mon, [name]..."
+    la ""
+
+# game/ep2/scene25.rpy:233
+translate francais ep2_s25_nsfwSkipLabel2_d0638d90:
+
+    # la "Getting this right is important to me. Don't kick me when I'm down."
+    la ""
+
+# game/ep2/scene25.rpy:238
+translate francais ep2_s25_nsfwSkipLabel2_ae66dca4:
+
+    # u "Ah, shit. Sorry for the bad-taste joke."
+    u ""
+
+# game/ep2/scene25.rpy:240
+translate francais ep2_s25_nsfwSkipLabel2_53a244f0:
+
+    # u "Didn't realize it'd sound so gross out loud."
+    u ""
+
+# game/ep2/scene25.rpy:263
+translate francais ep2_s25_nsfwSkipLabel2_3309be15:
+
+    # la "I knew I couldn't sew..."
+    la ""
+
+# game/ep2/scene25.rpy:265
+translate francais ep2_s25_nsfwSkipLabel2_3d3773a2:
+
+    # la "I knew I should've asked for help..."
+    la ""
+
+# game/ep2/scene25.rpy:270
+translate francais ep2_s25_nsfwSkipLabel2_6e9b40cf:
+
+    # u "But I can't sew, Lauren."
+    u ""
+
+# game/ep2/scene25.rpy:275
+translate francais ep2_s25_nsfwSkipLabel2_ef2e9f1b:
+
+    # la "Not from you, from Lindsey. Remember? She offered to help."
+    la ""
+
+# game/ep2/scene25.rpy:277
+translate francais ep2_s25_nsfwSkipLabel2_bb300305:
+
+    # la "Still, this all feels too personal to bring in an acquaintance for..."
+    la ""
+
+# game/ep2/scene25.rpy:282
+translate francais ep2_s25_nsfwSkipLabel2_f399ef25:
+
+    # u "Why not Autumn?"
+    u ""
+
+# game/ep2/scene25.rpy:284
+translate francais ep2_s25_nsfwSkipLabel2_a5d18256:
+
+    # u "You could make this a little family-run business."
+    u ""
+
+# game/ep2/scene25.rpy:289
+translate francais ep2_s25_nsfwSkipLabel2_e47c5356:
+
+    # la "I can't bring her into this! Are you crazy?"
+    la ""
+
+# game/ep2/scene25.rpy:291
+translate francais ep2_s25_nsfwSkipLabel2_399f1ab3:
+
+    # la "She can't know I'm into underwear!"
+    la ""
+
+# game/ep2/scene25.rpy:300
+translate francais ep2_s25_nsfwSkipLabel2_077dd9ea:
+
+    # u "Okay, point taken. Tell her in your own time..."
+    u ""
+
+# game/ep2/scene25.rpy:302
+translate francais ep2_s25_nsfwSkipLabel2_89b9fd5b:
+
+    # u "And, meanwhile, let's hit up Lindsey for some help here."
+    u ""
+
+# game/ep2/scene25.rpy:304
+translate francais ep2_s25_nsfwSkipLabel2_14107c86:
+
+    # u "She's the only real option if you want to avoid getting family involved."
+    u ""
+
+# game/ep2/scene25.rpy:309
+translate francais ep2_s25_nsfwSkipLabel2_9507e1c3:
+
+    # la "Hmm. Too personal or otherwise, I guess you're right."
+    la ""
+
+# game/ep2/scene25.rpy:311
+translate francais ep2_s25_nsfwSkipLabel2_bcff77c0:
+
+    # la "I need to succeed at this, I need the help, and Lindsey's offering."
+    la ""
+
+# game/ep2/scene25.rpy:313
+translate francais ep2_s25_nsfwSkipLabel2_359a0416:
+
+    # la "I'll call her. Maybe we'll all bond a bit."
+    la ""
+
+# game/ep2/scene25.rpy:318
+translate francais ep2_s25_nsfwSkipLabel2_db5f099e:
+
+    # u "If you're successful, Autumn's going to find out sooner or later."
+    u ""
+
+# game/ep2/scene25.rpy:320
+translate francais ep2_s25_nsfwSkipLabel2_49f09c94:
+
+    # u "May as well be proud about it now and score an awesome helper right from the family."
+    u ""
+
+# game/ep2/scene25.rpy:322
+translate francais ep2_s25_nsfwSkipLabel2_d4942221:
+
+    # u "Seriously. Being bashful's bad for business."
+    u ""
+
+# game/ep2/scene25.rpy:327
+translate francais ep2_s25_nsfwSkipLabel2_c6be4b1a:
+
+    # la "Ugh..."
+    la ""
+
+# game/ep2/scene25.rpy:329
+translate francais ep2_s25_nsfwSkipLabel2_188107c0:
+
+    # la "You may have a point."
+    la ""
+
+# game/ep2/scene25.rpy:331
+translate francais ep2_s25_nsfwSkipLabel2_a4550a76:
+
+    # la "And she's the more lax one between us, so maybe I'm overthinking how she'll react."
+    la ""
+
+# game/ep2/scene25.rpy:333
+translate francais ep2_s25_nsfwSkipLabel2_c9b04728:
+
+    # la "You know what? I'll call Autumn and see if she can come over."
+    la ""
+

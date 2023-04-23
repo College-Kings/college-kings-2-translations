@@ -796,3 +796,239 @@ translate francais strings:
     old "Try \"guest\""
     new "Try \"guest\""
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+# game/ep2/scene30b.rpy:415
+translate francais ep2_s30b_dean_comes_back_b555b822:
+
+    # u "Actually, Dean, before we leave, I was hoping I could ask you something."
+    u ""
+
+# game/ep2/scene30b.rpy:420
+translate francais ep2_s30b_dean_comes_back_c7fe9f2e:
+
+    # de "Out with it, [name]. I don't have all day."
+    de ""
+
+# game/ep2/scene30b.rpy:427
+translate francais ep2_s30b_dean_comes_back_9b9aee28:
+
+    # u "I've been hearing a lot of rumors about the college and the frats. I just wanted to know if there was something going on."
+    u ""
+
+# game/ep2/scene30b.rpy:432
+translate francais ep2_s30b_dean_comes_back_12001eee:
+
+    # de "I don't think we've made a secret that we're trying to curb poor student conduct, including our fraternities."
+    de ""
+
+# game/ep2/scene30b.rpy:435
+translate francais ep2_s30b_dean_comes_back_4821dde1:
+
+    # de "You know that better than anyone after that stunt the Apes pulled."
+    de ""
+
+# game/ep2/scene30b.rpy:437
+translate francais ep2_s30b_dean_comes_back_adbc3833:
+
+    # de "The Wolves and Apes, especially, will receive fair warning if the college decides to take any action."
+    de ""
+
+# game/ep2/scene30b.rpy:445
+translate francais ep2_s30b_dean_comes_back_cabead24:
+
+    # u "To be perfectly honest, Dean Harrison, I'm looking into what's going on with the frats on behalf of someone."
+    u ""
+
+# game/ep2/scene30b.rpy:450
+translate francais ep2_s30b_dean_comes_back_b4b1750d:
+
+    # de "Looking... into? [name], I would advise you not to overstep your boundaries as a student."
+    de ""
+
+# game/ep2/scene30b.rpy:452
+translate francais ep2_s30b_dean_comes_back_8781cc37:
+
+    # de "Interference with college affairs can get you in serious trouble, as Ms. Cross knows all too well."
+    de ""
+
+# game/ep2/scene30b.rpy:460
+translate francais ep2_s30b_dean_comes_back_e3ad8a11:
+
+    # u "As a member of a frat, and a student of SVC, I have a number of concerns about rumors flying around."
+    u ""
+
+# game/ep2/scene30b.rpy:462
+translate francais ep2_s30b_dean_comes_back_f2079fc8:
+
+    # u "I was hoping, as a member of the administration, you would be willing to address them."
+    u ""
+
+# game/ep2/scene30b.rpy:467
+translate francais ep2_s30b_dean_comes_back_fea9c53a:
+
+    # de "Oh? What... kind of concerns, exactly?"
+    de ""
+
+# game/ep2/scene30b.rpy:473
+translate francais ep2_s30b_dean_comes_back_1fb6340e:
+
+    # u "I overheard some faculty members talking about... well, you. That you're worried."
+    u ""
+
+# game/ep2/scene30b.rpy:475
+translate francais ep2_s30b_dean_comes_back_6d8b6e36:
+
+    # u "Makes me think there's something larger going on the students here aren't aware of."
+    u ""
+
+# game/ep2/scene30b.rpy:481
+translate francais ep2_s30b_dean_comes_back_072a7508:
+
+    # u "Just concerns about the frats. I get the sense there's something big going on, and I figured you'd be the person to talk to."
+    u ""
+
+# game/ep2/scene30b.rpy:486
+translate francais ep2_s30b_dean_comes_back_fe79fe1c:
+
+    # de "[name], I promise you that the administration and board has everything under control."
+    de ""
+
+# game/ep2/scene30b.rpy:494
+translate francais ep2_s30b_dean_comes_back_a4a722bc:
+
+    # u "I overheard a teacher talking about how they were concerned for their job with some of the things going on."
+    u ""
+
+# game/ep2/scene30b.rpy:499
+translate francais ep2_s30b_dean_comes_back_857a57ad:
+
+    # de "Oh? Well, that could very well be a simple, reasonable concern. Teachers are only human, after all."
+    de ""
+
+# game/ep2/scene30b.rpy:505
+translate francais ep2_s30b_dean_comes_back_6d8e3620:
+
+    # u "This teacher mentioned you specifically, said you were worried about whatever's going on at the school."
+    u ""
+
+# game/ep2/scene30b.rpy:511
+translate francais ep2_s30b_dean_comes_back_cacb9b4b:
+
+    # u "I guess so, but it did sound like there was something else happening."
+    u ""
+
+# game/ep2/scene30b.rpy:516
+translate francais ep2_s30b_dean_comes_back_bf4403a3:
+
+    # de "[name], I appreciate your concern for our faculty, but I promise any employment issues won't affect students at SVC."
+    de ""
+
+# game/ep2/scene30b.rpy:524
+translate francais ep2_s30b_dean_comes_back_ba7acaf4:
+
+    # u "I just... I'm just so worried, Dean Harrison."
+    u ""
+
+# game/ep2/scene30b.rpy:530
+translate francais ep2_s30b_dean_comes_back_0ea98c86:
+
+    # u "The Apes are my life! I love those guys! Probably way too much!"
+    u ""
+
+# game/ep2/scene30b.rpy:532
+translate francais ep2_s30b_dean_comes_back_6bb93bd1:
+
+    # u "I don't know what I'd do without the Wolves! My brothers! I love them, I love those guys."
+    u ""
+
+# game/ep2/scene30b.rpy:534
+translate francais ep2_s30b_dean_comes_back_956f10dc:
+
+    # u "DEAN HARRISON, WHAT'S HAPPENING?!"
+    u ""
+
+# game/ep2/scene30b.rpy:539
+translate francais ep2_s30b_dean_comes_back_86652327:
+
+    # u "PLEASE!! I CAN'T LIVE WITHOUT MY BOYS!! PLEASE, IF THERE'S ANYTHING I CAN DO..."
+    u ""
+
+# game/ep2/scene30b.rpy:541
+translate francais ep2_s30b_dean_comes_back_87119267:
+
+    # u "I WOULD MARRY THEM IF IT WOULD KEEP US ALL TOGETHER!! MARRY EVERY. SINGLE. ONE OF THEM!!"
+    u ""
+
+# game/ep2/scene30b.rpy:543
+translate francais ep2_s30b_dean_comes_back_82e367de:
+
+    # u "*Starts hyperventilating and sobbing uncontrollably*"
+    u ""
+
+# game/ep2/scene30b.rpy:548
+translate francais ep2_s30b_dean_comes_back_c02e87a9:
+
+    # pe "Oh my God..."
+    pe ""
+
+# game/ep2/scene30b.rpy:550
+translate francais ep2_s30b_dean_comes_back_ff4cbaad:
+
+    # u "PLEAAAAAAAAAASE!!!"
+    u ""
+
+# game/ep2/scene30b.rpy:555
+translate francais ep2_s30b_dean_comes_back_4266cc17:
+
+    # de "Good God, pull yourself together, young man!"
+    de ""
+
+# game/ep2/scene30b.rpy:557
+translate francais ep2_s30b_dean_comes_back_f9c80252:
+
+    # de "Hysterics will get you nowhere, and right now, you are entirely trying my patience."
+    de ""
+
+# game/ep2/scene30b.rpy:562
+translate francais ep2_s30b_dean_comes_back_bebb2fa8:
+
+    # u "(Damnit, that didn't work. And now I've got snot all over me.)"
+    u ""
+
+# game/ep2/scene30b.rpy:572
+translate francais ep2_s30b_dean_comes_back_b94ceeb2:
+
+    # de "Those damn teachers... gossip worse than schoolgirls."
+    de ""
+
+# game/ep2/scene30b.rpy:574
+translate francais ep2_s30b_dean_comes_back_8c7fca87:
+
+    # de "I simply can't say much; it's quite serious internal college business. The board of trustees will be making some major decisions."
+    de ""
+
+# game/ep2/scene30b.rpy:579
+translate francais ep2_s30b_dean_comes_back_79188705:
+
+    # de "Concerning people's jobs. But I will say..."
+    de ""
+
+# game/ep2/scene30b.rpy:585
+translate francais ep2_s30b_dean_comes_back_a3a72beb:
+
+    # de "Well, there may be some major changes coming to San Vallejo College. Some that are out of my control, unfortunately."
+    de ""
+
+# game/ep2/scene30b.rpy:590
+translate francais ep2_s30b_dean_comes_back_98befacb:
+
+    # u "Do you mean... changes that have to do with the frats?"
+    u ""
+
+# game/ep2/scene30b.rpy:595
+translate francais ep2_s30b_dean_comes_back_ef166abd:
+
+    # de "Changes that have to do with {i}everything{/i}, [name]. Some that will be quite difficult, if I'm being perfectly honest."
+    de ""
+

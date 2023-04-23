@@ -598,3 +598,17 @@ translate chinese strings:
     old "Make it sexy"
     new "Make it sexy"
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene43c.rpy:462
+translate chinese ep2_s43c_nsfwSkipLabel1_e3c12997_2:
+
+    # u "Oops."
+    u ""
+
+translate chinese strings:
+
+    # game/ep2/scene43c.rpy:417
+    old "Keep it friendly"
+    new ""
+

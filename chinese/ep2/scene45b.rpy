@@ -1546,3 +1546,95 @@ translate chinese strings:
     old "You're really cute like this"
     new "You're really cute like this"
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene45b.rpy:614
+translate chinese ep2_s45b_sg_d5ef79ae:
+
+    # u "Hey, Chloe?"
+    u ""
+
+# game/ep2/scene45b.rpy:619
+translate chinese ep2_s45b_sg_8b81dc60:
+
+    # cl "Yeah?"
+    cl ""
+
+# game/ep2/scene45b.rpy:624
+translate chinese ep2_s45b_sg_5ee7e672:
+
+    # u "Wanna see my hot rod?"
+    u ""
+
+# game/ep2/scene45b.rpy:631
+translate chinese ep2_s45b_sg_b6448d87:
+
+    # cl "You're gonna have to do better than that!"
+    cl ""
+
+# game/ep2/scene45b.rpy:636
+translate chinese ep2_s45b_sg_3b4e48b2:
+
+    # cl "What a dirty trick! You and Dad would get along!"
+    cl ""
+
+# game/ep2/scene45b.rpy:641
+translate chinese ep2_s45b_sg_0438dabe:
+
+    # u "WHOO! In your face!"
+    u ""
+
+# game/ep2/scene45b.rpy:646
+translate chinese ep2_s45b_sg_0d7adcc4:
+
+    # cl "All right, time for you to collect your prize."
+    cl ""
+
+# game/ep2/scene45b.rpy:940
+translate chinese ep2_s45b_nsfw_skip_label1_3ff8eabb:
+
+    # u "Uh... well that was fun."
+    u ""
+
+# game/ep2/scene45b.rpy:947
+translate chinese ep2_s45b_nsfw_skip_label1_cb53d824:
+
+    # cl "For sure... we should do it again."
+    cl ""
+
+# game/ep2/scene45b.rpy:949
+translate chinese ep2_s45b_nsfw_skip_label1_e435a46d:
+
+    # cl "I gotta get an essay written for psych... but thanks for being a great distraction. I really enjoyed myself."
+    cl ""
+
+# game/ep2/scene45b.rpy:971
+translate chinese ep2_s45b_nsfw_skip_label1_eef54eae:
+
+    # u "All right, you win, fair and square. What did you have in mind?"
+    u ""
+
+# game/ep2/scene45b.rpy:976
+translate chinese ep2_s45b_nsfw_skip_label1_0f01e75e:
+
+    # u "Semi-illegal dare? Nah, too rich for my blood."
+    u ""
+
+# game/ep2/scene45b.rpy:978
+translate chinese ep2_s45b_nsfw_skip_label1_4c8e8342:
+
+    # u "I can't get arrested today; I've got plans."
+    u ""
+
+# game/ep2/scene45b.rpy:983
+translate chinese ep2_s45b_nsfw_skip_label1_cc683986:
+
+    # cl "Booooooo. Bor-ing!"
+    cl ""
+
+# game/ep2/scene45b.rpy:985
+translate chinese ep2_s45b_nsfw_skip_label1_b31eb8e9:
+
+    # cl "Still want to go a round?"
+    cl ""
+

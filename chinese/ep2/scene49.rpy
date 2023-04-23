@@ -780,3 +780,11 @@ translate chinese ep2_s49_115f88e6:
     # la "I mean you can barely see them, but whatever sells."
     la "I mean you can barely see them, but whatever sells."
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene49.rpy:175
+translate chinese ep2_s49_93d4edf7:
+
+    # la "Not yet. You?"
+    la ""
+

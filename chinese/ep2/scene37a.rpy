@@ -304,3 +304,11 @@ translate chinese strings:
     old "Hand bottle to Lindsey"
     new "Hand bottle to Lindsey"
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene37a.rpy:126
+translate chinese ep2_s37a_click_aubrey_1_06df31ea:
+
+    # u "(Yup, Boner ambience.city.)"
+    u ""
+

@@ -498,3 +498,15 @@ translate francais strings:
     old "Let's not do it then"
     new "Let's not do it then"
 
+# TODO: Translation updated at 2023-04-23 01:41
+
+translate francais strings:
+
+    # game/ep2/scene20e.rpy:43
+    old "Compliment her"
+    new ""
+
+    # game/ep2/scene20e.rpy:298
+    old "I'd like that"
+    new ""
+

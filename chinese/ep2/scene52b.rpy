@@ -830,3 +830,17 @@ translate chinese ep2_s52b_06dbe6ad:
     # u "Yeah, thanks for letting me get punched, by the way."
     u "Yeah, thanks for letting me get punched, by the way."
 
+# TODO: Translation updated at 2023-04-23 01:39
+
+# game/ep2/scene52b.rpy:187
+translate chinese ep2_s52b_cebd7848:
+
+    # am "Fine, we'll have to do this the hard way."
+    am ""
+
+# game/ep2/scene52b.rpy:192
+translate chinese ep2_s52b_716fd0ba:
+
+    # am "[name]?"
+    am ""
+
