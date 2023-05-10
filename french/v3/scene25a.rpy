@@ -1,0 +1,164 @@
+# TODO: Translation updated at 2023-05-10 04:11
+
+# game/v3/scene25a.rpy:67
+translate french v3s25a_d172984c:
+
+    # u "(I should reply to Riley.)"
+    u ""
+
+# game/v3/scene25a.rpy:69
+translate french v3s25a_aaea6a4e:
+
+    # u "(Good for her. She really wanted that job and she'll be awesome at it. Having a school newspaper sounds kind of fun, too.)"
+    u ""
+
+# game/v3/scene25a.rpy:87
+translate french v3s25a_5bcc2069:
+
+    # u "(What now?)"
+    u ""
+
+# game/v3/scene25a.rpy:110
+translate french v3s25a_3f50cabf:
+
+    # au "Hey, [name]. Did you guys have a power outage last night in the dorms?"
+    au ""
+
+# game/v3/scene25a.rpy:115
+translate french v3s25a_622d6440:
+
+    # u "Um, no, not that I noticed."
+    u ""
+
+# game/v3/scene25a.rpy:120
+translate french v3s25a_fb83b0a7:
+
+    # au "Hm, weird. Apparently, it's been happening a lot this week."
+    au ""
+
+# game/v3/scene25a.rpy:125
+translate french v3s25a_29edf0d3:
+
+    # u "Well, if your freezer defrosts and you need to eat all the food before it spoils, let me know."
+    u ""
+
+# game/v3/scene25a.rpy:130
+translate french v3s25a_af3db20d:
+
+    # au "I think it's mainly full of ice cream, so... the Chicks will definitely have that covered."
+    au ""
+
+# game/v3/scene25a.rpy:135
+translate french v3s25a_c027cabe:
+
+    # u "Ha, fair enough."
+    u ""
+
+# game/v3/scene25a.rpy:140
+translate french v3s25a_20f9ed5d:
+
+    # au "Anyway, I'm telling people it might be a good idea to stock up on candles or flashlights."
+    au ""
+
+# game/v3/scene25a.rpy:145
+translate french v3s25a_e32be105:
+
+    # u "Shit. SVC is going back to the stone age."
+    u ""
+
+# game/v3/scene25a.rpy:150
+translate french v3s25a_3a8e89fb:
+
+    # au "Yeah, exactly."
+    au ""
+
+# game/v3/scene25a.rpy:155
+translate french v3s25a_517ca4c0:
+
+    # u "Thanks for the heads up."
+    u ""
+
+# game/v3/scene25a.rpy:160
+translate french v3s25a_37f493e0:
+
+    # au "No problem."
+    au ""
+
+# game/v3/scene25a.rpy:168
+translate french v3s25a_fdcba548:
+
+    # au "Also..."
+    au ""
+
+# game/v3/scene25a.rpy:170
+translate french v3s25a_c09a9208:
+
+    # au "I'm free for a date tonight."
+    au ""
+
+# game/v3/scene25a.rpy:175
+translate french v3s25a_504642fa:
+
+    # u "Oh. Are you?"
+    u ""
+
+# game/v3/scene25a.rpy:180
+translate french v3s25a_af0ab57f:
+
+    # au "Yes. I thought that might be useful information for a certain gentleman."
+    au ""
+
+# game/v3/scene25a.rpy:185
+translate french v3s25a_21406404:
+
+    # u "Hmm, actually..."
+    u ""
+
+# game/v3/scene25a.rpy:187
+translate french v3s25a_e9c6d785:
+
+    # u "I think I know a certain gentleman who would be very interested to hear this information."
+    u ""
+
+# game/v3/scene25a.rpy:192
+translate french v3s25a_00536740:
+
+    # au "Let's do something. Something real."
+    au ""
+
+# game/v3/scene25a.rpy:197
+translate french v3s25a_324fdcfe:
+
+    # u "You're serious? Like a serious date? You're ready?"
+    u ""
+
+# game/v3/scene25a.rpy:202
+translate french v3s25a_a280e2bd:
+
+    # au "Quit asking before I change my mind!"
+    au ""
+
+# game/v3/scene25a.rpy:207
+translate french v3s25a_708b293d:
+
+    # u "Okay, deal. Dinner tonight. I'll sort the details. Stay by the phone."
+    u ""
+
+# game/v3/scene25a.rpy:212
+translate french v3s25a_5886be9a:
+
+    # au "Ooh, sounds perfect."
+    au ""
+
+# game/v3/scene25a.rpy:217
+translate french v3s25a_3e28e4ad:
+
+    # u "Great, see you later."
+    u ""
+
+# game/v3/scene25a.rpy:235
+translate french v3s25a_7620de10:
+
+    # u "Let's get this day started, shall we?"
+    u ""
+
