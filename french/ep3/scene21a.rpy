@@ -224,5 +224,5 @@ translate french strings:
 
     # game/ep3/scene21a.rpy:72
     old "Tell Riley 'I told you so'"
-    new "Dites à Riley "Je vous l'avais bien dit"."
+    new "Dites à Riley \"Je vous l'avais bien dit\"."
 

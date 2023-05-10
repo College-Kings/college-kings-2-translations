@@ -4,5 +4,5 @@
 translate french free_roam_spoken_too_0d913150:
 
     # u "[dialog]"
-    u ""
+    u "[dialogue]"
 

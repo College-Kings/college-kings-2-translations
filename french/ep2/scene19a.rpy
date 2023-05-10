@@ -4,5 +4,5 @@
 translate french ep2_s19a_88d710ce:
 
     # u "(I should check my phone.)"
-    u ""
+    u "(Je devrais vérifier mon téléphone.)"
 
