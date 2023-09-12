@@ -430,7 +430,7 @@ translate french ep2_s20e_5c0eb41d:
 translate french ep2_s20e_bc1b5bba:
 
     # u "I wouldn't want to do it unless you're 100 percent comfortable."
-    u "Je ne voudrais pas le faire si vous ne vous sentez pas à l'aise à 100 %."
+    u "Je ne voudrais pas le faire si vous ne vous sentez pas à l'aise à 100\%."
 
 # game/ep2/scene20e.rpy:406
 translate french ep2_s20e_aca6d131:

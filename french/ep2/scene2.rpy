@@ -424,7 +424,7 @@ translate french ep2_s2_f546b88e:
 translate french ep2_s2_b4ba61be:
 
     # am "I had a... {i}FEEL{/i}ing you might say that."
-    am "J'ai eu... {J'ai l'impression que vous pourriez dire cela."
+    am "J'ai eu... {i}J'ai{/i} l'impression que vous pourriez dire cela."
 
 # game/ep2/scene2.rpy:342
 translate french ep2_s2_d052eb49:

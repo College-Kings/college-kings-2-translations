@@ -40,7 +40,7 @@ translate french ep2_s13_e293ee81:
 translate french ep2_s13_9ff2836c:
 
     # u "{i}Were{/i}, that's the important little bit of information there. FUCK!"
-    u "{C'est l'information la plus importante. FUCK !"
+    u "{i}C'est{/i} l'information la plus importante. FUCK !"
 
 # game/ep2/scene13.rpy:61
 translate french ep2_s13_aa466eac:

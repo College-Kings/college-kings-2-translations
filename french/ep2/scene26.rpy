@@ -712,7 +712,7 @@ translate french ep2_s26_9d40e969:
 translate french ep2_s26_56a676f6:
 
     # u "Oh yeah? {i}Can{/i} you fit me?"
-    u "Ah oui ? {Pouvez-vous m'ajuster ?"
+    u "Ah oui ? {i}Pouvez-vous{/i} m'ajuster ?"
 
 # game/ep2/scene26.rpy:581
 translate french ep2_s26_b98f1afd:
