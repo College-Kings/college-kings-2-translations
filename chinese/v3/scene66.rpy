@@ -4,5 +4,5 @@
 translate copyme v3s66_a784cfdb:
 
     # u "(I hope I haven't missed the start of Polly's performance...)"
-    u "(I hope I haven't missed the start of Polly's performance...)"
+    u "(我希望我没有错过波莉表演的开始……)"
 
