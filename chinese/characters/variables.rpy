@@ -220,7 +220,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:37
     old "Ms Rose"
-    new "Ms Rose"
+    new "罗斯女士"
 
     # game/characters/variables.rpy:38
     old "Naomi"

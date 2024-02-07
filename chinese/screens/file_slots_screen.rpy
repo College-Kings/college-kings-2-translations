@@ -4,19 +4,19 @@ translate copyme strings:
 
     # game/screens/file_slots_screen.rpy:13
     old "PAGE {}"
-    new "PAGE {}"
+    new "第 {} 页"
 
     # game/screens/file_slots_screen.rpy:13
     old "AUTOMATIC SAVES"
-    new "AUTOMATIC SAVES"
+    new "自动保存"
 
     # game/screens/file_slots_screen.rpy:13
     old "QUICK SAVES"
-    new "QUICK SAVES"
+    new "快速保存"
 
     # game/screens/file_slots_screen.rpy:55
     old "Save"
-    new "Save"
+    new "保存"
 
     # game/screens/file_slots_screen.rpy:64
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -24,7 +24,7 @@ translate copyme strings:
 
     # game/screens/file_slots_screen.rpy:64
     old "empty slot"
-    new "empty slot"
+    new "空白存档"
 
     # game/screens/file_slots_screen.rpy:83
     old "{#auto_page}A"

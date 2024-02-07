@@ -4,5 +4,5 @@ translate copyme strings:
 
     # game/compat/ck1_saves.rpy:54
     old "Load"
-    new "Load"
+    new "加载"
 

@@ -4,21 +4,21 @@ translate copyme strings:
 
     # game/phone/variables.rpy:2
     old "Achievements"
-    new "Achievements"
+    new "成就"
 
     # game/phone/variables.rpy:5
     old "Relationships"
-    new "Relationships"
+    new "关系"
 
     # game/phone/variables.rpy:6
     old "Tracker"
-    new "Tracker"
+    new "踪迹"
 
     # game/phone/variables.rpy:7
     old "Reputation"
-    new "Reputation"
+    new "声誉"
 
     # game/phone/variables.rpy:8
     old "Calendar"
-    new "Calendar"
+    new "日历"
 

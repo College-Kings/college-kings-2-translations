@@ -4,5 +4,5 @@
 translate copyme v3_1s80_3d097ff1:
 
     # u "(What a night...)"
-    u "(What a night...)"
+    u "(多么美妙的夜晚……)"
 

@@ -4,13 +4,13 @@ translate copyme strings:
 
     # game/ep2/scene41.rpy:61
     old "Respectfully look at pots"
-    new "Respectfully look at pots"
+    new "恭敬地看着罐子"
 
     # game/ep2/scene41.rpy:61
     old "Wear a pot on your head"
-    new "Wear a pot on your head"
+    new "头上戴个锅"
 
     # game/ep2/scene41.rpy:61
     old "Push Cameron"
-    new "Push Cameron"
+    new "推卡梅隆"
 
