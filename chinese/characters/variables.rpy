@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2023-10-03 03:36
 
-translate copyme strings:
+translate chinese strings:
 
     # game/characters/variables.rpy:2
     old "Aaron"
@@ -12,7 +12,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:3
     old "Adam"
-    new "Adam"
+    new "亚当"
 
     # game/characters/variables.rpy:3
     old "A.D.A.M."
@@ -20,7 +20,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:4
     old "Amber"
-    new "Amber"
+    new "琥珀"
 
     # game/characters/variables.rpy:4
     old "Amber_xx"
@@ -28,11 +28,11 @@ translate copyme strings:
 
     # game/characters/variables.rpy:6
     old "Aryssa"
-    new "Aryssa"
+    new "阿里萨"
 
     # game/characters/variables.rpy:7
     old "Aubrey"
-    new "Aubrey"
+    new "奥布里"
 
     # game/characters/variables.rpy:7
     old "Aubs123"
@@ -40,7 +40,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:8
     old "Autumn"
-    new "Autumn"
+    new "秋"
 
     # game/characters/variables.rpy:8
     old "Its_Fall"
@@ -48,23 +48,23 @@ translate copyme strings:
 
     # game/characters/variables.rpy:9
     old "Beth"
-    new "Beth"
+    new "贝丝"
 
     # game/characters/variables.rpy:10
     old "Buyer"
-    new "Buyer"
+    new "买家"
 
     # game/characters/variables.rpy:11
     old "Caleb"
-    new "Caleb"
+    new "凯勒"
 
     # game/characters/variables.rpy:11
     old "Aleb"
-    new "Aleb"
+    new "阿莱布"
 
     # game/characters/variables.rpy:12
     old "Cameron"
-    new "Cameron"
+    new "卡梅隆"
 
     # game/characters/variables.rpy:12
     old "Cameroon"
@@ -72,7 +72,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:13
     old "Candy"
-    new "Candy"
+    new "坎迪"
 
     # game/characters/variables.rpy:14
     old "CharliAndTheCockFactory"
@@ -80,7 +80,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:15
     old "Chloe"
-    new "Chloe"
+    new "克洛伊"
 
     # game/characters/variables.rpy:15
     old "Chloe101"
@@ -88,7 +88,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:16
     old "Chris"
-    new "Chris"
+    new "克里斯"
 
     # game/characters/variables.rpy:16
     old "Chriscuit"
@@ -96,11 +96,11 @@ translate copyme strings:
 
     # game/characters/variables.rpy:17
     old "Dean"
-    new "Dean"
+    new "院长"
 
     # game/characters/variables.rpy:18
     old "Elijah"
-    new "Elijah"
+    new "伊利亚"
 
     # game/characters/variables.rpy:18
     old "Elijah_Woods"
@@ -108,7 +108,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:19
     old "Emily"
-    new "Emily"
+    new "艾米丽"
 
     # game/characters/variables.rpy:19
     old "emilyyyy"
@@ -116,19 +116,19 @@ translate copyme strings:
 
     # game/characters/variables.rpy:20
     old "Emmy"
-    new "Emmy"
+    new "艾米"
 
     # game/characters/variables.rpy:21
     old "Evelyn"
-    new "Evelyn"
+    new "伊芙琳"
 
     # game/characters/variables.rpy:22
     old "Faris"
-    new "Faris"
+    new "法里斯"
 
     # game/characters/variables.rpy:23
     old "Grayson"
-    new "Grayson"
+    new "格雷森"
 
     # game/characters/variables.rpy:23
     old "G-rayson"
@@ -136,7 +136,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:24
     old "Imre"
-    new "Imre"
+    new "伊姆雷"
 
     # game/characters/variables.rpy:24
     old "BadBoyImre"
@@ -144,15 +144,15 @@ translate copyme strings:
 
     # game/characters/variables.rpy:25
     old "Iris"
-    new "Iris"
+    new "伊利斯"
 
     # game/characters/variables.rpy:26
     old "Jenny"
-    new "Jenny"
+    new "珍妮"
 
     # game/characters/variables.rpy:27
     old "Josh"
-    new "Josh"
+    new "乔什"
 
     # game/characters/variables.rpy:27
     old "Josh80085"
@@ -160,11 +160,11 @@ translate copyme strings:
 
     # game/characters/variables.rpy:28
     old "Julia"
-    new "Julia"
+    new "茱莉娅"
 
     # game/characters/variables.rpy:29
     old "Kai"
-    new "Kai"
+    new "凯"
 
     # game/characters/variables.rpy:29
     old "KaiCriesWith2Ply"
@@ -172,7 +172,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:30
     old "Kim"
-    new "Kim"
+    new "金"
 
     # game/characters/variables.rpy:30
     old "KimPlausible"
@@ -180,11 +180,11 @@ translate copyme strings:
 
     # game/characters/variables.rpy:31
     old "Kourtney"
-    new "Kourtney"
+    new "考特尼"
 
     # game/characters/variables.rpy:32
     old "Lauren"
-    new "Lauren"
+    new "劳伦"
 
     # game/characters/variables.rpy:32
     old "LoLoLauren"
@@ -192,7 +192,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:33
     old "Lews Official"
-    new "Lews Official"
+    new "卢家官方"
 
     # game/characters/variables.rpy:33
     old "LewsOfficial"
@@ -200,7 +200,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:34
     old "Lindsey"
-    new "Lindsey"
+    new "林赛"
 
     # game/characters/variables.rpy:34
     old "LindsLou"
@@ -208,7 +208,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:35
     old "Mason"
-    new "Mason"
+    new "梅森"
 
     # game/characters/variables.rpy:35
     old "Mason_Mas"
@@ -216,7 +216,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:36
     old "Mr Lee"
-    new "Mr Lee"
+    new "李先生"
 
     # game/characters/variables.rpy:37
     old "Ms Rose"
@@ -224,7 +224,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:38
     old "Naomi"
-    new "Naomi"
+    new "娜欧米"
 
     # game/characters/variables.rpy:38
     old "NaomiXMarie"
@@ -232,7 +232,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:39
     old "Nora"
-    new "Nora"
+    new "诺拉"
 
     # game/characters/variables.rpy:39
     old "Nora_12"
@@ -240,11 +240,11 @@ translate copyme strings:
 
     # game/characters/variables.rpy:40
     old "Parker"
-    new "Parker"
+    new "帕克"
 
     # game/characters/variables.rpy:41
     old "Penelope"
-    new "Penelope"
+    new "佩内洛普"
 
     # game/characters/variables.rpy:41
     old "Penelopeeps"
@@ -252,15 +252,15 @@ translate copyme strings:
 
     # game/characters/variables.rpy:42
     old "Perry"
-    new "Perry"
+    new "佩里"
 
     # game/characters/variables.rpy:43
     old "Polly"
-    new "Polly"
+    new "波莉"
 
     # game/characters/variables.rpy:44
     old "Riley"
-    new "Riley"
+    new "莱莉"
 
     # game/characters/variables.rpy:44
     old "RileyReads"
@@ -268,7 +268,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:45
     old "Ryan"
-    new "Ryan"
+    new "瑞恩"
 
     # game/characters/variables.rpy:45
     old "Ryanator"
@@ -276,7 +276,7 @@ translate copyme strings:
 
     # game/characters/variables.rpy:46
     old "Samantha"
-    new "Samantha"
+    new "萨曼莎"
 
     # game/characters/variables.rpy:46
     old "SamFromSpaceJam"
@@ -284,11 +284,11 @@ translate copyme strings:
 
     # game/characters/variables.rpy:47
     old "Satin"
-    new "Satin"
+    new "斯丹"
 
     # game/characters/variables.rpy:48
     old "Sebastian"
-    new "Sebastian"
+    new "塞巴斯蒂安"
 
     # game/characters/variables.rpy:48
     old "Big Seb"
@@ -296,13 +296,13 @@ translate copyme strings:
 
     # game/characters/variables.rpy:49
     old "Tom"
-    new "Tom"
+    new "汤姆"
 
     # game/characters/variables.rpy:50
     old "Trainer"
-    new "Trainer"
+    new "教练"
 
     # game/characters/variables.rpy:51
     old "Wolf"
-    new "Wolf"
+    new "狼"
 

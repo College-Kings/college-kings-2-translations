@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2023-10-03 03:36
 
-translate copyme strings:
+translate chinese strings:
 
     # game/screens/real_life_mode_screen.rpy:6
     old "THIS MODE PROHIBITS you from saving during important choices, meaning all choices are final. this can't be disabled without starting a new game."
