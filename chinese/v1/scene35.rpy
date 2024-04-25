@@ -1,12 +1,12 @@
 ﻿# TODO: Translation updated at 2023-10-03 03:35
 
 # game/v1/scene35.rpy:27
-translate copyme v1s35_75118932:
+translate chinese v1s35_75118932:
 
     # u "(I should reply to Jenny.)"
     u "(我应该回复珍妮。)"
 
-translate copyme strings:
+translate chinese strings:
 
     # game/v1/scene35.rpy:16
     old "No, what's up?"

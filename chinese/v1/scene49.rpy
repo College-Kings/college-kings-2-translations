@@ -1,108 +1,108 @@
 ﻿# TODO: Translation updated at 2023-10-03 03:35
 
 # game/v1/scene49.rpy:14
-translate copyme v1s49_b52502ba:
+translate chinese v1s49_b52502ba:
 
     # u "(What do we have here?)"
     u "(这是什么？)"
 
 # game/v1/scene49.rpy:33
-translate copyme v1s49_f9e9813d:
+translate chinese v1s49_f9e9813d:
 
     # u "(I should reply to Lindsey.)"
     u "(我应该回答林赛。)"
 
 # game/v1/scene49.rpy:39
-translate copyme v1s49_33671ad1:
+translate chinese v1s49_33671ad1:
 
     # u "Hey, Lindsey."
     u "嘿，林赛。"
 
 # game/v1/scene49.rpy:44
-translate copyme v1s49_433518ef:
+translate chinese v1s49_433518ef:
 
     # li "Hey, now is the perfect time. Text Chloe and tell her to meet you at Classico Cuisine."
     li "嘿，现在正是时候。给克洛伊发短信让她去古典美食店找你。"
 
 # game/v1/scene49.rpy:50
-translate copyme v1s49_93b710e4:
+translate chinese v1s49_93b710e4:
 
     # u "Oh, right. Yeah."
     u "噢，对。好的。"
 
 # game/v1/scene49.rpy:55
-translate copyme v1s49_62794ff8:
+translate chinese v1s49_62794ff8:
 
     # li "I'll stay on the phone while you do it so we can make sure she actually takes the bait."
     li "你行动的时候我会一直在线，这样我们就能确保她真的上钩了。"
 
 # game/v1/scene49.rpy:60
-translate copyme v1s49_b8019a20:
+translate chinese v1s49_b8019a20:
 
     # u "Okay, I'm texting her now."
     u "好的，我现在给她发短信。"
 
 # game/v1/scene49.rpy:80
-translate copyme v1s49_e4edb176:
+translate chinese v1s49_e4edb176:
 
     # u "(I should reply to Chloe.)"
     u "(我应该回信给克洛伊。)"
 
 # game/v1/scene49.rpy:85
-translate copyme v1s49_ceb12c3b:
+translate chinese v1s49_ceb12c3b:
 
     # u "Okay, seems to me like she took the bait."
     u "好吧，在我看来她上钩了。"
 
 # game/v1/scene49.rpy:90
-translate copyme v1s49_3b0207b3:
+translate chinese v1s49_3b0207b3:
 
     # li "Okay, hang on."
     li "好的，等一下。"
 
 # game/v1/scene49.rpy:92
-translate copyme v1s49_9e717813:
+translate chinese v1s49_9e717813:
 
     # li "..."
     li "……"
 
 # game/v1/scene49.rpy:94
-translate copyme v1s49_19dedf50:
+translate chinese v1s49_19dedf50:
 
     # li "Oh! I can hear her heading to the door now. I'm just checking out the window."
     li "噢！我听到她朝门口走去了。我去窗户那看看。"
 
 # game/v1/scene49.rpy:96
-translate copyme v1s49_9a33edf3:
+translate chinese v1s49_9a33edf3:
 
     # li "She's getting into an Uber! Nice!"
     li "她上了一辆优步！太棒了！"
 
 # game/v1/scene49.rpy:101
-translate copyme v1s49_c54fe661:
+translate chinese v1s49_c54fe661:
 
     # u "Success!"
     u "成功了！"
 
 # game/v1/scene49.rpy:106
-translate copyme v1s49_66c3b853:
+translate chinese v1s49_66c3b853:
 
     # li "Hurry here. Don't be long."
     li "快点儿。别太久。"
 
 # game/v1/scene49.rpy:111
-translate copyme v1s49_56078fcc:
+translate chinese v1s49_56078fcc:
 
     # u "Okay, boss lady."
     u "好吧，老板娘。"
 
 # game/v1/scene49.rpy:123
-translate copyme v1s49_e1887f70:
+translate chinese v1s49_e1887f70:
 
     # u "(Time to commit the perfect crime.)"
     u "(是时候进行完美的犯罪了。)"
 
-translate copyme strings:
+translate chinese strings:
 
     # game/v1/scene49.rpy:20
     old "Chloe just left the house with some other blonde girl. On their way to the concert!"

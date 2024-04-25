@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2023-10-03 03:36
 
-translate copyme strings:
+translate chinese strings:
 
     # game/screens/mobile/quick_menu_screen.rpy:21
     old "Back"

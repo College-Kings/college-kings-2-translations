@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2023-10-03 03:36
 
-translate copyme strings:
+translate chinese strings:
 
     # game/phone/variables.rpy:2
     old "Achievements"
