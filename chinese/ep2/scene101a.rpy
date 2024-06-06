@@ -4,7 +4,7 @@
 translate chinese ep2s101a_01bc9d0e:
 
     # ri "You could start by kissing [name]."
-    ri "你可以从亲吻开始[name]。"
+    ri "你可以从亲吻[name]开始。"
 
 # game/ep2/scene101a.rpy:28
 translate chinese ep2s101a_69e3e378:
@@ -256,7 +256,7 @@ translate chinese ep2s101a_007048a9_1:
 translate chinese ep2s101a_3b5d4b5a:
 
     # la "*Gluck, gluck*"
-    la "*吞咽 吞咽*"
+    la "*吞咽，吞咽*"
 
 # game/ep2/scene101a.rpy:242
 translate chinese ep2s101a_06cf62b6:
@@ -268,7 +268,7 @@ translate chinese ep2s101a_06cf62b6:
 translate chinese ep2s101a_5305eb89:
 
     # u "I can't wait to slide it in your pussy."
-    u "我等不及要插进你们的阴道了。"
+    u "我等不及要插进你的阴道了。"
 
 # game/ep2/scene101a.rpy:246
 translate chinese ep2s101a_b9ef6f81:
@@ -418,13 +418,13 @@ translate chinese ep2s101a_007048a9_3:
 translate chinese ep2s101a_45abbc46_1:
 
     # la "Oh, wow..."
-    la "噢，哇哦……"
+    la "噢，哇噢……"
 
 # game/ep2/scene101a.rpy:380
 translate chinese ep2s101a_ecee9b7e:
 
     # u "Tongue that pussy while I fuck you."
-    u "我操你的时候舔她的阴道。"
+    u "我操你的时候，你舔她的阴道。"
 
 # game/ep2/scene101a.rpy:387
 translate chinese ep2s101a_6e3d920f_1:
@@ -622,7 +622,7 @@ translate chinese ep2s101a_4703910d:
 translate chinese ep2s101a_d3c45e12:
 
     # la "Oh my... God!"
-    la "噢，我的……上帝！"
+    la "噢，我的……上帝啊！"
 
 # game/ep2/scene101a.rpy:473
 translate chinese ep2s101a_ffcc890a_1:
@@ -718,7 +718,7 @@ translate chinese ep2s101a_d441a997:
 translate chinese ep2s101a_aa7d4673:
 
     # la "Oh, wow. I feel like I'm in a porn movie right now."
-    la "噢，哇哦。我感觉自己现在就像在拍色情电影。"
+    la "噢，哇噢。我感觉自己现在就像在拍色情电影。"
 
 # game/ep2/scene101a.rpy:539
 translate chinese ep2s101a_e50dea26:
@@ -1078,13 +1078,13 @@ translate chinese ep2s101a_a47b259d:
 translate chinese ep2s101a_575be54d:
 
     # ri "If it was anybody else asking, we wouldn't tell..."
-    ri "如果是别人问起，我们不会说的……"
+    ri "如果是别人问起的话，我们不会说的……"
 
 # game/ep2/scene101a.rpy:771
 translate chinese ep2s101a_8a6ba964:
 
     # ri "Charli is the one behind the SVC Rejects page, and we're going to confront him."
-    ri "查理是SVC废品页面的幕后黑手我们要去找他对质。"
+    ri "查理是SVC废品页面的幕后黑手，我们要去找他对质。"
 
 # game/ep2/scene101a.rpy:776
 translate chinese ep2s101a_3f2c9500:

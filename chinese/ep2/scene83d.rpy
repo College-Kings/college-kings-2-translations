@@ -40,13 +40,13 @@ translate chinese ep2s83d_sunglasses_ace1616c:
 translate chinese ep2s83d_sunglasses_0574117b:
 
     # u "(\"Property of DJ Biggest Philly.\")"
-    u "(\"灵魂DI手菲力的财产\")"
+    u "(\"灵魂DJ手菲力的财产\")"
 
 # game/ep2/scene83d.rpy:60
 translate chinese ep2s83d_sunglasses_11c1ccfa:
 
     # djbp "Hardcore!"
-    djbp "硬汉！"
+    djbp "硬核！"
 
 # game/ep2/scene83d.rpy:62
 translate chinese ep2s83d_sunglasses_fbd16144:

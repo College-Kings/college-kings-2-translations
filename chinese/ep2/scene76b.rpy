@@ -468,7 +468,7 @@ translate chinese strings:
 
     # game/ep2/scene76b.rpy:149
     old "Finger her ass"
-    new "摸她的屁股"
+    new "插她的屁股"
 
     # game/ep2/scene76b.rpy:149
     old "Straight to the sex"

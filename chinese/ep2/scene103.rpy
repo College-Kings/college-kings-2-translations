@@ -46,7 +46,7 @@ translate chinese ep2s103_020bd6a9:
 translate chinese ep2s103_fbb5bfc3:
 
     # u "Think happy thoughts."
-    u "想想开心的事。"
+    u "想想开心的事儿。"
 
 # game/ep2/scene103.rpy:69
 translate chinese ep2s103_eead3eb4:

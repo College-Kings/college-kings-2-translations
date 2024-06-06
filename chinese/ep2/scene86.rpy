@@ -82,7 +82,7 @@ translate chinese ep2s86_19325c14:
 translate chinese ep2s86_ef0a573e:
 
     # u "Wow, you sounded like Mr. Lee just then."
-    u "哇哦，你刚才听起来像李先生。"
+    u "哇噢，你刚才听起来像李先生。"
 
 # game/ep2/scene86.rpy:101
 translate chinese ep2s86_11acf7ee:

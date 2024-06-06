@@ -34,7 +34,7 @@ translate chinese ep2s71_283b4aba:
 translate chinese ep2s71_d576dde2:
 
     # u "Wow, you're so bossy when you're excited."
-    u "哇，你兴奋的时候真专横。"
+    u "哇噢，你兴奋的时候真专横。"
 
 # game/ep2/scene71.rpy:71
 translate chinese ep2s71_2b766cc7:

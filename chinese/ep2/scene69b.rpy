@@ -436,7 +436,7 @@ translate chinese ep2s69b_b989d661:
 translate chinese ep2s69b_10924276:
 
     # u "Of course. You can always have a few more."
-    u "当然，你可以多亲几个。"
+    u "当然。你可以多亲几个。"
 
 translate chinese strings:
 

@@ -606,7 +606,7 @@ translate chinese strings:
 
     # game/ep2/scene82b.rpy:346
     old "Play chicken"
-    new "玩胆小鬼"
+    new "玩斗鸡"
 
     # game/ep2/scene82b.rpy:379
     old "Play dirty"

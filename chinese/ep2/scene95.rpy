@@ -262,7 +262,7 @@ translate chinese ep2s95_faff006a:
 translate chinese ep2s95_6a560ae9:
 
     # u "Just remember the little people when you're on some fancy yacht in the south of France."
-    u "当你在法国南部的豪华游艇上时，苟富贵，勿相忘。"
+    u "当你在法国南部的豪华游艇上时请记得，苟富贵，勿相忘。"
 
 # game/ep2/scene95.rpy:249
 translate chinese ep2s95_338399bf:

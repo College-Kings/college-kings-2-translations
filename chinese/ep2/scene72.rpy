@@ -40,7 +40,7 @@ translate chinese ep2s72_9ecd9940:
 translate chinese ep2s72_a1209496:
 
     # u "Lindsey's great. She's so easy-going."
-    u "L林赛很好。她很随和。"
+    u "林赛很好。她很随和。"
 
 # game/ep2/scene72.rpy:83
 translate chinese ep2s72_f7f1fcea:
@@ -70,7 +70,7 @@ translate chinese ep2s72_430c7242:
 translate chinese ep2s72_0499be82:
 
     # u "Of course she is. She's hot."
-    u "当然了，她很性感。"
+    u "当然了。她很性感。"
 
 # game/ep2/scene72.rpy:109
 translate chinese ep2s72_f0749d77:

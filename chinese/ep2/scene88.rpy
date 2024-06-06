@@ -34,7 +34,7 @@ translate chinese ep2s88_98ca28f9:
 translate chinese ep2s88_53c1b17d:
 
     # u "(What about free access to your mom?)"
-    u "(免费进入你妈妈怎么样？)"
+    u "(免费进出你妈妈怎么样？)"
 
 # game/ep2/scene88.rpy:49
 translate chinese ep2s88_18960eb2:
@@ -46,7 +46,7 @@ translate chinese ep2s88_18960eb2:
 translate chinese ep2s88_36cb4ec1:
 
     # el "I can see that stupid mouse in your brain working the controls."
-    el "我能看到你脑子里那只蠢老鼠在操作控制器。"
+    el "我能看到你脑子里那只蠢老鼠在操作着控制器。"
 
 # game/ep2/scene88.rpy:53
 translate chinese ep2s88_238e7752:
@@ -148,7 +148,7 @@ translate chinese ep2s88_1f92549a:
 translate chinese ep2s88_99955243:
 
     # u "I've been stargazing."
-    u "我一直在观星。"
+    u "我一直在看星星。"
 
 # game/ep2/scene88.rpy:146
 translate chinese ep2s88_f8f5c2ff:
@@ -340,7 +340,7 @@ translate chinese ep2s88_9cfe979b:
 translate chinese ep2s88_dd35af4c:
 
     # el "Why would you even say that?!"
-    el "你为什么要这么说！"
+    el "你为什么要这么说？！"
 
 # game/ep2/scene88.rpy:282
 translate chinese ep2s88_c7c2721c:

@@ -124,13 +124,13 @@ translate chinese ep2s85h_b4f3a2b1:
 translate chinese ep2s85h_f59e98b5:
 
     # imre "Oh, you're damn right about that. You'll never hear the end of it."
-    imre "哦，你说得太对了，你永远听不完。"
+    imre "噢，你说得太对了，你永远听不完。"
 
 # game/ep2/scene85h.rpy:118
 translate chinese ep2s85h_8b6c8607:
 
     # u "Yeah, I'm in."
-    u "好，我加入。"
+    u "好，我来。"
 
 # game/ep2/scene85h.rpy:123
 translate chinese ep2s85h_e3ef1bdb:
@@ -820,7 +820,7 @@ translate chinese strings:
 
     # game/ep2/scene85h.rpy:107
     old "Yeah, I'm in"
-    new "好，我加入"
+    new "好，来"
 
     # game/ep2/scene85h.rpy:107
     old "I'm not feeling it"

@@ -808,13 +808,13 @@ translate chinese strings:
 
     # game/ep2/scene84d.rpy:555
     old "What core?"
-    new "什么硬汉？"
+    new "什么硬核？"
 
     # game/ep2/scene84d.rpy:555
     old "Hardcore!"
-    new "硬汉！"
+    new "硬核！"
 
     # game/ep2/scene84d.rpy:555
     old "Apple core!"
-    new "苹果硬汉！"
+    new "苹果硬核！"
 

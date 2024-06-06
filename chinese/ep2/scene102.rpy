@@ -4,7 +4,7 @@
 translate chinese ep2s102_17a2c0e6:
 
     # ri "I was actually starting to feel a little nervous about confronting Charli, but that threesome has really helped."
-    ri "实际上我开始有点紧张要面对查理了，但是三人行真的很有帮助。"
+    ri "实际上我原来有点紧张要面对查理的，但那次三人行真的很有帮助。"
 
 # game/ep2/scene102.rpy:30
 translate chinese ep2s102_08528218:
@@ -16,7 +16,7 @@ translate chinese ep2s102_08528218:
 translate chinese ep2s102_5f796ac2:
 
     # ri "I was actually starting to feel a little nervous about confronting Charli, but that wine has really helped."
-    ri "事实上，我开始有点紧张要面对查理了，但是那瓶酒真的帮了我大忙。"
+    ri "事实上，我原来有点紧张要面对查理的，但是那瓶酒真的帮了我大忙。"
 
 # game/ep2/scene102.rpy:43
 translate chinese ep2s102_c6d6cd43:

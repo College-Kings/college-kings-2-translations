@@ -148,7 +148,7 @@ translate chinese ep2s80_ec2c17e2:
 translate chinese ep2s80_11c1ccfa:
 
     # djbp "Hardcore!"
-    djbp "硬汉！"
+    djbp "摇滚吧！"
 
 # game/ep2/scene80.rpy:150
 translate chinese ep2s80_b44bc5a5:

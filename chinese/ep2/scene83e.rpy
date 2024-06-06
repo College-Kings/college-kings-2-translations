@@ -460,7 +460,7 @@ translate chinese ep2s83e_nsfw_skip_label1_574d78a8:
 translate chinese ep2s83e_nsfw_skip_label1_716a5b36:
 
     # fa "*Sighs* Okay, well, never mind."
-    fa "*叹气*好吧，算了。"
+    fa "*叹气* 好吧，算了。"
 
 # game/ep2/scene83e.rpy:466
 translate chinese ep2s83e_nsfw_skip_label1_7366852f:
@@ -532,7 +532,7 @@ translate chinese ep2s83e_nsfw_skip_label1_10146c57_2:
 translate chinese ep2s83e_nsfw_skip_label1_47cd607f_1:
 
     # djbp "Your work here is done, DJ [name] Monster Mixer!"
-    djbp "你的任务完成了DJ[name]的怪物联谊会！"
+    djbp "你的任务完成了，DJ[name]的怪物联谊会！"
 
 # game/ep2/scene83e.rpy:534
 translate chinese ep2s83e_nsfw_skip_label1_e8b1260b_1:
@@ -550,7 +550,7 @@ translate chinese ep2s83e_nsfw_skip_label1_10146c57_3:
 translate chinese ep2s83e_nsfw_skip_label1_11c1ccfa_1:
 
     # djbp "Hardcore!"
-    djbp "硬汉！"
+    djbp "硬核！"
 
 translate chinese strings:
 

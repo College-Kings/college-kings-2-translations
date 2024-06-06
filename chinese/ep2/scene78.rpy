@@ -46,7 +46,7 @@ translate chinese ep2s78_a10d03c9:
 translate chinese ep2s78_0ef323ab:
 
     # u "(That's three girlfriends! I think I'm just asking for trouble...)"
-    u "(那是三个女朋友！我想我只是自找麻烦……)"
+    u "(那是三个女朋友啊！我想我只是自找麻烦……)"
 
 # game/ep2/scene78.rpy:47
 translate chinese ep2s78_e3aeb260:
@@ -152,5 +152,5 @@ translate chinese strings:
 
     # game/ep2/scene78.rpy:98
     old "Dive for cover"
-    new "下潜找掩护"
+    new "找掩护"
 

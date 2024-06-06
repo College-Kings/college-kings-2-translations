@@ -664,7 +664,7 @@ translate chinese ep2s98_bcd08669:
 translate chinese ep2s98_93e9cb46:
 
     # li "Are you serious?! What the fuck, [name]?!"
-    li "你是认真的吗？搞什么，[name]？！"
+    li "你是认真的吗？！搞什么，[name]？！"
 
 # game/ep2/scene98.rpy:574
 translate chinese ep2s98_e6a451d1:
@@ -718,7 +718,7 @@ translate chinese ep2s98_8c787f40:
 translate chinese ep2s98_a7647dcf:
 
     # no "Um... Okay. I'm... I'm so sorry, [name]."
-    no "额……好吧，我……我很抱歉，[name]。"
+    no "额……好吧。我……我很抱歉，[name]。"
 
 # game/ep2/scene98.rpy:619
 translate chinese ep2s98_6b8350d1:

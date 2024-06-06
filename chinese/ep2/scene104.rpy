@@ -70,7 +70,7 @@ translate chinese ep2s104_0896e7ae:
 translate chinese ep2s104_7032703a:
 
     # ri "Yeah. We know you set up the SVC Rejects page."
-    ri "是的。我们知道你设置了SVC废品页面。"
+    ri "是的。我们知道是你设置了SVC废品页面。"
 
 # game/ep2/scene104.rpy:114
 translate chinese ep2s104_912e7494:
@@ -82,19 +82,19 @@ translate chinese ep2s104_912e7494:
 translate chinese ep2s104_e52c04db:
 
     # charli "[name] and Riley, the SVC idiots..."
-    charli "[name]还有莱莉，那些SVC的白痴……"
+    charli "[name]还有莱莉，那些SVC的白痴们……"
 
 # game/ep2/scene104.rpy:122
 translate chinese ep2s104_a9d54c4d:
 
     # charli "Sounds like you finally rubbed a few brain cells together."
-    charli "听起来你终于把几个脑细胞揉在一起了。"
+    charli "听起来你们终于把几个脑细胞揉在一起了。"
 
 # game/ep2/scene104.rpy:124
 translate chinese ep2s104_44e89c17:
 
     # charli "Okay. So you figured it out. And what?"
-    charli "好吧。你们知道了，然后呢？"
+    charli "好吧。你们知道了。然后呢？"
 
 # game/ep2/scene104.rpy:129
 translate chinese ep2s104_5e2e8b02:
@@ -286,7 +286,7 @@ translate chinese ep2s104_c50fffa5:
 translate chinese ep2s104_05405e78:
 
     # charli "Tell someone who cares."
-    charli "告诉在乎的人。"
+    charli "告诉在乎的人吧。"
 
 # game/ep2/scene104.rpy:268
 translate chinese ep2s104_4c940955:
@@ -568,7 +568,7 @@ translate chinese ep2s104_1cbdf64f:
 translate chinese ep2s104_450864b6:
 
     # charli "He's going to end you."
-    charli "他会杀了你。"
+    charli "他会杀了你们的。"
 
 # game/ep2/scene104.rpy:591
 translate chinese ep2s104_30910191:

@@ -214,7 +214,7 @@ translate chinese ep2s94_90f98d36:
 translate chinese ep2s94_171f468c:
 
     # ma "I'm Laslo's assistant. Sinister Mallard."
-    ma "我是拉斯洛的助手，邪恶的马拉尔。（注释：绿头鸭）"
+    ma "我是拉斯洛的助手，邪恶的马拉尔。（注：绿头鸭）"
 
 # game/ep2/scene94.rpy:221
 translate chinese ep2s94_08a70feb:
@@ -382,7 +382,7 @@ translate chinese ep2s94_7dd7632d:
 translate chinese ep2s94_7350e201:
 
     # u "(Wow...)"
-    u "(哇哦……)"
+    u "(哇噢……)"
 
 # game/ep2/scene94.rpy:366
 translate chinese ep2s94_3aea34b5:
@@ -418,7 +418,7 @@ translate chinese ep2s94_0bf85a0e:
 translate chinese ep2s94_4cefe694:
 
     # au "Oh, don't worry, I-"
-    au "哦，别担心，我……"
+    au "噢，别担心，我……"
 
 # game/ep2/scene94.rpy:395
 translate chinese ep2s94_3e3b9b33:
@@ -502,7 +502,7 @@ translate chinese ep2s94_60ae22db:
 translate chinese ep2s94_f126b8d3:
 
     # u "(Wow. Okay. I guess there's no need for a white knight after all.)"
-    u "(哇哦，好吧。我想根本不需要白衣骑士了。)"
+    u "(哇噢，好吧。我想根本不需要白衣骑士了。)"
 
 # game/ep2/scene94.rpy:477
 translate chinese ep2s94_f70fbcf5:
@@ -598,7 +598,7 @@ translate chinese ep2s94_fc8a47a7:
 translate chinese ep2s94_6e138f48:
 
     # laz "Or two. You leave right now."
-    laz "或者儿。你现在就走。"
+    laz "或者二。你现在就走。"
 
 # game/ep2/scene94.rpy:546
 translate chinese ep2s94_4df365f3:
@@ -724,7 +724,7 @@ translate chinese ep2s94_e44a1aa1:
 translate chinese ep2s94_97fdfc48:
 
     # au "Wow, that sounds amazing."
-    au "哇哦，听起来很棒。"
+    au "哇噢，听起来很棒。"
 
 # game/ep2/scene94.rpy:643
 translate chinese ep2s94_d1c97f0c:
@@ -1066,7 +1066,7 @@ translate chinese ep2s94_9b75a57d:
 translate chinese ep2s94_60470de7:
 
     # u "You need to quit it with all the 'fuck me' talk."
-    u "你不要再说什么\"操我\"了。"
+    u "你不要再说什么\"上我\"了。"
 
 # game/ep2/scene94.rpy:916
 translate chinese ep2s94_299875f4:

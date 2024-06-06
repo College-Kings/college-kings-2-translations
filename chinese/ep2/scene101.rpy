@@ -64,7 +64,7 @@ translate chinese ep2s101_727a97e9:
 translate chinese ep2s101_eb608eac:
 
     # la "I'm selling so many, I can hardly keep up!"
-    la "我卖了这么多，我都快跟不上了！"
+    la "我卖了这么多，我都快跟不上产量了！"
 
 # game/ep2/scene101.rpy:73
 translate chinese ep2s101_d34d1b08:
@@ -106,7 +106,7 @@ translate chinese ep2s101_4c9aff8b:
 translate chinese ep2s101_ea8d076e:
 
     # la "We had two amazing photoshoots, but there's something wrong with the way I'm selling them."
-    la "我们拍了两张很棒的照片，但是我卖照片的方式有点问题。"
+    la "我们拍了两张很棒的照片，但是我的销售模式有点问题。"
 
 # game/ep2/scene101.rpy:101
 translate chinese ep2s101_7a309f3d:
@@ -118,7 +118,7 @@ translate chinese ep2s101_7a309f3d:
 translate chinese ep2s101_ad9821fd:
 
     # la "But they're still selling, so that's the main thing."
-    la "但他们还在销售，所以这才是重点。"
+    la "但它们还在销售，所以这才是重点。"
 
 # game/ep2/scene101.rpy:108
 translate chinese ep2s101_85023b6f:
@@ -130,7 +130,7 @@ translate chinese ep2s101_85023b6f:
 translate chinese ep2s101_71e3894f:
 
     # u "And I'm sure sales will improve over time."
-    u "我相信随着时间的推移，销售会有所改善。"
+    u "我相信随着时间的推移，销量会有所改善。"
 
 # game/ep2/scene101.rpy:118
 translate chinese ep2s101_bbcfb60e:
@@ -154,19 +154,19 @@ translate chinese ep2s101_e650888c:
 translate chinese ep2s101_b0074e42:
 
     # la "They're selling, but it's really slow going."
-    la "他们在卖，但进展很慢。"
+    la "它们在卖着，但进展很慢。"
 
 # game/ep2/scene101.rpy:134
 translate chinese ep2s101_026ab4ae:
 
     # u "I guess some sales are better than no sales."
-    u "我想有些销售总比没有好。"
+    u "我想有些销量总比没有好。"
 
 # game/ep2/scene101.rpy:139
 translate chinese ep2s101_09095f06:
 
     # ri "Yeah, just keep going. It'll improve. I'm sure of it."
-    ri "是的，继续。会好起来的，我肯定。"
+    ri "是的，继续。会好起来的。我肯定。"
 
 # game/ep2/scene101.rpy:144
 translate chinese ep2s101_a0d136ae:
@@ -364,7 +364,7 @@ translate chinese ep2s101_742a3234:
 translate chinese ep2s101_b5d73f42:
 
     # la "Oh, wow. That wine has gone straight to my head."
-    la "噢，哇哦。这酒真是冲昏了我的头脑。"
+    la "噢，哇噢。这酒真是冲昏了我的头脑。"
 
 # game/ep2/scene101.rpy:353
 translate chinese ep2s101_35684d21:
@@ -406,7 +406,7 @@ translate chinese ep2s101_7aaf0978:
 translate chinese ep2s101_1e19c31c:
 
     # u "Wow. Serious lack of forward planning there, Lauren."
-    u "哇哦。你还真是缺乏远见啊，劳伦。"
+    u "哇噢。你还真是缺乏远见啊，劳伦。"
 
 # game/ep2/scene101.rpy:392
 translate chinese ep2s101_b743328b:
@@ -616,7 +616,7 @@ translate chinese ep2s101_b65a46ca:
 translate chinese ep2s101_c3dd22e7:
 
     # ri "Oh, wow."
-    ri "噢，哇哦。"
+    ri "噢，哇噢。"
 
 # game/ep2/scene101.rpy:562
 translate chinese ep2s101_567d123e:

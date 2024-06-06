@@ -100,7 +100,7 @@ translate chinese ep2s82d_mrs_woods_8bdb5ed3:
 translate chinese ep2s82d_mrs_woods_3a612da0:
 
     # mrmatt "Oh, um... Sorry, I think that last drink has gone to my head already."
-    mrmatt "噢，额……抱歉，最后一杯酒已经冲昏我的头了。"
+    mrmatt "噢，额……抱歉，最后一杯酒已经冲昏我的头脑。"
 
 # game/ep2/scene82d.rpy:108
 translate chinese ep2s82d_mrs_woods_5eb54140:
@@ -130,7 +130,7 @@ translate chinese ep2s82d_mrs_woods_30e26e6b:
 translate chinese ep2s82d_mrs_woods_769b960e:
 
     # elm "To me, you seem very polite... Caring... Easy on the eye..."
-    elm "对我来说，你看起来很有礼貌……关心……容易的眼睛……"
+    elm "对我来说，你看起来很有礼貌……关心……放松的感觉……"
 
 # game/ep2/scene82d.rpy:123
 translate chinese ep2s82d_mrs_woods_decca881:
@@ -166,7 +166,7 @@ translate chinese ep2s82d_mrs_woods_43ebc2c8:
 translate chinese ep2s82d_mrs_woods_c2e8ba6e:
 
     # u "And what will your other eye be doing?"
-    u "你的另一只眼睛会做什么？"
+    u "你的另一种感觉会是什么？"
 
 # game/ep2/scene82d.rpy:156
 translate chinese ep2s82d_mrs_woods_a90528e1:
@@ -226,13 +226,13 @@ translate chinese ep2s82d_mrs_woods_29c82d74:
 translate chinese ep2s82d_mrs_woods_fd024271:
 
     # elm "Behave yourself."
-    elm "规矩点。"
+    elm "规矩点儿。"
 
 # game/ep2/scene82d.rpy:200
 translate chinese ep2s82d_mrs_woods_1bbe7572:
 
     # elm "I think maybe your last drink has gone to your head too."
-    elm "我想也许你最后一杯酒也冲昏了头脑。"
+    elm "我想也许你也被最后一杯酒冲昏了头脑。"
 
 # game/ep2/scene82d.rpy:205
 translate chinese ep2s82d_mrs_woods_0efb3dbe:

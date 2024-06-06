@@ -172,7 +172,7 @@ translate chinese ep2s77_b730bf22:
 translate chinese ep2s77_9be4e56d:
 
     # la "Oh, wow. I'd love that!"
-    la "噢，哇哦。 我很乐意！"
+    la "噢，哇噢。 我很乐意！"
 
 # game/ep2/scene77.rpy:171
 translate chinese ep2s77_e09282a9:
@@ -184,7 +184,7 @@ translate chinese ep2s77_e09282a9:
 translate chinese ep2s77_c3ef0e15:
 
     # u "Make it affordable. I think the quality will speak for itself."
-    u "买得起。我觉得质量不言而喻。"
+    u "让它们大众化。我觉得质量不言而喻。"
 
 # game/ep2/scene77.rpy:175
 translate chinese ep2s77_6c43269b:
@@ -364,13 +364,13 @@ translate chinese ep2s77_8f86c1a6:
 translate chinese ep2s77_176f6bc5:
 
     # la "Not just fingers. I've got everything crossed!"
-    la "不只是手指，我祈祷一切顺利！"
+    la "不只是祈祷，我得让一切顺利！"
 
 # game/ep2/scene77.rpy:311
 translate chinese ep2s77_5da7d386:
 
     # u "Will I see you at the pool party tomorrow?"
-    u "明天泳池派对上见吗？"
+    u "明天泳池派对去吗？"
 
 # game/ep2/scene77.rpy:316
 translate chinese ep2s77_a5d20fc6:
@@ -382,7 +382,7 @@ translate chinese ep2s77_a5d20fc6:
 translate chinese ep2s77_d8e8183a:
 
     # u "Why not?"
-    u "为什么不呢？"
+    u "为什么呢？"
 
 # game/ep2/scene77.rpy:326
 translate chinese ep2s77_1b3afdc9:
@@ -484,7 +484,7 @@ translate chinese ep2s77_3fd34c54:
 translate chinese ep2s77_71877eb3:
 
     # u "Boyfriend and girlfriend."
-    u "男女朋友。"
+    u "男女朋友那种。"
 
 # game/ep2/scene77.rpy:423
 translate chinese ep2s77_fda4b257:

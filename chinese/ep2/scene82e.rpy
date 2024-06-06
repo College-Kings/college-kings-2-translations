@@ -64,7 +64,7 @@ translate chinese ep2s82e_shots_e4e4ef1a:
 translate chinese ep2s82e_elijah_faris_05f896f6:
 
     # fa "Read it and weep, Elijah. It's got a rating of ninety percent."
-    fa "祕密日记，伊利亚。它的收视率是百分之九十。"
+    fa "《少女的异想日记》，伊利亚。它的收视率是百分之九十。"
 
 # game/ep2/scene82e.rpy:138
 translate chinese ep2s82e_elijah_faris_7df618a4:
@@ -94,7 +94,7 @@ translate chinese ep2s82e_elijah_faris_01ca7bda:
 translate chinese ep2s82e_elijah_faris_66d6ad92:
 
     # el "Like I care."
-    el "我才不在乎。"
+    el "我才不在乎呢。"
 
 # game/ep2/scene82e.rpy:167
 translate chinese ep2s82e_elijah_faris_42193a87:
@@ -130,19 +130,19 @@ translate chinese ep2s82e_elijah_faris_5d85e53c:
 translate chinese ep2s82e_elijah_faris_c26fdc63:
 
     # fa "You can hear so many layers to the music, and the bass..."
-    fa "你可以听到这么多层次的音乐，和贝斯……"
+    fa "你可以听到这么多层次的音乐，还有贝斯……"
 
 # game/ep2/scene82e.rpy:191
 translate chinese ep2s82e_elijah_faris_6ba8ebca:
 
     # fa "They've done experiments. The bass actually encourages flowers to grow!"
-    fa "他们已经做了实验。贝斯实际上促进花的生长！"
+    fa "他们已经做了实验。贝斯实际上能促进花的生长！"
 
 # game/ep2/scene82e.rpy:196
 translate chinese ep2s82e_elijah_faris_937d8ba6:
 
     # u "Oh, wow. That's... interesting."
-    u "噢，哇哦。真是……有意思。"
+    u "噢，哇噢。真是……有意思。"
 
 # game/ep2/scene82e.rpy:201
 translate chinese ep2s82e_elijah_faris_4a7f1d66:
@@ -160,13 +160,13 @@ translate chinese ep2s82e_elijah_faris_8b258704:
 translate chinese ep2s82e_elijah_faris_a92ea2af:
 
     # el "So?"
-    el "那又怎样？"
+    el "然后呢？"
 
 # game/ep2/scene82e.rpy:216
 translate chinese ep2s82e_elijah_faris_8a41bdce:
 
     # u "So, what?"
-    u "那又怎样？"
+    u "然后什么？"
 
 # game/ep2/scene82e.rpy:221
 translate chinese ep2s82e_elijah_faris_cf450547:
@@ -238,7 +238,7 @@ translate chinese ep2s82e_elijah_faris_e15d8cd5:
 translate chinese ep2s82e_elijah_faris_bc1b4c4b:
 
     # el "Wow, I guess they can re-train circus animals."
-    el "哇哦，我猜他们可以重新训练马戏团的动物。"
+    el "哇噢，我猜他们可以重新训练马戏团的动物。"
 
 # game/ep2/scene82e.rpy:282
 translate chinese ep2s82e_elijah_faris_4fa362fa:
@@ -286,7 +286,7 @@ translate chinese ep2s82e_elijah_faris_d5ffd9ab:
 translate chinese ep2s82e_elijah_faris_902534d9:
 
     # fa "Oh, wow. That was legendary."
-    fa "噢，哇哦。真是传奇。"
+    fa "噢，哇噢。真是传奇。"
 
 # game/ep2/scene82e.rpy:316
 translate chinese ep2s82e_elijah_faris_53dac3fd:
@@ -436,7 +436,7 @@ translate chinese ep2s82e_drinks_station_1956f22b:
 translate chinese ep2s82e_drinks_station_eeb5aa26:
 
     # u "You do you, Pen. Just keep drinking."
-    u "你做你自己，佩。继续喝。"
+    u "酒逢知己千杯少，佩。继续喝吧。"
 
 # game/ep2/scene82e.rpy:457
 translate chinese ep2s82e_drinks_station_1f2dbc65:
@@ -466,7 +466,7 @@ translate chinese ep2s82e_drinks_station_e6aa3727:
 translate chinese ep2s82e_drinks_station_96f29dd2:
 
     # pe "Think you can make me one?"
-    pe "你能帮我调一个吗？"
+    pe "你能帮我调一杯吗？"
 
 # game/ep2/scene82e.rpy:484
 translate chinese ep2s82e_drinks_station_7438e104:
@@ -592,7 +592,7 @@ translate chinese ep2s82e_drinks_station_afa7fecb:
 translate chinese ep2s82e_drinks_station_92a3d46a:
 
     # u "Thanks, maybe I should go to bartending college instead."
-    u "谢谢，也许我应该去上大学当酒保。"
+    u "谢谢，也许我应该去大学当酒保。"
 
 # game/ep2/scene82e.rpy:613
 translate chinese ep2s82e_drinks_station_6f1d2b16:
@@ -670,7 +670,7 @@ translate chinese ep2s82e_drinks_station_083d6158:
 translate chinese ep2s82e_drinks_station_a8f3d466:
 
     # pe "I will. Thanks!"
-    pe "我会的，谢谢！"
+    pe "我会的。谢谢！"
 
 # game/ep2/scene82e.rpy:675
 translate chinese ep2s82e_drinks_station_6d877be9:
@@ -772,7 +772,7 @@ translate chinese ep2s82e_drinks_station_0deb6acd:
 translate chinese ep2s82e_drinks_station_a2e24b35:
 
     # ca "Make me a screwdriver."
-    ca "给我做个螺丝刀。"
+    ca "给我调杯螺丝刀。"
 
 # game/ep2/scene82e.rpy:754
 translate chinese ep2s82e_drinks_station_8b258704:
@@ -790,7 +790,7 @@ translate chinese ep2s82e_drinks_station_27dec1a5:
 translate chinese ep2s82e_drinks_station_8ca12a31:
 
     # ca "Come on, pussy man. I need a decent drink."
-    ca "来吧，娘娘腔。我要好好喝一杯。"
+    ca "快点儿，娘娘腔。我要好好喝一杯。"
 
 # game/ep2/scene82e.rpy:763
 translate chinese ep2s82e_drinks_station_f6e88c79:
@@ -832,13 +832,13 @@ translate chinese ep2s82e_drinks_station_e6a451d1:
 translate chinese ep2s82e_drinks_station_0cffccce:
 
     # ca "Come on, I'm thirsty!"
-    ca "快点，我渴了！"
+    ca "快点儿，我渴了！"
 
 # game/ep2/scene82e.rpy:807
 translate chinese ep2s82e_drinks_station_ade9e8b2:
 
     # u "Oh, we're out of vodka."
-    u "哦，伏特加喝完了。"
+    u "噢，伏特加用完了。"
 
 # game/ep2/scene82e.rpy:809
 translate chinese ep2s82e_drinks_station_8fb85b59:
@@ -880,7 +880,7 @@ translate chinese ep2s82e_drinks_station_07513003:
 translate chinese ep2s82e_drinks_station_4bc7bdc9:
 
     # ca "That's right on the money!"
-    ca "做得太对了！"
+    ca "有钱给就做得太对了！"
 
 # game/ep2/scene82e.rpy:859
 translate chinese ep2s82e_drinks_station_1e904949:
@@ -916,7 +916,7 @@ translate chinese ep2s82e_drinks_station_62b3c388:
 translate chinese ep2s82e_drinks_station_8b8df1ec:
 
     # ca "No, it's not. Did you..."
-    ca "不，不是，你有没有……"
+    ca "不，不是。你有没有……"
 
 # game/ep2/scene82e.rpy:898
 translate chinese ep2s82e_drinks_station_ac7ed7c0:
@@ -946,7 +946,7 @@ translate chinese ep2s82e_drinks_station_16078465:
 translate chinese ep2s82e_drinks_station_4d0696b8:
 
     # ca "Fuck this drink. I'll just take some beers..."
-    ca "去他妈的酒。我就喝点啤酒把……"
+    ca "去他妈的酒。我就喝点啤酒吧……"
 
 # game/ep2/scene82e.rpy:927
 translate chinese ep2s82e_drinks_station_07513003_2:
@@ -1234,7 +1234,7 @@ translate chinese ep2s82e_drinks_station_81e3a42e:
 translate chinese ep2s82e_drinks_station_fb359b46:
 
     # el "Trust you to screw up a simple drink."
-    el "相信你能搞砸一杯简单的饮料。"
+    el "不敢相信你能搞砸一杯简单的鸡尾酒。"
 
 # game/ep2/scene82e.rpy:1227
 translate chinese ep2s82e_drinks_station_8d7ad2e7_1:
@@ -1282,13 +1282,13 @@ translate chinese ep2s82e_drinks_station_cf73c61c:
 translate chinese ep2s82e_drinks_station_1e78c347:
 
     # u "(Okay, I've already ruined this drink. No way should I have added whisky!)"
-    u "(好吧，我已经毁了这杯酒，我不应该再加威士忌的！)"
+    u "(好吧，我已经毁了这杯酒。我不应该再加威士忌的！)"
 
 # game/ep2/scene82e.rpy:1284
 translate chinese ep2s82e_drinks_station_45ab1cbf:
 
     # el "Come on. Hurry up."
-    el "快点，快点。"
+    el "快点。快点。"
 
 # game/ep2/scene82e.rpy:1296
 translate chinese ep2s82e_drinks_station_07b34de7:

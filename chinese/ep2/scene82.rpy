@@ -76,7 +76,7 @@ translate chinese ep2s82_b11ee2f2:
 translate chinese ep2s82_7acdd661:
 
     # li "Oh, wow. You found sunscreen!"
-    li "噢，哇哦。你找到防晒霜了！"
+    li "噢，哇噢。你找到防晒霜了！"
 
 # game/ep2/scene82.rpy:106
 translate chinese ep2s82_4dab2bcc:
