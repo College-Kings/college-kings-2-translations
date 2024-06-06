@@ -94,13 +94,13 @@ translate chinese v1s13a_a0151c85:
 translate chinese v1s13a_59e498a5:
 
     # gr "Just be ready. Oh, yeah, and welcome back."
-    gr "做好准备，噢，对了，欢迎回来。"
+    gr "做好准备。噢，对了，欢迎回来。"
 
 # game/v1/scene13a.rpy:97
 translate chinese v1s13a_e3094d17:
 
     # u "(He will never make any sense to me.)"
-    u "(我永远不会理解他)"
+    u "(我永远不会理解他。)"
 
 # game/v1/scene13a.rpy:112
 translate chinese v1s13a_cdd8c6ba:
