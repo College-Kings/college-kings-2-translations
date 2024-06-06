@@ -100,7 +100,7 @@ translate chinese ep2s11_1833b1a5:
 translate chinese ep2s11_41fe8992:
 
     # u "Yeah, I-"
-    u "是的，我-"
+    u "是的，我……"
 
 # game/ep2/scene11.rpy:117
 translate chinese ep2s11_9cacca14:
@@ -226,7 +226,7 @@ translate chinese ep2s11_7c0e7313:
 translate chinese ep2s11_4b50bfb6:
 
     # u "(Spill out onto your canvas?)"
-    u "(洒到你的画布上？)"
+    u "(洒到你们的画布上？)"
 
 # game/ep2/scene11.rpy:228
 translate chinese ep2s11_420839eb:
@@ -286,19 +286,19 @@ translate chinese ep2s11_nsfw_skip_label1_39044d8b:
 translate chinese ep2s11_nsfw_skip_label1_2120f9b9:
 
     # cho "Yes! Good! Simple yet effective. Art is art!"
-    cho "是的！很好！简单而有效。艺术就是艺术！"
+    cho "是的！很好！言简意赅。艺术就是艺术！"
 
 # game/ep2/scene11.rpy:287
 translate chinese ep2s11_nsfw_skip_label1_ca3693b1:
 
     # pe "*Whispers* Art? That's it?"
-    pe "*低语* 艺术? ？就这样？"
+    pe "*低语* 艺术？就没了？"
 
 # game/ep2/scene11.rpy:292
 translate chinese ep2s11_nsfw_skip_label1_ff73ed0d:
 
     # u "*Whispers* Yeah... Art. You know?"
-    u "*低语* 是啊……艺术。你知道吗？"
+    u "*低语* 是啊……艺术。你不知道吗？"
 
 # game/ep2/scene11.rpy:294
 translate chinese ep2s11_nsfw_skip_label1_aa117121:
@@ -322,7 +322,7 @@ translate chinese ep2s11_nsfw_skip_label1_cc757562:
 translate chinese ep2s11_nsfw_skip_label1_b51276de:
 
     # u "Hot teacher!"
-    u "性感教师！"
+    u "性感女教师！"
 
 # game/ep2/scene11.rpy:323
 translate chinese ep2s11_nsfw_skip_label1_55f649aa:
@@ -512,7 +512,7 @@ translate chinese strings:
 
     # game/ep2/scene11.rpy:266
     old "Hot teacher!"
-    new "性感教师！"
+    new "性感女教师！"
 
     # game/ep2/scene11.rpy:266
     old "Is Bella single?"

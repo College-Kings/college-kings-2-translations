@@ -346,7 +346,7 @@ translate chinese ep2s54_e50f0e8f:
 translate chinese ep2s54_e83e043e:
 
     # u "Nothing wrong with being horny..."
-    u "饥渴没什么不好。"
+    u "饥渴没什么不好……"
 
 # game/ep2/scene54.rpy:408
 translate chinese ep2s54_56a00080:
@@ -628,7 +628,7 @@ translate chinese ep2s54_c5510a75:
 translate chinese ep2s54_292de489:
 
     # la "Wow, that {i}is{/i} boring."
-    la "哇哦，那{i}真是{/i}无聊。"
+    la "哇噢，那{i}真是{/i}无聊。"
 
 # game/ep2/scene54.rpy:629
 translate chinese ep2s54_1daabe8b:

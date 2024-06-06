@@ -94,7 +94,7 @@ translate chinese ep2s18_a522ed5e:
 translate chinese ep2s18_a7457fdc:
 
     # u "Uh, sure. Hey, Chloe."
-    u "额，当然。克洛伊。"
+    u "额，当然不。克洛伊。"
 
 # game/ep2/scene18.rpy:114
 translate chinese ep2s18_4852914b:
@@ -106,7 +106,7 @@ translate chinese ep2s18_4852914b:
 translate chinese ep2s18_cd298b0c:
 
     # li "Oh, just social planning committee stuff."
-    li "噢，只是社会计划委员会的事。"
+    li "噢，只是社会计划委员会的事儿。"
 
 # game/ep2/scene18.rpy:124
 translate chinese ep2s18_014aa2a3:
@@ -394,7 +394,7 @@ translate chinese ep2s18_20a8b373:
 translate chinese ep2s18_1ad67713:
 
     # li "Yeah, you know, cause they forget everything after a few seconds... they can't really hold a grudge."
-    li "是的，你知道，因为它们几秒钟之后就会忘记一切……它们不能真的怀恨在心。"
+    li "是的，你知道的，因为它们几秒钟之后就会忘记一切……它们不能真的怀恨在心。"
 
 # game/ep2/scene18.rpy:342
 translate chinese ep2s18_3c67b048:
@@ -652,7 +652,7 @@ translate chinese ep2s18_4dab6948:
 translate chinese ep2s18_6759c311:
 
     # u "You know me and Chloe are-"
-    u "你知道我和克洛伊-"
+    u "你知道我和克洛伊……"
 
 # game/ep2/scene18.rpy:620
 translate chinese ep2s18_b9f14061:
@@ -760,7 +760,7 @@ translate chinese ep2s18_7b1c1392_2:
 translate chinese ep2s18_378692e6:
 
     # u "Better out than in."
-    u "出来总比进去好。"
+    u "出来总比里面好。"
 
 translate chinese strings:
 

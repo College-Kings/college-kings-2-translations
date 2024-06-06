@@ -16,13 +16,13 @@ translate chinese ep2s23_ffa3f361:
 translate chinese ep2s23_99b1b856:
 
     # no "No, you're not. You're two minutes late."
-    no "不，你没有，你迟到了两分钟。"
+    no "不，你没有。你迟到了两分钟。"
 
 # game/ep2/scene23.rpy:52
 translate chinese ep2s23_85a441f4:
 
     # u "Nora. You seem... stressed."
-    u "诺拉，你看起来……压力很大啊。"
+    u "诺拉。你看起来……压力很大啊。"
 
 # game/ep2/scene23.rpy:57
 translate chinese ep2s23_7355fb38:
@@ -292,7 +292,7 @@ translate chinese ep2s23_e150aed7:
 translate chinese ep2s23_3e87b04b:
 
     # u "Let's go get us some alcohol!"
-    u "我们去拿点酒来！"
+    u "我们去搞点儿酒来吧！"
 
 translate chinese strings:
 

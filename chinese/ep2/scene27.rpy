@@ -4,7 +4,7 @@
 translate chinese ep2s27_c3565a9f:
 
     # u "Oh, wow, nice pad!"
-    u "噢，哇哦，好漂亮的公寓！"
+    u "噢，哇噢，好漂亮的公寓！"
 
 # game/ep2/scene27.rpy:48
 translate chinese ep2s27_ed73fab2:
@@ -148,7 +148,7 @@ translate chinese ep2s27_806ed102:
 translate chinese ep2s27_2a85bb8a:
 
     # no "Oh, wow. You'd really do it all, huh?"
-    no "噢，哇哦。你真的什么都愿意做，是吧？"
+    no "噢，哇噢。你真的什么都愿意做，是吧？"
 
 # game/ep2/scene27.rpy:215
 translate chinese ep2s27_2be5d203:
@@ -632,7 +632,7 @@ translate chinese strings:
 
     # game/ep2/scene27.rpy:174
     old "I'm doing all the hard work"
-    new "老子当牛做马"
+    new "要老子当牛做马"
 
     # game/ep2/scene27.rpy:174
     old "No problem"

@@ -76,7 +76,7 @@ translate chinese ep2s18c_533a9475:
 translate chinese ep2s18c_556ddc91:
 
     # u "(Sorry you lost out that time, Linds!)"
-    u "(很遗憾你输了，琳赛！)"
+    u "(很遗憾你输了，林赛！)"
 
 # game/ep2/scene18c.rpy:66
 translate chinese ep2s18c_008545aa:

@@ -4,7 +4,7 @@
 translate chinese ep2s62_b879624e:
 
     # ri "Wow, you were fast."
-    ri "哇哦，你动作真快。"
+    ri "哇噢，你动作真快。"
 
 # game/ep2/scene62.rpy:35
 translate chinese ep2s62_12545386:
@@ -106,7 +106,7 @@ translate chinese ep2s62_8ead3c84:
 translate chinese ep2s62_7252fe43:
 
     # ri "Oh, wow, the ego has landed."
-    ri "噢，哇哦，自尊心来了。"
+    ri "噢，哇噢，自尊心来了。"
 
 # game/ep2/scene62.rpy:125
 translate chinese ep2s62_213e7ed6:

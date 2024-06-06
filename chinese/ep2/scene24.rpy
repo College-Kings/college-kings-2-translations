@@ -852,5 +852,5 @@ translate chinese strings:
 
     # game/ep2/scene24.rpy:699
     old "We're charging entry"
-    new "我们正在充电"
+    new "我们也在收费"
 

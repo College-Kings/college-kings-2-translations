@@ -166,7 +166,7 @@ translate chinese ep2s55c_1d7bd70f:
 translate chinese ep2s55c_486167c4:
 
     # sa "Yeah, get in there deep, you fucking bad boy..."
-    sa "是的，深入交流，你他妈的是个坏男孩……"
+    sa "是的，深入交流，你真他妈的是个坏男孩……"
 
 # game/ep2/scene55c.rpy:164
 translate chinese ep2s55c_23426d77:

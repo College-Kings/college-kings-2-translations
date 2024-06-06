@@ -184,7 +184,7 @@ translate chinese ep2s3_f8bca76d:
 translate chinese ep2s3_f071a4ee:
 
     # ri "Yeah, sorry about waking you up with those. You're just my go-to guy for this sort of thing."
-    ri "是的，抱歉用这些东西吵醒你，你是这种事的专家。"
+    ri "是的，抱歉用这些东西吵醒你。但你是处理这种事的专家。"
 
 # game/ep2/scene3.rpy:188
 translate chinese ep2s3_2749c06a:
@@ -298,7 +298,7 @@ translate chinese ep2s3_3cfa3337:
 translate chinese ep2s3_40d987dd:
 
     # u "That guy's as dumb as his rock collection."
-    u "那家伙跟他的石头收藏一样蠢。"
+    u "那家伙跟他收藏的石头一样蠢。"
 
 # game/ep2/scene3.rpy:285
 translate chinese ep2s3_a075e72f:
@@ -322,7 +322,7 @@ translate chinese ep2s3_251557b2:
 translate chinese ep2s3_ffbb9028:
 
     # u "It's okay, Riley. You can admit it. You made the page, didn't you?"
-    u "没关系，莱莉。你可以承认。是你上传，对吧？"
+    u "没关系，莱莉。你可以承认。是你上传的，对吧？"
 
 # game/ep2/scene3.rpy:309
 translate chinese ep2s3_35335e80:

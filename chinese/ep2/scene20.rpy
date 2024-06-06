@@ -40,7 +40,7 @@ translate chinese ep2s20_062b82d7:
 translate chinese ep2s20_f7b77065:
 
     # u "(Apart from that dinner tonight with Aubrey and Naomi.)"
-    u "(除了今晚和奥布里和娜欧米的晚餐。)"
+    u "(除了今晚和奥布里跟娜欧米的晚餐。)"
 
 # game/ep2/scene20.rpy:114
 translate chinese ep2s20_8ef34284:

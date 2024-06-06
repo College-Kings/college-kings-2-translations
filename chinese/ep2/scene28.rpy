@@ -4,7 +4,7 @@
 translate chinese ep2s28_86548f40:
 
     # u "*Tuneless humming*"
-    u "*无声的嗡嗡声* "
+    u "*遥远的嗡嗡声*"
 
 # game/ep2/scene28.rpy:35
 translate chinese ep2s28_3628c121:
@@ -22,7 +22,7 @@ translate chinese ep2s28_2cafedc1:
 translate chinese ep2s28_84d82746:
 
     # tom "*Indistinct shouting*"
-    tom "*模糊的叫喊* "
+    tom "*模糊的叫喊*"
 
 # game/ep2/scene28.rpy:57
 translate chinese ep2s28_8bdb5ed3:
@@ -178,7 +178,7 @@ translate chinese ep2s28_e44ea12a:
 translate chinese ep2s28_ba980edc:
 
     # u "I might lose, but he'll know that every time he messes with you, he's got me to fight."
-    u "我可能会输，但他会知道每次他找你麻烦的时候，他都会让我战斗。"
+    u "我可能会输，但他会知道每次他找你麻烦的时候，他都会让我生气。"
 
 # game/ep2/scene28.rpy:182
 translate chinese ep2s28_b8c74d26:

@@ -82,7 +82,7 @@ translate chinese ep2s7_0f8ef646:
 translate chinese ep2s7_227618ac:
 
     # u "I no longer go by the peasant name [name]. I am Super [name]."
-    u "我不再用我的俗名[name]。我是超级[name]。"
+    u "我不再用我的俗名[name]。我现在是超级[name]。"
 
 # game/ep2/scene7.rpy:113
 translate chinese ep2s7_80af2a74:
@@ -148,7 +148,7 @@ translate chinese ep2s7_17c9f866:
 translate chinese ep2s7_a642b0d1:
 
     # ri "I'm Riley. I'm a first-year student, and I also work on our college paper, the SVC Times."
-    ri "我是莱莉，一年级学生，我也在我们的大学期刊《 SVC 时报》工作。"
+    ri "我是莱莉，一年级学生，我也在我们的大学期刊《SVC时报》工作。"
 
 # game/ep2/scene7.rpy:168
 translate chinese ep2s7_5f1aabe1:
@@ -202,7 +202,7 @@ translate chinese ep2s7_3533cb51:
 translate chinese ep2s7_9500befc:
 
     # fa "I'm Faris! I'm a sophomore computer science major, and I'm a Frog!"
-    fa "我是法里斯！我是计算机应用专业的大二学生，我是青蛙会一员！"
+    fa "我是法里斯！我是计算机科学与应用专业的大二学生，我是青蛙会一员！"
 
 # game/ep2/scene7.rpy:207
 translate chinese ep2s7_51af3395:
@@ -262,13 +262,13 @@ translate chinese ep2s7_e842bf20:
 translate chinese ep2s7_b68cd1c3:
 
     # li "I'm the President of the Chicks and a senior in business management."
-    li "我是小鸡会的主席，也是商业管理专业的大四学生。"
+    li "我是小鸡会的主席，也是工商管理专业的大四学生。"
 
 # game/ep2/scene7.rpy:255
 translate chinese ep2s7_140dd4df:
 
     # li "I'm in the Chicks, same as Nora, and I'm a senior in business management."
-    li "我和诺拉一样，都是小鸡会的，而且我是商业管理专业的大四学生。"
+    li "我和诺拉一样，都是小鸡会的，而且我是工商管理专业的大四学生。"
 
 # game/ep2/scene7.rpy:260
 translate chinese ep2s7_d888249d:
@@ -532,7 +532,7 @@ translate chinese ep2s7_c5de37fa:
 translate chinese ep2s7_a6d16538:
 
     # ri "You can be there too as our supervisor, making sure we act responsibly."
-    ri "您也可以作为我们的主管出席，确保我们的行为负责。"
+    ri "您也可以作为我们的主管出席，确保我们的行为合规。"
 
 # game/ep2/scene7.rpy:475
 translate chinese ep2s7_7f9ff35c:
@@ -592,7 +592,7 @@ translate chinese ep2s7_70b139e5:
 translate chinese ep2s7_3fa30106:
 
     # ri "Ooh, actually, I think I have an idea! Why don't we throw a pool party?"
-    ri "哦，事实上，我有个主意！我们办个泳池派对怎么样？"
+    ri "噢，事实上，我有个主意！我们办个泳池派对怎么样？"
 
 # game/ep2/scene7.rpy:522
 translate chinese ep2s7_f95f2609:
@@ -658,7 +658,7 @@ translate chinese ep2s7_ea7c5ffd:
 translate chinese ep2s7_7929fe6c:
 
     # fa "I insulted his list of favorite sci-fi shows. I mean, \"Trekking the Stars\" in third place?! He's insane!"
-    fa "我侮辱了他最喜欢的科幻电视剧，我说\"星际旅行\"排第三名？！他疯了！"
+    fa "我侮辱了他最喜欢的科幻电视剧，我说\"星际旅行\"排第三名？！他就发飙了！"
 
 # game/ep2/scene7.rpy:571
 translate chinese ep2s7_acbd18db:
@@ -796,7 +796,7 @@ translate chinese ep2s7_1eb2d0a3:
 translate chinese ep2s7_5f9fd38e:
 
     # fa "Yeah, with an eclectic mix of sweet beach party tunes. I can do that!"
-    fa "是的，还有甜蜜沙滩派对的曲调。我能做到！"
+    fa "是的，还有甜蜜沙滩派对的曲调。我能搞定！"
 
 # game/ep2/scene7.rpy:684
 translate chinese ep2s7_fdf3fafb:
@@ -808,7 +808,7 @@ translate chinese ep2s7_fdf3fafb:
 translate chinese ep2s7_3b6d52fc:
 
     # fa "Of course! Who doesn't like orchestral movie soundtracks?"
-    fa "当然！谁不喜欢管弦乐电影原声带？"
+    fa "当然！谁不喜欢管弦乐电影原声带呢？"
 
 # game/ep2/scene7.rpy:694
 translate chinese ep2s7_e0120946:
@@ -862,7 +862,7 @@ translate chinese ep2s7_b4eb795a:
 translate chinese ep2s7_2098171f:
 
     # ri "Oh! What about a DJ? My cousin Phil DJs! He only started last year, but he's actually pretty good!"
-    ri "哦！DJ怎么样？我的表弟DJ菲尔！他虽然去年才入行，但他实际上表演得相当不错！"
+    ri "噢！DJ怎么样？我的表弟DJ菲尔！他虽然去年才入行，但他实际上表演得相当不错！"
 
 # game/ep2/scene7.rpy:739
 translate chinese ep2s7_50c95941:
@@ -982,7 +982,7 @@ translate chinese ep2s7_a03a0e81:
 translate chinese ep2s7_ce0e7373:
 
     # li "Maybe I do!"
-    li "也许我知道！"
+    li "也许是的！"
 
 # game/ep2/scene7.rpy:835
 translate chinese ep2s7_81453dbb:
@@ -1162,7 +1162,7 @@ translate chinese ep2s7_73ecd9d8:
 translate chinese ep2s7_101c460d:
 
     # fa "Not really. His taste in sci-fi shows for example leaves a lot to be desired."
-    fa "也不尽然，比如他对科幻电视剧的品味就有很多不尽如人意的地方。"
+    fa "也不是这么说。比如他对科幻电视剧的品味就有很多不尽如人意的地方。"
 
 # game/ep2/scene7.rpy:980
 translate chinese ep2s7_2a30bfae:
@@ -1204,7 +1204,7 @@ translate chinese ep2s7_1a672383:
 translate chinese ep2s7_09332657:
 
     # u "What do you mean?"
-    u "什么意思？"
+    u "啥意思？"
 
 # game/ep2/scene7.rpy:1014
 translate chinese ep2s7_0c10afb1:
@@ -1240,13 +1240,13 @@ translate chinese ep2s7_b2c2f637:
 translate chinese ep2s7_24ac41c7:
 
     # ri "Gross! Don't ever refer to Elijah as my boyfriend. That's crossing the line of decency."
-    ri "恶心！永远不要把伊利亚当成我的男朋友，那样太过分了。"
+    ri "真恶心！永远不要把伊利亚当成我的男朋友，那样太过分了。"
 
 # game/ep2/scene7.rpy:1041
 translate chinese ep2s7_4f38ea93:
 
     # u "Whatever. You love it."
-    u "随便吧。你喜欢的。"
+    u "随便啦。你先说的嘛。"
 
 translate chinese strings:
 

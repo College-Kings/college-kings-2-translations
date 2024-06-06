@@ -34,7 +34,7 @@ translate chinese ep2s55b_b8cfd8d1:
 translate chinese ep2s55b_d5d2cd32:
 
     # sa "Probably time for a break, yeah?"
-    sa "也许是时候休息一下了？"
+    sa "也许是时候休息一下了，嗯？"
 
 # game/ep2/scene55b.rpy:54
 translate chinese ep2s55b_c4f114c3:
@@ -52,7 +52,7 @@ translate chinese ep2s55b_4b0e2a47:
 translate chinese ep2s55b_3bf1e34e:
 
     # sa "Yeah, well, last night at the bus stop, you said let's hang out again..."
-    sa "好吧，昨晚在公车站，你说我们再一起出去逛逛……"
+    sa "好吧，昨晚在公车站，你说我们有时间再约……"
 
 # game/ep2/scene55b.rpy:73
 translate chinese ep2s55b_5af4ad7e:
@@ -82,7 +82,7 @@ translate chinese ep2s55b_0924d043:
 translate chinese ep2s55b_68d56d3e:
 
     # u "Yeah, I'm coming."
-    u "好吧，我来了。"
+    u "好吧，来了。"
 
 # game/ep2/scene55b.rpy:114
 translate chinese ep2s55b_ae96d02c:
@@ -94,7 +94,7 @@ translate chinese ep2s55b_ae96d02c:
 translate chinese ep2s55b_c239c43b:
 
     # sa "Fuck, [name]! What is it with this hot and cold bullshit?!"
-    sa "去你的，[name]！这是什么，翻脸不认人? ！"
+    sa "去你的，[name]！这什么意思，翻脸不认人？！"
 
 # game/ep2/scene55b.rpy:132
 translate chinese ep2s55b_f50363fe:

@@ -208,7 +208,7 @@ translate chinese ep2s43a_c5b0f45c:
 translate chinese ep2s43a_bbee32fc:
 
     # ri "It takes too long to say. Phil is fine."
-    ri "说来话长。菲尔很好。"
+    ri "说来话长。菲尔叫起来很好。"
 
 # game/ep2/scene43a.rpy:264
 translate chinese ep2s43a_dd9d93c3:
@@ -1002,7 +1002,7 @@ translate chinese strings:
 
     # game/ep2/scene43a.rpy:315
     old "Let Riley ask"
-    new "让莱丽问吧"
+    new "让莱莉问吧"
 
     # game/ep2/scene43a.rpy:315
     old "DJ for us?"

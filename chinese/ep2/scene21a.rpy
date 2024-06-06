@@ -70,13 +70,13 @@ translate chinese ep2s21a_152044a3:
 translate chinese ep2s21a_43d959a4:
 
     # aut "Funky."
-    aut "时髦。"
+    aut "有意思。"
 
 # game/ep2/scene21a.rpy:210
 translate chinese ep2s21a_4ed4501e:
 
     # u "Funky? We really need to work on your dirty talk."
-    u "时髦？我们真的需要试试你的下流话了。"
+    u "有意思？我们真的需要试试你的下流话了。"
 
 # game/ep2/scene21a.rpy:216
 translate chinese ep2s21a_50e68f76:
@@ -88,7 +88,7 @@ translate chinese ep2s21a_50e68f76:
 translate chinese ep2s21a_80eee3e3:
 
     # u "Okay, let's go back to funky."
-    u "好吧，让我们回到时髦上。"
+    u "好吧，让我们回到有意思上。"
 
 # game/ep2/scene21a.rpy:232
 translate chinese ep2s21a_a842d641:
@@ -274,7 +274,7 @@ translate chinese ep2s21a_d3b05eb6:
 translate chinese ep2s21a_56e3f8f6:
 
     # aut "Wow."
-    aut "哇哦。"
+    aut "哇噢。"
 
 # game/ep2/scene21a.rpy:479
 translate chinese ep2s21a_593fb19e:
@@ -286,7 +286,7 @@ translate chinese ep2s21a_593fb19e:
 translate chinese ep2s21a_af7d1de5:
 
     # aut "I—I do."
-    aut "我，我喜欢。"
+    aut "我……我喜欢。"
 
 # game/ep2/scene21a.rpy:498
 translate chinese ep2s21a_9cb1024c:
@@ -334,7 +334,7 @@ translate chinese ep2s21a_e652f48e:
 translate chinese ep2s21a_86ef2e27:
 
     # aut "Oh, God, that feels good."
-    aut "天啊，感觉真好。"
+    aut "噢，天啊，感觉真好。"
 
 # game/ep2/scene21a.rpy:520
 translate chinese ep2s21a_5257fac9:
@@ -346,7 +346,7 @@ translate chinese ep2s21a_5257fac9:
 translate chinese ep2s21a_ca967234:
 
     # u "Fuck, this is really hot."
-    u "妈的，这真的很热。"
+    u "妈的，这真的很性感。"
 
 # game/ep2/scene21a.rpy:530
 translate chinese ep2s21a_7b9feec7:
@@ -376,7 +376,7 @@ translate chinese ep2s21a_e30a0cb9:
 translate chinese ep2s21a_6074dc84:
 
     # aut "Wow, I just had sex. I can't believe it."
-    aut "哇哦，我刚做爱了。真不敢相信。"
+    aut "哇噢，我刚做爱了。真不敢相信。"
 
 # game/ep2/scene21a.rpy:569
 translate chinese ep2s21a_80137f98:

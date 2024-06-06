@@ -304,7 +304,7 @@ translate chinese ep2s25_6e3bdb45:
 translate chinese ep2s25_81a0a618:
 
     # jerry "So what exactly do you want?"
-    jerry "你到底想要什么？"
+    jerry "你都想要些什么？"
 
 # game/ep2/scene25.rpy:297
 translate chinese ep2s25_a4be6e3c:
@@ -604,7 +604,7 @@ translate chinese ep2s25_scissors_1420cb81:
 translate chinese ep2s25_scissors_04f74190:
 
     # jerry "Well, here are the keys. You just get going whenever you're ready, and bring it back when you're done."
-    jerry "这是钥匙，你们准备好了就出发，完事了再拿回来。"
+    jerry "这是钥匙，你们准备好了就出发吧，完事了再拿回来。"
 
 # game/ep2/scene25.rpy:709
 translate chinese ep2s25_scissors_e389a42b:

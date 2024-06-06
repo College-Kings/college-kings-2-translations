@@ -32,5 +32,5 @@ translate chinese strings:
 
     # game/ep2/scene1.rpy:15
     old "Alex"
-    new "亚历克斯"
+    new "艾历克斯"
 

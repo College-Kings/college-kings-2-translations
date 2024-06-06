@@ -10,7 +10,7 @@ translate chinese ep2s2_167ddc86:
 translate chinese ep2s2_a378a3ae:
 
     # u "(I'm blaming Riley.)"
-    u "(我在责怪莱莉。)"
+    u "(这都怪莱莉。)"
 
 # game/ep2/scene2.rpy:32
 translate chinese ep2s2_3c793f54:
@@ -64,13 +64,13 @@ translate chinese ep2s2_906208de:
 translate chinese ep2s2_12b9e563:
 
     # u "(Damn, that's a firm handshake. He's crushing my finger bones...)"
-    u "(该死的，握手很有力。他要捏碎了我的指骨……)"
+    u "(该死的，握手很有力。他要捏碎我的指骨了……)"
 
 # game/ep2/scene2.rpy:77
 translate chinese ep2s2_99df1ce6:
 
     # no "I was just saying how you're always there to lend a helping hand to the Chicks."
-    no "我是说你总是在那里帮助小妞们。"
+    no "我说你总是在那里帮助姑娘们。"
 
 # game/ep2/scene2.rpy:84
 translate chinese ep2s2_a8ca6402:
@@ -184,7 +184,7 @@ translate chinese ep2s2_e8f633bb:
 translate chinese ep2s2_a8e76012:
 
     # u "(Ah, man. It's way too early for this kind of talk, Nora.)"
-    u "(天啊，现在谈这个太早了，诺拉。)"
+    u "(天呐，现在谈这个太早了，诺拉。)"
 
 # game/ep2/scene2.rpy:188
 translate chinese ep2s2_00c81517:
@@ -346,7 +346,7 @@ translate chinese ep2s2_be1c20c5:
 translate chinese ep2s2_c29c53dd:
 
     # u "(Blazed it up, Amsterdam-style...)"
-    u "(燃烧，阿姆斯特丹风格……)"
+    u "(燃烧吧，阿姆斯特丹风格……)"
 
 # game/ep2/scene2.rpy:324
 translate chinese ep2s2_2951e281:
@@ -406,7 +406,7 @@ translate chinese ep2s2_26443588:
 translate chinese ep2s2_b6091be1:
 
     # mrmatt "So you're saying there's been a lack of togetherness among the students? A missing sense of community?"
-    mrmatt "你是说学生们缺乏团结精神？缺乏社区意识？"
+    mrmatt "你是说学生们缺乏团结精神？缺乏群体意识？"
 
 # game/ep2/scene2.rpy:368
 translate chinese ep2s2_575c3f54:
@@ -436,7 +436,7 @@ translate chinese ep2s2_da19f742:
 translate chinese ep2s2_5e35a3a8:
 
     # mrmatt "She ran a social planning committee. Started it in her second year."
-    mrmatt "她管理着一个社会计划委员会。第二年就开始了。"
+    mrmatt "她管理着一个社会计划委员会。大二就开始了。"
 
 # game/ep2/scene2.rpy:390
 translate chinese ep2s2_f357751f:
@@ -544,7 +544,7 @@ translate chinese ep2s2_59d60298:
 translate chinese ep2s2_72ab6c5a:
 
     # mrmatt "Seems like you really are always there for the Chicks, huh, [name]?"
-    mrmatt "看起来你真的总是在为小妞们服务，是吧，[name]？"
+    mrmatt "看起来你真的总是在为姑娘们服务，是吧，[name]？"
 
 # game/ep2/scene2.rpy:483
 translate chinese ep2s2_8300b58c:
@@ -574,7 +574,7 @@ translate chinese ep2s2_234f3576:
 translate chinese ep2s2_e968d80b:
 
     # no "Wow, thanks, Sean!"
-    no "哇哦，谢谢你，肖恩！"
+    no "哇噢，谢谢你，肖恩！"
 
 # game/ep2/scene2.rpy:510
 translate chinese ep2s2_652a33fc:
@@ -864,7 +864,7 @@ translate chinese strings:
 
     # game/ep2/scene2.rpy:91
     old "Just listen"
-    new "听我说"
+    new "听听"
 
     # game/ep2/scene2.rpy:181
     old "Psychology"

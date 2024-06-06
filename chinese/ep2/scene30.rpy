@@ -1034,7 +1034,7 @@ translate chinese strings:
 
     # game/ep2/scene30.rpy:602
     old "I'm coming"
-    new "我进来了"
+    new "来了"
 
     # game/ep2/scene30.rpy:602
     old "I'll wait"

@@ -208,7 +208,7 @@ translate chinese ep2s46_bad3d642:
 translate chinese ep2s46_fd69e111:
 
     # cl "Haha, yeah. Longest six months of my life, going through recovery."
-    cl "哈哈，是啊，我人生中最漫长的六个月，正在恢复中。"
+    cl "哈哈，是啊。我人生中最漫长的六个月，正在恢复中。"
 
 # game/ep2/scene46.rpy:214
 translate chinese ep2s46_2ef8898a:
@@ -232,7 +232,7 @@ translate chinese ep2s46_cddaf9c6:
 translate chinese ep2s46_8627b42a:
 
     # cl "Anyway, let's see how good you are..."
-    cl "不管怎样，让我们看看你有多厉害。"
+    cl "不管怎样，让我们看看你有多厉害……"
 
 # game/ep2/scene46.rpy:253
 translate chinese ep2s46_b8f79b1c:
@@ -466,7 +466,7 @@ translate chinese ep2s46_f28f4068:
 translate chinese ep2s46_cdef9bf3:
 
     # u "Yeah! I'll race you and I'll win!"
-    u "耶! 我要和你比赛，我会赢的！"
+    u "没错! 我要和你比赛，我会赢的！"
 
 # game/ep2/scene46.rpy:494
 translate chinese ep2s46_4cf244c8:
@@ -706,7 +706,7 @@ translate chinese ep2s46_62f8d401:
 translate chinese ep2s46_3c4294ed:
 
     # u "Amazing. What are we having?"
-    u "太棒了，我们吃什么？"
+    u "太棒了。我们吃什么？"
 
 # game/ep2/scene46.rpy:811
 translate chinese ep2s46_fb2f4ee1:
@@ -730,7 +730,7 @@ translate chinese ep2s46_1d864dba:
 translate chinese ep2s46_0289c83c:
 
     # cl "Sure we can. There's always chicken or the no-meat option."
-    cl "当然可以，总有鸡肉或者不吃肉的选择。"
+    cl "当然可以。总有鸡肉或者不吃肉的选择。"
 
 # game/ep2/scene46.rpy:835
 translate chinese ep2s46_6e7a4c4b:
@@ -766,7 +766,7 @@ translate chinese ep2s46_4f2d4aa7:
 translate chinese ep2s46_b3b14cde:
 
     # cl "Anyway, before we have dinner, there's something else I want to eat..."
-    cl "不管怎样，在我们吃晚饭之前，我还想吃点别的东西..。"
+    cl "不管怎样，在我们吃晚饭之前，我还想吃点别的东西……"
 
 # game/ep2/scene46.rpy:889
 translate chinese ep2s46_6c7ee902:

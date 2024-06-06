@@ -28,13 +28,13 @@ translate chinese ep2s55a_b6c71344:
 translate chinese ep2s55a_a831566f:
 
     # ry "Grab us some beers?"
-    ry "给我们拿点啤酒？"
+    ry "给我们拿点儿啤酒？"
 
 # game/ep2/scene55a.rpy:87
 translate chinese ep2s55a_719b4bfb:
 
     # ry "Check out what I just scored."
-    ry "看看我刚得了多少分。"
+    ry "看看我弄的这玩意儿怎么样。"
 
 # game/ep2/scene55a.rpy:92
 translate chinese ep2s55a_57d4c4dd:
@@ -46,7 +46,7 @@ translate chinese ep2s55a_57d4c4dd:
 translate chinese ep2s55a_0463d288:
 
     # ry "It's a new strain called Chronic Stealth or something."
-    ry "这是一种叫暗夜潜行的新毒品。"
+    ry "这是一种叫\"暗夜潜行\"的新毒品。"
 
 # game/ep2/scene55a.rpy:99
 translate chinese ep2s55a_bd920331:
@@ -190,7 +190,7 @@ translate chinese ep2s55a_e6dbca32:
 translate chinese ep2s55a_1dfbc12f:
 
     # u "I wanna see what this Chronic-Stealth hype is about."
-    u "我想看看这个暗夜潜行是何方神圣。"
+    u "我想看看这个\"暗夜潜行\"是何方神圣。"
 
 # game/ep2/scene55a.rpy:255
 translate chinese ep2s55a_292cc1e1:
@@ -520,13 +520,13 @@ translate chinese ep2s55a_3fef751d:
 translate chinese ep2s55a_8e717d8b:
 
     # ry "Yeah, it's Chronic Stealth."
-    ry "是的，这叫暗夜潜行。"
+    ry "是的，这叫\"暗夜潜行\"。"
 
 # game/ep2/scene55a.rpy:573
 translate chinese ep2s55a_c6844b18:
 
     # sa "Pfft. Chronic shit more like."
-    sa "切，更像是鸦片。"
+    sa "切。潜行个屁还差不多。"
 
 # game/ep2/scene55a.rpy:575
 translate chinese ep2s55a_1108f2b2:
@@ -550,7 +550,7 @@ translate chinese ep2s55a_535f05dc:
 translate chinese ep2s55a_2f7ceb1c:
 
     # u "*Splutters*"
-    u "气急败坏"
+    u "*大吃一惊*"
 
 # game/ep2/scene55a.rpy:603
 translate chinese ep2s55a_ef2f1671:
@@ -598,7 +598,7 @@ translate chinese ep2s55a_ee9593ae:
 translate chinese ep2s55a_4d965238:
 
     # sa "Still think you're yellowing out?"
-    sa "还觉得自己变需了吗？"
+    sa "还觉得自己变虚了吗？"
 
 # game/ep2/scene55a.rpy:646
 translate chinese ep2s55a_a7357da7:
@@ -814,13 +814,13 @@ translate chinese ep2s55a_43ce7eac:
 translate chinese ep2s55a_4e6cc944:
 
     # sa "Lame... I just got here."
-    sa "没劲……我才刚到。"
+    sa "没劲儿……我才刚到。"
 
 # game/ep2/scene55a.rpy:822
 translate chinese ep2s55a_1bfa6186:
 
     # sa "But I guess I can hang for a little while longer and teach Ryan a thing or two about weed."
-    sa "但我想我可以再多待一会儿，教瑞恩一点大麻的知识。"
+    sa "但我想我可以再多待一会儿，多教瑞恩一点大麻的知识。"
 
 # game/ep2/scene55a.rpy:828
 translate chinese ep2s55a_e0219073:
@@ -842,7 +842,7 @@ translate chinese strings:
 
     # game/ep2/scene55a.rpy:116
     old "I call bullshit"
-    new "我举得胡扯"
+    new "我觉得胡扯"
 
     # game/ep2/scene55a.rpy:116
     old "Do you smoke a lot?"

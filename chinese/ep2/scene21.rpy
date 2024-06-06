@@ -28,13 +28,13 @@ translate chinese ep2s21_a5472744:
 translate chinese ep2s21_565754c0:
 
     # aut "Hey, [name]."
-    aut "嘿，name]。"
+    aut "嘿，[name]。"
 
 # game/ep2/scene21.rpy:53
 translate chinese ep2s21_781f5649:
 
     # u "Wow, you look stunning."
-    u "哇哦，你看起来美极了。"
+    u "哇噢，你看起来美极了。"
 
 # game/ep2/scene21.rpy:58
 translate chinese ep2s21_dccf3b63:

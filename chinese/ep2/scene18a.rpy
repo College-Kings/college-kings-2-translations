@@ -10,7 +10,7 @@ translate chinese ep2s18a_61a07727:
 translate chinese ep2s18a_75078c91:
 
     # li "I'm here for the taking, [name]."
-    li "我是来拿东西的，[name]。"
+    li "我来兑现承诺了，[name]。"
 
 # game/ep2/scene18a.rpy:33
 translate chinese ep2s18a_e8b91481:
@@ -136,7 +136,7 @@ translate chinese ep2s18a_0af12e35:
 translate chinese ep2s18a_c596e54e:
 
     # li "Hungry for this."
-    li "渴望这个。"
+    li "想尝尝这个。"
 
 # game/ep2/scene18a.rpy:207
 translate chinese ep2s18a_c82a6b96:
@@ -184,7 +184,7 @@ translate chinese ep2s18a_0e12b77a:
 translate chinese ep2s18a_79de0b77:
 
     # li "*Moaning*"
-    li "* 呻吟*"
+    li "*呻吟*"
 
 # game/ep2/scene18a.rpy:233
 translate chinese ep2s18a_33352ef2:
@@ -196,7 +196,7 @@ translate chinese ep2s18a_33352ef2:
 translate chinese ep2s18a_42746e79:
 
     # li "*Gagging*"
-    li "* 吞咽声*"
+    li "*吞咽声*"
 
 # game/ep2/scene18a.rpy:240
 translate chinese ep2s18a_a3205a69:
@@ -556,11 +556,11 @@ translate chinese strings:
 
     # game/ep2/scene18a.rpy:44
     old "Yeah!"
-    new "耶！"
+    new "是的！"
 
     # game/ep2/scene18a.rpy:44
     old "Strip for me"
-    new "帮我脱衣服"
+    new "为我脱衣服"
 
     # game/ep2/scene18a.rpy:44
     old "I should leave"

@@ -202,7 +202,7 @@ translate chinese ep2s48_bf811bbe:
 translate chinese ep2s48_8e1bd62f:
 
     # u "Just walking home."
-    u "只是走回家。"
+    u "只是走路回家。"
 
 # game/ep2/scene48.rpy:207
 translate chinese ep2s48_04db082f:
@@ -460,7 +460,7 @@ translate chinese ep2s48_2a303c0b:
 translate chinese ep2s48_e408a35f:
 
     # u "Wow, you're like the original party girl."
-    u "哇哦，你就像原来的派对女郎。"
+    u "哇噢，你就像原来的派对女郎。"
 
 # game/ep2/scene48.rpy:474
 translate chinese ep2s48_14ea8a62:
@@ -508,7 +508,7 @@ translate chinese ep2s48_509919b8:
 translate chinese ep2s48_ba770026_1:
 
     # u "What do you think about us hanging out again sometime?"
-    u "你觉得我们改天再一起出去玩怎么样？"
+    u "你觉得我们改天再一起出去玩儿怎么样？"
 
 # game/ep2/scene48.rpy:522
 translate chinese ep2s48_5d1feeb1:
@@ -532,7 +532,7 @@ translate chinese ep2s48_7ec9a94d:
 translate chinese ep2s48_891840d4:
 
     # sa "Sex you later."
-    sa "一会儿再上你。"
+    sa "以后再泡你。"
 
 # game/ep2/scene48.rpy:573
 translate chinese ep2s48_4083d1c2:
@@ -580,7 +580,7 @@ translate chinese ep2s48_8c1e3b58:
 translate chinese ep2s48_69c53aa9:
 
     # sa "Yeah!"
-    sa "耶！"
+    sa "是的！"
 
 # game/ep2/scene48.rpy:621
 translate chinese ep2s48_b3bbfd8d_1:
@@ -606,7 +606,7 @@ translate chinese strings:
 
     # game/ep2/scene48.rpy:311
     old "Let's hang out again"
-    new "我们再约会吧"
+    new "我们再约吧"
 
     # game/ep2/scene48.rpy:311
     old "I should get going"

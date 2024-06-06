@@ -28,13 +28,13 @@ translate chinese ep2s45_73e6bca0:
 translate chinese ep2s45_89b88528:
 
     # cl "Hey, I'm bored. Come over and keep me entertained?"
-    cl "嘿，我很无聊。过来陪我玩吧？"
+    cl "嘿，我很无聊。过来陪我玩儿吧？"
 
 # game/ep2/scene45.rpy:181
 translate chinese ep2s45_35a2c1b7:
 
     # u "Wow, so I only exist to keep you amused, huh?"
-    u "哇哦，所以我的存在只是为了逗你开心，是吧？"
+    u "哇噢，所以我的存在只是为了逗你开心，是吧？"
 
 # game/ep2/scene45.rpy:187
 translate chinese ep2s45_9bb562d5:
@@ -100,7 +100,7 @@ translate chinese ep2s45_1135ea88:
 translate chinese ep2s45_a02aa4c6:
 
     # u "But I still have to study."
-    u "但学不可以已。"
+    u "但，学不可以已。"
 
 # game/ep2/scene45.rpy:292
 translate chinese ep2s45_e7f4a694:

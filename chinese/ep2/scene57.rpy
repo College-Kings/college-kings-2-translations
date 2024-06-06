@@ -58,7 +58,7 @@ translate chinese strings:
 
     # game/ep2/scene57.rpy:62
     old "This is serious!"
-    new "我是认真的！"
+    new "这很严重！"
 
     # game/ep2/scene57.rpy:62
     old "Someone's gonna pay for this!"

@@ -112,7 +112,7 @@ translate chinese ep2s29_04cea462:
 translate chinese ep2s29_36840d2e:
 
     # pe "And her robot, R7, is really sarcastic."
-    pe "她的机器人R7很会挖苦人。"
+    pe "她的机器人，R7，很会挖苦人。"
 
 # game/ep2/scene29.rpy:161
 translate chinese ep2s29_67430650:

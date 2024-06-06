@@ -118,7 +118,7 @@ translate chinese ep2s52_1d6310c1:
 translate chinese ep2s52_251b8ffe:
 
     # u "Art critics have a reputation for being brutal..."
-    u "艺术评论家以残忍著称……"
+    u "艺术评论家都以残忍著称……"
 
 # game/ep2/scene52.rpy:142
 translate chinese ep2s52_7107ff27:

@@ -136,7 +136,7 @@ translate chinese ep2s51_4b6247b1:
 translate chinese ep2s51_605a424b:
 
     # no "I have a few things going through my mind right now..."
-    no "我现在脑子里有些事……"
+    no "我现在脑子里有些事儿……"
 
 # game/ep2/scene51.rpy:158
 translate chinese ep2s51_1b528e75:
@@ -154,7 +154,7 @@ translate chinese ep2s51_d5867d48:
 translate chinese ep2s51_73bd8e1d:
 
     # no "It just needs to be a success, you know? And I'm worried it won't be."
-    no "只是需要成功，你知道吗? 我担心不会成功。"
+    no "只是需要成功，你知道吗？我担心不会成功。"
 
 # game/ep2/scene51.rpy:177
 translate chinese ep2s51_d2f5ed3a:
@@ -250,7 +250,7 @@ translate chinese ep2s51_0b0e4fc5:
 translate chinese ep2s51_544d3f01:
 
     # no "Hm, and there is something else..."
-    no "还有一件事……"
+    no "还有一件事儿……"
 
 # game/ep2/scene51.rpy:236
 translate chinese ep2s51_0336fa14:
@@ -262,7 +262,7 @@ translate chinese ep2s51_0336fa14:
 translate chinese ep2s51_f15bf036:
 
     # no "Us..."
-    no "我们……"
+    no "关于我们……"
 
 # game/ep2/scene51.rpy:246
 translate chinese ep2s51_8c98c4f3:
@@ -280,7 +280,7 @@ translate chinese ep2s51_efe00c85:
 translate chinese ep2s51_5f1ed170:
 
     # u "What about us?"
-    u "那我们呢？"
+    u "我们什么？"
 
 # game/ep2/scene51.rpy:262
 translate chinese ep2s51_16fab5d6:
@@ -358,7 +358,7 @@ translate chinese ep2s51_7bf98686:
 translate chinese ep2s51_036cf432:
 
     # u "She did?!"
-    u "真的吗！"
+    u "真的吗？！"
 
 # game/ep2/scene51.rpy:345
 translate chinese ep2s51_14e53fd8:
@@ -418,7 +418,7 @@ translate chinese ep2s51_65ffccc7:
 translate chinese ep2s51_3912e860:
 
     # no "All I really wanted to say is I'm not the sharing type of girl, so Chloe's welcome to you."
-    no "我只想说我不是那种喜欢分享的女孩，所以欢迎克洛伊你。"
+    no "我只想说我不是那种喜欢分享的女孩，所以欢迎克洛伊选了你。"
 
 # game/ep2/scene51.rpy:377
 translate chinese ep2s51_0a244add:

@@ -28,5 +28,5 @@ translate chinese ep2s8_3143c7ae:
 translate chinese ep2s8_c6ba305b:
 
     # u "(It'll be hype.)"
-    u "(这将是炒作。)"
+    u "(这将是场大炒作。)"
 

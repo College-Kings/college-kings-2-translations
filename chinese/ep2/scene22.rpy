@@ -118,7 +118,7 @@ translate chinese ep2s22_5cf4e7ee:
 translate chinese ep2s22_61e72251:
 
     # au "Haha, \"boobies\"?"
-    au "哈哈，\"奶子\"?"
+    au "哈哈，\"奶子\"？"
 
 # game/ep2/scene22.rpy:142
 translate chinese ep2s22_cafa46f1:
@@ -342,7 +342,7 @@ translate chinese strings:
 
     # game/ep2/scene22.rpy:82
     old "With puppies in a meadow"
-    new "草地上有小狗"
+    new "在草地上和小狗玩耍"
 
     # game/ep2/scene22.rpy:231
     old "I promise"

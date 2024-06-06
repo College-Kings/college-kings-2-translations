@@ -70,7 +70,7 @@ translate chinese ep2s46a_edcc53a0:
 translate chinese ep2s46a_42edc763:
 
     # cl "You're not into me like a boyfriend should be."
-    cl "你不像男朋友那样喜欢我。"
+    cl "你不像个男朋友那样喜欢我。"
 
 # game/ep2/scene46a.rpy:97
 translate chinese ep2s46a_4b274dcb:
@@ -214,7 +214,7 @@ translate chinese ep2s46a_bc0e585a:
 translate chinese ep2s46a_c22228bc:
 
     # u "Oh, wow..."
-    u "噢，哇哦……"
+    u "噢，哇噢……"
 
 # game/ep2/scene46a.rpy:224
 translate chinese ep2s46a_c0ee96af:

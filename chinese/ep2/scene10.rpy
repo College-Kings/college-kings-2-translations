@@ -70,7 +70,7 @@ translate chinese ep2s10_433f4dd6:
 translate chinese ep2s10_f26a9674:
 
     # u "Grrrrrrrrrrr!"
-    u "早！"
+    u "早！！！！！！"
 
 # game/ep2/scene10.rpy:134
 translate chinese ep2s10_75e513f6:

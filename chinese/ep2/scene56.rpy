@@ -172,7 +172,7 @@ translate chinese ep2s56_301e3f5a:
 translate chinese ep2s56_4977a5c4:
 
     # u "What about making moonshine brandy like your grandad?"
-    u "像你爷爷一样酿私酿白兰地怎么样？"
+    u "像你爷爷一样酿私酿的白兰地怎么样？"
 
 # game/ep2/scene56.rpy:169
 translate chinese ep2s56_c0725d9b:
@@ -316,7 +316,7 @@ translate chinese ep2s56_76da83fb:
 translate chinese ep2s56_b727fecd:
 
     # se "Oh, wow..."
-    se "噢，哇哦……"
+    se "噢，哇噢……"
 
 # game/ep2/scene56.rpy:278
 translate chinese ep2s56_20637154:
@@ -502,7 +502,7 @@ translate chinese ep2s56_0eced078:
 translate chinese ep2s56_3007db3b:
 
     # u "Wow, that's weird."
-    u "哇哦，真奇怪。"
+    u "哇噢，真奇怪。"
 
 # game/ep2/scene56.rpy:420
 translate chinese ep2s56_327f6c0e:

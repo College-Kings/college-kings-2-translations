@@ -4,7 +4,7 @@
 translate chinese ep2s5_d73f1904:
 
     # u "(Hungry... Food... Anything... Starving...)"
-    u "(饥饿……食物……任何东西……饿死了……)"
+    u "(饥饿……食物……有啥吃的……快饿死了……)"
 
 # game/ep2/scene5.rpy:35
 translate chinese ep2s5_a4123e46:
@@ -88,7 +88,7 @@ translate chinese ep2s5_d167d51c:
 translate chinese ep2s5_817c1c2f:
 
     # u "That's me."
-    u "就是我。"
+    u "这就是我。"
 
 # game/ep2/scene5.rpy:133
 translate chinese ep2s5_9c5d5cc9:
@@ -202,7 +202,7 @@ translate chinese ep2s5_9aeecb5b:
 translate chinese ep2s5_9f088735:
 
     # u "Wow, that's amazing. Well done, Aubs!"
-    u "哇哦，太棒了。干得好，奥布斯！"
+    u "哇噢，太棒了。干得好，奥布斯！"
 
 # game/ep2/scene5.rpy:277
 translate chinese ep2s5_09258d44:
@@ -322,7 +322,7 @@ translate chinese ep2s5_7b1c1392:
 translate chinese ep2s5_f1116757:
 
     # au "Wow, so nothing to say after hearing about what is probably the biggest news of my life?"
-    au "哇哦，那么在听到这可能是我一生中最大的消息之后，没什么可说的了？"
+    au "哇噢，那么在听到这可能是我一生中最大的消息之后，没什么可说的了？"
 
 # game/ep2/scene5.rpy:376
 translate chinese ep2s5_81fdf505:
@@ -346,7 +346,7 @@ translate chinese ep2s5_e6e8aadc:
 translate chinese ep2s5_0cc64098:
 
     # u "Oh, yeah... Sure I do."
-    u "噢，是的……我当然知道。"
+    u "噢，是的……我当然认为。"
 
 # game/ep2/scene5.rpy:396
 translate chinese ep2s5_c2c936b4:
@@ -520,7 +520,7 @@ translate chinese ep2s5_1b28a406:
 translate chinese ep2s5_9ed2ab78:
 
     # au "I don't want to hear any more negativity, please. Positive vibes only."
-    au "我不想再听到任何消极的声音，拜托，只有积极的气氛。"
+    au "我不想再听到任何消极的声音，拜托，给点儿积极的气氛吧。"
 
 # game/ep2/scene5.rpy:542
 translate chinese ep2s5_93dd89e6:
@@ -550,7 +550,7 @@ translate chinese ep2s5_e368018f:
 translate chinese ep2s5_412fe183:
 
     # au "Keep talking like that and I'll save your wrist a workout."
-    au "继续这样说话，我就不用你的手腕受折磨了。"
+    au "继续这样说话，我就不让你的右手再受折磨了。"
 
 # game/ep2/scene5.rpy:569
 translate chinese ep2s5_828af9e7:
@@ -598,13 +598,13 @@ translate chinese ep2s5_8327ca71:
 translate chinese ep2s5_0d289907:
 
     # au "But it's free food. They'll be paying."
-    au "但这是免费食物。他们会付钱的。"
+    au "但这只是免费食物。他们会付钱的。"
 
 # game/ep2/scene5.rpy:623
 translate chinese ep2s5_abf423ea:
 
     # u "You had me at \"free food\"."
-    u "你说到点子上了，\"免费食物\"。"
+    u "你有了我的\"免费食物\"了。"
 
 # game/ep2/scene5.rpy:628
 translate chinese ep2s5_1cd5d3f2:

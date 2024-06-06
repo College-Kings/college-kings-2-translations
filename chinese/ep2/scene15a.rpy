@@ -16,7 +16,7 @@ translate chinese ep2s15a_61c0e081:
 translate chinese ep2s15a_29bb0b54:
 
     # el "This is the Frogs' house, and visitors are by appointment only."
-    el "这是青蛙之家，只有预约才能进来。"
+    el "这是青蛙之家，只有先预约才能进来。"
 
 # game/ep2/scene15a.rpy:34
 translate chinese ep2s15a_b448736a:

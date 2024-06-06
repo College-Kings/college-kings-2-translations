@@ -106,7 +106,7 @@ translate chinese ep2s22a_0b6ce5f9:
 translate chinese ep2s22a_e5be461f:
 
     # au "They're pretty similar, aren't they?"
-    au "他们很相似，不是吗？"
+    au "它们很相似，不是吗？"
 
 # game/ep2/scene22a.rpy:105
 translate chinese ep2s22a_69538414:
@@ -166,7 +166,7 @@ translate chinese ep2s22a_e4931746:
 translate chinese ep2s22a_60bad9d4:
 
     # na "Well, that's kinda rude of you to say, but I guess I am in a chatty mood..."
-    na "你这么说有点不礼貌但我想我现在很想聊聊天……"
+    na "你这么说有点不礼貌，但我想我现在很想聊聊天儿……"
 
 # game/ep2/scene22a.rpy:165
 translate chinese ep2s22a_7b1c1392:
@@ -196,7 +196,7 @@ translate chinese ep2s22a_01b41397:
 translate chinese ep2s22a_55c9554e:
 
     # na "Anyway, this is Raul. My hot new boyfriend I wanted to show off to you."
-    na "总之，这是劳尔，我想向你们炫耀的性感新男友。"
+    na "总之，这是劳尔。我想向你们炫耀的性感新男友。"
 
 # game/ep2/scene22a.rpy:186
 translate chinese ep2s22a_808184ec:

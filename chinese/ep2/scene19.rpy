@@ -4,7 +4,7 @@
 translate chinese ep2s19_e69e3320:
 
     # u "*Groans*"
-    u "*呻吟* "
+    u "*呻吟*"
 
 # game/ep2/scene19.rpy:49
 translate chinese ep2s19_3f9bd9f5:

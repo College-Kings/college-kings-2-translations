@@ -22,7 +22,7 @@ translate chinese ep2s58_5fc08570:
 translate chinese ep2s58_3785adbc:
 
     # li "I wasn't hungry for breakfast. That SVC Rejects thing made me lose my appetite."
-    li "我不想吃早餐了。那个SVC垃圾让我没胃口了。"
+    li "我不想吃早餐了。那个SVC废品让我没胃口了。"
 
 # game/ep2/scene58.rpy:53
 translate chinese ep2s58_739382ca:
@@ -196,7 +196,7 @@ translate chinese ep2s58_0ee5d21c:
 translate chinese ep2s58_fcc08e28:
 
     # li "Oh, wow. Just like that. So rude."
-    li "噢，哇哦。就这样。真没礼貌。"
+    li "噢，哇噢。就这样。真没礼貌。"
 
 # game/ep2/scene58.rpy:233
 translate chinese ep2s58_c94a2703:
@@ -400,7 +400,7 @@ translate chinese ep2s58_74c340aa:
 translate chinese ep2s58_9415cf2f:
 
     # li "Oh, wow. The way you just come out and say these things..."
-    li "噢，哇哦。你说这些话的样子……"
+    li "噢，哇噢。你说这些话的样子……"
 
 # game/ep2/scene58.rpy:415
 translate chinese ep2s58_869fe047:

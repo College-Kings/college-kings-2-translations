@@ -28,13 +28,13 @@ translate chinese ep2s26_3311e44f:
 translate chinese ep2s26_81bd2aa7:
 
     # no "Oh, wow. Nice one. That was almost as smooth as your driving."
-    no "噢，哇哦。干得漂亮，简直和你开车一样平稳。"
+    no "噢，哇噢。干得漂亮。简直和你开车一样顺利。"
 
 # game/ep2/scene26.rpy:46
 translate chinese ep2s26_dcf4049c:
 
     # u "Yeah, so far I'm doing great."
-    u "是的，目前为止我很好。"
+    u "是的，目前为止我还很好。"
 
 # game/ep2/scene26.rpy:48
 translate chinese ep2s26_73c2bc44:
@@ -70,7 +70,7 @@ translate chinese ep2s26_42f2b9d3:
 translate chinese ep2s26_3e77d68c:
 
     # no "So calm down."
-    no "所以冷静点。"
+    no "所以冷静点儿。"
 
 # game/ep2/scene26.rpy:72
 translate chinese ep2s26_41e86de6:
@@ -88,13 +88,13 @@ translate chinese ep2s26_1126dbcc:
 translate chinese ep2s26_a1bf569d:
 
     # u "What are you doing in there?"
-    u "你在里面干什么？"
+    u "你在里面捣腾什么呢？"
 
 # game/ep2/scene26.rpy:86
 translate chinese ep2s26_27c0e4da:
 
     # no "Just taking a look. You never know what you'll find in these things."
-    no "只是看看，你永远不知道你会在这些东西里找到什么。"
+    no "只是看看。你永远不知道你会在这些东西里找到什么。"
 
 # game/ep2/scene26.rpy:98
 translate chinese ep2s26_76d7c736:
