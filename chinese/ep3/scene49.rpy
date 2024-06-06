@@ -52,7 +52,7 @@ translate chinese ep3_s49_325d44ee:
 translate chinese ep3_s49_231b8bae:
 
     # u "Probably not."
-    u "也许不会。"
+    u "也许不。"
 
 # game/ep3/scene49.rpy:66
 translate chinese ep3_s49_e38cc598:

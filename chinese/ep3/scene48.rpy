@@ -538,7 +538,7 @@ translate chinese ep3_s48_nsfw_skip_label1_abee640a:
 translate chinese ep3_s48_nsfw_skip_label1_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "嗯哼。"
 
 # game/ep3/scene48.rpy:545
 translate chinese ep3_s48_nsfw_skip_label1_2ce52829:

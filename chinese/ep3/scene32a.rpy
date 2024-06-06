@@ -28,7 +28,7 @@ translate chinese ep3_s32a_efbabdbd:
 translate chinese ep3_s32a_545d569c:
 
     # imre "And I've already beaten him in chalk distance throwing and pen fencing."
-    imre "我已经在粉笔距离投掷和钢笔击剑中击败了他。"
+    imre "我已经在粉笔投掷距离和钢笔击剑中击败了他。"
 
 # game/ep3/scene32a.rpy:61
 translate chinese ep3_s32a_91fef15a:
@@ -784,7 +784,7 @@ translate chinese ep3_s32a_hiding_spot_4_6b298f9c:
 translate chinese ep3_s32a_hiding_spot_4_26ccc921:
 
     # u "(Please leave. I can't hold this any longer!)"
-    u "(请离开，我再也受不了了！)"
+    u "(快走吧。我再也受不了了！)"
 
 # game/ep3/scene32a.rpy:869
 translate chinese ep3_s32a_hiding_spot_4_cffe4a97:
@@ -808,7 +808,7 @@ translate chinese ep3_s32a_hiding_spot_4_da4e62b1:
 translate chinese ep3_s32a_hiding_spot_4_a8457e70:
 
     # se "Eww, what stinks around here?"
-    se "什么东西这么臭？"
+    se "呕，什么东西这么臭？"
 
 # game/ep3/scene32a.rpy:889
 translate chinese ep3_s32a_hiding_spot_4_4df6c903:

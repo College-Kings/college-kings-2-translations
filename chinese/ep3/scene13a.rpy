@@ -340,7 +340,7 @@ translate chinese ep3_s13a_a30796d3:
 translate chinese ep3_s13a_81bf1236:
 
     # u "Wow, you're all packed already, huh?"
-    u "哇哦，你都打包好了，是么？"
+    u "哇噢，你都打包好了，是么？"
 
 # game/ep3/scene13a.rpy:324
 translate chinese ep3_s13a_149d9ef7:
@@ -550,7 +550,7 @@ translate chinese ep3_s13a_bc5d484d:
 translate chinese ep3_s13a_88fd327d:
 
     # la "Wow, is that even healthy?"
-    la "哇哦，这样健康吗？"
+    la "哇噢，这样健康吗？"
 
 # game/ep3/scene13a.rpy:502
 translate chinese ep3_s13a_f649a41a:

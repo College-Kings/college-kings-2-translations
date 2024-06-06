@@ -16,7 +16,7 @@ translate chinese ep3_s5a_e3ad6381:
 translate chinese ep3_s5a_e50dac4a:
 
     # u "You organized it, so I should be thanking you."
-    u "是你组织的，所以我应该感谢你。"
+    u "是你组的局，所以我应该感谢你。"
 
 # game/ep3/scene5a.rpy:64
 translate chinese ep3_s5a_90362458:
@@ -196,7 +196,7 @@ translate chinese ep3_s5a_33be1174:
 translate chinese ep3_s5a_4f54dcb0:
 
     # li "A couple of months ago, we had a Chicks pool tournament. She totally demolished us."
-    li "几个月前，我们举办了一场女子台球锦标赛，她彻底毁了我们。"
+    li "几个月前，我们举办了一场女子台球锦标赛。她彻底毁了我们。"
 
 # game/ep3/scene5a.rpy:238
 translate chinese ep3_s5a_025f0881:
@@ -208,7 +208,7 @@ translate chinese ep3_s5a_025f0881:
 translate chinese ep3_s5a_4f0b97e0:
 
     # u "Wow, hidden talent."
-    u "哇哦，隐藏的天赋。"
+    u "哇噢，隐藏的天赋。"
 
 # game/ep3/scene5a.rpy:245
 translate chinese ep3_s5a_2291e053:
@@ -250,13 +250,13 @@ translate chinese ep3_s5a_f69f1e28:
 translate chinese ep3_s5a_2a878105:
 
     # u "And who's that?"
-    u "那是谁？"
+    u "是谁？"
 
 # game/ep3/scene5a.rpy:280
 translate chinese ep3_s5a_13d69469:
 
     # li "Her name's Amanda, she's a sorority president at a nearby college, and she's kind of my new role model."
-    li "她叫阿曼达，是附近一所大学的女生会主席她算是我的新榜样。"
+    li "她叫阿曼达，是附近一所大学的女生会主席，她算是我的新榜样。"
 
 # game/ep3/scene5a.rpy:291
 translate chinese ep3_s5a_28340074:

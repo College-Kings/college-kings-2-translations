@@ -46,7 +46,7 @@ translate chinese ep3_s21b_4763e6ee:
 translate chinese ep3_s21b_6404d221:
 
     # ro "*Sighs* I wish it was that easy..."
-    ro "*叹息* 我希望有那么简单……"
+    ro "*叹息* 我倒希望有那么简单……"
 
 # game/ep3/scene21b.rpy:66
 translate chinese ep3_s21b_96c2fd5c:
@@ -262,7 +262,7 @@ translate chinese ep3_s21b_dde85b37_1:
 translate chinese ep3_s21b_8c9c3ecf_1:
 
     # el "Of course. You let me watch you, and I'll never tell a soul."
-    el "当然。你让我看着你，我不会告诉任何人。"
+    el "当然。你让我看着你们，我不会告诉任何人。"
 
 # game/ep3/scene21b.rpy:278
 translate chinese ep3_s21b_talk_to_rose_f11c10f9:
@@ -316,7 +316,7 @@ translate chinese ep3_s21b_threaten_elijah_f3789c9b:
 translate chinese ep3_s21b_threaten_elijah_4c25ed77:
 
     # el "You—you can't do that. You'll get expelled."
-    el "你不能这么做。你会被开除的。"
+    el "你……你不能这么做。你会被开除的。"
 
 # game/ep3/scene21b.rpy:338
 translate chinese ep3_s21b_threaten_elijah_d5f5763e:
@@ -340,7 +340,7 @@ translate chinese ep3_s21b_threaten_elijah_140233d9:
 translate chinese ep3_s21b_threaten_elijah_ca1e1f50:
 
     # el "I-I—"
-    el "我……"
+    el "我……我……"
 
 # game/ep3/scene21b.rpy:352
 translate chinese ep3_s21b_threaten_elijah_cdb444db:

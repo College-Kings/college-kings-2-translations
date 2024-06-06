@@ -1312,11 +1312,11 @@ translate chinese strings:
 
     # game/ep3/scene32e.rpy:429
     old "Aubrey's butt is better"
-    new "奥布里的屁股好多了"
+    new "奥布里的屁股更好"
 
     # game/ep3/scene32e.rpy:429
     old "Riley's butt is better"
-    new "莱莉的屁股好多了"
+    new "莱莉的屁股更好"
 
     # game/ep3/scene32e.rpy:533
     old "One of your best ideas yet"

@@ -22,7 +22,7 @@ translate chinese ep3_s57c_7d362079:
 translate chinese ep3_s57c_fccfd896:
 
     # u "Fuck, Sam, you get me."
-    u "靠，山姆，你懂我的。"
+    u "靠，萨曼莎，你懂我的。"
 
 # game/ep3/scene57c.rpy:60
 translate chinese ep3_s57c_95f04493:
@@ -52,7 +52,7 @@ translate chinese ep3_s57c_a2acb5be:
 translate chinese ep3_s57c_0529a669:
 
     # u "Wow..."
-    u "哇哦……"
+    u "哇噢……"
 
 # game/ep3/scene57c.rpy:104
 translate chinese ep3_s57c_e8f9ffcf:
@@ -106,7 +106,7 @@ translate chinese ep3_s57c_89cf025f:
 translate chinese ep3_s57c_8d1e43e3:
 
     # u "Oh shit..."
-    u "哦，该死……"
+    u "噢，该死……"
 
 # game/ep3/scene57c.rpy:134
 translate chinese ep3_s57c_b1a63347:

@@ -58,7 +58,7 @@ translate chinese ep3_s24_7c928a1e:
 translate chinese ep3_s24_4919fbbc:
 
     # u "Oh no, not at all."
-    u "噢，不，一点也不。"
+    u "噢，不，一点儿也不。"
 
 # game/ep3/scene24.rpy:70
 translate chinese ep3_s24_cb5a1084:

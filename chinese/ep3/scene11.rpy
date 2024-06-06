@@ -22,7 +22,7 @@ translate chinese ep3_s11_34eb6d7b:
 translate chinese ep3_s11_5b882866:
 
     # ry "And it took a fucking brothel in Amsterdam to make that happen."
-    ry "阿姆斯特丹的一家妓院才让这一切成真了。"
+    ry "阿姆斯特丹的一家妓院让这一切成真了。"
 
 # game/ep3/scene11.rpy:39
 translate chinese ep3_s11_98c6e9c2:

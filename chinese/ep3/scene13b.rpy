@@ -196,7 +196,7 @@ translate chinese ep3_s13b_88ed257e:
 translate chinese ep3_s13b_eb80a2f1:
 
     # u "Damn, Lauren. I'm gonna cum soon."
-    u "该死，劳伦，我马上就要射了。"
+    u "该死，劳伦。我马上就要射了。"
 
 # game/ep3/scene13b.rpy:309
 translate chinese ep3_s13b_917f83b0:

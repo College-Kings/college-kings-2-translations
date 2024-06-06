@@ -22,7 +22,7 @@ translate chinese ep3_s2a_0f7f434e:
 translate chinese ep3_s2a_a52afb8f:
 
     # "*Apes laughing*"
-    "*猩人在笑*"
+    "*猿人在笑*"
 
 # game/ep3/scene2a.rpy:39
 translate chinese ep3_s2a_518af996:
@@ -76,7 +76,7 @@ translate chinese ep3_s2a_a19be8c9:
 translate chinese ep3_s2a_3a29d59f:
 
     # gr "Caleb, you're strong, but I haven't seen you dodge a single punch during sparring."
-    gr "凯勒，你很强壮但我从没见过你在拳击比赛中躲过一拳。"
+    gr "凯勒，你很强壮，但我从没见过你在拳击比赛中哪怕躲过一拳。"
 
 # game/ep3/scene2a.rpy:78
 translate chinese ep3_s2a_ccb4ffe7:
@@ -88,7 +88,7 @@ translate chinese ep3_s2a_ccb4ffe7:
 translate chinese ep3_s2a_e1768d07:
 
     # gr "Currently, you're our fifth spot, right before Caleb, because of your performance at the freshman brawl."
-    gr "目前，你是我们的第五名，排在凯勒之前，因为你在新生斗殴中的表现。"
+    gr "目前，你是我们的第五名，排在凯勒之前，是因为你在新生竞标赛中的表现。"
 
 # game/ep3/scene2a.rpy:89
 translate chinese ep3_s2a_431baa05:
@@ -124,7 +124,7 @@ translate chinese ep3_s2a_8a0338e2:
 translate chinese ep3_s2a_040beaba:
 
     # gr "Guys, we have a chance here to destroy the Wolves. To take their will to live."
-    gr "伙计们，我们有机会消灭狼人，夺走他们的生存意志。"
+    gr "伙计们，我们有机会消灭狼人。夺走他们的生存意志。"
 
 # game/ep3/scene2a.rpy:117
 translate chinese ep3_s2a_9fa9d3ac:
@@ -142,13 +142,13 @@ translate chinese ep3_s2a_a5fe422c:
 translate chinese ep3_s2a_d06d0971:
 
     # gr "And even if I love beating them to shit, crushing their spirits will feel even better."
-    gr "即使我喜欢把他们打得屁滚尿流，打垮他们的精神也会感觉更好。"
+    gr "即使我喜欢把他们打得屁滚尿流，但打垮他们的精神会感觉更好。"
 
 # game/ep3/scene2a.rpy:132
 translate chinese ep3_s2a_18ce5f38:
 
     # gr "So work your fucking asses off, and compete with each other for the spots. Only the best will get a chance to fight."
-    gr "所以你们他妈地拼命训练，互相竞争名额。只有最好的才有机会战斗。"
+    gr "所以你们他妈地拼命训练，互相竞争名额。只有最好的才有机会去战斗。"
 
 # game/ep3/scene2a.rpy:137
 translate chinese ep3_s2a_29ff04b6:

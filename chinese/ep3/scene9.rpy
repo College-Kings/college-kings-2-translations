@@ -202,7 +202,7 @@ translate chinese ep3_s9_384301b8:
 translate chinese ep3_s9_dd8d43f7:
 
     # am "Whoa."
-    am "哇哦。"
+    am "哇噢。"
 
 # game/ep3/scene9.rpy:253
 translate chinese ep3_s9_b58ebe43:
@@ -256,7 +256,7 @@ translate chinese ep3_s9_d00b2a62:
 translate chinese ep3_s9_48661ba3:
 
     # u "I am. I just didn't mention that I'm also dating Aubrey."
-    u "是的，我只是没说我也在和奥布里约会。"
+    u "是的，我只是没说我也在和奥布里约会啊。"
 
 # game/ep3/scene9.rpy:305
 translate chinese ep3_s9_af302b33:
@@ -292,7 +292,7 @@ translate chinese ep3_s9_fab70e3a:
 translate chinese ep3_s9_7df19712:
 
     # u "You didn't seem to mind when it was you."
-    u "你好像不介意是你一样。"
+    u "你好像不介意你也有份儿。"
 
 # game/ep3/scene9.rpy:333
 translate chinese ep3_s9_76d001d3:
@@ -838,7 +838,7 @@ translate chinese ep3_s9_amber_gets_you_off_ef342cfd:
 translate chinese ep3_s9_amber_gets_you_off_5417b204:
 
     # u "Wow, that was fucking hot."
-    u "哇哦，真他妈性感。"
+    u "哇噢，真他妈性感。"
 
 # game/ep3/scene9.rpy:894
 translate chinese ep3_s9_amber_gets_you_off_b4eb70ea:

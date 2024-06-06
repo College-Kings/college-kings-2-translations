@@ -76,7 +76,7 @@ translate chinese ep3_s14_e682e598:
 translate chinese ep3_s14_869243c2:
 
     # jen "Oh my god, gross. You're a narcissistic, cheating asshole. I wouldn't touch you with a ten-foot pole."
-    jen "噢，我的天，真恶心。你是个自恋的出轨的混蛋，我不会碰你的。"
+    jen "噢，我的天，真恶心。你是个自恋的出轨混蛋，我不会碰你的。"
 
 # game/ep3/scene14.rpy:92
 translate chinese ep3_s14_3dc89282:

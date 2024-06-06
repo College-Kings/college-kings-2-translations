@@ -88,7 +88,7 @@ translate chinese ep3_s1a_46540024:
 translate chinese ep3_s1a_fd61807c:
 
     # ch "Two of those places have to be first years, so if you work hard enough, you will be able to compete."
-    ch "其中两个名额必须是一年级学生，所以如果你们足够努力，你们将能够竞争。"
+    ch "其中两个名额必须是一年级学生，所以如果你们足够努力，你们将能够参与竞争。"
 
 # game/ep3/scene1a.rpy:253
 translate chinese ep3_s1a_5e9c6bf9:
@@ -130,13 +130,13 @@ translate chinese ep3_s1a_7b76f2a3:
 translate chinese ep3_s1a_422196c3:
 
     # imre "You said you were gonna call for a vote a few weeks ago, for whether you should continue to be Wolves president."
-    imre "你几周前说要举行投票决定是否继续担任狼人主席。"
+    imre "你几周前说要举行投票决定是否继续担任狼人会长。"
 
 # game/ep3/scene1a.rpy:285
 translate chinese ep3_s1a_36e4a1ec:
 
     # imre "That still gonna happen?"
-    imre "还会发生吗？"
+    imre "还算数吗？"
 
 # game/ep3/scene1a.rpy:290
 translate chinese ep3_s1a_10bfd168:
@@ -232,7 +232,7 @@ translate chinese ep3_s1a_f8ea2a1c:
 translate chinese ep3_s1a_e173aeb6:
 
     # imre "Yeah, right. Is that why you fucked his girlfriend?"
-    imre "好吧，所以你才上了他的女朋友吗？"
+    imre "好吧。所以你就上了他的女朋友吗？"
 
 # game/ep3/scene1a.rpy:381
 translate chinese ep3_s1a_0061ff2b:
@@ -352,7 +352,7 @@ translate chinese ep3_s1a_a82c2189:
 translate chinese ep3_s1a_150e4318:
 
     # ch "Wow, thank you, guys."
-    ch "哇哦，谢谢你们。"
+    ch "哇噢，谢谢你们。"
 
 # game/ep3/scene1a.rpy:484
 translate chinese ep3_s1a_d2494f0a:

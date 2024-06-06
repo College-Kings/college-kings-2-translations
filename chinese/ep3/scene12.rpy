@@ -334,7 +334,7 @@ translate chinese ep3_s12_5382a756:
 translate chinese ep3_s12_0529a669:
 
     # u "Wow..."
-    u "哇哦……"
+    u "哇噢……"
 
 # game/ep3/scene12.rpy:304
 translate chinese ep3_s12_d8a1227d:
@@ -424,7 +424,7 @@ translate chinese ep3_s12_65f11a17:
 translate chinese ep3_s12_59f2463e:
 
     # u "She's my girlfriend. Why?"
-    u "她是我女朋友，怎么了？"
+    u "她是我女朋友。怎么了？"
 
 # game/ep3/scene12.rpy:399
 translate chinese ep3_s12_87042e27:
@@ -460,7 +460,7 @@ translate chinese ep3_s12_09332657:
 translate chinese ep3_s12_338a02c8:
 
     # fa "Well, Lauren and I were talking after class this morning, and, you know, she asked me how the pool party was."
-    fa "嗯，劳伦和我今早下课后聊了聊她问我泳池派对怎么样。"
+    fa "嗯，劳伦和我今早下课后聊了聊，然后，她问我泳池派对怎么样。"
 
 # game/ep3/scene12.rpy:426
 translate chinese ep3_s12_50985b3c:

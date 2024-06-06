@@ -124,7 +124,7 @@ translate chinese ep3_s38_62e64470:
 translate chinese ep3_s38_8c7b6526:
 
     # no "Wow, thank you."
-    no "哇哦，谢谢。"
+    no "哇噢，谢谢。"
 
 # game/ep3/scene38.rpy:125
 translate chinese ep3_s38_2f0e02b4:

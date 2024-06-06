@@ -178,7 +178,7 @@ translate chinese ep3_s42a_50aa1afd:
 translate chinese ep3_s42a_168b67ca:
 
     # u "My grandma used to say, 'It's always darkest before the dawn.'"
-    u "我奶奶过去常说，\"黎明前总是最黑暗的。\""
+    u "我奶奶过去常说，\"黎明前总是最黑暗的\"。"
 
 # game/ep3/scene42a.rpy:136
 translate chinese ep3_s42a_0b345fa3:
@@ -190,7 +190,7 @@ translate chinese ep3_s42a_0b345fa3:
 translate chinese ep3_s42a_d2feca55:
 
     # u "She was. She also used to say, 'It takes more muscles to frown than to smile, so you should always try to smile.'"
-    u "曾经是。她还说过，\"笑一笑，十年少。愁一愁，白了头。\""
+    u "是的。她还说过，\"笑一笑，十年少\"好过\"愁一愁，白了头。\""
 
 # game/ep3/scene42a.rpy:146
 translate chinese ep3_s42a_3b619053:

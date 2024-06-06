@@ -4,7 +4,7 @@
 translate chinese ep3_s7a_4d32df34:
 
     # lee "Which is why, after reading some of your disturbing and surprisingly incestuous outlines, I have decided against letting you act out your medieval roleplays in this classroom."
-    lee "这就是为什么，在读了你们那些令人不安，令人惊讶的乱伦大纲之后，我决定不让你在这个教室里表演你们的中世纪角色扮演。"
+    lee "这就是为什么，在读了你们那些令人不安，令人惊讶的乱伦大纲之后，我决定不让你们在这个教室里表演你们的中世纪角色。"
 
 # game/ep3/scene7a.rpy:45
 translate chinese ep3_s7a_bf3fc48c:
@@ -34,7 +34,7 @@ translate chinese ep3_s7a_7289a1fb:
 translate chinese ep3_s7a_68cd4b62:
 
     # u "(Wow, I didn't even know we had to submit a synopsis. Good job, Pen.)"
-    u "(哇哦，我都不知道我们还要提交大纲。干得好，佩。)"
+    u "(哇噢，我都不知道我们还要提交大纲。干得好，佩。)"
 
 # game/ep3/scene7a.rpy:68
 translate chinese ep3_s7a_a19f37a7:
@@ -166,7 +166,7 @@ translate chinese ep3_s7a_fb4011cd:
 translate chinese ep3_s7a_fa07502e:
 
     # u "(Wow, I'm really good at this!)"
-    u "(哇哦，我真的很擅长这个！)"
+    u "(哇噢，我真的很擅长这个！)"
 
 # game/ep3/scene7a.rpy:174
 translate chinese ep3_s7a_c312d03e:
@@ -274,7 +274,7 @@ translate chinese ep3_s7a_ae835563:
 translate chinese ep3_s7a_61130cf6_1:
 
     # mi "Good morning, Mr. Lee. Hope I'm not interrupting anything?"
-    mi "早上好，李先生，希望我没有打扰到你们？"
+    mi "早上好，李先生。希望我没有打扰到你们？"
 
 # game/ep3/scene7a.rpy:281
 translate chinese ep3_s7a_1c8d9db1:
@@ -394,7 +394,7 @@ translate chinese ep3_s7a_763d1135:
 translate chinese ep3_s7a_fc79ae2b:
 
     # u "How much do you bench?"
-    u "您坐多大的凳子？"
+    u "您屁股多大？"
 
 # game/ep3/scene7a.rpy:371
 translate chinese ep3_s7a_0884e30f:
@@ -466,7 +466,7 @@ translate chinese ep3_s7a_98978236:
 translate chinese ep3_s7a_09841bc4:
 
     # lee "Um, we still have—"
-    lee "额，我们还有……"
+    lee "额，我们还剩……"
 
 # game/ep3/scene7a.rpy:420
 translate chinese ep3_s7a_82f571f1:
@@ -526,7 +526,7 @@ translate chinese ep3_s7a_c4f262da:
 translate chinese ep3_s7a_1ebff278:
 
     # u "Well, if you had asked me first, you could use my social pull to get even more people."
-    u "好吧，如果你先问我的话你可以利用我的社交魅力吸引更多的人。"
+    u "好吧，如果你先问我的话，你可以利用我的社交魅力吸引更多的人。"
 
 # game/ep3/scene7a.rpy:481
 translate chinese ep3_s7a_ca25c1fc:
@@ -586,7 +586,7 @@ translate chinese strings:
 
     # game/ep3/scene7a.rpy:320
     old "How much do you bench?"
-    new "你坐多大凳子？"
+    new "您屁股多大？"
 
     # game/ep3/scene7a.rpy:459
     old "Sounds great"

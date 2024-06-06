@@ -94,7 +94,7 @@ translate chinese ep3_s30_3042560d:
 translate chinese ep3_s30_c8ba1979:
 
     # no "We've already bought the drinks and the fireworks."
-    no "我们已经买了酒和烟花。"
+    no "我们已经买了饮料和烟花。"
 
 # game/ep3/scene30.rpy:97
 translate chinese ep3_s30_4712750e:
@@ -136,7 +136,7 @@ translate chinese ep3_s30_dcfadfa4:
 translate chinese ep3_s30_c9965d8e:
 
     # no "Then let them find out."
-    no "那就让他们发现。"
+    no "那就让他们发现呗。"
 
 # game/ep3/scene30.rpy:130
 translate chinese ep3_s30_5a44133b:

@@ -70,7 +70,7 @@ translate chinese ep3_s3_1034997c:
 translate chinese ep3_s3_fa0cf228:
 
     # u "We'll be the hottest couple here."
-    u "我们会成为这里最火辣的一对。"
+    u "我们会成为这里最火辣的一对儿。"
 
 # game/ep3/scene3.rpy:83
 translate chinese ep3_s3_8c34e7a9:
@@ -118,13 +118,13 @@ translate chinese ep3_s3_86857b62_1:
 translate chinese ep3_s3_f1b8bf24:
 
     # u "How'd you manage to get us drinks without them checking your ID?"
-    u "你怎么能在不检查身份证的情况下给我们拿到酒？"
+    u "你怎么能在不检查身份证的情况下给我们搞到酒？"
 
 # game/ep3/scene3.rpy:137
 translate chinese ep3_s3_52d425ef:
 
     # cl "A little flirting with the barkeeper, nothing much."
-    cl "和酒吧老板调调情，没什么。"
+    cl "和酒吧老板调调情，没什么难的。"
 
 # game/ep3/scene3.rpy:142
 translate chinese ep3_s3_d93bd1c6:
@@ -136,7 +136,7 @@ translate chinese ep3_s3_d93bd1c6:
 translate chinese ep3_s3_d05394ab:
 
     # cl "Of course it does."
-    cl "当然有关系。"
+    cl "当然有用。"
 
 # game/ep3/scene3.rpy:149
 translate chinese ep3_s3_f68882c5:
@@ -220,7 +220,7 @@ translate chinese ep3_s3_39df5888:
 translate chinese ep3_s3_e9d54527:
 
     # cl "Never with me."
-    cl "从没和我在一起过。"
+    cl "从没和我一起过。"
 
 # game/ep3/scene3.rpy:230
 translate chinese ep3_s3_6da66c02:
@@ -340,7 +340,7 @@ translate chinese ep3_s3_aa8d9da3:
 translate chinese ep3_s3_c6de630c:
 
     # u "Hey, I just meant her committee was a great idea. You know I only wanna date you."
-    u "嘿，我只是说她的委员会是个好主意，你知道我只想和你约会。"
+    u "嘿，我只是说她的委员会是个好主意。你知道我只想和你约会。"
 
 # game/ep3/scene3.rpy:336
 translate chinese ep3_s3_dceb1433:
@@ -664,7 +664,7 @@ translate chinese ep3_s3_7738d0b6:
 translate chinese ep3_s3_1b4827fa:
 
     # cl "Wow, you're really the hero of that story."
-    cl "哇哦，你真是那个故事里的英雄。"
+    cl "哇噢，你真是那个故事里的英雄。"
 
 # game/ep3/scene3.rpy:603
 translate chinese ep3_s3_5d17c2c1:

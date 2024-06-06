@@ -10,7 +10,7 @@ translate chinese ep3_s25b_66e8892e:
 translate chinese ep3_s25b_83800282:
 
     # u "Wow. You look beautiful."
-    u "哇哦。你看起来真漂亮。"
+    u "哇噢。你看起来真漂亮。"
 
 # game/ep3/scene25b.rpy:39
 translate chinese ep3_s25b_0b574c38:
@@ -94,7 +94,7 @@ translate chinese ep3_s25b_6cf64bae:
 translate chinese ep3_s25b_0fb06512:
 
     # au "Oh my god, this is incredible."
-    au "哦，天啊，太不可思议了。"
+    au "噢，天呐，太不可思议了。"
 
 # game/ep3/scene25b.rpy:108
 translate chinese ep3_s25b_de19ee5d_1:

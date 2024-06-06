@@ -112,7 +112,7 @@ translate chinese ep3_s21a_4b4bbac9:
 translate chinese ep3_s21a_35e02410:
 
     # no "Hey, everyone. This is Nora, head of the social committee."
-    no "大家好，这是诺拉。社会委员会主席。"
+    no "嘿，大家好。我是诺拉。社会委员会主席。"
 
 # game/ep3/scene21a.rpy:126
 translate chinese ep3_s21a_487830d7:
@@ -172,7 +172,7 @@ translate chinese ep3_s21a_9c435c44:
 translate chinese ep3_s21a_be0c1072:
 
     # "*Microphone thump*"
-    "* 麦克风砰砰作响 * "
+    "*麦克风砰砰作响*"
 
 # game/ep3/scene21a.rpy:169
 translate chinese ep3_s21a_2929cd2c:
@@ -224,5 +224,5 @@ translate chinese strings:
 
     # game/ep3/scene21a.rpy:72
     old "Tell Riley 'I told you so'"
-    new "告诉莱莉，我早就告诉过你"
+    new "告诉莱莉\"我早就告诉过你\""
 

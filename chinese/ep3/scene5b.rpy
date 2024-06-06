@@ -154,7 +154,7 @@ translate chinese ep3_s5b_interactive_chair_sex_393e658e:
 translate chinese ep3_s5b_interactive_chair_sex_fbe3ef25:
 
     # u "Whoa."
-    u "哇哦。"
+    u "哇噢。"
 
 # game/ep3/scene5b.rpy:318
 translate chinese ep3_s5b_interactive_chair_sex_fc530c5c:
@@ -238,7 +238,7 @@ translate chinese ep3_s5b_interactive_chair_sex_93b84fc3_1:
 translate chinese ep3_s5b_interactive_chair_sex_04a29c0c:
 
     # u "Fuck, Lindsey, you're so tight."
-    u "妈的，林赛，你太紧张了。"
+    u "妈的，林赛，你太紧了。"
 
 # game/ep3/scene5b.rpy:427
 translate chinese ep3_s5b_interactive_chair_sex_1b84ca16:

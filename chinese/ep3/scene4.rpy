@@ -82,7 +82,7 @@ translate chinese ep3_s4_7ffabc84:
 translate chinese ep3_s4_c62a9f92:
 
     # cl "I hear you can't even walk outside for ten minutes during the day. I mean, that just doesn't sound like a great place for a first date."
-    cl "我听说你得白天连十分钟都不能出门。我是说，那听起来不像是个初次约会的好地方。"
+    cl "我听说你们白天连出门十分钟都不行。我是说，那听起来不像是个初次约会的好地方。"
 
 # game/ep3/scene4.rpy:95
 translate chinese ep3_s4_efd2f7be:
@@ -172,7 +172,7 @@ translate chinese ep3_s4_6d37d39b:
 translate chinese ep3_s4_7b8dfac4:
 
     # cl "So get the fuck away from me and my man, and go try your pathetic pick-up attempts on someone else."
-    cl "所以离我和我男人远点去找别人搭讪吧。"
+    cl "所以离我和我男人远点去，找别人搭讪吧。"
 
 # game/ep3/scene4.rpy:164
 translate chinese ep3_s4_e39fa6f4:
@@ -244,7 +244,7 @@ translate chinese ep3_s4_08ac946c:
 translate chinese ep3_s4_0ede564f:
 
     # cl "Of course. I would never risk what we have."
-    cl "当然，我绝不会拿我们现在的关系冒险。"
+    cl "不客气。我绝不会拿我们现在的关系冒险。"
 
 # game/ep3/scene4.rpy:221
 translate chinese ep3_s4_80aa7b98:
@@ -316,7 +316,7 @@ translate chinese ep3_s4_7ffabc84_1:
 translate chinese ep3_s4_c62a9f92_1:
 
     # cl "I hear you can't even walk outside for ten minutes during the day. I mean, that just doesn't sound like a great place for a first date."
-    cl "我听说你得白天连十分钟都不能出门。我是说，那听起来不像是个初次约会的好地方。"
+    cl "我听说你们白天连出门十分钟都不行。我是说，那听起来不像是个初次约会的好地方。"
 
 # game/ep3/scene4.rpy:283
 translate chinese ep3_s4_efd2f7be_1:
@@ -364,7 +364,7 @@ translate chinese ep3_s4_017f0d4e_1:
 translate chinese ep3_s4_3877ee9c:
 
     # cl "Yes, that's exactly right. And I'll continue to talk to this dickweed while you walk away and leave us alone."
-    cl "是的，完全正确，我会继续和这个混蛋说话而你走开，离我们远点。"
+    cl "是的，完全正确。我会继续和这个混蛋说话而你，走开，离我们远点。"
 
 # game/ep3/scene4.rpy:323
 translate chinese ep3_s4_e5a34796:

@@ -94,7 +94,7 @@ translate chinese ep3_s23_beed3ff1:
 translate chinese ep3_s23_18751882:
 
     # gr "And you think to yourself, 'Hey, why don't I show this auditor that he's right about fighting being an issue?'"
-    gr "然后你会想，\"嘿，为什么我不让这个审计师看看，他说的没错，这是一个证据\"？"
+    gr "然后你会想，\"嘿，为什么我不让这个审计师看看，他说的没错，这就是一个证据\"？"
 
 # game/ep3/scene23.rpy:93
 translate chinese ep3_s23_e037d632:

@@ -34,7 +34,7 @@ translate chinese ep3_s1b_b07b2146:
 translate chinese ep3_s1b_664f9f7b:
 
     # ch "If I see him putting in more hours than you, it'll be him fighting, not you."
-    ch "如果我看到他比你投入更多的时间，那就是他在战斗，而不是你了。"
+    ch "如果我看到他比你投入更多的时间，那就是他去战斗，而不是你了。"
 
 # game/ep3/scene1b.rpy:60
 translate chinese ep3_s1b_a0d01e08:
@@ -46,7 +46,7 @@ translate chinese ep3_s1b_a0d01e08:
 translate chinese ep3_s1b_d56d279b:
 
     # ch "And even though you've won some scraps outside of the tournaments—"
-    ch "即使你在比赛之外赢了一些残羹冷炙"
+    ch "即使你在比赛之外赢了一些残羹冷炙……"
 
 # game/ep3/scene1b.rpy:68
 translate chinese ep3_s1b_3795886a:
@@ -70,7 +70,7 @@ translate chinese ep3_s1b_eac47c3e:
 translate chinese ep3_s1b_0d1ef9f2:
 
     # ch "Put in the time, or it'll be him fighting, not you."
-    ch "花点时间，不然就是他打，而不是你。"
+    ch "花点时间，不然就是他去打，而不是你。"
 
 # game/ep3/scene1b.rpy:86
 translate chinese ep3_s1b_5ca9b640:
@@ -124,7 +124,7 @@ translate chinese ep3_s1b_51dd368b:
 translate chinese ep3_s1b_bbb6632c:
 
     # u "How'd you know? Thought these things were supposed to be anonymous."
-    u "你怎么知道得？我以为这些东西都是匿名的。"
+    u "你怎么知道的？我以为这些东西都是匿名的。"
 
 # game/ep3/scene1b.rpy:139
 translate chinese ep3_s1b_bbc24d7d:

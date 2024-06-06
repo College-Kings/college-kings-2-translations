@@ -154,7 +154,7 @@ translate chinese ep3_s2b_2d44aac7:
 translate chinese ep3_s2b_93b77602:
 
     # u "Yeah, right."
-    u "好吧，好的。"
+    u "好的，好吧。"
 
 # game/ep3/scene2b.rpy:147
 translate chinese ep3_s2b_43a7cf87:

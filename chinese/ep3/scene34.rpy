@@ -220,7 +220,7 @@ translate chinese ep3_s34_35402538:
 translate chinese ep3_s34_abf51bac:
 
     # aut "Booo!"
-    aut "嘘！"
+    aut "嘣！"
 
 # game/ep3/scene34.rpy:219
 translate chinese ep3_s34_b520f5b8:

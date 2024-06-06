@@ -244,7 +244,7 @@ translate chinese ep3_s6_45173956:
 translate chinese ep3_s6_f0652bfe:
 
     # la "There's a lot to prepare, but I thought we could maybe see each other on Tuesday? That way, I get to kiss you goodbye."
-    la "有很多东西要准备但我想我们可以周二见面？这样，我就能和你吻别了。"
+    la "有很多东西要准备，但我想我们可以周二见个面？这样，我就能和你吻别了。"
 
 # game/ep3/scene6.rpy:231
 translate chinese ep3_s6_a1071291:

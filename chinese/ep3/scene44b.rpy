@@ -10,7 +10,7 @@ translate chinese ep3_s44b_4f1997c1:
 translate chinese ep3_s44b_5a7bb58e:
 
     # u "*Yawns* (Who the hell is this?)"
-    u "*打哈欠* (这到底是谁？)"
+    u "*打哈欠* (到底是谁？)"
 
 # game/ep3/scene44b.rpy:41
 translate chinese ep3_s44b_14d0170e:
@@ -58,7 +58,7 @@ translate chinese ep3_s44b_2d01ac78:
 translate chinese ep3_s44b_ea2497dc:
 
     # jo "Here, you can have it."
-    jo "给你。"
+    jo "给你，拿着。"
 
 # game/ep3/scene44b.rpy:103
 translate chinese ep3_s44b_5208aefd:

@@ -52,7 +52,7 @@ translate chinese ep3_s32d_35115865:
 translate chinese ep3_s32d_a1cab00a:
 
     # u "Oh, Chloe, suck that cock, you stupid slut."
-    u "噢，克洛伊，吸这个鸡巴，你这个蠢婊子。"
+    u "噢，克洛伊，吸这个鸡巴，你这个小贱人。"
 
 # game/ep3/scene32d.rpy:90
 translate chinese ep3_s32d_3679733c:
@@ -64,13 +64,13 @@ translate chinese ep3_s32d_3679733c:
 translate chinese ep3_s32d_9c5de570:
 
     # u "Um... a stupid slut?"
-    u "额……蠢婊子？"
+    u "额……小贱人？"
 
 # game/ep3/scene32d.rpy:100
 translate chinese ep3_s32d_c68c17c3:
 
     # cl "Yeah that's fucking right. I'm your stupid little slut."
-    cl "没错，我就是你的小贱人。"
+    cl "是的，太他妈对了。我就是你的小贱人。"
 
 # game/ep3/scene32d.rpy:102
 translate chinese ep3_s32d_3051e66e:
@@ -94,7 +94,7 @@ translate chinese ep3_s32d_3e66106e:
 translate chinese ep3_s32d_3b4c7722:
 
     # u "(Nah, I am not trusting that idiot. He's always had it out for me)"
-    u "(不，我不相信那个白痴，他总是针对我。)"
+    u "(不，我不相信那个白痴。他总是针对我。)"
 
 # game/ep3/scene32d.rpy:114
 translate chinese ep3_s32d_bc99d83b:
@@ -148,7 +148,7 @@ translate chinese ep3_s32d_6770ca2a:
 translate chinese ep3_s32d_15b2459b:
 
     # cl "Then he can fuck off. I wanna feel your tongue."
-    cl "然后他就可以滚了。我想尝尝你的舌头。"
+    cl "然后他就可以滚了。我想试试你的舌头。"
 
 # game/ep3/scene32d.rpy:164
 translate chinese ep3_s32d_3c17e561:
